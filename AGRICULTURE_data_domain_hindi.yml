@@ -1,0 +1,759 @@
+intents:
+  - Services_provided_by_Agriculture_Department_ur
+  - Application_For_License_Of_Fertilizers__Retailer__By_Agriculture_Department_ur
+  - Document_to_be_uploaded_for_Application_For_License_Of_Fertilizers__Retailer_ur
+  - Format_and_Size_of_documents_to_be_uploaded_for_Application_For_License_Of_Fertilizers__Retailer_ur
+  - Official_Charges___fees_for_Application_For_License_Of_Fertilizers__Retailer_ur
+  - Payment_Procedure___options_for_Application_For_License_Of_Fertilizers__Retailer_ur
+  - Timeline_for_delivery_of_Application_For_License_Of_Fertilizers__Retailer_ur
+  - Official_responsible_for_delivery_of_Application_For_License_Of_Fertilizers__Retailer_ur
+  - First_appellate_authority_for_Registration_in_Application_For_License_Of_Fertilizers__Retailer_ur
+  - Application_For_License_Of_Fertilizers__Wholesale__By_Agriculture_Department_ur
+  - Document_to_be_uploaded_for_Application_For_License_Of_Fertilizers__Wholesale_ur
+  - Format_and_Size_of_documents_to_be_uploaded_for_Application_For_License_Of_Fertilizers__Wholesale_ur
+  - Official_Charges___fees_for_Application_For_License_Of_Fertilizers__Wholesale_ur
+  - Payment_Procedure___options_for_Application_For_License_Of_Fertilizers__Wholesale_ur
+  - Timeline_for_delivery_of_Application_For_License_Of_Fertilizers__Wholesale_ur
+  - Official_responsible_for_delivery_of_Application_For_License_Of_Fertilizers__Wholesale_ur
+  - First_appellate_authority_for_Registration_in_Application_For_License_Of_Fertilizers__Wholesale_ur
+  - Application_For_Renewal_for_Fertilizers__Retail__By_Agriculture_Department_ur
+  - Document_to_be_uploaded_for_Application_For_Renewal_for_Fertilizers__Retail_ur
+  - Format_and_Size_of_documents_to_be_uploaded_for_Application_For_Renewal_for_Fertilizers__Retail_ur
+  - Official_Charges___fees_for_Application_For_Renewal_for_Fertilizers__Retail_ur
+  - Payment_Procedure___options_for_Application_For_Renewal_for_Fertilizers__Retail_ur
+  - Timeline_for_delivery_of_Application_For_Renewal_for_Fertilizers__Retail_ur
+  - Official_responsible_for_delivery_of_Application_For_Renewal_for_Fertilizers__Retail_ur
+  - First_appellate_authority_for_Registration_in_Application_For_Renewal_for_Fertilizers__Retail_ur
+  - Application_For_Renewal_for_Fertilizers__Wholesale__By_Agriculture_Department_ur
+  - Document_to_be_uploaded_for_Application_For_Renewal_for_Fertilizers__Wholesale_ur
+  - Format_and_Size_of_documents_to_be_uploaded_for_Application_For_Renewal_for_Fertilizers__Wholesale_ur
+  - Official_Charges___fees_for_Application_For_Renewal_for_Fertilizers__Wholesale_ur
+  - Payment_Procedure___options_for_Application_For_Renewal_for_Fertilizers__Wholesale_ur
+  - Timeline_for_delivery_of_Application_For_Renewal_for_Fertilizers__Wholesale_ur
+  - Official_responsible_for_delivery_of_Application_For_Renewal_for_Fertilizers__Wholesale_ur
+  - First_appellate_authority_for_Registration_in_Application_For_Renewal_for_Fertilizers__Wholesale_ur
+  - Application_for_registration_for_Sale_permission__Manufacture_Importer_Marketers_ur
+  - Document_to_be_uploaded_for_Application_for_registration_for_Sale_permission__Manufacture_Importer_Marketers_ur
+  - Format_and_Size_of_documents_to_be_uploaded_for_Application_for_registration_for_Sale_permission_ur
+  - Official_Charges___fees_for_Application_for_registration_for_Sale_permission__Manufacture_Importer_Marketers_ur
+  - Payment_Procedure___options_for_Application_for_registration_for_Sale_permission__Manufacture_Importer_Marketers_ur
+  - Timeline_for_delivery_of_Application_for_registration_for_Sale_permission__Manufacture_Importer_Marketers_ur
+  - Official_responsible_for_delivery_of_Application_for_registration_for_Sale_permission__Manufacture_Importer_Marketers_ur
+  - First_appellate_authority_for_Registration_in_Application_for_registration_for_Sale_permission_ur
+  - Application_for_renewal_for_Sale_permission__Manufacture_Importer_Marketers_ur
+  - Document_to_be_uploaded_for_Application_for_renewal_for_Sale_permission__Manufacture_Importer_Marketers_ur
+  - Format_and_Size_of_documents_to_be_uploaded_for_Application_for_renewal_for_Sale_permission_ur
+  - Official_Charges___fees_for_Application_for_renewal_for_Sale_permission__Manufacture_Importer_Marketers_ur
+  - Payment_Procedure___options_for_Application_for_renewal_for_Sale_permission__Manufacture_Importer_Marketers_ur
+  - Timeline_for_delivery_of_Application_for_renewal_for_Sale_permission__Manufacture_Importer_Marketers_ur
+  - Official_responsible_for_delivery_of_Application_for_renewal_for_Sale_permission__Manufacture_Importer_Marketers_ur
+  - First_appellate_authority_for_Registration_in_Application_for_renewal_for_Sale_permission_ur
+  - Application_For_License_Of_Seed__wholesale_ur
+  - Document_to_be_uploaded_for_Application_For_License_Of_Seed__wholesale_ur
+  - Format_and_Size_of_documents_to_be_uploaded_for_Application_For_License_Of_Seed__Wholesale_ur
+  - Official_Charges___fees_for_Application_For_License_Of_Seed__Wholesale_ur
+  - Payment_Procedure___options_for_Application_For_License_Of_Seed__Wholesale_ur
+  - Timeline_for_delivery_of_Application_For_License_Of_Seed__Wholesale_ur
+  - Official_responsible_for_delivery_of_Application_For_License_Of_Seed__Wholesale_ur
+  - First_appellate_authority_for_Registration_in_Application_For_License_Of_Seed__Wholesale_ur
+  - Application_For_License_Of_Seed__retail_ur
+  - Document_to_be_uploaded_for_Application_For_License_Of_Seed__retail_ur
+  - Application_For_Renewal_for_Seed__retailer_ur
+  - Document_to_be_uploaded_for_Application_For_Renewal_for_Seed__retailer_ur
+  - Format_and_Size_of_documents_to_be_uploaded_for_Application_For_Renewal_for_Seed__Wholesale_ur
+  - Official_Charges___fees_for_Application_For_Renewal_for_Seed__Wholesale_ur
+  - Payment_Procedure___options_for_Application_For_Renewal_for_Seed__Wholesale_ur
+  - Timeline_for_delivery_of_Application_For_Renewal_for_Seed__Wholesale_ur
+  - Official_responsible_for_delivery_of_Application_For_Renewal_for_Seed__Wholesale_ur
+  - First_appellate_authority_for_Registration_in_Application_For_Renewal_for_Seed__Wholesale_ur
+  - Application_For_Renewal_for_Seed__wholesale_ur
+  - Document_to_be_uploaded_for_Application_For_Renewal_for_Seed__wholesale_ur
+  - Application_For_Grant_of_license_to_sell_or_stock_exhibit_for_sale_or_distribute_insecticide_ur
+  - Document_to_be_uploaded_for_Application_for_Grant_of_license_to_sell_or_stock_exhibit_for_sale_or_distribute_insecticide_ur
+  - Format_and_Size_of_documents_to_be_uploaded_for_Grant_of_license_to_sell_or_stock_exhibit_for_sale_of_insecticide_ur
+  - Official_Charges___fees_for_Application_Renewal_for_Grant_of_license_to_sell_or_stock_exhibit_for_sale_of_insecticide_ur
+  - Payment_Procedure___options_for_Application_For_Grant_of_license_to_sell_or_stock_exhibit_for_sale_of_insecticide_ur
+  - Timeline_for_delivery_of_Application_For_Grant_of_license_to_sell_or_stock_exhibit_for_sale_or_distribute_insecticide_ur
+  - Official_responsible_for_delivery_of_Application_For_Grant_of_license_to_sell_or_stock_exhibit_for_sale_insecticide_ur
+  - First_appellate_authority_for_Grant_of_license_to_sell_or_stock_exhibit_for_sale_or_distribute_insecticide_ur
+  - Application_For_Grant_of_License_to_stock_and_use_insecticide_ur
+  - Document_to_be_uploaded_for_Grant_of_License_to_stock_and_use_insecticide_ur
+  - Format_and_Size_of_documents_to_be_uploaded_for_Grant_of_License_to_stock_and_use_insecticide_ur
+  - Official_Charges___fees_for_Application_Renewal_for_Grant_of_License_to_stock_and_use_insecticide_ur
+  - Payment_Procedure___options_for_Application_For_Grant_of_License_to_stock_and_use_insecticide_ur
+  - Timeline_for_delivery_of_Application_For_Grant_of_License_to_stock_and_use_insecticide_ur
+  - Official_responsible_for_delivery_of_Application_For_Grant_of_License_to_stock_and_use_insecticide_ur
+  - First_appellate_authority_for_Grant_of_License_to_stock_and_use_insecticide_ur
+  - Application_For_Renewal_of_Grant_of_License_to_stock_and_use_insecticide_ur
+  - Document_to_be_uploaded_for_Renewal_of_Grant_of_License_to_stock_and_use_insecticide_ur
+  - Format_and_Size_of_documents_to_be_uploaded_for_Renewal_of_Grant_of_License_to_stock_and_use_insecticide_ur
+  - Official_Charges___fees_for_Application_Renewal_for_Renewal_of_Grant_of_License_to_stock_and_use_insecticide_ur
+  - Payment_Procedure___options_for_Application_For_Renewal_of_Grant_of_License_to_stock_and_use_insecticide_ur
+  - Timeline_for_delivery_of_Application_For_Renewal_of_Grant_of_License_to_stock_and_use_insecticide_ur
+  - Official_responsible_for_delivery_of_Application_For_Renewal_of_Grant_of_License_to_stock_and_use_insecticide_ur
+  - First_appellate_authority_for_Renewal_of_Grant_of_License_to_stock_and_use_insecticide_ur
+  - Application_For_Registration_for_grant_of_manufacturing_of_Insecticide_ur
+  - Document_to_be_uploaded_for_Registration_for_grant_of_manufacturing_of_Insecticide_ur
+  - Format_and_Size_of_documents_to_be_uploaded_for_Registration_for_grant_of_manufacturing_of_Insecticide_ur
+  - Official_Charges___fees_for_Application_Renewal_for_Registration_for_grant_of_manufacturing_of_Insecticide_ur
+  - Payment_Procedure___options_for_Application_For_Registration_for_grant_of_manufacturing_of_Insecticide_ur
+  - Timeline_for_delivery_of_Application_For_Registration_for_grant_of_manufacturing_of_Insecticide_ur
+  - Official_responsible_for_delivery_of_Application_For_Registration_for_grant_of_manufacturing_of_Insecticide_ur
+  - First_appellate_authority_for_Registration_for_grant_of_manufacturing_of_Insecticide_ur
+  - Application_For_Registration_for_grant_of_Marketing_License_Insecticide_ur
+  - Document_to_be_uploaded_for_Registration_for_grant_of_Marketing_License_Insecticide_ur
+  - Format_and_Size_of_documents_to_be_uploaded_for_Registration_for_grant_of_Marketing_License_Insecticide_ur
+  - Official_Charges___fees_for_Application_Renewal_for_Registration_for_grant_of_Marketing_License_Insecticide_ur
+  - Payment_Procedure___options_for_Application_For_Registration_for_grant_of_Marketing_License_Insecticide_ur
+  - Timeline_for_delivery_of_Application_For_Registration_for_grant_of_Marketing_License_Insecticide_ur
+  - Official_responsible_for_delivery_of_Application_For_Registration_for_grant_of_Marketing_License_Insecticide_ur
+  - First_appellate_authority_for_Registration_for_grant_of_Marketing_License_Insecticide_ur
+  - Application_For_Registration_for_Micro_Nutrients_Bio_Fertilizers_ur
+  - Document_to_be_uploaded_for_Registration_for_Micro_Nutrients_Bio_Fertilizers_ur
+  - Format_and_Size_of_documents_to_be_uploaded_for_Registration_for_Micro_Nutrients_Bio_Fertilizers_ur
+  - Official_Charges___fees_for_Application_Renewal_for_Registration_for_Micro_Nutrients_Bio_Fertilizers_ur
+  - Payment_Procedure___options_for_Application_For_Registration_for_Micro_Nutrients_Bio_Fertilizers_ur
+  - Timeline_for_delivery_of_Application_For_Registration_for_Micro_Nutrients_Bio_Fertilizers_ur
+  - Official_responsible_for_delivery_of_Application_For_Registration_for_Micro_Nutrients_Bio_Fertilizers_ur
+  - First_appellate_authority_for_Registration_for_Micro_Nutrients_Bio_Fertilizers_ur
+  - Application_For_Renewal_for_Micro_Nutrients_Bio_Fertilizers_ur
+  - Document_to_be_uploaded_for_Renewal_for_Micro_Nutrients_Bio_Fertilizers_ur
+  - Format_and_Size_of_documents_to_be_uploaded_for_Renewal_for_Micro_Nutrients_Bio_Fertilizers_ur
+  - Official_Charges___fees_for_Application_Renewal_for_Renewa_for_Micro_Nutrients_Bio_Fertilizers_ur
+  - Payment_Procedure___options_for_Application_For_Renewa_for_Micro_Nutrients_Bio_Fertilizers_ur
+  - Timeline_for_delivery_of_Application_For_Renewa_for_Micro_Nutrients_Bio_Fertilizers_ur
+  - Official_responsible_for_delivery_of_Application_For_Renewa_for_Micro_Nutrients_Bio_Fertilizers_ur
+  - First_appellate_authority_for_Renewa_for_Micro_Nutrients_Bio_Fertilizers_ur
+  - Application_For_Inclusion_of_Product_in_Fertilizer_Retail_License_ur
+  - Document_to_be_uploaded_for_Inclusion_of_Product_in_Fertilizer_Retail_License_ur
+  - Format_and_Size_of_documents_to_be_uploaded_for_Inclusion_of_Product_in_Fertilizer_Retail_License_ur
+  - Official_Charges___fees_for_Application_Inclusion_of_Product_in_Fertilizer_Retail_License_ur
+  - Payment_Procedure___options_for_Application_For_Inclusion_of_Product_in_Fertilizer_Retail_License_ur
+  - Timeline_for_delivery_of_Application_For_Inclusion_of_Product_in_Fertilizer_Retail_License_ur
+  - Official_responsible_for_delivery_of_Application_For_Inclusion_of_Product_in_Fertilizer_Retail_License_ur
+  - First_appellate_authority_for_Inclusion_of_Product_in_Fertilizer_Retail_License_ur
+  - Application_For_Inclusion_of_Product_in_Fertilizer_Wholesale_License_ur
+  - Document_to_be_uploaded_for_Inclusion_of_Product_in_Fertilizer_Wholesale_License_ur
+  - Format_and_Size_of_documents_to_be_uploaded_for_Inclusion_of_Product_in_Fertilizer_Wholesale_License_ur
+  - Official_Charges___fees_for_Application_Inclusion_of_Product_in_Fertilizer_Wholesale_License_ur
+  - Payment_Procedure___options_for_Application_For_Inclusion_of_Product_in_Fertilizer_Wholesale_License_ur
+  - Timeline_for_delivery_of_Application_For_Inclusion_of_Product_in_Fertilizer_Wholesale_License_ur
+  - Official_responsible_for_delivery_of_Application_For_Inclusion_of_Product_in_Fertilizer_Wholesale_License_ur
+  - First_appellate_authority_for_Inclusion_of_Product_in_Fertilizer_Wholesale_License_ur
+  - Application_For_Inclusion_of_Product_in_Seed_Wholesale_License_ur
+  - Document_to_be_uploaded_for_Inclusion_of_Product_in_Seed_Wholesale_License_ur
+  - Format_and_Size_of_documents_to_be_uploaded_for_Inclusion_of_Product_in_Seed_Wholesale_License_ur
+  - Official_Charges___fees_for_Application_Inclusion_of_Product_in_Seed_Wholesale_License_ur
+  - Payment_Procedure___options_for_Application_For_Inclusion_of_Product_in_Seed_Wholesale_License_ur
+  - Timeline_for_delivery_of_Application_For_Inclusion_of_Product_in_Seed_Wholesale_License_ur
+  - Official_responsible_for_delivery_of_Application_For_Inclusion_of_Product_in_Seed_Wholesale_License_ur
+  - First_appellate_authority_for_Inclusion_of_Product_in_Seed_Wholesale_License_ur
+  - Application_For_Inclusion_of_Product_in_Seed_Retail_License_ur
+  - Document_to_be_uploaded_for_Inclusion_of_Product_in_Seed_Retail_License_ur
+  - Format_and_Size_of_documents_to_be_uploaded_for_Inclusion_of_Product_in_Seed_Retail_License_ur
+  - Official_Charges___fees_for_Application_Inclusion_of_Product_in_Seed_Retail_License_ur
+  - Payment_Procedure___options_for_Application_For_Inclusion_of_Product_in_Seed_Retail_License_ur
+  - Timeline_for_delivery_of_Application_For_Inclusion_of_Product_in_Seed_Retail_License_ur
+  - Official_responsible_for_delivery_of_Application_For_Inclusion_of_Product_in_Seed_Retail_License_ur
+  - First_appellate_authority_for_Inclusion_of_Product_in_Seed_Retail_License_ur
+  - Application_For_Inclusion_of_Product_in_Sell_or_Stock_Exhibit_for_sale_or_distribute_Insecticide_ur
+  - Document_to_be_uploaded_for_Inclusion_of_Product_in_Sell_or_Stock_Exhibit_for_sale_or_distribute_Insecticide_ur
+  - Format_and_Size_of_docs_to_be_uploaded_for_Inclusion_of_Product_in_Sell_or_Stock_Exhibit_for_sale_of_Insecticide_ur
+  - Official_Charges___fees_for_Application_Inclusion_of_Product_in_Sell_or_Stock_Exhibit_for_sale_or_distribute_Insecticide_ur
+  - Payment_Procedure___options_for_Application_For_Inclusion_of_Product_in_Sell_or_Stock_Exhibit_for_sale_of_Insecticide_ur
+  - Timeline_for_delivery_of_Inclusion_of_Product_in_Sell_or_Stock_Exhibit_for_sale_or_distribute_Insecticide_ur
+  - Official_responsible_for_delivery_of_Inclusion_of_Product_in_Sell_or_Stock_Exhibit_for_sale_or_distribute_Insecticide_ur
+  - First_appellate_authority_for_Inclusion_of_Product_in_Sell_or_Stock_Exhibit_for_sale_or_distribute_Insecticide_ur
+  - Application_For_Inclusion_in_License_to_stock_and_use_insecticide_for_Commercial_Pest_Control_Operation_ur
+  - Document_to_be_uploaded_for_Inclusion_in_License_to_stock_and_use_insecticide_ur
+  - Format_and_Size_of_documents_to_be_uploaded_for_Inclusion_in_License_to_stock_and_use_insecticide_ur
+  - Official_Charges___fees_for_Application_Inclusion_in_License_to_stock_and_use_insecticide_ur
+  - Payment_Procedure___options_for_Application_For_Inclusion_in_License_to_stock_and_use_insecticide_ur
+  - Timeline_for_delivery_of_Application_For_Inclusion_in_License_to_stock_and_use_insecticide_ur
+  - Official_responsible_for_delivery_of_Application_For_Inclusion_in_License_to_stock_and_use_insecticide_ur
+  - First_appellate_authority_for_Inclusion_in_License_to_stock_and_use_insecticide_ur
+  - Application_For_Inclusion_of_Product_in_Manufacturing_of_Insecticide_ur
+  - Document_to_be_uploaded_for_Inclusion_of_Product_in_Manufacturing_of_Insecticide_ur
+  - Format_and_Size_of_documents_to_be_uploaded_for_Inclusion_of_Product_in_Manufacturing_of_Insecticide_ur
+  - Official_Charges___fees_for_Application_Inclusion_of_Product_in_Manufacturing_of_Insecticide_ur
+  - Payment_Procedure___options_for_Application_For_Inclusion_of_Product_in_Manufacturing_of_Insecticide_ur
+  - Timeline_for_delivery_of_Application_For_Inclusion_of_Product_in_Manufacturing_of_Insecticide_ur
+  - Official_responsible_for_delivery_of_Application_For_Inclusion_of_Product_in_Manufacturing_of_Insecticide_ur
+  - First_appellate_authority_for_Inclusion_of_Product_in_Manufacturing_of_Insecticide_ur
+  - Application_For_Inclusion_of_Product_in_Manufacturing_of_Micronutrient_Biofertilizer_ur
+  - Document_to_be_uploaded_for_Inclusion_of_Product_in_Manufacturing_of_Micronutrient_Biofertilizer_ur
+  - Format_and_Size_of_documents_to_be_uploaded_for_Inclusion_of_Product_in_Manufacturing_of_Micronutrient_Biofertilizer_ur
+  - Official_Charges___fees_for_Application_Inclusion_of_Product_in_Manufacturing_of_Micronutrient_Biofertilizer_ur
+  - Payment_Procedure___options_for_Application_For_Inclusion_of_Product_in_Manufacturing_of_Micronutrient_Biofertilizer_ur
+  - Timeline_for_delivery_of_Application_For_Inclusion_of_Product_in_Manufacturing_of_Micronutrient_Biofertilizer_ur
+  - Official_responsible_for_del__of_Application_For_Inclusion_of_Product_in_Manufacturing_of_Micronutrient_Biofertilizer_ur
+  - First_appellate_authority_for_Inclusion_of_Product_in_Manufacturing_of_Micronutrient_Biofertilizer_ur
+
+responses:
+  utter_Services_provided_by_Agriculture_Department_ur:
+    - text: |
+        1. उर्वरकों के लाइसेंस के लिए अनुप्रयोग (खुदरा)
+  utter_Application_For_License_Of_Fertilizers__Retailer__By_Agriculture_Department_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Application_For_License_Of_Fertilizers__Retailer_ur:
+    - text: |
+        1. योग्यता प्रमाणपत्र
+  utter_Format_and_Size_of_documents_to_be_uploaded_for_Application_For_License_Of_Fertilizers__Retailer_ur:
+    - text: |
+        जेपीजी प्रारूप में पीडीएफ और फोटो, 10KB-500KB
+  utter_Official_Charges___fees_for_Application_For_License_Of_Fertilizers__Retailer_ur:
+    - text: |
+        1500 रुपये
+  utter_Payment_Procedure___options_for_Application_For_License_Of_Fertilizers__Retailer_ur:
+    - text: |
+        ऑनलाइन NetBanking और BillDesk JKGRAS का उपयोग करके
+  utter_Timeline_for_delivery_of_Application_For_License_Of_Fertilizers__Retailer_ur:
+    - text: |
+        15 दिन
+  utter_Official_responsible_for_delivery_of_Application_For_License_Of_Fertilizers__Retailer_ur:
+    - text: |
+        संबंधित जिले के मुख्य कृषि अधिकारी
+  utter_First_appellate_authority_for_Registration_in_Application_For_License_Of_Fertilizers__Retailer_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_Application_For_License_Of_Fertilizers__Wholesale__By_Agriculture_Department_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Application_For_License_Of_Fertilizers__Wholesale_ur:
+    - text: |
+        1. योग्यता प्रमाण पत्र। FCO 1985 की गैर-आवाज के लिए 2.Affidavit (100/-)
+  utter_Format_and_Size_of_documents_to_be_uploaded_for_Application_For_License_Of_Fertilizers__Wholesale_ur:
+    - text: |
+        जेपीजी प्रारूप में पीडीएफ और फोटो, 10KB-500KB
+  utter_Official_Charges___fees_for_Application_For_License_Of_Fertilizers__Wholesale_ur:
+    - text: |
+        5000 रुपये
+  utter_Payment_Procedure___options_for_Application_For_License_Of_Fertilizers__Wholesale_ur:
+    - text: |
+        ऑनलाइन NetBanking और BillDesk JKGRAS का उपयोग करके
+  utter_Timeline_for_delivery_of_Application_For_License_Of_Fertilizers__Wholesale_ur:
+    - text: |
+        15 दिन
+  utter_Official_responsible_for_delivery_of_Application_For_License_Of_Fertilizers__Wholesale_ur:
+    - text: |
+        संयुक्त निदेशक कृषि (विस्तार) जम्मू/कश्मीर
+  utter_First_appellate_authority_for_Registration_in_Application_For_License_Of_Fertilizers__Wholesale_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_Application_For_Renewal_for_Fertilizers__Retail__By_Agriculture_Department_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Application_For_Renewal_for_Fertilizers__Retail_ur:
+    - text: |
+        लाइसेंस / पंजीकरण की 1 प्रति के लिए नवीनीकृत
+  utter_Format_and_Size_of_documents_to_be_uploaded_for_Application_For_Renewal_for_Fertilizers__Retail_ur:
+    - text: |
+        जेपीजी प्रारूप में पीडीएफ और फोटो, 10KB-500KB
+  utter_Official_Charges___fees_for_Application_For_Renewal_for_Fertilizers__Retail_ur:
+    - text: |
+        1500 रुपये
+  utter_Payment_Procedure___options_for_Application_For_Renewal_for_Fertilizers__Retail_ur:
+    - text: |
+        ऑनलाइन NetBanking और BillDesk JKGRAS का उपयोग करके
+  utter_Timeline_for_delivery_of_Application_For_Renewal_for_Fertilizers__Retail_ur:
+    - text: |
+        15 दिन
+  utter_Official_responsible_for_delivery_of_Application_For_Renewal_for_Fertilizers__Retail_ur:
+    - text: |
+        संबंधित जिले के मुख्य कृषि अधिकारी
+  utter_First_appellate_authority_for_Registration_in_Application_For_Renewal_for_Fertilizers__Retail_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_Application_For_Renewal_for_Fertilizers__Wholesale__By_Agriculture_Department_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Application_For_Renewal_for_Fertilizers__Wholesale_ur:
+    - text: |
+        लाइसेंस / पंजीकरण की 1 प्रति के लिए नवीनीकृत
+  utter_Format_and_Size_of_documents_to_be_uploaded_for_Application_For_Renewal_for_Fertilizers__Wholesale_ur:
+    - text: |
+        जेपीजी प्रारूप में पीडीएफ और फोटो, 10KB-500KB
+  utter_Official_Charges___fees_for_Application_For_Renewal_for_Fertilizers__Wholesale_ur:
+    - text: |
+        5000 रुपये
+  utter_Payment_Procedure___options_for_Application_For_Renewal_for_Fertilizers__Wholesale_ur:
+    - text: |
+        ऑनलाइन NetBanking और BillDesk JKGRAS का उपयोग करके
+  utter_Timeline_for_delivery_of_Application_For_Renewal_for_Fertilizers__Wholesale_ur:
+    - text: |
+        15 दिन
+  utter_Official_responsible_for_delivery_of_Application_For_Renewal_for_Fertilizers__Wholesale_ur:
+    - text: |
+        संयुक्त निदेशक कृषि (विस्तार) जम्मू/कश्मीर
+  utter_First_appellate_authority_for_Registration_in_Application_For_Renewal_for_Fertilizers__Wholesale_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_Application_for_registration_for_Sale_permission__Manufacture_Importer_Marketers_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Application_for_registration_for_Sale_permission__Manufacture_Importer_Marketers_ur:
+    - text: |
+        दस्तावेजों की सूची के लिए विभाग की वेबसाइट देखें
+  utter_Format_and_Size_of_documents_to_be_uploaded_for_Application_for_registration_for_Sale_permission_ur:
+    - text: |
+        जेपीजी प्रारूप में पीडीएफ और फोटो, 10KB-500KB
+  utter_Official_Charges___fees_for_Application_for_registration_for_Sale_permission__Manufacture_Importer_Marketers_ur:
+    - text: |
+        5000 रुपये
+  utter_Payment_Procedure___options_for_Application_for_registration_for_Sale_permission__Manufacture_Importer_Marketers_ur:
+    - text: |
+        ऑनलाइन NetBanking और BillDesk JKGRAS का उपयोग करके
+  utter_Timeline_for_delivery_of_Application_for_registration_for_Sale_permission__Manufacture_Importer_Marketers_ur:
+    - text: |
+        15 दिन
+  utter_Official_responsible_for_delivery_of_Application_for_registration_for_Sale_permission__Manufacture_Importer_Marketers_ur:
+    - text: |
+        संयुक्त निदेशक कृषि (विस्तार) जम्मू/कश्मीर
+  utter_First_appellate_authority_for_Registration_in_Application_for_registration_for_Sale_permission_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_Application_for_renewal_for_Sale_permission__Manufacture_Importer_Marketers_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Application_for_renewal_for_Sale_permission__Manufacture_Importer_Marketers_ur:
+    - text: |
+        एक। पूर्ववर्ती की बिक्री रिपोर्ट (3 वर्ष/ 5 वर्ष)
+  utter_Format_and_Size_of_documents_to_be_uploaded_for_Application_for_renewal_for_Sale_permission_ur:
+    - text: |
+        जेपीजी प्रारूप में पीडीएफ और फोटो, 10KB-500KB
+  utter_Official_Charges___fees_for_Application_for_renewal_for_Sale_permission__Manufacture_Importer_Marketers_ur:
+    - text: |
+        5000 रुपये
+  utter_Payment_Procedure___options_for_Application_for_renewal_for_Sale_permission__Manufacture_Importer_Marketers_ur:
+    - text: |
+        ऑनलाइन NetBanking और BillDesk JKGRAS का उपयोग करके
+  utter_Timeline_for_delivery_of_Application_for_renewal_for_Sale_permission__Manufacture_Importer_Marketers_ur:
+    - text: |
+        15 दिन
+  utter_Official_responsible_for_delivery_of_Application_for_renewal_for_Sale_permission__Manufacture_Importer_Marketers_ur:
+    - text: |
+        संयुक्त निदेशक कृषि (विस्तार) जम्मू/कश्मीर
+  utter_First_appellate_authority_for_Registration_in_Application_for_renewal_for_Sale_permission_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_Application_For_License_Of_Seed__wholesale_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Application_For_License_Of_Seed__wholesale_ur:
+    - text: |
+        योग्यता प्रमाण पत्र, हलफनामा (100 रुपये), आपूर्ति का स्रोत, दुकान के नक्शे के साथ साइट योजना/गोदाम, पैन, आधार कार्ड।, बैंक बैलेंस स्टेटमेंट (रुपये 50000/- क्रेडिट में न्यूनतम संतुलन), विज्ञापन/पेपर कटिंग, सार्वजनिक से कोई आपत्ति नहीं मांगने के लिए अखबार की कटिंग की प्रतिलिपि।, किराया समझौता (IST वर्ग मजिस्ट्रेट)/स्वामित्व दस्तावेज, बेरोजगार प्रमाण पत्र (संबंधित तहसीलदार), पासपोर्ट तस्वीरें, अधिवास, जीएसटी प्रमाणपत्र
+  utter_Format_and_Size_of_documents_to_be_uploaded_for_Application_For_License_Of_Seed__Wholesale_ur:
+    - text: |
+        जेपीजी प्रारूप में पीडीएफ और फोटो, 10KB-500KB
+  utter_Official_Charges___fees_for_Application_For_License_Of_Seed__Wholesale_ur:
+    - text: |
+        1000 रुपये
+  utter_Payment_Procedure___options_for_Application_For_License_Of_Seed__Wholesale_ur:
+    - text: |
+        ऑनलाइन NetBanking और BillDesk JKGRAS का उपयोग करके
+  utter_Timeline_for_delivery_of_Application_For_License_Of_Seed__Wholesale_ur:
+    - text: |
+        15 दिन
+  utter_Official_responsible_for_delivery_of_Application_For_License_Of_Seed__Wholesale_ur:
+    - text: |
+        संबंधित जिले के मुख्य कृषि अधिकारी
+  utter_First_appellate_authority_for_Registration_in_Application_For_License_Of_Seed__Wholesale_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_Application_For_License_Of_Seed__retail_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Application_For_License_Of_Seed__retail_ur:
+    - text: |
+        योग्यता प्रमाण पत्र, हलफनामा (10 रुपये), आपूर्ति का स्रोत, दुकान के नक्शे के साथ साइट योजना/गोदाम, पैन, आधार कार्ड।, बैंक बैलेंस स्टेटमेंट (रुपये 50000/- क्रेडिट में न्यूनतम संतुलन), विज्ञापन/पेपर कटिंग, सार्वजनिक से कोई आपत्ति नहीं मांगने के लिए अखबार की कटिंग की प्रतिलिपि।, किराया समझौता /स्वामित्व दस्तावेज, बेरोजगार प्रमाण पत्र (संबंधित तहसीलदार), पासपोर्ट तस्वीरें, अधिवास
+  utter_Application_For_Renewal_for_Seed__retailer_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Application_For_Renewal_for_Seed__retailer_ur:
+    - text: |
+        1 के लिए लाइसेंस / पंजीकरण के लिए नवीनीकरण
+  utter_Format_and_Size_of_documents_to_be_uploaded_for_Application_For_Renewal_for_Seed__Wholesale_ur:
+    - text: |
+        जेपीजी प्रारूप में पीडीएफ और फोटो, 10KB-500KB
+  utter_Official_Charges___fees_for_Application_For_Renewal_for_Seed__Wholesale_ur:
+    - text: |
+        1500 रुपये
+  utter_Payment_Procedure___options_for_Application_For_Renewal_for_Seed__Wholesale_ur:
+    - text: |
+        ऑनलाइन NetBanking और BillDesk JKGRAS का उपयोग करके
+  utter_Timeline_for_delivery_of_Application_For_Renewal_for_Seed__Wholesale_ur:
+    - text: |
+        15 दिन
+  utter_Official_responsible_for_delivery_of_Application_For_Renewal_for_Seed__Wholesale_ur:
+    - text: |
+        संयुक्त निदेशक कृषि (विस्तार) जम्मू/कश्मीर
+  utter_First_appellate_authority_for_Registration_in_Application_For_Renewal_for_Seed__Wholesale_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_Application_For_Renewal_for_Seed__wholesale_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Application_For_Renewal_for_Seed__wholesale_ur:
+    - text: |
+        1 के लिए लाइसेंस / पंजीकरण के लिए नवीनीकरण
+  utter_Application_For_Grant_of_license_to_sell_or_stock_exhibit_for_sale_or_distribute_insecticide_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Application_for_Grant_of_license_to_sell_or_stock_exhibit_for_sale_or_distribute_insecticide_ur:
+    - text: |
+        1 हालिया पासपोर्ट आकार की तस्वीर (JPG)
+  utter_Format_and_Size_of_documents_to_be_uploaded_for_Grant_of_license_to_sell_or_stock_exhibit_for_sale_of_insecticide_ur:
+    - text: |
+        जेपीजी प्रारूप में पीडीएफ और फोटो, 10KB-500KB
+  utter_Official_Charges___fees_for_Application_Renewal_for_Grant_of_license_to_sell_or_stock_exhibit_for_sale_of_insecticide_ur:
+    - text: |
+        500/100 रुपये प्रति रासायनिक मैक्सिमुन से 7500/1500 मुनसीपल/ग्रामीण
+  utter_Payment_Procedure___options_for_Application_For_Grant_of_license_to_sell_or_stock_exhibit_for_sale_of_insecticide_ur:
+    - text: |
+        ऑनलाइन NetBanking और BillDesk JKGRAS का उपयोग करके
+  utter_Timeline_for_delivery_of_Application_For_Grant_of_license_to_sell_or_stock_exhibit_for_sale_or_distribute_insecticide_ur:
+    - text: |
+        तीस दिन
+  utter_Official_responsible_for_delivery_of_Application_For_Grant_of_license_to_sell_or_stock_exhibit_for_sale_insecticide_ur:
+    - text: |
+        संयंत्र संरक्षण अधिकारी जम्मू/कश्मीर
+  utter_First_appellate_authority_for_Grant_of_license_to_sell_or_stock_exhibit_for_sale_or_distribute_insecticide_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_Application_For_Grant_of_License_to_stock_and_use_insecticide_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Grant_of_License_to_stock_and_use_insecticide_ur:
+    - text: |
+        1. हाल ही में पासपोर्ट आकार की तस्वीरें
+  utter_Format_and_Size_of_documents_to_be_uploaded_for_Grant_of_License_to_stock_and_use_insecticide_ur:
+    - text: |
+        जेपीजी प्रारूप में पीडीएफ और फोटो, 10KB-500KB
+  utter_Official_Charges___fees_for_Application_Renewal_for_Grant_of_License_to_stock_and_use_insecticide_ur:
+    - text: |
+        500/100 रुपये प्रति रासायनिक मैक्सिमुन से 7500/1500 मुनसीपल/ग्रामीण
+  utter_Payment_Procedure___options_for_Application_For_Grant_of_License_to_stock_and_use_insecticide_ur:
+    - text: |
+        ऑनलाइन NetBanking और BillDesk JKGRAS का उपयोग करके
+  utter_Timeline_for_delivery_of_Application_For_Grant_of_License_to_stock_and_use_insecticide_ur:
+    - text: |
+        तीस दिन
+  utter_Official_responsible_for_delivery_of_Application_For_Grant_of_License_to_stock_and_use_insecticide_ur:
+    - text: |
+        संयंत्र संरक्षण अधिकारी जम्मू/कश्मीर
+  utter_First_appellate_authority_for_Grant_of_License_to_stock_and_use_insecticide_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_Application_For_Renewal_of_Grant_of_License_to_stock_and_use_insecticide_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Renewal_of_Grant_of_License_to_stock_and_use_insecticide_ur:
+    - text: |
+        1. हाल ही में पासपोर्ट आकार की तस्वीरें
+  utter_Format_and_Size_of_documents_to_be_uploaded_for_Renewal_of_Grant_of_License_to_stock_and_use_insecticide_ur:
+    - text: |
+        जेपीजी प्रारूप में पीडीएफ और फोटो, 10KB-500KB
+  utter_Official_Charges___fees_for_Application_Renewal_for_Renewal_of_Grant_of_License_to_stock_and_use_insecticide_ur:
+    - text: |
+        500/100 रुपये प्रति रासायनिक मैक्सिमुन से 7500/1500 मुनसीपल/ग्रामीण
+  utter_Payment_Procedure___options_for_Application_For_Renewal_of_Grant_of_License_to_stock_and_use_insecticide_ur:
+    - text: |
+        ऑनलाइन NetBanking और BillDesk JKGRAS का उपयोग करके
+  utter_Timeline_for_delivery_of_Application_For_Renewal_of_Grant_of_License_to_stock_and_use_insecticide_ur:
+    - text: |
+        तीस दिन
+  utter_Official_responsible_for_delivery_of_Application_For_Renewal_of_Grant_of_License_to_stock_and_use_insecticide_ur:
+    - text: |
+        संयंत्र संरक्षण अधिकारी जम्मू/कश्मीर
+  utter_First_appellate_authority_for_Renewal_of_Grant_of_License_to_stock_and_use_insecticide_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_Application_For_Registration_for_grant_of_manufacturing_of_Insecticide_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Registration_for_grant_of_manufacturing_of_Insecticide_ur:
+    - text: |
+        1 हालिया पासपोर्ट आकार आवेदक की तस्वीर
+  utter_Format_and_Size_of_documents_to_be_uploaded_for_Registration_for_grant_of_manufacturing_of_Insecticide_ur:
+    - text: |
+        जेपीजी प्रारूप में पीडीएफ और फोटो, 10KB-500KB
+  utter_Official_Charges___fees_for_Application_Renewal_for_Registration_for_grant_of_manufacturing_of_Insecticide_ur:
+    - text: |
+        2000 रुपये प्रति रासायनिक मैक्सिमुन से 20000 रुपये
+  utter_Payment_Procedure___options_for_Application_For_Registration_for_grant_of_manufacturing_of_Insecticide_ur:
+    - text: |
+        ऑनलाइन NetBanking और BillDesk JKGRAS का उपयोग करके
+  utter_Timeline_for_delivery_of_Application_For_Registration_for_grant_of_manufacturing_of_Insecticide_ur:
+    - text: |
+        तीस दिन
+  utter_Official_responsible_for_delivery_of_Application_For_Registration_for_grant_of_manufacturing_of_Insecticide_ur:
+    - text: |
+        संयंत्र संरक्षण अधिकारी जम्मू/कश्मीर
+  utter_First_appellate_authority_for_Registration_for_grant_of_manufacturing_of_Insecticide_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_Application_For_Registration_for_grant_of_Marketing_License_Insecticide_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Registration_for_grant_of_Marketing_License_Insecticide_ur:
+    - text: |
+        कंपनी की ओर से लाइसेंस प्राप्त करने के लिए जिम्मेदार व्यक्ति की हालिया पासपोर्ट आकार की तस्वीर (JPG प्रारूप में) *
+  utter_Format_and_Size_of_documents_to_be_uploaded_for_Registration_for_grant_of_Marketing_License_Insecticide_ur:
+    - text: |
+        जेपीजी प्रारूप में पीडीएफ और फोटो, 10KB-500KB
+  utter_Official_Charges___fees_for_Application_Renewal_for_Registration_for_grant_of_Marketing_License_Insecticide_ur:
+    - text: |
+        500/100 रुपये प्रति रासायनिक मैक्सिमुन से 7500/1500 मुनसीपल/ग्रामीण
+  utter_Payment_Procedure___options_for_Application_For_Registration_for_grant_of_Marketing_License_Insecticide_ur:
+    - text: |
+        ऑनलाइन NetBanking और BillDesk JKGRAS का उपयोग करके
+  utter_Timeline_for_delivery_of_Application_For_Registration_for_grant_of_Marketing_License_Insecticide_ur:
+    - text: |
+        तीस दिन
+  utter_Official_responsible_for_delivery_of_Application_For_Registration_for_grant_of_Marketing_License_Insecticide_ur:
+    - text: |
+        संयंत्र संरक्षण अधिकारी जम्मू/कश्मीर
+  utter_First_appellate_authority_for_Registration_for_grant_of_Marketing_License_Insecticide_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_Application_For_Registration_for_Micro_Nutrients_Bio_Fertilizers_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Registration_for_Micro_Nutrients_Bio_Fertilizers_ur:
+    - text: |
+        दस्तावेजों की पूरी सूची के लिए विभागों को देखें wen = bsite
+  utter_Format_and_Size_of_documents_to_be_uploaded_for_Registration_for_Micro_Nutrients_Bio_Fertilizers_ur:
+    - text: |
+        जेपीजी प्रारूप में पीडीएफ और फोटो, 10KB-500KB
+  utter_Official_Charges___fees_for_Application_Renewal_for_Registration_for_Micro_Nutrients_Bio_Fertilizers_ur:
+    - text: |
+        5000 रुपये
+  utter_Payment_Procedure___options_for_Application_For_Registration_for_Micro_Nutrients_Bio_Fertilizers_ur:
+    - text: |
+        ऑनलाइन NetBanking और BillDesk JKGRAS का उपयोग करके
+  utter_Timeline_for_delivery_of_Application_For_Registration_for_Micro_Nutrients_Bio_Fertilizers_ur:
+    - text: |
+        तीस दिन
+  utter_Official_responsible_for_delivery_of_Application_For_Registration_for_Micro_Nutrients_Bio_Fertilizers_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_First_appellate_authority_for_Registration_for_Micro_Nutrients_Bio_Fertilizers_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_Application_For_Renewal_for_Micro_Nutrients_Bio_Fertilizers_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Renewal_for_Micro_Nutrients_Bio_Fertilizers_ur:
+    - text: |
+        दस्तावेजों की पूरी सूची के लिए विभागों को देखें wen = bsite
+  utter_Format_and_Size_of_documents_to_be_uploaded_for_Renewal_for_Micro_Nutrients_Bio_Fertilizers_ur:
+    - text: |
+        जेपीजी प्रारूप में पीडीएफ और फोटो, 10KB-500KB
+  utter_Official_Charges___fees_for_Application_Renewal_for_Renewa_for_Micro_Nutrients_Bio_Fertilizers_ur:
+    - text: |
+        5000 रुपये
+  utter_Payment_Procedure___options_for_Application_For_Renewa_for_Micro_Nutrients_Bio_Fertilizers_ur:
+    - text: |
+        ऑनलाइन NetBanking और BillDesk JKGRAS का उपयोग करके
+  utter_Timeline_for_delivery_of_Application_For_Renewa_for_Micro_Nutrients_Bio_Fertilizers_ur:
+    - text: |
+        तीस दिन
+  utter_Official_responsible_for_delivery_of_Application_For_Renewa_for_Micro_Nutrients_Bio_Fertilizers_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_First_appellate_authority_for_Renewa_for_Micro_Nutrients_Bio_Fertilizers_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_Application_For_Inclusion_of_Product_in_Fertilizer_Retail_License_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Inclusion_of_Product_in_Fertilizer_Retail_License_ur:
+    - text: |
+        1. लाइसेंस / पंजीकरण की प्रतिलिपि नवीनीकृत
+  utter_Format_and_Size_of_documents_to_be_uploaded_for_Inclusion_of_Product_in_Fertilizer_Retail_License_ur:
+    - text: |
+        जेपीजी प्रारूप में पीडीएफ और फोटो, 10KB-500KB
+  utter_Official_Charges___fees_for_Application_Inclusion_of_Product_in_Fertilizer_Retail_License_ur:
+    - text: |
+        200 रुपये प्रति उत्पाद
+  utter_Payment_Procedure___options_for_Application_For_Inclusion_of_Product_in_Fertilizer_Retail_License_ur:
+    - text: |
+        ऑनलाइन NetBanking और BillDesk JKGRAS का उपयोग करके
+  utter_Timeline_for_delivery_of_Application_For_Inclusion_of_Product_in_Fertilizer_Retail_License_ur:
+    - text: |
+        15 दिन
+  utter_Official_responsible_for_delivery_of_Application_For_Inclusion_of_Product_in_Fertilizer_Retail_License_ur:
+    - text: |
+        संबंधित जिले के मुख्य कृषि अधिकारी
+  utter_First_appellate_authority_for_Inclusion_of_Product_in_Fertilizer_Retail_License_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_Application_For_Inclusion_of_Product_in_Fertilizer_Wholesale_License_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Inclusion_of_Product_in_Fertilizer_Wholesale_License_ur:
+    - text: |
+        1. लाइसेंस / पंजीकरण की प्रतिलिपि नवीनीकृत
+  utter_Format_and_Size_of_documents_to_be_uploaded_for_Inclusion_of_Product_in_Fertilizer_Wholesale_License_ur:
+    - text: |
+        जेपीजी प्रारूप में पीडीएफ और फोटो, 10KB-500KB
+  utter_Official_Charges___fees_for_Application_Inclusion_of_Product_in_Fertilizer_Wholesale_License_ur:
+    - text: |
+        200 रुपये प्रति उत्पाद
+  utter_Payment_Procedure___options_for_Application_For_Inclusion_of_Product_in_Fertilizer_Wholesale_License_ur:
+    - text: |
+        ऑनलाइन NetBanking और BillDesk JKGRAS का उपयोग करके
+  utter_Timeline_for_delivery_of_Application_For_Inclusion_of_Product_in_Fertilizer_Wholesale_License_ur:
+    - text: |
+        15 दिन
+  utter_Official_responsible_for_delivery_of_Application_For_Inclusion_of_Product_in_Fertilizer_Wholesale_License_ur:
+    - text: |
+        संबंधित जिले के मुख्य कृषि अधिकारी
+  utter_First_appellate_authority_for_Inclusion_of_Product_in_Fertilizer_Wholesale_License_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_Application_For_Inclusion_of_Product_in_Seed_Wholesale_License_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Inclusion_of_Product_in_Seed_Wholesale_License_ur:
+    - text: |
+        1. लाइसेंस / पंजीकरण की प्रतिलिपि नवीनीकृत
+  utter_Format_and_Size_of_documents_to_be_uploaded_for_Inclusion_of_Product_in_Seed_Wholesale_License_ur:
+    - text: |
+        जेपीजी प्रारूप में पीडीएफ और फोटो, 10KB-500KB
+  utter_Official_Charges___fees_for_Application_Inclusion_of_Product_in_Seed_Wholesale_License_ur:
+    - text: |
+        100 रुपये प्रति उत्पाद
+  utter_Payment_Procedure___options_for_Application_For_Inclusion_of_Product_in_Seed_Wholesale_License_ur:
+    - text: |
+        ऑनलाइन NetBanking और BillDesk JKGRAS का उपयोग करके
+  utter_Timeline_for_delivery_of_Application_For_Inclusion_of_Product_in_Seed_Wholesale_License_ur:
+    - text: |
+        15 दिन
+  utter_Official_responsible_for_delivery_of_Application_For_Inclusion_of_Product_in_Seed_Wholesale_License_ur:
+    - text: |
+        संबंधित जिले के मुख्य कृषि अधिकारी
+  utter_First_appellate_authority_for_Inclusion_of_Product_in_Seed_Wholesale_License_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_Application_For_Inclusion_of_Product_in_Seed_Retail_License_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Inclusion_of_Product_in_Seed_Retail_License_ur:
+    - text: |
+        1. लाइसेंस / पंजीकरण की प्रतिलिपि नवीनीकृत
+  utter_Format_and_Size_of_documents_to_be_uploaded_for_Inclusion_of_Product_in_Seed_Retail_License_ur:
+    - text: |
+        जेपीजी प्रारूप में पीडीएफ और फोटो, 10KB-500KB
+  utter_Official_Charges___fees_for_Application_Inclusion_of_Product_in_Seed_Retail_License_ur:
+    - text: |
+        100 रुपये प्रति उत्पाद
+  utter_Payment_Procedure___options_for_Application_For_Inclusion_of_Product_in_Seed_Retail_License_ur:
+    - text: |
+        ऑनलाइन NetBanking और BillDesk JKGRAS का उपयोग करके
+  utter_Timeline_for_delivery_of_Application_For_Inclusion_of_Product_in_Seed_Retail_License_ur:
+    - text: |
+        15 दिन
+  utter_Official_responsible_for_delivery_of_Application_For_Inclusion_of_Product_in_Seed_Retail_License_ur:
+    - text: |
+        संबंधित जिले के मुख्य कृषि अधिकारी
+  utter_First_appellate_authority_for_Inclusion_of_Product_in_Seed_Retail_License_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_Application_For_Inclusion_of_Product_in_Sell_or_Stock_Exhibit_for_sale_or_distribute_Insecticide_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Inclusion_of_Product_in_Sell_or_Stock_Exhibit_for_sale_or_distribute_Insecticide_ur:
+    - text: |
+        1. लाइसेंस / पंजीकरण की प्रतिलिपि नवीनीकृत
+  utter_Format_and_Size_of_docs_to_be_uploaded_for_Inclusion_of_Product_in_Sell_or_Stock_Exhibit_for_sale_of_Insecticide_ur:
+    - text: |
+        जेपीजी प्रारूप में पीडीएफ और फोटो, 10KB-500KB
+  utter_Official_Charges___fees_for_Application_Inclusion_of_Product_in_Sell_or_Stock_Exhibit_for_sale_or_distribute_Insecticide_ur:
+    - text: |
+        500/100 रुपये प्रति रासायनिक मैक्सिमुन से 7500/1500 मुनसीपल/ग्रामीण
+  utter_Payment_Procedure___options_for_Application_For_Inclusion_of_Product_in_Sell_or_Stock_Exhibit_for_sale_of_Insecticide_ur:
+    - text: |
+        ऑनलाइन NetBanking और BillDesk JKGRAS का उपयोग करके
+  utter_Timeline_for_delivery_of_Inclusion_of_Product_in_Sell_or_Stock_Exhibit_for_sale_or_distribute_Insecticide_ur:
+    - text: |
+        तीस दिन
+  utter_Official_responsible_for_delivery_of_Inclusion_of_Product_in_Sell_or_Stock_Exhibit_for_sale_or_distribute_Insecticide_ur:
+    - text: |
+        संयंत्र संरक्षण अधिकारी जम्मू/कश्मीर
+  utter_First_appellate_authority_for_Inclusion_of_Product_in_Sell_or_Stock_Exhibit_for_sale_or_distribute_Insecticide_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_Application_For_Inclusion_in_License_to_stock_and_use_insecticide_for_Commercial_Pest_Control_Operation_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Inclusion_in_License_to_stock_and_use_insecticide_ur:
+    - text: |
+        1. लाइसेंस / पंजीकरण की प्रतिलिपि नवीनीकृत
+  utter_Format_and_Size_of_documents_to_be_uploaded_for_Inclusion_in_License_to_stock_and_use_insecticide_ur:
+    - text: |
+        जेपीजी प्रारूप में पीडीएफ और फोटो, 10KB-500KB
+  utter_Official_Charges___fees_for_Application_Inclusion_in_License_to_stock_and_use_insecticide_ur:
+    - text: |
+        500/100 रुपये प्रति रासायनिक मैक्सिमुन से 7500/1500 मुनसीपल/ग्रामीण
+  utter_Payment_Procedure___options_for_Application_For_Inclusion_in_License_to_stock_and_use_insecticide_ur:
+    - text: |
+        ऑनलाइन NetBanking और BillDesk JKGRAS का उपयोग करके
+  utter_Timeline_for_delivery_of_Application_For_Inclusion_in_License_to_stock_and_use_insecticide_ur:
+    - text: |
+        तीस दिन
+  utter_Official_responsible_for_delivery_of_Application_For_Inclusion_in_License_to_stock_and_use_insecticide_ur:
+    - text: |
+        संयंत्र संरक्षण अधिकारी जम्मू/कश्मीर
+  utter_First_appellate_authority_for_Inclusion_in_License_to_stock_and_use_insecticide_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_Application_For_Inclusion_of_Product_in_Manufacturing_of_Insecticide_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Inclusion_of_Product_in_Manufacturing_of_Insecticide_ur:
+    - text: |
+        1. लाइसेंस / पंजीकरण की प्रतिलिपि नवीनीकृत
+  utter_Format_and_Size_of_documents_to_be_uploaded_for_Inclusion_of_Product_in_Manufacturing_of_Insecticide_ur:
+    - text: |
+        जेपीजी प्रारूप में पीडीएफ और फोटो, 10KB-500KB
+  utter_Official_Charges___fees_for_Application_Inclusion_of_Product_in_Manufacturing_of_Insecticide_ur:
+    - text: |
+        2000 रुपये प्रति रासायनिक मैक्सिमुन से 20000 रुपये
+  utter_Payment_Procedure___options_for_Application_For_Inclusion_of_Product_in_Manufacturing_of_Insecticide_ur:
+    - text: |
+        ऑनलाइन NetBanking और BillDesk JKGRAS का उपयोग करके
+  utter_Timeline_for_delivery_of_Application_For_Inclusion_of_Product_in_Manufacturing_of_Insecticide_ur:
+    - text: |
+        तीस दिन
+  utter_Official_responsible_for_delivery_of_Application_For_Inclusion_of_Product_in_Manufacturing_of_Insecticide_ur:
+    - text: |
+        संयंत्र संरक्षण अधिकारी जम्मू/कश्मीर
+  utter_First_appellate_authority_for_Inclusion_of_Product_in_Manufacturing_of_Insecticide_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_Application_For_Inclusion_of_Product_in_Manufacturing_of_Micronutrient_Biofertilizer_ur:
+    - text: |
+        ऑनलाइन वेब पोर्टल पर, https://agriculture.jk.gov.in
+  utter_Document_to_be_uploaded_for_Inclusion_of_Product_in_Manufacturing_of_Micronutrient_Biofertilizer_ur:
+    - text: |
+        1. लाइसेंस / पंजीकरण की प्रतिलिपि नवीनीकृत
+  utter_Format_and_Size_of_documents_to_be_uploaded_for_Inclusion_of_Product_in_Manufacturing_of_Micronutrient_Biofertilizer_ur:
+    - text: |
+        जेपीजी प्रारूप में पीडीएफ और फोटो, 10KB-500KB
+  utter_Official_Charges___fees_for_Application_Inclusion_of_Product_in_Manufacturing_of_Micronutrient_Biofertilizer_ur:
+    - text: |
+        रुपये
+  utter_Payment_Procedure___options_for_Application_For_Inclusion_of_Product_in_Manufacturing_of_Micronutrient_Biofertilizer_ur:
+    - text: |
+        ऑनलाइन NetBanking और BillDesk JKGRAS का उपयोग करके
+  utter_Timeline_for_delivery_of_Application_For_Inclusion_of_Product_in_Manufacturing_of_Micronutrient_Biofertilizer_ur:
+    - text: |
+        तीस दिन
+  utter_Official_responsible_for_del__of_Application_For_Inclusion_of_Product_in_Manufacturing_of_Micronutrient_Biofertilizer_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर
+  utter_First_appellate_authority_for_Inclusion_of_Product_in_Manufacturing_of_Micronutrient_Biofertilizer_ur:
+    - text: |
+        निदेशक कृषि जम्मू/कश्मीर

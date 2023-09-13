@@ -1,0 +1,24 @@
+
+- story: intent heading_story
+  steps:
+    - intent: intent heading
+      user: |-
+        intent eg 1
+        intent eg 2
+        intent eg 3
+
+- story: intent heading 2_story
+  steps:
+    - intent: intent heading 2
+      user: |-
+        intent eg 4
+        intent eg 5
+        intent eg 3
+
+- story: intent heading 3_story
+  steps:
+    - intent: intent heading 3
+      user: |-
+        intent eg 6
+        intent eg 7
+        intent eg 8

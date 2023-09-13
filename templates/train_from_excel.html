@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rasa Files Generator</title>
+    <!-- Include Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- Custom CSS -->
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+        .container {
+        background-color: #87CEEB; /* Sky Blue background color */
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .btn-generate {
+            width: 100%;
+        }
+        .btn-generate-row {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+        .btn-generate-color1 {
+            background-color: #f25b25;
+            color: black;
+        }
+        .btn-generate-color2 {
+            background-color: #ffffff;
+            color: black;
+        }
+        .btn-generate-color3 {
+            background-color: #016934;
+            color: black;
+        }
+        .form-container {
+            margin-bottom: 40px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>Rasa Files Generator</h1>
+
+        <div class="form-container">
+            <!-- NLU Form -->
+            <form id="generateFormNlu" method="POST" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="nluFile">Upload Excel for NLU:</label>
+                    <input type="file" class="form-control-file" id="nluFile" name="nluFile" accept=".xlsx">
+                </div>
+                <div class="btn-generate-row1">
+                    <button type="button" class="btn btn-generate btn-generate-color1" onclick="generateFileNlu('english')">Generate NLU File English</button>
+                    <button type="button" class="btn btn-generate btn-generate-color2" onclick="generateFileNlu('hindi')">Generate NLU File Hindi</button>
+                    <button type="button" class="btn btn-generate btn-generate-color3" onclick="generateFileNlu('urdu')">Generate NLU File Urdu</button>
+                </div>
+            </form>
+        </div>
+
+    
+
+
+        <div class="form-container">
+            <!-- Stories Form -->
+            <form id="generateFormDomain" method="POST" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="nluFile">Upload Excel for Domain:</label>
+                    <input type="file" class="form-control-file" id="domainFile" name="domainFile" accept=".xlsx">
+                </div>
+                <div class="btn-generate-row3">
+                    <button type="button" class="btn btn-generate btn-generate-color1" onclick="generateFileDomain('english')">Generate Domain File English</button>
+
+                     <button type="button" class="btn btn-generate btn-generate-color2" onclick="generateFileDomain('hindi')">Generate Domain File Hindi</button>
+
+ <button type="button" class="btn btn-generate btn-generate-color3"onclick="generateFileDomain('urdu')">Generate Domain File Urdu</button>
+
+                    
+                </div>
+            </form>
+        </div>
+
+           <div class="form-container">
+            <!-- Stories Form -->
+            <form id="generateFormStories" method="POST" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="storiesFile">Upload YAML domain file corresponding to the desired stories file:</label>
+                    <input type="file" class="form-control-file" id="storiesFile" name="storiesFile" accept=".yml">
+                </div>
+                <div class="btn-generate-row3">
+                    <button type="button" class="btn btn-generate btn-generate-color1" onclick="generateFileStories('english')">Generate Stories File English</button>
+
+                     <button type="button" class="btn btn-generate btn-generate-color2" onclick="generateFileStories('hindi')">Generate Stories File Hindi</button>
+
+ <button type="button" class="btn btn-generate btn-generate-color3"onclick="generateFileStories('urdu')">Generate Domain File Urdu</button>
+
+                    
+                </div>
+            </form>
+        </div>
+
+
+
+    </div>
+    <script>
+        function generateFileNlu(language) {
+            const form = document.getElementById('generateFormNlu');
+            form.action = '/generate_nlu_' + language;
+            form.submit();
+        }
+       function generateFileDomain(language) {
+            const form = document.getElementById('generateFormDomain');
+            form.action = '/generate_domain_' + language;
+            form.submit();
+        }
+
+function generateFileStories(language) {
+            const form = document.getElementById('generateFormStories');
+            form.action = '/generate_stories_' + language;
+            form.submit();
+        }
+    </script>
+    <!-- Include Bootstrap JS and other scripts if needed -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

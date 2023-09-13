@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rasa Files Generator</title>
+    <!-- Include Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- Custom CSS -->
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+        .container {
+        background-color: #87CEEB; /* Sky Blue background color */
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .btn-generate {
+            width: 100%;
+        }
+        .btn-generate-row {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+        .btn-generate-color1 {
+            background-color: #f25b25;
+            color: black;
+        }
+        .btn-generate-color2 {
+            background-color: #ffffff;
+            color: black;
+        }
+        .btn-generate-color3 {
+            background-color: #016934;
+            color: black;
+        }
+        .form-container {
+            margin-bottom: 40px;
+        }
+
+.train-button-container {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.btn-train-chatbot {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.btn-train-chatbot:hover {
+    background-color: #45a049;
+}
+
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>Rasa Files Generator</h1>
+<div class="form-container">
+    <!-- NLU Form -->
+    <!--
+    <form id="generateFormNlu" method="POST"  enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="nluFile">Upload Excel for NLU:</label>
+            <input type="file" class="form-control-file" id="nluFile" name="nluFile" accept=".xlsx">
+        </div>
+        <div class="btn-generate-row1">
+            <button type="button" class="btn btn-generate btn-generate-color1" onclick="generateFileNlu()" >Generate NLU File </button>
+        </div>
+    </form>
+    -->
+</div>
+
+<div class="form-container">
+    <!-- Stories Form -->
+    <!--
+    <form id="generateFormDomain" method="POST" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="nluFile">Upload Excel for Domain:</label>
+            <input type="file" class="form-control-file" id="domainFile" name="domainFile" accept=".xlsx">
+        </div>
+        <div class="btn-generate-row3">
+            <button type="button" class="btn btn-generate btn-generate-color2" onclick="generateFileDomain()">Generate Domain File </button>
+        </div>
+    </form>
+    -->
+</div>
+
+<div class="form-container">
+    <!-- Stories Form -->
+    <!--
+    <form id="generateFormStories"  method="POST" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="storiesFile">Upload YAML domain file corresponding to the desired stories file:</label>
+            <input type="file" class="form-control-file" id="storiesFile" name="storiesFile" accept=".yml">
+        </div>
+        <div class="btn-generate-row3">
+            <button type="button" class="btn btn-generate btn-generate-color3" onclick="generateFileStories()" >Generate Stories File </button>
+        </div>
+    </form>
+    -->
+</div>
+
+
+
+
+  <!-- just for training command
+
+<div class="train-button-container">
+        <button type="button" class="btn btn-train-chatbot" id="train-button">Train Chatbot </button>
+    </div> -->
+
+
+ 
+     <div class="form-container">
+         <div class="department-select">
+        <label for="department">Select Department:</label>
+        <select id="department" name="department">
+            <option value="department1"> Agriculture</option>
+            <option value="department2">Cooperative</option>
+            <option value="department3">DMRRR</option>
+<option value="department1"> Education Department</option>
+            <option value="department2">Estates</option>
+            <option value="department3">FCSCA</option>
+<option value="department1"> FDA</option>
+            <option value="department2">Fisheries</option>
+            <option value="department3">Forest</option>
+<option value="department1"> HED</option>
+            <option value="department2">HomeDepartment</option>
+            <option value="department3">Hospitality and Protocol</option>
+<option value="department1"> JalShakti</option>
+            <option value="department2">JKBOTE</option>
+            <option value="department3">JKFUND</option>
+<option value="department1"> JKPCC</option>
+            <option value="department2">JKPDCL</option>
+            <option value="department3">Labour and Construction Worker</option>
+<option value="department1"> Mining</option>
+            <option value="department2">Revenue</option>
+            <option value="department3">SkillDevelopment</option>
+<option value="department1"> Social Welfare</option>
+            <option value="department2">ST</option>
+            <option value="department3">Tourism</option>
+<option value="department1"> Transport</option>
+            <option value="department2">Tribal Affairs</option>
+        </select>
+    </div>
+            <!-- Stories Form -->
+           <!-- Upload Excel for NLU, Domain, and Stories -->
+<form id="generateForm" method="POST" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="excelFile">Upload Excel File:</label>
+        <input type="file" class="form-control-file" id="excelFile" name="excelFile" accept=".xlsx">
+    </div>
+    <div class="btn-generate-row1">
+        <button type="button" class="btn btn-generate btn-generate-color3" onclick="uploadExcelAndGenerateFiles()">Generate Chatbot files</button>
+    </div>
+</form>
+
+        </div>
+
+
+    
+</div>
+
+
+
+
+    </div>
+    <script>
+
+function uploadExcelAndGenerateFiles() {
+    const excelFileInput = document.getElementById('excelFile');
+    const formData = new FormData();
+
+    formData.append('excelFile', excelFileInput.files[0]);
+
+    // Step 1: Call the generate NLU API
+    fetch('/generate_nlu3', {
+        method: 'POST',
+        body: formData,
+    })
+    .then(response => response.text())
+    .then(result => {
+        console.log("NLU generated:", result);
+        
+        // Step 2: Call the generate Domain API
+        return fetch('/generate_domain3', {
+            method: 'POST',
+            body: formData,
+        })
+    })
+    .then(response => response.text())
+    .then(domainResult => {
+        console.log("Domain generated:", domainResult);
+
+        // Assuming domainResult is the content or path of the generated domain file
+        // Adjust this part according to what /generate_domain3 returns
+   
+
+        // Step 3: Call the generate Stories API with the domain file generated in Step 2
+        return fetch('/generate_stories3', {
+            method: 'POST',
+            body: domainResult,
+        })
+    })
+    .then(response => response.text())
+    .then(storiesResult => {
+        console.log("Stories generated:", storiesResult);
+        // Optionally, trigger chatbot training here if needed
+    })
+    .catch(error => {
+        console.error(error);
+    });
+var xhr = new XMLHttpRequest();
+            xhr.open("POST", "/train_chatbot", true);
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    alert(xhr.responseText); // Display the response from Flask
+                }
+            };
+            xhr.send();
+}
+
+
+
+        function generateFileNlu() {
+            const form = document.getElementById('generateFormNlu');
+            form.action = '/generate_nlu' ;
+            form.submit();
+        }
+       function generateFileDomain() {
+            const form = document.getElementById('generateFormDomain');
+            form.action = '/generate_domain2' ;
+            form.submit();
+        }
+
+function generateFileStories() {
+            const form = document.getElementById('generateFormStories');
+            form.action = '/generate_stories' ;
+            form.submit();
+        }
+ document.getElementById("train-button").addEventListener("click", function() {
+            var xhr = new XMLHttpRequest();
+            xhr.open("POST", "/train_chatbot", true);
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    alert(xhr.responseText); // Display the response from Flask
+                }
+            };
+            xhr.send();
+        });
+// function trainChatbot() {
+//     // Replace with the appropriate endpoint URL for your Flask app
+//     const endpointUrl = '/train-chatbot';
+
+//     // You can customize the train command as needed
+//     const trainCommand = 'rasa train';
+
+//     // Display a confirmation dialog
+//     const confirmTrain = confirm('Are you sure you want to train the chatbot? This action may take some time.');
+
+//     if (confirmTrain) {
+//         // Send a POST request to the Flask API endpoint
+//         fetch(endpointUrl, {
+//             method: 'POST',
+//             headers: {
+//                 'Content-Type': 'application/json',
+//             },
+//             body: JSON.stringify({ command: trainCommand }),
+//         })
+//         .then(response => {
+//             if (response.status === 200) {
+//                 alert('Chatbot training started successfully.');
+//             } else {
+//                 alert('Error starting chatbot training.');
+//             }
+//         })
+//         .catch(error => {
+//             console.error('Error:', error);
+//             alert('Error starting chatbot training.');
+//         });
+//     }
+// }
+
+
+    </script>
+    <!-- Include Bootstrap JS and other scripts if needed -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

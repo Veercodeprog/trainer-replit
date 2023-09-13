@@ -1,0 +1,2017 @@
+nlu:
+- intent: Name_of_Services_Old_age_pension_ISSS_en
+  examples: |
+    - Name of Services (Old age pension (ISSS)) ?
+- intent: Documents_Required_Old_age_pension_ISSS_en
+  examples: |
+    - Documents Required (Old age pension (ISSS)) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Old_age_pension_ISSS_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (Old age pension (ISSS)) ?
+- intent: what_are_the_official_charges_fee_for_the_service_Old_age_pension_ISSS_en
+  examples: |
+    - what are the official charges / fee for the service (Old age pension (ISSS)) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Old_age_pension_ISSS_en
+  examples: |
+    - How does one make the payment of service charges (Old age pension (ISSS)) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Old_age_pension_ISSS_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Old age pension (ISSS)) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Old_age_pension_ISSS_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Old age pension (ISSS)) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Old_age_pension_ISSS_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (Old age pension (ISSS)) ?
+- intent: Name_of_Services_Old_age_pension_ISSS_en
+  examples: |
+    - Name of Services (Old age pension (ISSS)) ?
+- intent: Documents_Required_Women_in_Distress_ISSS_en
+  examples: |
+    - Documents Required (Women in Distress (ISSS)) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Women_in_Distress_ISSS_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (Women in Distress (ISSS)) ?
+- intent: what_are_the_official_charges_fee_for_the_service_Women_in_Distress_ISSS_en
+  examples: |
+    - what are the official charges / fee for the service (Women in Distress (ISSS)) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Women_in_Distress_ISSS_en
+  examples: |
+    - How does one make the payment of service charges (Women in Distress (ISSS)) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Women_in_Distress_ISSS_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Women in Distress (ISSS)) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Women_in_Distress_ISSS_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Women in Distress (ISSS)) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Women_in_Distress_ISSS_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (Women in Distress (ISSS)) ?
+- intent: Name_of_Services_Specially_abled_person_ISSS_en
+  examples: |
+    - Name of Services (Specially abled  person(ISSS) ) ?
+- intent: Documents_Required_Specially_abled_person_ISSS_en
+  examples: |
+    - Documents Required (Specially abled  person(ISSS) ) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Specially_abled_person_ISSS_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (Specially abled  person(ISSS) ) ?
+- intent: what_are_the_official_charges_fee_for_the_service_Specially_abled_person_ISSS_en
+  examples: |
+    - what are the official charges / fee for the service (Specially abled  person(ISSS) ) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Specially_abled_person_ISSS_en
+  examples: |
+    - How does one make the payment of service charges (Specially abled  person(ISSS) ) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Specially_abled_person_ISSS_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Specially abled  person(ISSS) ) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Specially_abled_person_ISSS_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Specially abled  person(ISSS) ) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Specially_abled_person_ISSS_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (Specially abled  person(ISSS) ) ?
+- intent: Name_of_Services_Transgender_ISSS_en
+  examples: |
+    - Name of Services (Transgender(ISSS)) ?
+- intent: Documents_Required_Transgender_ISSS_en
+  examples: |
+    - Documents Required (Transgender(ISSS)) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Transgender_ISSS_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (Transgender(ISSS)) ?
+- intent: what_are_the_official_charges_fee_for_the_service_Transgender_ISSS_en
+  examples: |
+    - what are the official charges / fee for the service (Transgender(ISSS)) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Transgender_ISSS_en
+  examples: |
+    - How does one make the payment of service charges (Transgender(ISSS)) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Transgender_ISSS_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Transgender(ISSS)) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Transgender_ISSS_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Transgender(ISSS)) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Transgender_ISSS_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (Transgender(ISSS)) ?
+- intent: Name_of_Services_Indira_Gandhi_National_Old_Age_Pension_Scheme_en
+  examples: |
+    - Name of Services (Indira Gandhi National Old Age Pension Scheme) ?
+- intent: Documents_Required_Indira_Gandhi_National_Old_Age_Pension_Scheme_en
+  examples: |
+    - Documents Required (Indira Gandhi National Old Age Pension Scheme) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Indira_Gandhi_National_Old_Age_Pension_Scheme_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (Indira Gandhi National Old Age Pension Scheme) ?
+- intent: What_are_the_official_charges_fee_for_the_service_Indira_Gandhi_National_Old_Age_Pension_Scheme_en
+  examples: |
+    - What are the official charges / fee for the service (Indira Gandhi National Old Age Pension Scheme) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Indira_Gandhi_National_Old_Age_Pension_Scheme_en
+  examples: |
+    - How does one make the payment of service charges (Indira Gandhi National Old Age Pension Scheme) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Indira_Gandhi_National_Old_Age_Pension_Scheme_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Indira Gandhi National Old Age Pension Scheme) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Indira_Gandhi_National_Old_Age_Pension_Scheme_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Indira Gandhi National Old Age Pension Scheme) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Indira_Gandhi_National_Old_Age_Pension_Scheme_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (Indira Gandhi National Old Age Pension Scheme) ?
+- intent: Name_of_Services_Indira_Gandhi_national_widow_pension_scheme_en
+  examples: |
+    - Name of Services (Indira Gandhi national widow pension scheme) ?
+- intent: Documents_Required_Indira_Gandhi_national_widow_pension_scheme_en
+  examples: |
+    - Documents Required (Indira Gandhi national widow pension scheme) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Indira_Gandhi_national_widow_pension_scheme_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (Indira Gandhi national widow pension scheme) ?
+- intent: what_are_the_official_charges_fee_for_the_service_Indira_Gandhi_national_widow_pension_scheme_en
+  examples: |
+    - what are the official charges / fee for the service (Indira Gandhi national widow pension scheme) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Indira_Gandhi_national_widow_pension_scheme_en
+  examples: |
+    - How does one make the payment of service charges (Indira Gandhi national widow pension scheme) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Indira_Gandhi_national_widow_pension_scheme_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Indira Gandhi national widow pension scheme) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Indira_Gandhi_national_widow_pension_scheme_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Indira Gandhi national widow pension scheme) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Indira_Gandhi_national_widow_pension_scheme_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (Indira Gandhi national widow pension scheme) ?
+- intent: Name_of_Services_Indira_Gandhi_national_disability_pension_scheme_en
+  examples: |
+    - Name of Services (Indira Gandhi national disability pension scheme) ?
+- intent: Documents_Required_Indira_Gandhi_national_disability_pension_scheme_en
+  examples: |
+    - Documents Required (Indira Gandhi national disability pension scheme) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Indira_Gandhi_national_disability_pension_scheme_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (Indira Gandhi national disability pension scheme) ?
+- intent: what_are_the_official_charges_fee_for_the_service_Indira_Gandhi_national_disability_pension_scheme_en
+  examples: |
+    - what are the official charges / fee for the service (Indira Gandhi national disability pension scheme) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Indira_Gandhi_national_disability_pension_scheme_en
+  examples: |
+    - How does one make the payment of service charges (Indira Gandhi national disability pension scheme) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Indira_Gandhi_national_disability_pension_scheme_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Indira Gandhi national disability pension scheme) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Indira_Gandhi_national_disability_pension_scheme_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Indira Gandhi national disability pension scheme) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Indira_Gandhi_national_disability_pension_scheme_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (Indira Gandhi national disability pension scheme) ?
+- intent: Name_of_Services_National_Family_Benefit_Scheme_NFBS_en
+  examples: |
+    - Name of Services (National Family Benefit Scheme (NFBS)) ?
+- intent: Documents_Required_National_Family_Benefit_Scheme_NFBS_en
+  examples: |
+    - Documents Required (National Family Benefit Scheme (NFBS)) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_National_Family_Benefit_Scheme_NFBS_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (National Family Benefit Scheme (NFBS)) ?
+- intent: what_are_the_official_charges_fee_for_the_service_National_Family_Benefit_Scheme_NFBS_en
+  examples: |
+    - what are the official charges / fee for the service (National Family Benefit Scheme (NFBS)) ?
+- intent: How_does_one_make_the_payment_of_service_charges_National_Family_Benefit_Scheme_NFBS_en
+  examples: |
+    - How does one make the payment of service charges (National Family Benefit Scheme (NFBS)) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_National_Family_Benefit_Scheme_NFBS_en
+  examples: |
+    - What is the  time limit for delivery of the service  (National Family Benefit Scheme (NFBS)) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_National_Family_Benefit_Scheme_NFBS_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (National Family Benefit Scheme (NFBS)) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_National_Family_Benefit_Scheme_NFBS_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (National Family Benefit Scheme (NFBS)) ?
+- intent: Name_of_Services_State_Marriage_Assistance_Scheme_en
+  examples: |
+    - Name of Services (State Marriage Assistance Scheme.) ?
+- intent: Documents_Required_State_Marriage_Assistance_Scheme_en
+  examples: |
+    - Documents Required (State Marriage Assistance Scheme.) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_State_Marriage_Assistance_Scheme_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (State Marriage Assistance Scheme.) ?
+- intent: what_are_the_official_charges_fee_for_the_service_State_Marriage_Assistance_Scheme_en
+  examples: |
+    - what are the official charges / fee for the service (State Marriage Assistance Scheme.) ?
+- intent: How_does_one_make_the_payment_of_service_charges_State_Marriage_Assistance_Scheme_en
+  examples: |
+    - How does one make the payment of service charges (State Marriage Assistance Scheme.) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_State_Marriage_Assistance_Scheme_en
+  examples: |
+    - What is the  time limit for delivery of the service  (State Marriage Assistance Scheme.) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_State_Marriage_Assistance_Scheme_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (State Marriage Assistance Scheme.) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_State_Marriage_Assistance_Scheme_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (State Marriage Assistance Scheme.) ?
+- intent: Name_of_Services_Ladli_Beti_en
+  examples: |
+    - Name of Services (Ladli Beti) ?
+- intent: Documents_Required_Ladli_Beti_en
+  examples: |
+    - Documents Required (Ladli Beti) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Ladli_Beti_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (Ladli Beti) ?
+- intent: what_are_the_official_charges_fee_for_the_service_Ladli_Beti_en
+  examples: |
+    - what are the official charges / fee for the service (Ladli Beti) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Ladli_Beti_en
+  examples: |
+    - How does one make the payment of service charges (Ladli Beti) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Ladli_Beti_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Ladli Beti) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Ladli_Beti_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Ladli Beti) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Ladli_Beti_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (Ladli Beti) ?
+- intent: Name_of_Services_Pradhan_mantra_matru_vandan_yojna_en
+  examples: |
+    - Name of Services (Pradhan mantra matru vandan yojna) ?
+- intent: Documents_Required_Pradhan_mantra_matru_vandan_yojna_en
+  examples: |
+    - Documents Required (Pradhan mantra matru vandan yojna) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Pradhan_mantra_matru_vandan_yojna_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (Pradhan mantra matru vandan yojna) ?
+- intent: what_are_the_official_charges_fee_for_the_service_Pradhan_mantra_matru_vandan_yojna_en
+  examples: |
+    - what are the official charges / fee for the service (Pradhan mantra matru vandan yojna) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Pradhan_mantra_matru_vandan_yojna_en
+  examples: |
+    - How does one make the payment of service charges (Pradhan mantra matru vandan yojna) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Pradhan_mantra_matru_vandan_yojna_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Pradhan mantra matru vandan yojna) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Pradhan_mantra_matru_vandan_yojna_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Pradhan mantra matru vandan yojna) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Pradhan_mantra_matru_vandan_yojna_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (Pradhan mantra matru vandan yojna) ?
+- intent: Name_of_Services_Pre_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - Name of Services (Pre Matric Yashasvi Scholarship ) ?
+- intent: Documents_Required_Pre_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - Documents Required (Pre Matric Yashasvi Scholarship ) ?
+- intent: Format_and_size_of_the_uploaded_documents_Pre_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - Format and size of the uploaded documents (Pre Matric Yashasvi Scholarship ) ?
+- intent: what_are_the_official_charges_fee_for_the_service_Pre_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - what are the official charges / fee for the service (Pre Matric Yashasvi Scholarship ) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Pre_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - How does one make the payment of service charges (Pre Matric Yashasvi Scholarship ) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Pre_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Pre Matric Yashasvi Scholarship ) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Pre_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Pre Matric Yashasvi Scholarship) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Pre_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (Pre Matric Yashasvi Scholarship) ?
+- intent: Name_of_Services_Post_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - Name of Services (Post Matric Yashasvi Scholarship ) ?
+- intent: Documents_Required_Post_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - Documents Required (Post Matric Yashasvi Scholarship) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Post_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (Post Matric Yashasvi Scholarship ) ?
+- intent: what_are_the_official_charges_fee_for_the_service_Post_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - what are the official charges / fee for the service (Post Matric Yashasvi Scholarship ) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Post_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - How does one make the payment of service charges (Post Matric Yashasvi Scholarship ) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Post_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Post Matric Yashasvi Scholarship ) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Post_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Post Matric Yashasvi Scholarship ) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Post_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (Post Matric Yashasvi Scholarship ) ?
+- intent: Name_of_Services_Pre_matric_scholarship_to_minority_students_en
+  examples: |
+    - Name of Services (Pre matric scholarship to minority students.) ?
+- intent: Documents_Required_Pre_matric_scholarship_to_minority_students_en
+  examples: |
+    - Documents Required (Pre matric scholarship to minority students.) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Pre_matric_scholarship_to_minority_students_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (Pre matric scholarship to minority students.) ?
+- intent: what_are_the_official_charges_fee_for_the_service_Pre_matric_scholarship_to_minority_students_en
+  examples: |
+    - what are the official charges / fee for the service (Pre matric scholarship to minority students.) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Pre_matric_scholarship_to_minority_students_en
+  examples: |
+    - How does one make the payment of service charges (Pre matric scholarship to minority students.) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Pre_matric_scholarship_to_minority_students_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Pre matric scholarship to minority students.) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Pre_matric_scholarship_to_minority_students_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Pre matric scholarship to minority students.) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Pre_matric_scholarship_to_minority_students_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (Pre matric scholarship to minority students.) ?
+- intent: Name_of_Services_en
+  examples: |
+    - Name of Services () ?
+- intent: Documents_Required_Post_matric_scholarship_to_minority_students_en
+  examples: |
+    - Documents Required (Post matric scholarship to minority students.) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Post_matric_scholarship_to_minority_students_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (Post matric scholarship to minority students.) ?
+- intent: what_are_the_official_charges_fee_for_the_service_Post_matric_scholarship_to_minority_students_en
+  examples: |
+    - what are the official charges / fee for the service (Post matric scholarship to minority students.) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Post_matric_scholarship_to_minority_students_en
+  examples: |
+    - How does one make the payment of service charges (Post matric scholarship to minority students.) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Post_matric_scholarship_to_minority_students_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Post matric scholarship to minority students.) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Post_matric_scholarship_to_minority_students_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Post matric scholarship to minority students.) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Post_matric_scholarship_to_minority_students_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (Post matric scholarship to minority students.) ?
+- intent: Name_of_Services_Merit_Cum_Means_scholarship_to_Minority_students_en
+  examples: |
+    - Name of Services (Merit Cum Means scholarship to Minority students.) ?
+- intent: Documents_Required_Merit_Cum_Means_scholarship_to_Minority_students_en
+  examples: |
+    - Documents Required (Merit Cum Means scholarship to Minority students.) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Merit_Cum_Means_scholarship_to_Minority_students_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (Merit Cum Means scholarship to Minority students.) ?
+- intent: what_are_the_official_charges_fee_for_the_service_Merit_Cum_Means_scholarship_to_Minority_students_en
+  examples: |
+    - what are the official charges / fee for the service (Merit Cum Means scholarship to Minority students.) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Merit_Cum_Means_scholarship_to_Minority_students_en
+  examples: |
+    - How does one make the payment of service charges (Merit Cum Means scholarship to Minority students.) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Merit_Cum_Means_scholarship_to_Minority_students_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Merit Cum Means scholarship to Minority students.) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Merit_Cum_Means_scholarship_to_Minority_students_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Merit Cum Means scholarship to Minority students.) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Merit_Cum_Means_scholarship_to_Minority_students_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (Merit Cum Means scholarship to Minority students.) ?
+- intent: Name_of_Services_Pre_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - Name of Services (Pre Matric Scholarship to Disabled Students) ?
+- intent: Documents_Required_Pre_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - Documents Required (Pre Matric Scholarship to Disabled Students) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Pre_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (Pre Matric Scholarship to Disabled Students) ?
+- intent: what_are_the_official_charges_fee_for_the_service_Pre_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - what are the official charges / fee for the service (Pre Matric Scholarship to Disabled Students) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Pre_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - How does one make the payment of service charges (Pre Matric Scholarship to Disabled Students) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Pre_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Pre Matric Scholarship to Disabled Students) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Pre_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Pre Matric Scholarship to Disabled Students) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Pre_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (Pre Matric Scholarship to Disabled Students) ?
+- intent: Name_of_Services_Post_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - Name of Services (Post Matric Scholarship to Disabled Students.) ?
+- intent: Documents_Required_Post_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - Documents Required (Post Matric Scholarship to Disabled Students.) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Post_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (Post Matric Scholarship to Disabled Students.) ?
+- intent: what_are_the_official_charges_fee_for_the_service_Post_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - what are the official charges / fee for the service (Post Matric Scholarship to Disabled Students.) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Post_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - How does one make the payment of service charges (Post Matric Scholarship to Disabled Students.) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Post_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Post Matric Scholarship to Disabled Students.) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Post_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Post Matric Scholarship to Disabled Students.) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Post_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (Post Matric Scholarship to Disabled Students.) ?
+- intent: Name_of_Services_Top_Class_scholarship_to_Disabled_Students_en
+  examples: |
+    - Name of Services (Top Class scholarship to Disabled Students) ?
+- intent: Documents_Required_Top_Class_scholarship_to_Disabled_Students_en
+  examples: |
+    - Documents Required (Top Class scholarship to Disabled Students) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Top_Class_scholarship_to_Disabled_Students_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (Top Class scholarship to Disabled Students) ?
+- intent: what_are_the_official_charges_fee_for_the_service_Top_Class_scholarship_to_Disabled_Students_en
+  examples: |
+    - what are the official charges / fee for the service (Top Class scholarship to Disabled Students) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Top_Class_scholarship_to_Disabled_Students_en
+  examples: |
+    - How does one make the payment of service charges (Top Class scholarship to Disabled Students) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Top_Class_scholarship_to_Disabled_Students_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Top Class scholarship to Disabled Students) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Top_Class_scholarship_to_Disabled_Students_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Top Class scholarship to Disabled Students) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Top_Class_scholarship_to_Disabled_Students_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (Top Class scholarship to Disabled Students) ?
+- intent: Name_of_Services_Post_Matric_Scholarship_for_Pahari_Speaking_en
+  examples: |
+    - Name of Services (Post Matric Scholarship for Pahari Speaking ) ?
+- intent: Documents_Required_Post_Matric_Scholarship_for_Pahari_Speaking_en
+  examples: |
+    - Documents Required (Post Matric Scholarship for Pahari Speaking ) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Post_Matric_Scholarship_for_Pahari_Speaking_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (Post Matric Scholarship for Pahari Speaking ) ?
+- intent: what_are_the_official_charges_fee_for_the_service_Post_Matric_Scholarship_for_Pahari_Speaking_en
+  examples: |
+    - what are the official charges / fee for the service (Post Matric Scholarship for Pahari Speaking ) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Post_Matric_Scholarship_for_Pahari_Speaking_en
+  examples: |
+    - How does one make the payment of service charges (Post Matric Scholarship for Pahari Speaking ) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Post_Matric_Scholarship_for_Pahari_Speaking_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Post Matric Scholarship for Pahari Speaking ) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Post_Matric_Scholarship_for_Pahari_Speaking_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Post Matric Scholarship for Pahari Speaking ) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Post_Matric_Scholarship_for_Pahari_Speaking_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (Post Matric Scholarship for Pahari Speaking ) ?
+- intent: Name_of_Services_PM_Cares_en
+  examples: |
+    - Name of Services (PM Cares) ?
+- intent: Documents_Required_PM_Cares_en
+  examples: |
+    - Documents Required (PM Cares) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_PM_Cares_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (PM Cares) ?
+- intent: what_are_the_official_charges_fee_for_the_service_PM_Cares_en
+  examples: |
+    - what are the official charges / fee for the service (PM Cares) ?
+- intent: How_does_one_make_the_payment_of_service_charges_PM_Cares_en
+  examples: |
+    - How does one make the payment of service charges (PM Cares) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_PM_Cares_en
+  examples: |
+    - What is the  time limit for delivery of the service  (PM Cares) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_PM_Cares_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (PM Cares) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_PM_Cares_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (PM Cares) ?
+- intent: Name_of_Services_Pensions_for_Victims_of_Militancy_en
+  examples: |
+    - Name of Services (Pensions for Victims of Militancy) ?
+- intent: Documents_Required_Pensions_for_Victims_of_Militancy_en
+  examples: |
+    - Documents Required (Pensions for Victims of Militancy) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Pensions_for_Victims_of_Militancy_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (Pensions for Victims of Militancy) ?
+- intent: what_are_the_official_charges_fee_for_the_service_Pensions_for_Victims_of_Militancy_en
+  examples: |
+    - what are the official charges / fee for the service (Pensions for Victims of Militancy) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Pensions_for_Victims_of_Militancy_en
+  examples: |
+    - How does one make the payment of service charges (Pensions for Victims of Militancy) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Pensions_for_Victims_of_Militancy_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Pensions for Victims of Militancy) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Pensions_for_Victims_of_Militancy_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Pensions for Victims of Militancy) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Pensions_for_Victims_of_Militancy_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (Pensions for Victims of Militancy) ?
+- intent: Name_of_Services_Providing_of_motorized_Tricycle_scooty_en
+  examples: |
+    - Name of Services (Providing of motorized Tricycle (scooty)) ?
+- intent: Documents_Required_Providing_of_motorized_Tricycle_scooty_en
+  examples: |
+    - Documents Required (Providing of motorized Tricycle (scooty)) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Providing_of_motorized_Tricycle_scooty_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (Providing of motorized Tricycle (scooty)) ?
+- intent: what_are_the_official_charges_fee_for_the_service_Providing_of_motorized_Tricycle_scooty_en
+  examples: |
+    - what are the official charges / fee for the service (Providing of motorized Tricycle (scooty)) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Providing_of_motorized_Tricycle_scooty_en
+  examples: |
+    - How does one make the payment of service charges (Providing of motorized Tricycle (scooty)) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Providing_of_motorized_Tricycle_scooty_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Providing of motorized Tricycle (scooty)) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Providing_of_motorized_Tricycle_scooty_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Providing of motorized Tricycle (scooty)) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Providing_of_motorized_Tricycle_scooty_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (Providing of motorized Tricycle (scooty)) ?
+- intent: Name_of_Services_Marriage_Assistance_to_young_widows_and_grown_up_daughters_of_victims_of_miltancy_en
+  examples: |
+    - Name of Services (Marriage  Assistance to young widows  and  grown up daughters of victims of miltancy ) ?
+- intent: Documents_Required_Marriage_Assistance_to_young_widows_and_grown_up_daughters_of_victims_of_miltancy_en
+  examples: |
+    - Documents Required (Marriage  Assistance to young widows  and  grown up daughters of victims of miltancy ) ?
+- intent: Format_and_size_of_the_uploaded_documenst_Marriage_Assistance_to_young_widows_en
+  examples: |
+    - Format and size of the uploaded documenst (Marriage  Assistance to young widows) ?
+- intent: what_are_the_official_charges_fee_for_the_service_Marriage_Assistance_to_young_widows_en
+  examples: |
+    - what are the official charges / fee for the service (Marriage  Assistance to young widows) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Marriage_Assistance_to_young_widows_en
+  examples: |
+    - How does one make the payment of service charges (Marriage  Assistance to young widows ) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Marriage_Assistance_to_young_widows_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Marriage  Assistance to young widows ) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Marriage_Assistance_to_young_widows_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Marriage  Assistance to young widows ) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Marriage_Assistance_to_young_widows_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (Marriage  Assistance to young widows) ?
+- intent: Name_of_Services_Soft_loans_to_eligible_beneficaries_from_SC_ST_BC_Development_Corporation_en
+  examples: |
+    - Name of Services (Soft loans to eligible beneficaries from SC/ST/BC Development Corporation ) ?
+- intent: Documents_Required_Soft_loans_to_eligible_beneficaries_from_SC_ST_BC_Development_Corporation_en
+  examples: |
+    - Documents Required (Soft loans to eligible beneficaries from SC/ST/BC Development Corporation ) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Soft_loans_to_eligible_beneficaries_from_SC_ST_BC_DC_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (Soft loans to eligible beneficaries from SC/ST/BC DC ) ?
+- intent: what_are_the_official_charges_fee_for_the_service_Soft_loans_to_eligible_beneficaries_from_SC_ST_BC_DC_en
+  examples: |
+    - what are the official charges / fee for the service (Soft loans to eligible beneficaries from SC/ST/BC DC ) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Soft_loans_to_eligible_beneficaries_from_SC_ST_BC_DC_en
+  examples: |
+    - How does one make the payment of service charges (Soft loans to eligible beneficaries from SC/ST/BC DC ) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Soft_loans_to_eligible_beneficaries_from_SC_ST_BC_DC_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Soft loans to eligible beneficaries from SC/ST/BC DC ) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Soft_loans_to_eligible_beneficaries_from_SC_ST_BC_DC_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Soft loans to eligible beneficaries from SC/ST/BC DC ) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Soft_loans_to_eligible_beneficaries_from_SC_ST_BC_DC_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (Soft loans to eligible beneficaries from SC/ST/BC DC ) ?
+- intent: Name_of_Services_Soft_loans_to_eligible_beneficaries_from_WDC_en
+  examples: |
+    - Name of Services (Soft loans to eligible beneficaries from WDC ) ?
+- intent: Documents_Required_Soft_loans_to_eligible_beneficaries_from_WDC_en
+  examples: |
+    - Documents Required (Soft loans to eligible beneficaries from WDC ) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Soft_loans_to_eligible_beneficaries_from_WDC_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (Soft loans to eligible beneficaries from WDC ) ?
+- intent: what_are_the_official_charges_fee_for_the_service_Soft_loans_to_eligible_beneficaries_from_WDC_en
+  examples: |
+    - what are the official charges / fee for the service (Soft loans to eligible beneficaries from WDC ) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Soft_loans_to_eligible_beneficaries_from_WDC_en
+  examples: |
+    - How does one make the payment of service charges (Soft loans to eligible beneficaries from WDC ) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Soft_loans_to_eligible_beneficaries_from_WDC_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Soft loans to eligible beneficaries from WDC ) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Soft_loans_to_eligible_beneficaries_from_WDC_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Soft loans to eligible beneficaries from WDC ) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Soft_loans_to_eligible_beneficaries_from_WDC_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (Soft loans to eligible beneficaries from WDC ) ?
+- intent: Name_of_Services_Pre_Matric_Scholarship_to_SC_Students_9th_and_10th_en
+  examples: |
+    - Name of Services (Pre Matric Scholarship to SC Students(9th  and  10th )) ?
+- intent: Documents_Required_Pre_Matric_Scholarship_to_SC_Students_9th_and_10th_en
+  examples: |
+    - Documents Required (Pre Matric Scholarship to SC Students(9th  and  10th )) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Pre_Matric_Scholarship_to_SC_Students_9th_and_10th_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (Pre Matric Scholarship to SC Students(9th  and  10th )) ?
+- intent: what_are_the_official_charges_fee_for_the_service_Pre_Matric_Scholarship_to_SC_Students_9th_and_10th_en
+  examples: |
+    - what are the official charges / fee for the service (Pre Matric Scholarship to SC Students(9th  and  10th )) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Pre_Matric_Scholarship_to_SC_Students_9th_and_10th_en
+  examples: |
+    - How does one make the payment of service charges (Pre Matric Scholarship to SC Students(9th  and  10th )) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Pre_Matric_Scholarship_to_SC_Students_9th_and_10th_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Pre Matric Scholarship to SC Students(9th  and  10th )) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Pre_Matric_Scholarship_to_SC_Students_9th_and_10th_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Pre Matric Scholarship to SC Students(9th  and  10th )) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Pre_Matric_Scholarship_to_SC_Students_9th_and_10th_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority  (Pre Matric Scholarship to SC Students(9th  and  10th )) ?
+- intent: Name_of_Services_Post_Matric_Scholarship_to_SC_Students_en
+  examples: |
+    - Name of Services (Post  Matric Scholarship to SC Students) ?
+- intent: Documents_Required_Post_Matric_Scholarship_to_SC_Students_en
+  examples: |
+    - Documents Required (Post  Matric Scholarship to SC Students) ?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Post_Matric_Scholarship_to_SC_Students_en
+  examples: |
+    - What  should be the format and size of the uploaded documenst (Post  Matric Scholarship to SC Students) ?
+- intent: what_are_the_official_charges_fee_for_the_service_Post_Matric_Scholarship_to_SC_Students_en
+  examples: |
+    - what are the official charges / fee for the service (Post  Matric Scholarship to SC Students) ?
+- intent: How_does_one_make_the_payment_of_service_charges_Post_Matric_Scholarship_to_SC_Students_en
+  examples: |
+    - How does one make the payment of service charges (Post  Matric Scholarship to SC Students) ?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Post_Matric_Scholarship_to_SC_Students_en
+  examples: |
+    - What is the  time limit for delivery of the service  (Post  Matric Scholarship to SC Students) ?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Post_Matric_Scholarship_to_SC_Students_en
+  examples: |
+    - Which Officer/ Official is responsible for service delivery (Post  Matric Scholarship to SC Students) ?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Post_Matric_Scholarship_to_SC_Students_en
+  examples: |
+    - Which Officer/ official is the First Appellate Authority (Post  Matric Scholarship to SC Students) ?
+- intent: Name_of_Services_Old_age_pension_ISSS_en
+  examples: |
+    - सेवाओं का नाम (ओल्ड एज पेंशन (ISSS))?
+- intent: Documents_Required_Old_age_pension_ISSS_en
+  examples: |
+    - आवश्यक दस्तावेज (वृद्धावस्था पेंशन (ISSS))?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Old_age_pension_ISSS_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेनस्ट (ओल्ड एज पेंशन (ISSS)) का प्रारूप और आकार क्या होना चाहिए?
+- intent: what_are_the_official_charges_fee_for_the_service_Old_age_pension_ISSS_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (ओल्ड एज पेंशन (ISSS))?
+- intent: How_does_one_make_the_payment_of_service_charges_Old_age_pension_ISSS_en
+  examples: |
+    - कोई सेवा शुल्क (ओल्ड एज पेंशन (ISSS)) का भुगतान कैसे करता है?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Old_age_pension_ISSS_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा (ओल्ड एज पेंशन (ISSS)) क्या है?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Old_age_pension_ISSS_en
+  examples: |
+    - सेवा वितरण (ओल्ड एज पेंशन (ISSS)) के लिए कौन सा अधिकारी/ अधिकारी जिम्मेदार है?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Old_age_pension_ISSS_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण (ओल्ड एज पेंशन (ISSS)) है?
+- intent: Name_of_Services_Old_age_pension_ISSS_en
+  examples: |
+    - सेवाओं का नाम (ओल्ड एज पेंशन (ISSS))?
+- intent: Documents_Required_Women_in_Distress_ISSS_en
+  examples: |
+    - आवश्यक दस्तावेज (संकट में महिलाएं (ISSS))?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Women_in_Distress_ISSS_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेंट (संकट में महिला (ISSS)) का प्रारूप और आकार क्या होना चाहिए?
+- intent: what_are_the_official_charges_fee_for_the_service_Women_in_Distress_ISSS_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क (संकट में महिला (ISSS)) क्या हैं?
+- intent: How_does_one_make_the_payment_of_service_charges_Women_in_Distress_ISSS_en
+  examples: |
+    - कोई सेवा शुल्क (संकट में महिला (ISSS)) का भुगतान कैसे करता है?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Women_in_Distress_ISSS_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा (संकट में महिला (ISSS)) क्या है?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Women_in_Distress_ISSS_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी सेवा वितरण (संकट में महिला (ISSS)) के लिए जिम्मेदार है?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Women_in_Distress_ISSS_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण (संकट में महिला (ISSS)) है?
+- intent: Name_of_Services_Specially_abled_person_ISSS_en
+  examples: |
+    - सेवाओं का नाम (विशेष रूप से abled व्यक्ति (ISSS))?
+- intent: Documents_Required_Specially_abled_person_ISSS_en
+  examples: |
+    - आवश्यक दस्तावेज (विशेष रूप से abled व्यक्ति (ISSS))?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Specially_abled_person_ISSS_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेनस्ट (विशेष रूप से एबल्ड पर्सन (ISSS)) का प्रारूप और आकार क्या होना चाहिए?
+- intent: what_are_the_official_charges_fee_for_the_service_Specially_abled_person_ISSS_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (विशेष रूप से एबल्ड व्यक्ति (ISSS))?
+- intent: How_does_one_make_the_payment_of_service_charges_Specially_abled_person_ISSS_en
+  examples: |
+    - कोई सेवा शुल्क का भुगतान कैसे करता है (विशेष रूप से abled व्यक्ति (ISSS))?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Specially_abled_person_ISSS_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा क्या है (विशेष रूप से एबल्ड व्यक्ति (ISSS))?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Specially_abled_person_ISSS_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी सेवा वितरण के लिए जिम्मेदार है (विशेष रूप से ABLED व्यक्ति (ISSS))?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Specially_abled_person_ISSS_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण है (विशेष रूप से एबल्ड व्यक्ति (ISSS))?
+- intent: Name_of_Services_Transgender_ISSS_en
+  examples: |
+    - सेवाओं का नाम (ट्रांसजेंडर (ISSS))?
+- intent: Documents_Required_Transgender_ISSS_en
+  examples: |
+    - आवश्यक दस्तावेज (ट्रांसजेंडर (ISSS))?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Transgender_ISSS_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेंट (ट्रांसजेंडर (ISSS)) का प्रारूप और आकार क्या होना चाहिए?
+- intent: what_are_the_official_charges_fee_for_the_service_Transgender_ISSS_en
+  examples: |
+    - सेवा (ट्रांसजेंडर (ISSS)) के लिए आधिकारिक शुल्क / शुल्क क्या हैं?
+- intent: How_does_one_make_the_payment_of_service_charges_Transgender_ISSS_en
+  examples: |
+    - कोई सेवा शुल्क (ट्रांसजेंडर (ISSS)) का भुगतान कैसे करता है?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Transgender_ISSS_en
+  examples: |
+    - सेवा (ट्रांसजेंडर (ISSS)) के वितरण के लिए समय सीमा क्या है?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Transgender_ISSS_en
+  examples: |
+    - सेवा वितरण (ट्रांसजेंडर (ISSS)) के लिए कौन सा अधिकारी/ अधिकारी जिम्मेदार है?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Transgender_ISSS_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण (ट्रांसजेंडर (ISSS)) है?
+- intent: Name_of_Services_Indira_Gandhi_National_Old_Age_Pension_Scheme_en
+  examples: |
+    - सेवाओं का नाम (इंदिरा गांधी नेशनल ओल्ड एज पेंशन स्कीम)?
+- intent: Documents_Required_Indira_Gandhi_National_Old_Age_Pension_Scheme_en
+  examples: |
+    - दस्तावेज आवश्यक (इंदिरा गांधी राष्ट्रीय वृद्धावस्था पेंशन योजना)?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Indira_Gandhi_National_Old_Age_Pension_Scheme_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेनस्ट (इंदिरा गांधी नेशनल ओल्ड एज पेंशन स्कीम) का प्रारूप और आकार क्या होना चाहिए?
+- intent: What_are_the_official_charges_fee_for_the_service_Indira_Gandhi_National_Old_Age_Pension_Scheme_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (इंदिरा गांधी नेशनल ओल्ड एज पेंशन योजना)?
+- intent: How_does_one_make_the_payment_of_service_charges_Indira_Gandhi_National_Old_Age_Pension_Scheme_en
+  examples: |
+    - कोई सेवा शुल्क का भुगतान कैसे करता है (इंदिरा गांधी नेशनल ओल्ड एज पेंशन योजना)?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Indira_Gandhi_National_Old_Age_Pension_Scheme_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा क्या है (इंदिरा गांधी नेशनल ओल्ड एज पेंशन योजना)?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Indira_Gandhi_National_Old_Age_Pension_Scheme_en
+  examples: |
+    - सेवा वितरण (इंदिरा गांधी नेशनल ओल्ड एज पेंशन योजना) के लिए कौन सा अधिकारी/ अधिकारी जिम्मेदार है?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Indira_Gandhi_National_Old_Age_Pension_Scheme_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण है (इंदिरा गांधी नेशनल ओल्ड एज पेंशन योजना)?
+- intent: Name_of_Services_Indira_Gandhi_national_widow_pension_scheme_en
+  examples: |
+    - सेवाओं का नाम (इंदिरा गांधी राष्ट्रीय विधवा पेंशन योजना)?
+- intent: Documents_Required_Indira_Gandhi_national_widow_pension_scheme_en
+  examples: |
+    - दस्तावेज आवश्यक (इंदिरा गांधी राष्ट्रीय विधवा पेंशन योजना)?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Indira_Gandhi_national_widow_pension_scheme_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेनस्ट (इंदिरा गांधी राष्ट्रीय विधवा पेंशन योजना) का प्रारूप और आकार क्या होना चाहिए?
+- intent: what_are_the_official_charges_fee_for_the_service_Indira_Gandhi_national_widow_pension_scheme_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (इंदिरा गांधी राष्ट्रीय विधवा पेंशन योजना)?
+- intent: How_does_one_make_the_payment_of_service_charges_Indira_Gandhi_national_widow_pension_scheme_en
+  examples: |
+    - कोई सेवा शुल्क का भुगतान कैसे करता है (इंदिरा गांधी राष्ट्रीय विधवा पेंशन योजना)?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Indira_Gandhi_national_widow_pension_scheme_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा क्या है (इंदिरा गांधी राष्ट्रीय विधवा पेंशन योजना)?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Indira_Gandhi_national_widow_pension_scheme_en
+  examples: |
+    - सेवा वितरण (इंदिरा गांधी राष्ट्रीय विधवा पेंशन योजना) के लिए कौन सा अधिकारी/ अधिकारी जिम्मेदार है?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Indira_Gandhi_national_widow_pension_scheme_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण है (इंदिरा गांधी राष्ट्रीय विधवा पेंशन योजना)?
+- intent: Name_of_Services_Indira_Gandhi_national_disability_pension_scheme_en
+  examples: |
+    - सेवाओं का नाम (इंदिरा गांधी राष्ट्रीय विकलांगता पेंशन योजना)?
+- intent: Documents_Required_Indira_Gandhi_national_disability_pension_scheme_en
+  examples: |
+    - दस्तावेज आवश्यक (इंदिरा गांधी राष्ट्रीय विकलांगता पेंशन योजना)?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Indira_Gandhi_national_disability_pension_scheme_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेनस्ट (इंदिरा गांधी राष्ट्रीय विकलांगता पेंशन योजना) का प्रारूप और आकार क्या होना चाहिए?
+- intent: what_are_the_official_charges_fee_for_the_service_Indira_Gandhi_national_disability_pension_scheme_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (इंदिरा गांधी राष्ट्रीय विकलांगता पेंशन योजना)?
+- intent: How_does_one_make_the_payment_of_service_charges_Indira_Gandhi_national_disability_pension_scheme_en
+  examples: |
+    - कोई सेवा शुल्क का भुगतान कैसे करता है (इंदिरा गांधी राष्ट्रीय विकलांगता पेंशन योजना)?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Indira_Gandhi_national_disability_pension_scheme_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा क्या है (इंदिरा गांधी राष्ट्रीय विकलांगता पेंशन योजना)?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Indira_Gandhi_national_disability_pension_scheme_en
+  examples: |
+    - सेवा वितरण (इंदिरा गांधी राष्ट्रीय विकलांगता पेंशन योजना) के लिए कौन सा अधिकारी/ अधिकारी जिम्मेदार है?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Indira_Gandhi_national_disability_pension_scheme_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण है (इंदिरा गांधी राष्ट्रीय विकलांगता पेंशन योजना)?
+- intent: Name_of_Services_National_Family_Benefit_Scheme_NFBS_en
+  examples: |
+    - सेवाओं का नाम (राष्ट्रीय परिवार लाभ योजना (NFBS))?
+- intent: Documents_Required_National_Family_Benefit_Scheme_NFBS_en
+  examples: |
+    - आवश्यक दस्तावेज (राष्ट्रीय परिवार लाभ योजना (NFBS))?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_National_Family_Benefit_Scheme_NFBS_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेनस्ट (नेशनल फैमिली बेनिफिट स्कीम (एनएफबीएस)) का प्रारूप और आकार क्या होना चाहिए?
+- intent: what_are_the_official_charges_fee_for_the_service_National_Family_Benefit_Scheme_NFBS_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (राष्ट्रीय परिवार लाभ योजना (NFBS))?
+- intent: How_does_one_make_the_payment_of_service_charges_National_Family_Benefit_Scheme_NFBS_en
+  examples: |
+    - कोई सेवा शुल्क का भुगतान कैसे करता है (राष्ट्रीय परिवार लाभ योजना (NFBS))?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_National_Family_Benefit_Scheme_NFBS_en
+  examples: |
+    - सेवा की डिलीवरी के लिए समय सीमा (नेशनल फैमिली बेनिफिट स्कीम (NFBS)) क्या है?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_National_Family_Benefit_Scheme_NFBS_en
+  examples: |
+    - सेवा वितरण (राष्ट्रीय परिवार लाभ योजना (NFBS)) के लिए कौन सा अधिकारी/ अधिकारी जिम्मेदार है?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_National_Family_Benefit_Scheme_NFBS_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण (राष्ट्रीय परिवार लाभ योजना (NFBS)) है?
+- intent: Name_of_Services_State_Marriage_Assistance_Scheme_en
+  examples: |
+    - सेवाओं का नाम (राज्य विवाह सहायता योजना।)?
+- intent: Documents_Required_State_Marriage_Assistance_Scheme_en
+  examples: |
+    - आवश्यक दस्तावेज (राज्य विवाह सहायता योजना।)?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_State_Marriage_Assistance_Scheme_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेनस्ट (राज्य विवाह सहायता योजना) का प्रारूप और आकार क्या होना चाहिए?
+- intent: what_are_the_official_charges_fee_for_the_service_State_Marriage_Assistance_Scheme_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (राज्य विवाह सहायता योजना।)?
+- intent: How_does_one_make_the_payment_of_service_charges_State_Marriage_Assistance_Scheme_en
+  examples: |
+    - कोई सेवा शुल्क का भुगतान कैसे करता है (राज्य विवाह सहायता योजना।)?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_State_Marriage_Assistance_Scheme_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा क्या है (राज्य विवाह सहायता योजना।)?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_State_Marriage_Assistance_Scheme_en
+  examples: |
+    - सेवा वितरण (राज्य विवाह सहायता योजना) के लिए कौन सा अधिकारी/ अधिकारी जिम्मेदार है?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_State_Marriage_Assistance_Scheme_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण है (राज्य विवाह सहायता योजना।)?
+- intent: Name_of_Services_Ladli_Beti_en
+  examples: |
+    - सेवाओं का नाम (लाडली बीटी)?
+- intent: Documents_Required_Ladli_Beti_en
+  examples: |
+    - दस्तावेज आवश्यक (लाडली बीटी)?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Ladli_Beti_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेनस्ट (लाडली बीटी) का प्रारूप और आकार क्या होना चाहिए?
+- intent: what_are_the_official_charges_fee_for_the_service_Ladli_Beti_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (लाडली बीटी)?
+- intent: How_does_one_make_the_payment_of_service_charges_Ladli_Beti_en
+  examples: |
+    - कोई सेवा शुल्क का भुगतान कैसे करता है (लाडली बीटी)?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Ladli_Beti_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा (लाडली बेती) क्या है?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Ladli_Beti_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी सेवा वितरण (लाडली बीटी) के लिए जिम्मेदार है?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Ladli_Beti_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण (लाडली बीटी) है?
+- intent: Name_of_Services_Pradhan_mantra_matru_vandan_yojna_en
+  examples: |
+    - सेवाओं का नाम (प्रधान मंत्र माट्रू वंदन योजना)?
+- intent: Documents_Required_Pradhan_mantra_matru_vandan_yojna_en
+  examples: |
+    - दस्तावेज आवश्यक (प्रधान मंत्र माट्रू वंदन योजना)?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Pradhan_mantra_matru_vandan_yojna_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेनस्ट (प्रधान मंत्र माट्रू वंदन योजना) का प्रारूप और आकार क्या होना चाहिए?
+- intent: what_are_the_official_charges_fee_for_the_service_Pradhan_mantra_matru_vandan_yojna_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (प्रधान मंत्र माट्रू वंदन योजना)?
+- intent: How_does_one_make_the_payment_of_service_charges_Pradhan_mantra_matru_vandan_yojna_en
+  examples: |
+    - कोई सेवा शुल्क का भुगतान कैसे करता है (प्रधान मंत्र माट्रू वंदन योजना)?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Pradhan_mantra_matru_vandan_yojna_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा क्या है (प्रधान मंत्र माट्रू वंदन योजना)?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Pradhan_mantra_matru_vandan_yojna_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी सेवा वितरण के लिए जिम्मेदार है (प्रधान मंत्र माट्रू वंदन योजना)?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Pradhan_mantra_matru_vandan_yojna_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण है (प्रधान मंत्र मटरू वंदन योजना)?
+- intent: Name_of_Services_Pre_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - सेवाओं का नाम (पूर्व मैट्रिक यशसवी छात्रवृत्ति)?
+- intent: Documents_Required_Pre_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - दस्तावेज आवश्यक (पूर्व मैट्रिक यशसवी छात्रवृत्ति)?
+- intent: Format_and_size_of_the_uploaded_documents_Pre_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - अपलोड किए गए दस्तावेजों का प्रारूप और आकार (पूर्व मैट्रिक यशसवी छात्रवृत्ति)?
+- intent: what_are_the_official_charges_fee_for_the_service_Pre_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (पूर्व मैट्रिक यशसवी छात्रवृत्ति)?
+- intent: How_does_one_make_the_payment_of_service_charges_Pre_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - कोई सेवा शुल्क का भुगतान कैसे करता है (पूर्व मैट्रिक यशसवी छात्रवृत्ति)?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Pre_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा क्या है (पूर्व मैट्रिक यशसवी छात्रवृत्ति)?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Pre_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - सेवा वितरण (पूर्व मैट्रिक यशसवी छात्रवृत्ति) के लिए कौन सा अधिकारी/ अधिकारी जिम्मेदार है?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Pre_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण है (पूर्व मैट्रिक यशसवी छात्रवृत्ति)?
+- intent: Name_of_Services_Post_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - सेवाओं का नाम (पोस्ट मैट्रिक यशसवी छात्रवृत्ति)?
+- intent: Documents_Required_Post_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - आवश्यक दस्तावेज (पोस्ट मैट्रिक यशसवी छात्रवृत्ति)?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Post_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेनस्ट (पोस्ट मैट्रिक यशसवी छात्रवृत्ति) का प्रारूप और आकार क्या होना चाहिए?
+- intent: what_are_the_official_charges_fee_for_the_service_Post_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (पोस्ट मैट्रिक यशसवी छात्रवृत्ति)?
+- intent: How_does_one_make_the_payment_of_service_charges_Post_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - कोई सेवा शुल्क का भुगतान कैसे करता है (पोस्ट मैट्रिक यशसवी छात्रवृत्ति)?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Post_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा क्या है (पोस्ट मैट्रिक यशसवी छात्रवृत्ति)?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Post_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - सेवा वितरण (पोस्ट मैट्रिक यशसवी छात्रवृत्ति) के लिए कौन सा अधिकारी/ अधिकारी जिम्मेदार है?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Post_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण है (पोस्ट मैट्रिक यशसवी छात्रवृत्ति)?
+- intent: Name_of_Services_Pre_matric_scholarship_to_minority_students_en
+  examples: |
+    - सेवाओं का नाम (अल्पसंख्यक छात्रों के लिए पूर्व मैट्रिक छात्रवृत्ति।)?
+- intent: Documents_Required_Pre_matric_scholarship_to_minority_students_en
+  examples: |
+    - दस्तावेजों की आवश्यकता (अल्पसंख्यक छात्रों के लिए पूर्व मैट्रिक छात्रवृत्ति।)?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Pre_matric_scholarship_to_minority_students_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेनस्ट (अल्पसंख्यक छात्रों के लिए पूर्व मैट्रिक छात्रवृत्ति) का प्रारूप और आकार क्या होना चाहिए।
+- intent: what_are_the_official_charges_fee_for_the_service_Pre_matric_scholarship_to_minority_students_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (अल्पसंख्यक छात्रों के लिए पूर्व मैट्रिक छात्रवृत्ति।)?
+- intent: How_does_one_make_the_payment_of_service_charges_Pre_matric_scholarship_to_minority_students_en
+  examples: |
+    - कोई सेवा शुल्क का भुगतान कैसे करता है (अल्पसंख्यक छात्रों के लिए पूर्व मैट्रिक छात्रवृत्ति।)?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Pre_matric_scholarship_to_minority_students_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा क्या है (अल्पसंख्यक छात्रों के लिए पूर्व मैट्रिक छात्रवृत्ति।)?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Pre_matric_scholarship_to_minority_students_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी सेवा वितरण के लिए जिम्मेदार है (अल्पसंख्यक छात्रों के लिए पूर्व मैट्रिक छात्रवृत्ति।)?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Pre_matric_scholarship_to_minority_students_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण है (अल्पसंख्यक छात्रों के लिए पूर्व मैट्रिक छात्रवृत्ति।)?
+- intent: Name_of_Services_en
+  examples: |
+    - सेवाओं का नाम ()?
+- intent: Documents_Required_Post_matric_scholarship_to_minority_students_en
+  examples: |
+    - दस्तावेजों की आवश्यकता (अल्पसंख्यक छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति।)?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Post_matric_scholarship_to_minority_students_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेनस्ट (अल्पसंख्यक छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति) का प्रारूप और आकार क्या होना चाहिए।
+- intent: what_are_the_official_charges_fee_for_the_service_Post_matric_scholarship_to_minority_students_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (अल्पसंख्यक छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति।)?
+- intent: How_does_one_make_the_payment_of_service_charges_Post_matric_scholarship_to_minority_students_en
+  examples: |
+    - कोई सेवा शुल्क का भुगतान कैसे करता है (अल्पसंख्यक छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति।)?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Post_matric_scholarship_to_minority_students_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा क्या है (अल्पसंख्यक छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति।)?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Post_matric_scholarship_to_minority_students_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी सेवा वितरण के लिए जिम्मेदार है (अल्पसंख्यक छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति।)?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Post_matric_scholarship_to_minority_students_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण है (अल्पसंख्यक छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति।)?
+- intent: Name_of_Services_Merit_Cum_Means_scholarship_to_Minority_students_en
+  examples: |
+    - सेवाओं का नाम (मेरिट सह का अर्थ है अल्पसंख्यक छात्रों के लिए छात्रवृत्ति।)?
+- intent: Documents_Required_Merit_Cum_Means_scholarship_to_Minority_students_en
+  examples: |
+    - आवश्यक दस्तावेज (मेरिट सह का अर्थ है अल्पसंख्यक छात्रों के लिए छात्रवृत्ति।)?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Merit_Cum_Means_scholarship_to_Minority_students_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेनस्ट (मेरिट सह का अर्थ है अल्पसंख्यक छात्रों के लिए छात्रवृत्ति का प्रारूप और आकार क्या होना चाहिए।)।
+- intent: what_are_the_official_charges_fee_for_the_service_Merit_Cum_Means_scholarship_to_Minority_students_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (मेरिट सह का अर्थ है अल्पसंख्यक छात्रों के लिए छात्रवृत्ति।)।
+- intent: How_does_one_make_the_payment_of_service_charges_Merit_Cum_Means_scholarship_to_Minority_students_en
+  examples: |
+    - कोई सेवा शुल्क का भुगतान कैसे करता है (मेरिट सह का अर्थ है अल्पसंख्यक छात्रों के लिए छात्रवृत्ति।)।
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Merit_Cum_Means_scholarship_to_Minority_students_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा क्या है (मेरिट सह का अर्थ है अल्पसंख्यक छात्रों के लिए छात्रवृत्ति।)।
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Merit_Cum_Means_scholarship_to_Minority_students_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी सेवा वितरण के लिए जिम्मेदार है (मेरिट सह का अर्थ है अल्पसंख्यक छात्रों के लिए छात्रवृत्ति।)।
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Merit_Cum_Means_scholarship_to_Minority_students_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण है (मेरिट सह का अर्थ है अल्पसंख्यक छात्रों के लिए छात्रवृत्ति।)।
+- intent: Name_of_Services_Pre_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - सेवाओं का नाम (विकलांग छात्रों के लिए पूर्व मैट्रिक छात्रवृत्ति)?
+- intent: Documents_Required_Pre_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - आवश्यक दस्तावेज (विकलांग छात्रों के लिए पूर्व मैट्रिक छात्रवृत्ति)?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Pre_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेनस्ट (विकलांग छात्रों के लिए पूर्व मैट्रिक छात्रवृत्ति) का प्रारूप और आकार क्या होना चाहिए?
+- intent: what_are_the_official_charges_fee_for_the_service_Pre_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (विकलांग छात्रों के लिए पूर्व मैट्रिक छात्रवृत्ति)?
+- intent: How_does_one_make_the_payment_of_service_charges_Pre_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - कोई सेवा शुल्क का भुगतान कैसे करता है (विकलांग छात्रों के लिए पूर्व मैट्रिक छात्रवृत्ति)?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Pre_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा क्या है (विकलांग छात्रों के लिए पूर्व मैट्रिक छात्रवृत्ति)?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Pre_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी सेवा वितरण (विकलांग छात्रों के लिए पूर्व मैट्रिक छात्रवृत्ति) के लिए जिम्मेदार है?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Pre_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण है (विकलांग छात्रों के लिए पूर्व मैट्रिक छात्रवृत्ति)?
+- intent: Name_of_Services_Post_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - सेवाओं का नाम (विकलांग छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति।)?
+- intent: Documents_Required_Post_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - आवश्यक दस्तावेज (विकलांग छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति।)?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Post_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेनस्ट (विकलांग छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति) का प्रारूप और आकार क्या होना चाहिए।
+- intent: what_are_the_official_charges_fee_for_the_service_Post_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (विकलांग छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति।)?
+- intent: How_does_one_make_the_payment_of_service_charges_Post_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - कोई सेवा शुल्क का भुगतान कैसे करता है (विकलांग छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति।)?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Post_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा क्या है (विकलांग छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति।)?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Post_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी सेवा वितरण के लिए जिम्मेदार है (विकलांग छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति।)?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Post_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण है (विकलांग छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति।)?
+- intent: Name_of_Services_Top_Class_scholarship_to_Disabled_Students_en
+  examples: |
+    - सेवाओं का नाम (विकलांग छात्रों के लिए शीर्ष वर्ग छात्रवृत्ति)?
+- intent: Documents_Required_Top_Class_scholarship_to_Disabled_Students_en
+  examples: |
+    - आवश्यक दस्तावेज (विकलांग छात्रों के लिए शीर्ष वर्ग छात्रवृत्ति)?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Top_Class_scholarship_to_Disabled_Students_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेनस्ट (विकलांग छात्रों के लिए शीर्ष वर्ग छात्रवृत्ति) का प्रारूप और आकार क्या होना चाहिए?
+- intent: what_are_the_official_charges_fee_for_the_service_Top_Class_scholarship_to_Disabled_Students_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (विकलांग छात्रों के लिए शीर्ष वर्ग छात्रवृत्ति)?
+- intent: How_does_one_make_the_payment_of_service_charges_Top_Class_scholarship_to_Disabled_Students_en
+  examples: |
+    - कोई सेवा शुल्क का भुगतान कैसे करता है (विकलांग छात्रों के लिए शीर्ष वर्ग छात्रवृत्ति)?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Top_Class_scholarship_to_Disabled_Students_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा (विकलांग छात्रों के लिए शीर्ष वर्ग छात्रवृत्ति) की समय सीमा क्या है?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Top_Class_scholarship_to_Disabled_Students_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी सेवा वितरण (विकलांग छात्रों के लिए शीर्ष वर्ग छात्रवृत्ति) के लिए जिम्मेदार है?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Top_Class_scholarship_to_Disabled_Students_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण है (विकलांग छात्रों के लिए शीर्ष वर्ग छात्रवृत्ति)?
+- intent: Name_of_Services_Post_Matric_Scholarship_for_Pahari_Speaking_en
+  examples: |
+    - सेवाओं का नाम (पाहारी बोलने के लिए पोस्ट मैट्रिक छात्रवृत्ति)?
+- intent: Documents_Required_Post_Matric_Scholarship_for_Pahari_Speaking_en
+  examples: |
+    - दस्तावेजों की आवश्यकता (पाहारी बोलने के लिए पोस्ट मैट्रिक छात्रवृत्ति)?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Post_Matric_Scholarship_for_Pahari_Speaking_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेनस्ट (पोस्ट मैट्रिक स्कॉलरशिप फॉर पाहरी स्पीकिंग) का प्रारूप और आकार क्या होना चाहिए?
+- intent: what_are_the_official_charges_fee_for_the_service_Post_Matric_Scholarship_for_Pahari_Speaking_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (पाहारी बोलने के लिए पोस्ट मैट्रिक छात्रवृत्ति)?
+- intent: How_does_one_make_the_payment_of_service_charges_Post_Matric_Scholarship_for_Pahari_Speaking_en
+  examples: |
+    - कोई सेवा शुल्क का भुगतान कैसे करता है (पाहारी बोलने के लिए पोस्ट मैट्रिक छात्रवृत्ति)?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Post_Matric_Scholarship_for_Pahari_Speaking_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा क्या है (पाहारी बोलने के लिए पोस्ट मैट्रिक छात्रवृत्ति)?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Post_Matric_Scholarship_for_Pahari_Speaking_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी सेवा वितरण के लिए जिम्मेदार है (पाहारी बोलने के लिए पोस्ट मैट्रिक छात्रवृत्ति)?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Post_Matric_Scholarship_for_Pahari_Speaking_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण है (पाहारी बोलने के लिए पोस्ट मैट्रिक छात्रवृत्ति)?
+- intent: Name_of_Services_PM_Cares_en
+  examples: |
+    - सेवाओं का नाम (पीएम परवाह)?
+- intent: Documents_Required_PM_Cares_en
+  examples: |
+    - दस्तावेज आवश्यक (पीएम परवाह)?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_PM_Cares_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेनस्ट (पीएम परवाह) का प्रारूप और आकार क्या होना चाहिए?
+- intent: what_are_the_official_charges_fee_for_the_service_PM_Cares_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (पीएम परवाह)?
+- intent: How_does_one_make_the_payment_of_service_charges_PM_Cares_en
+  examples: |
+    - कोई सेवा शुल्क (पीएम परवाह) का भुगतान कैसे करता है?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_PM_Cares_en
+  examples: |
+    - सेवा की डिलीवरी (पीएम परवाह) के लिए समय सीमा क्या है?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_PM_Cares_en
+  examples: |
+    - सेवा वितरण (पीएम परवाह) के लिए कौन सा अधिकारी/ अधिकारी जिम्मेदार है?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_PM_Cares_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण (पीएम परवाह) है?
+- intent: Name_of_Services_Pensions_for_Victims_of_Militancy_en
+  examples: |
+    - सेवाओं का नाम (उग्रवाद के पीड़ितों के लिए पेंशन)?
+- intent: Documents_Required_Pensions_for_Victims_of_Militancy_en
+  examples: |
+    - आवश्यक दस्तावेज (उग्रवाद के पीड़ितों के लिए पेंशन)?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Pensions_for_Victims_of_Militancy_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेंट (उग्रवाद के पीड़ितों के लिए पेंशन) का प्रारूप और आकार क्या होना चाहिए?
+- intent: what_are_the_official_charges_fee_for_the_service_Pensions_for_Victims_of_Militancy_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (उग्रवाद के पीड़ितों के लिए पेंशन)?
+- intent: How_does_one_make_the_payment_of_service_charges_Pensions_for_Victims_of_Militancy_en
+  examples: |
+    - कोई सेवा शुल्क (उग्रवाद के पीड़ितों के लिए पेंशन) का भुगतान कैसे करता है?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Pensions_for_Victims_of_Militancy_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा (उग्रवाद के पीड़ितों के लिए पेंशन) क्या है?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Pensions_for_Victims_of_Militancy_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी सेवा वितरण (उग्रवाद के पीड़ितों के लिए पेंशन) के लिए जिम्मेदार है?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Pensions_for_Victims_of_Militancy_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण है (उग्रवाद के पीड़ितों के लिए पेंशन)?
+- intent: Name_of_Services_Providing_of_motorized_Tricycle_scooty_en
+  examples: |
+    - सेवाओं का नाम (मोटराइज्ड ट्राइसाइकिल (स्कूटी) प्रदान करना)?
+- intent: Documents_Required_Providing_of_motorized_Tricycle_scooty_en
+  examples: |
+    - आवश्यक दस्तावेज (मोटराइज्ड ट्राइसाइकिल (स्कूटी) प्रदान करना)?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Providing_of_motorized_Tricycle_scooty_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेनस्ट (मोटराइज्ड ट्राइसाइकिल (स्कूटी)) का प्रारूप और आकार क्या होना चाहिए?
+- intent: what_are_the_official_charges_fee_for_the_service_Providing_of_motorized_Tricycle_scooty_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (मोटराइज्ड ट्राइसाइकिल (स्कूटी) प्रदान करना)?
+- intent: How_does_one_make_the_payment_of_service_charges_Providing_of_motorized_Tricycle_scooty_en
+  examples: |
+    - कोई सेवा शुल्क का भुगतान कैसे करता है (मोटर चालित तिपहिया (स्कूटी) प्रदान करता है)?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Providing_of_motorized_Tricycle_scooty_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा क्या है (मोटराइज्ड ट्राइसाइकिल (स्कूटी) प्रदान करना)?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Providing_of_motorized_Tricycle_scooty_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी सेवा वितरण (मोटराइज्ड ट्राइसाइकिल (स्कूटी) प्रदान करने के लिए) के लिए जिम्मेदार है?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Providing_of_motorized_Tricycle_scooty_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण है (मोटराइज्ड ट्राइसाइकिल (स्कूटी) प्रदान करना)?
+- intent: Name_of_Services_Marriage_Assistance_to_young_widows_and_grown_up_daughters_of_victims_of_miltancy_en
+  examples: |
+    - सेवाओं का नाम (युवा विधवाओं को विवाह सहायता और मिल्टेंसी के पीड़ितों की बेटियों को बड़ा किया गया)?
+- intent: Documents_Required_Marriage_Assistance_to_young_widows_and_grown_up_daughters_of_victims_of_miltancy_en
+  examples: |
+    - दस्तावेजों की आवश्यकता (युवा विधवाओं के लिए विवाह सहायता और मिल्टेंसी के पीड़ितों की बेटियों को बड़ा किया गया)?
+- intent: Format_and_size_of_the_uploaded_documenst_Marriage_Assistance_to_young_widows_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेंट का प्रारूप और आकार (युवा विधवाओं को विवाह सहायता)?
+- intent: what_are_the_official_charges_fee_for_the_service_Marriage_Assistance_to_young_widows_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (युवा विधवाओं को विवाह सहायता)?
+- intent: How_does_one_make_the_payment_of_service_charges_Marriage_Assistance_to_young_widows_en
+  examples: |
+    - कोई सेवा शुल्क का भुगतान कैसे करता है (युवा विधवाओं को विवाह सहायता)?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Marriage_Assistance_to_young_widows_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा क्या है (युवा विधवाओं को विवाह सहायता)?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Marriage_Assistance_to_young_widows_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी सेवा वितरण (युवा विधवाओं को विवाह सहायता) के लिए जिम्मेदार है?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Marriage_Assistance_to_young_widows_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण है (युवा विधवाओं को विवाह सहायता)?
+- intent: Name_of_Services_Soft_loans_to_eligible_beneficaries_from_SC_ST_BC_Development_Corporation_en
+  examples: |
+    - सेवाओं का नाम (SC/ST/BC डेवलपमेंट कॉरपोरेशन से पात्र लाभार्थियों के लिए सॉफ्ट लोन)?
+- intent: Documents_Required_Soft_loans_to_eligible_beneficaries_from_SC_ST_BC_Development_Corporation_en
+  examples: |
+    - आवश्यक दस्तावेज (SC/ST/BC डेवलपमेंट कॉरपोरेशन से पात्र लाभार्थियों के लिए सॉफ्ट लोन)?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Soft_loans_to_eligible_beneficaries_from_SC_ST_BC_DC_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेनस्ट (एससी/एसटी/बीसी डीसी से पात्र लाभार्थियों के लिए सॉफ्ट लोन) का प्रारूप और आकार क्या होना चाहिए?
+- intent: what_are_the_official_charges_fee_for_the_service_Soft_loans_to_eligible_beneficaries_from_SC_ST_BC_DC_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क/शुल्क क्या हैं (एससी/एसटी/बीसी डीसी से पात्र लाभार्थियों के लिए सॉफ्ट लोन)?
+- intent: How_does_one_make_the_payment_of_service_charges_Soft_loans_to_eligible_beneficaries_from_SC_ST_BC_DC_en
+  examples: |
+    - कोई सेवा शुल्क का भुगतान कैसे करता है (SC/ST/BC DC से पात्र लाभार्थियों के लिए सॉफ्ट लोन)?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Soft_loans_to_eligible_beneficaries_from_SC_ST_BC_DC_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा क्या है (SC/ST/BC DC से पात्र लाभार्थियों के लिए सॉफ्ट लोन)?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Soft_loans_to_eligible_beneficaries_from_SC_ST_BC_DC_en
+  examples: |
+    - कौन सा अधिकारी/अधिकारी सेवा वितरण के लिए जिम्मेदार है (SC/ST/BC DC से पात्र लाभार्थियों के लिए सॉफ्ट लोन)?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Soft_loans_to_eligible_beneficaries_from_SC_ST_BC_DC_en
+  examples: |
+    - कौन सा अधिकारी/अधिकारी पहला अपीलीय प्राधिकरण है (SC/ST/BC DC से पात्र लाभार्थियों के लिए सॉफ्ट लोन)?
+- intent: Name_of_Services_Soft_loans_to_eligible_beneficaries_from_WDC_en
+  examples: |
+    - सेवाओं का नाम (WDC से पात्र लाभार्थियों के लिए सॉफ्ट लोन)?
+- intent: Documents_Required_Soft_loans_to_eligible_beneficaries_from_WDC_en
+  examples: |
+    - दस्तावेजों की आवश्यकता (WDC से पात्र लाभार्थियों के लिए सॉफ्ट लोन)?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Soft_loans_to_eligible_beneficaries_from_WDC_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेनस्ट (डब्ल्यूडीसी से पात्र लाभार्थियों के लिए सॉफ्ट लोन) का प्रारूप और आकार क्या होना चाहिए?
+- intent: what_are_the_official_charges_fee_for_the_service_Soft_loans_to_eligible_beneficaries_from_WDC_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (डब्ल्यूडीसी से पात्र लाभार्थियों के लिए सॉफ्ट लोन)?
+- intent: How_does_one_make_the_payment_of_service_charges_Soft_loans_to_eligible_beneficaries_from_WDC_en
+  examples: |
+    - कोई सेवा शुल्क का भुगतान कैसे करता है (WDC से पात्र लाभार्थियों के लिए सॉफ्ट लोन)?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Soft_loans_to_eligible_beneficaries_from_WDC_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा क्या है (WDC से पात्र लाभार्थियों के लिए सॉफ्ट लोन)?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Soft_loans_to_eligible_beneficaries_from_WDC_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी सेवा वितरण के लिए जिम्मेदार है (WDC से पात्र लाभार्थियों के लिए सॉफ्ट लोन)?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Soft_loans_to_eligible_beneficaries_from_WDC_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण है (डब्ल्यूडीसी से पात्र लाभार्थियों के लिए सॉफ्ट लोन)?
+- intent: Name_of_Services_Pre_Matric_Scholarship_to_SC_Students_9th_and_10th_en
+  examples: |
+    - सेवाओं का नाम (एससी छात्रों (9 वें और 10 वें) के लिए पूर्व मैट्रिक छात्रवृत्ति)?
+- intent: Documents_Required_Pre_Matric_Scholarship_to_SC_Students_9th_and_10th_en
+  examples: |
+    - आवश्यक दस्तावेज (एससी छात्रों (9 वें और 10 वें) के लिए पूर्व मैट्रिक छात्रवृत्ति)?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Pre_Matric_Scholarship_to_SC_Students_9th_and_10th_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेनस्ट (एससी छात्रों (9 वें और 10 वें) के लिए पूर्व मैट्रिक छात्रवृत्ति) का प्रारूप और आकार क्या होना चाहिए?
+- intent: what_are_the_official_charges_fee_for_the_service_Pre_Matric_Scholarship_to_SC_Students_9th_and_10th_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (एससी छात्रों (9 वें और 10 वें) के लिए पूर्व मैट्रिक छात्रवृत्ति)?
+- intent: How_does_one_make_the_payment_of_service_charges_Pre_Matric_Scholarship_to_SC_Students_9th_and_10th_en
+  examples: |
+    - कोई सेवा शुल्क का भुगतान कैसे करता है (SC छात्रों (9 वें और 10 वें) के लिए पूर्व मैट्रिक छात्रवृत्ति)?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Pre_Matric_Scholarship_to_SC_Students_9th_and_10th_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा क्या है (SC छात्रों (9 वें और 10 वीं) के लिए पूर्व मैट्रिक छात्रवृत्ति)?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Pre_Matric_Scholarship_to_SC_Students_9th_and_10th_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी सेवा वितरण के लिए जिम्मेदार है (SC छात्रों (9 वें और 10 वें) के लिए पूर्व मैट्रिक छात्रवृत्ति)?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Pre_Matric_Scholarship_to_SC_Students_9th_and_10th_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण है (एससी छात्रों (9 वें और 10 वें) के लिए पूर्व मैट्रिक छात्रवृत्ति)?
+- intent: Name_of_Services_Post_Matric_Scholarship_to_SC_Students_en
+  examples: |
+    - सेवाओं का नाम (एससी छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति)?
+- intent: Documents_Required_Post_Matric_Scholarship_to_SC_Students_en
+  examples: |
+    - दस्तावेज आवश्यक (SC छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति)?
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Post_Matric_Scholarship_to_SC_Students_en
+  examples: |
+    - अपलोड किए गए डॉक्यूमेनस्ट (एससी छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति) का प्रारूप और आकार क्या होना चाहिए?
+- intent: what_are_the_official_charges_fee_for_the_service_Post_Matric_Scholarship_to_SC_Students_en
+  examples: |
+    - सेवा के लिए आधिकारिक शुल्क / शुल्क क्या हैं (एससी छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति)?
+- intent: How_does_one_make_the_payment_of_service_charges_Post_Matric_Scholarship_to_SC_Students_en
+  examples: |
+    - कोई भी सेवा शुल्क का भुगतान कैसे करता है (SC छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति)?
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Post_Matric_Scholarship_to_SC_Students_en
+  examples: |
+    - सेवा के वितरण के लिए समय सीमा क्या है (SC छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति)?
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Post_Matric_Scholarship_to_SC_Students_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी सेवा वितरण के लिए जिम्मेदार है (एससी छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति)?
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Post_Matric_Scholarship_to_SC_Students_en
+  examples: |
+    - कौन सा अधिकारी/ अधिकारी पहला अपीलीय प्राधिकरण है (SC छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति)?
+- intent: Name_of_Services_Old_age_pension_ISSS_en
+  examples: |
+    - خدمات کا نام (بڑھاپے کی پنشن (آئی ایس ایس))؟
+- intent: Documents_Required_Old_age_pension_ISSS_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (بڑھاپے کی پنشن (آئی ایس ایس ایس))؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Old_age_pension_ISSS_en
+  examples: |
+    - اپلوڈڈ دستاویز (بڑھاپے کی پنشن (آئی ایس ایس ایس)) کا فارمیٹ اور سائز کیا ہونا چاہئے؟
+- intent: what_are_the_official_charges_fee_for_the_service_Old_age_pension_ISSS_en
+  examples: |
+    - خدمت کے لئے سرکاری چارجز / فیس کیا ہیں (بڑھاپے کی پنشن (آئی ایس ایس ایس))؟
+- intent: How_does_one_make_the_payment_of_service_charges_Old_age_pension_ISSS_en
+  examples: |
+    - کوئی کس طرح سروس چارجز (بڑھاپے کی پنشن (آئی ایس ایس ایس)) کی ادائیگی کرتا ہے؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Old_age_pension_ISSS_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کیا ہے (بڑھاپے کی پنشن (آئی ایس ایس ایس))؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Old_age_pension_ISSS_en
+  examples: |
+    - خدمت کی فراہمی (بڑھاپے کی پنشن (آئی ایس ایس ایس)) کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Old_age_pension_ISSS_en
+  examples: |
+    - پہلا اپیلٹ اتھارٹی (بڑھاپے کی پنشن (آئی ایس ایس ایس)) کون سا افسر/ عہدیدار ہے؟
+- intent: Name_of_Services_Old_age_pension_ISSS_en
+  examples: |
+    - خدمات کا نام (بڑھاپے کی پنشن (آئی ایس ایس))؟
+- intent: Documents_Required_Women_in_Distress_ISSS_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (پریشانی میں خواتین (آئی ایس ایس ایس))؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Women_in_Distress_ISSS_en
+  examples: |
+    - اپلوڈڈ دستاویزی دستاویز (خواتین میں خواتین (آئی ایس ایس ایس)) کا فارمیٹ اور سائز کیا ہونا چاہئے؟
+- intent: what_are_the_official_charges_fee_for_the_service_Women_in_Distress_ISSS_en
+  examples: |
+    - خدمت کے لئے سرکاری چارجز / فیس کیا ہیں (خواتین میں پریشانی (آئی ایس ایس ایس))؟
+- intent: How_does_one_make_the_payment_of_service_charges_Women_in_Distress_ISSS_en
+  examples: |
+    - کوئی خدمت کے معاوضوں کی ادائیگی (پریشانی میں خواتین (آئی ایس ایس ایس)) کیسے کرتا ہے؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Women_in_Distress_ISSS_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کیا ہے (پریشانی میں خواتین (آئی ایس ایس ایس))؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Women_in_Distress_ISSS_en
+  examples: |
+    - خدمت کی فراہمی کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے (خواتین میں خواتین (آئی ایس ایس ایس))؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Women_in_Distress_ISSS_en
+  examples: |
+    - کون سا افسر/ عہدیدار پہلا اپیلٹ اتھارٹی ہے (خواتین میں پریشانی (آئی ایس ایس ایس))؟
+- intent: Name_of_Services_Specially_abled_person_ISSS_en
+  examples: |
+    - خدمات کا نام (خاص طور پر قابل شخص (آئی ایس ایس ایس))؟
+- intent: Documents_Required_Specially_abled_person_ISSS_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (خاص طور پر قابل شخص (آئی ایس ایس ایس))؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Specially_abled_person_ISSS_en
+  examples: |
+    - اپلوڈڈ دستاویزی دستاویز (خاص طور پر قابل شخص (آئی ایس ایس ایس)) کی شکل اور سائز کیا ہونا چاہئے؟
+- intent: what_are_the_official_charges_fee_for_the_service_Specially_abled_person_ISSS_en
+  examples: |
+    - سروس کے لئے سرکاری چارجز / فیس کیا ہیں (خاص طور پر قابل شخص (آئی ایس ایس ایس))؟
+- intent: How_does_one_make_the_payment_of_service_charges_Specially_abled_person_ISSS_en
+  examples: |
+    - کوئی کس طرح سروس چارجز (خاص طور پر قابل شخص (آئی ایس ایس ایس)) کی ادائیگی کرتا ہے؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Specially_abled_person_ISSS_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کتنی ہے (خاص طور پر قابل شخص (آئی ایس ایس ایس))؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Specially_abled_person_ISSS_en
+  examples: |
+    - خدمت کی فراہمی (خاص طور پر قابل شخص (آئی ایس ایس ایس)) کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Specially_abled_person_ISSS_en
+  examples: |
+    - کون سا افسر/ عہدیدار پہلا اپیلٹ اتھارٹی ہے (خاص طور پر قابل شخص (آئی ایس ایس ایس))؟
+- intent: Name_of_Services_Transgender_ISSS_en
+  examples: |
+    - خدمات کا نام (ٹرانسجینڈر (آئی ایس ایس ایس))؟
+- intent: Documents_Required_Transgender_ISSS_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (ٹرانسجینڈر (آئی ایس ایس ایس))؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Transgender_ISSS_en
+  examples: |
+    - اپلوڈڈ دستاویز (ٹرانسجینڈر (آئی ایس ایس ایس)) کا فارمیٹ اور سائز کیا ہونا چاہئے؟
+- intent: what_are_the_official_charges_fee_for_the_service_Transgender_ISSS_en
+  examples: |
+    - سروس (ٹرانسجینڈر (آئی ایس ایس ایس)) کے لئے سرکاری چارجز / فیس کیا ہیں؟
+- intent: How_does_one_make_the_payment_of_service_charges_Transgender_ISSS_en
+  examples: |
+    - کوئی کس طرح سروس چارجز (ٹرانسجینڈر (آئی ایس ایس ایس)) کی ادائیگی کرتا ہے؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Transgender_ISSS_en
+  examples: |
+    - سروس کی فراہمی کے لئے وقت کی حد کتنی ہے (ٹرانسجینڈر (آئی ایس ایس ایس))؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Transgender_ISSS_en
+  examples: |
+    - خدمت کی فراہمی (ٹرانسجینڈر (آئی ایس ایس ایس)) کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Transgender_ISSS_en
+  examples: |
+    - پہلا اپیلٹ اتھارٹی (ٹرانسجینڈر (آئی ایس ایس ایس)) کون سا افسر/ عہدیدار ہے؟
+- intent: Name_of_Services_Indira_Gandhi_National_Old_Age_Pension_Scheme_en
+  examples: |
+    - خدمات کا نام (اندرا گاندھی قومی بڑھاپے کی پنشن اسکیم)؟
+- intent: Documents_Required_Indira_Gandhi_National_Old_Age_Pension_Scheme_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (اندرا گاندھی قومی بڑھاپے کی پنشن اسکیم)؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Indira_Gandhi_National_Old_Age_Pension_Scheme_en
+  examples: |
+    - اپلوڈڈ دستاویز (اندرا گاندھی قومی اولڈ ایج پنشن اسکیم) کا فارمیٹ اور سائز کیا ہونا چاہئے؟
+- intent: What_are_the_official_charges_fee_for_the_service_Indira_Gandhi_National_Old_Age_Pension_Scheme_en
+  examples: |
+    - خدمت کے لئے سرکاری چارجز / فیس کیا ہیں (اندرا گاندھی قومی اولڈ ایج پنشن اسکیم)؟
+- intent: How_does_one_make_the_payment_of_service_charges_Indira_Gandhi_National_Old_Age_Pension_Scheme_en
+  examples: |
+    - کوئی خدمت کے معاوضوں کی ادائیگی کیسے کرتا ہے (اندرا گاندھی قومی بڑھاپے کی پنشن اسکیم)؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Indira_Gandhi_National_Old_Age_Pension_Scheme_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کتنی ہے (اندرا گاندھی قومی بڑھاپے کی پنشن اسکیم)؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Indira_Gandhi_National_Old_Age_Pension_Scheme_en
+  examples: |
+    - خدمت کی فراہمی کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے (اندرا گاندھی قومی بڑھاپے کی پنشن اسکیم)؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Indira_Gandhi_National_Old_Age_Pension_Scheme_en
+  examples: |
+    - پہلا اپیلٹ اتھارٹی (اندرا گاندھی قومی اولڈ ایج پنشن اسکیم) کون سا افسر/ عہدیدار ہے؟
+- intent: Name_of_Services_Indira_Gandhi_national_widow_pension_scheme_en
+  examples: |
+    - خدمات کا نام (اندرا گاندھی قومی بیوہ پنشن اسکیم)؟
+- intent: Documents_Required_Indira_Gandhi_national_widow_pension_scheme_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (اندرا گاندھی قومی بیوہ پنشن اسکیم)؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Indira_Gandhi_national_widow_pension_scheme_en
+  examples: |
+    - اپلوڈڈ دستاویز (اندرا گاندھی نیشنل بیوہ پنشن اسکیم) کی شکل اور سائز کیا ہونا چاہئے؟
+- intent: what_are_the_official_charges_fee_for_the_service_Indira_Gandhi_national_widow_pension_scheme_en
+  examples: |
+    - خدمت کے لئے سرکاری چارجز / فیس کیا ہیں (اندرا گاندھی نیشنل بیوہ پنشن اسکیم)؟
+- intent: How_does_one_make_the_payment_of_service_charges_Indira_Gandhi_national_widow_pension_scheme_en
+  examples: |
+    - کوئی خدمت کے معاوضوں کی ادائیگی کیسے کرتا ہے (اندرا گاندھی نیشنل بیوہ پنشن اسکیم)؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Indira_Gandhi_national_widow_pension_scheme_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کتنی ہے (اندرا گاندھی نیشنل بیوہ پنشن اسکیم)؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Indira_Gandhi_national_widow_pension_scheme_en
+  examples: |
+    - خدمت کی فراہمی کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے (اندرا گاندھی نیشنل بیوہ پنشن اسکیم)؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Indira_Gandhi_national_widow_pension_scheme_en
+  examples: |
+    - پہلا اپیلٹ اتھارٹی (اندرا گاندھی نیشنل بیوہ پنشن اسکیم) کون سا افسر/ عہدیدار ہے؟
+- intent: Name_of_Services_Indira_Gandhi_national_disability_pension_scheme_en
+  examples: |
+    - خدمات کا نام (اندرا گاندھی قومی معذوری پنشن اسکیم)؟
+- intent: Documents_Required_Indira_Gandhi_national_disability_pension_scheme_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (اندرا گاندھی قومی معذوری پنشن اسکیم)؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Indira_Gandhi_national_disability_pension_scheme_en
+  examples: |
+    - اپلوڈڈ دستاویز (اندرا گاندھی قومی معذوری پنشن اسکیم) کی شکل اور سائز کیا ہونا چاہئے؟
+- intent: what_are_the_official_charges_fee_for_the_service_Indira_Gandhi_national_disability_pension_scheme_en
+  examples: |
+    - خدمت کے لئے سرکاری چارجز / فیس کیا ہیں (اندرا گاندھی قومی معذوری پنشن اسکیم)؟
+- intent: How_does_one_make_the_payment_of_service_charges_Indira_Gandhi_national_disability_pension_scheme_en
+  examples: |
+    - کوئی خدمت کے معاوضوں کی ادائیگی کیسے کرتا ہے (اندرا گاندھی قومی معذوری پنشن اسکیم)؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Indira_Gandhi_national_disability_pension_scheme_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کتنی ہے (اندرا گاندھی قومی معذوری پنشن اسکیم)؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Indira_Gandhi_national_disability_pension_scheme_en
+  examples: |
+    - خدمت کی فراہمی کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے (اندرا گاندھی قومی معذوری پنشن اسکیم)؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Indira_Gandhi_national_disability_pension_scheme_en
+  examples: |
+    - پہلا اپیلٹ اتھارٹی (اندرا گاندھی قومی معذوری پنشن اسکیم) کون سا افسر/ عہدیدار ہے؟
+- intent: Name_of_Services_National_Family_Benefit_Scheme_NFBS_en
+  examples: |
+    - خدمات کا نام (نیشنل فیملی بینیفٹ اسکیم (این ایف بی ایس))؟
+- intent: Documents_Required_National_Family_Benefit_Scheme_NFBS_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (قومی فیملی بینیفٹ اسکیم (این ایف بی ایس))؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_National_Family_Benefit_Scheme_NFBS_en
+  examples: |
+    - اپلوڈڈ دستاویزی دستاویز (نیشنل فیملی بینیفٹ اسکیم (این ایف بی ایس)) کا فارمیٹ اور سائز کیا ہونا چاہئے؟
+- intent: what_are_the_official_charges_fee_for_the_service_National_Family_Benefit_Scheme_NFBS_en
+  examples: |
+    - سروس کے لئے سرکاری چارجز / فیس (نیشنل فیملی بینیفٹ اسکیم (این ایف بی ایس)) کیا ہیں؟
+- intent: How_does_one_make_the_payment_of_service_charges_National_Family_Benefit_Scheme_NFBS_en
+  examples: |
+    - کوئی خدمت چارجز (نیشنل فیملی بینیفٹ اسکیم (این ایف بی ایس)) کی ادائیگی کیسے کرتا ہے؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_National_Family_Benefit_Scheme_NFBS_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کتنی ہے (نیشنل فیملی بینیفٹ اسکیم (این ایف بی ایس))؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_National_Family_Benefit_Scheme_NFBS_en
+  examples: |
+    - خدمت کی فراہمی (نیشنل فیملی بینیفٹ اسکیم (این ایف بی ایس)) کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_National_Family_Benefit_Scheme_NFBS_en
+  examples: |
+    - پہلا اپیلٹ اتھارٹی (نیشنل فیملی بینیفٹ اسکیم (این ایف بی ایس)) کون سا افسر/ عہدیدار ہے؟
+- intent: Name_of_Services_State_Marriage_Assistance_Scheme_en
+  examples: |
+    - خدمات کا نام (ریاستی شادی کی امداد کی اسکیم۔)؟
+- intent: Documents_Required_State_Marriage_Assistance_Scheme_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (ریاستی شادی کی امداد کی اسکیم۔)؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_State_Marriage_Assistance_Scheme_en
+  examples: |
+    - اپلوڈڈ دستاویز (ریاستی شادی کی امداد کی اسکیم۔) کی شکل اور سائز کیا ہونا چاہئے؟
+- intent: what_are_the_official_charges_fee_for_the_service_State_Marriage_Assistance_Scheme_en
+  examples: |
+    - خدمت کے لئے سرکاری چارجز / فیس کیا ہیں (ریاستی شادی کی امداد کی اسکیم۔)؟
+- intent: How_does_one_make_the_payment_of_service_charges_State_Marriage_Assistance_Scheme_en
+  examples: |
+    - کوئی خدمت کے معاوضوں کی ادائیگی کیسے کرتا ہے (ریاستی شادی کی امداد کی اسکیم۔)؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_State_Marriage_Assistance_Scheme_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کتنی ہے (ریاستی شادی کی امداد کی اسکیم۔)؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_State_Marriage_Assistance_Scheme_en
+  examples: |
+    - خدمت کی فراہمی کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے (ریاستی شادی کی امداد کی اسکیم۔)؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_State_Marriage_Assistance_Scheme_en
+  examples: |
+    - کون سا افسر/ عہدیدار پہلا اپیلٹ اتھارٹی ہے (ریاستی شادی کی امداد کی اسکیم۔)؟
+- intent: Name_of_Services_Ladli_Beti_en
+  examples: |
+    - خدمات کا نام (لاڈلی بیٹی)؟
+- intent: Documents_Required_Ladli_Beti_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (لاڈلی بیٹی)؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Ladli_Beti_en
+  examples: |
+    - اپلوڈڈ دستاویز (لاڈلی بیٹی) کا فارمیٹ اور سائز کیا ہونا چاہئے؟
+- intent: what_are_the_official_charges_fee_for_the_service_Ladli_Beti_en
+  examples: |
+    - سروس کے لئے سرکاری چارجز / فیس کیا ہیں (لاڈلی بیٹی)؟
+- intent: How_does_one_make_the_payment_of_service_charges_Ladli_Beti_en
+  examples: |
+    - کوئی کس طرح سروس چارجز (لاڈلی بیٹی) کی ادائیگی کرتا ہے؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Ladli_Beti_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کتنی ہے (لاڈلی بیٹی)؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Ladli_Beti_en
+  examples: |
+    - خدمت کی فراہمی کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے (لاڈلی بیٹی)؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Ladli_Beti_en
+  examples: |
+    - پہلا اپیلٹ اتھارٹی (لاڈلی بیٹی) کون سا افسر/ عہدیدار ہے؟
+- intent: Name_of_Services_Pradhan_mantra_matru_vandan_yojna_en
+  examples: |
+    - خدمات کا نام (پردھان منتر میٹرو وندن یوجنا)؟
+- intent: Documents_Required_Pradhan_mantra_matru_vandan_yojna_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (پردھان منتر میٹرو وندان یوجنا)؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Pradhan_mantra_matru_vandan_yojna_en
+  examples: |
+    - اپلوڈڈ دستاویز (پردھان منتر میٹرو وندان یوجنا) کی شکل اور سائز کیا ہونا چاہئے؟
+- intent: what_are_the_official_charges_fee_for_the_service_Pradhan_mantra_matru_vandan_yojna_en
+  examples: |
+    - خدمت کے لئے سرکاری چارجز / فیس کیا ہیں (پردھان منتر میٹرو وندان یوجنا)؟
+- intent: How_does_one_make_the_payment_of_service_charges_Pradhan_mantra_matru_vandan_yojna_en
+  examples: |
+    - کوئی خدمت کے معاوضوں کی ادائیگی کیسے کرتا ہے (پردھان منتر میٹرو وندان یوجنا)؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Pradhan_mantra_matru_vandan_yojna_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کتنی ہے (پردھان منتر میٹرو وندان یوجنا)؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Pradhan_mantra_matru_vandan_yojna_en
+  examples: |
+    - خدمت کی فراہمی کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے (پردھان منتر میٹرو وندان یوجنا)؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Pradhan_mantra_matru_vandan_yojna_en
+  examples: |
+    - پہلا اپیلٹ اتھارٹی (پردھان منتر مترو وندان یوجنا) کون سا افسر/ عہدیدار ہے؟
+- intent: Name_of_Services_Pre_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - خدمات کا نام (پری میٹرک یشسوی اسکالرشپ)؟
+- intent: Documents_Required_Pre_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (پری میٹرک یشاسوی اسکالرشپ)؟
+- intent: Format_and_size_of_the_uploaded_documents_Pre_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - اپ لوڈ کردہ دستاویزات کی شکل اور سائز (پری میٹرک یشاسوی اسکالرشپ)؟
+- intent: what_are_the_official_charges_fee_for_the_service_Pre_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - سروس کے لئے سرکاری چارجز / فیس کیا ہیں (پری میٹرک یشاسوی اسکالرشپ)؟
+- intent: How_does_one_make_the_payment_of_service_charges_Pre_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - کوئی کس طرح سروس چارجز (پری میٹرک یشاسوی اسکالرشپ) کی ادائیگی کرتا ہے؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Pre_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کیا ہے (پری میٹرک یشاسوی اسکالرشپ)؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Pre_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - خدمت کی فراہمی کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے (پری میٹرک یشاسوی اسکالرشپ)؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Pre_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - پہلا اپیلٹ اتھارٹی (پری میٹرک یشاسوی اسکالرشپ) کون سا افسر/ عہدیدار ہے؟
+- intent: Name_of_Services_Post_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - خدمات کا نام (پوسٹ میٹرک یشسوی اسکالرشپ)؟
+- intent: Documents_Required_Post_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (پوسٹ میٹرک یشاسوی اسکالرشپ)؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Post_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - اپلوڈڈ دستاویز (پوسٹ میٹرک یشاسوی اسکالرشپ) کا فارمیٹ اور سائز کیا ہونا چاہئے؟
+- intent: what_are_the_official_charges_fee_for_the_service_Post_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - سروس کے لئے سرکاری چارجز / فیس کیا ہیں (پوسٹ میٹرک یشاسوی اسکالرشپ)؟
+- intent: How_does_one_make_the_payment_of_service_charges_Post_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - کوئی خدمت کے معاوضوں کی ادائیگی (پوسٹ میٹرک یشاسوی اسکالرشپ) کیسے کرتا ہے؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Post_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کتنی ہے (پوسٹ میٹرک یشاسوی اسکالرشپ)؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Post_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - خدمت کی فراہمی کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے (پوسٹ میٹرک یشاسوی اسکالرشپ)؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Post_Matric_Yashasvi_Scholarship_en
+  examples: |
+    - پہلا اپیلٹ اتھارٹی (پوسٹ میٹرک یشاسوی اسکالرشپ) کون سا افسر/ عہدیدار ہے؟
+- intent: Name_of_Services_Pre_matric_scholarship_to_minority_students_en
+  examples: |
+    - خدمات کا نام (اقلیتی طلباء کو پری میٹرک اسکالرشپ۔)؟
+- intent: Documents_Required_Pre_matric_scholarship_to_minority_students_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (اقلیتی طلباء کو پری میٹرک اسکالرشپ۔)؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Pre_matric_scholarship_to_minority_students_en
+  examples: |
+    - اپ لوڈ کردہ دستاویزات (اقلیتی طلباء کے لئے پری میٹرک اسکالرشپ) کی شکل اور سائز کیا ہونا چاہئے؟
+- intent: what_are_the_official_charges_fee_for_the_service_Pre_matric_scholarship_to_minority_students_en
+  examples: |
+    - خدمت کے لئے سرکاری چارجز / فیس کیا ہیں (اقلیتی طلباء کو میٹرک سے پہلے اسکالرشپ؟)؟
+- intent: How_does_one_make_the_payment_of_service_charges_Pre_matric_scholarship_to_minority_students_en
+  examples: |
+    - کوئی کس طرح خدمت کے معاوضوں کی ادائیگی کرتا ہے (اقلیتی طلباء کو پری میٹرک اسکالرشپ۔)؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Pre_matric_scholarship_to_minority_students_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کتنی ہے (اقلیتی طلباء کو پری میٹرک اسکالرشپ؟)؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Pre_matric_scholarship_to_minority_students_en
+  examples: |
+    - خدمت کی فراہمی کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے (اقلیتی طلبا کو پری میٹرک اسکالرشپ۔)؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Pre_matric_scholarship_to_minority_students_en
+  examples: |
+    - پہلا اپیلٹ اتھارٹی کون سا افسر/ عہدیدار ہے (اقلیتی طلباء کے لئے میٹرک سے پہلے اسکالرشپ۔)؟
+- intent: Name_of_Services_en
+  examples: |
+    - خدمات کا نام ()؟
+- intent: Documents_Required_Post_matric_scholarship_to_minority_students_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (اقلیتی طلباء کے لئے میٹرک کے بعد اسکالرشپ۔)؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Post_matric_scholarship_to_minority_students_en
+  examples: |
+    - اپلوڈڈ دستاویزی دستاویز (اقلیتی طلباء کو پوسٹ میٹرک اسکالرشپ کے بعد) کی شکل اور سائز کیا ہونا چاہئے؟
+- intent: what_are_the_official_charges_fee_for_the_service_Post_matric_scholarship_to_minority_students_en
+  examples: |
+    - خدمت کے لئے سرکاری چارجز / فیس کیا ہیں (اقلیتی طلباء کو میٹرک کے بعد اسکالرشپ۔)؟
+- intent: How_does_one_make_the_payment_of_service_charges_Post_matric_scholarship_to_minority_students_en
+  examples: |
+    - کوئی کس طرح خدمت کے معاوضوں کی ادائیگی کرتا ہے (اقلیتی طلباء کو میٹرک کے بعد اسکالرشپ۔)؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Post_matric_scholarship_to_minority_students_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کتنی ہے (اقلیتی طلباء کو میٹرک کے بعد اسکالرشپ۔)؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Post_matric_scholarship_to_minority_students_en
+  examples: |
+    - خدمت کی فراہمی کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے (اقلیتی طلباء کو میٹرک کے بعد اسکالرشپ۔)؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Post_matric_scholarship_to_minority_students_en
+  examples: |
+    - پہلا اپیلٹ اتھارٹی کون سا افسر/ عہدیدار ہے (اقلیتی طلباء کے لئے میٹرک کے بعد اسکالرشپ۔)؟
+- intent: Name_of_Services_Merit_Cum_Means_scholarship_to_Minority_students_en
+  examples: |
+    - خدمات کا نام (میرٹ کم کا مطلب اقلیتی طلباء کے لئے اسکالرشپ ہے۔)؟
+- intent: Documents_Required_Merit_Cum_Means_scholarship_to_Minority_students_en
+  examples: |
+    - مطلوبہ دستاویزات (میرٹ کم کا مطلب اقلیتی طلباء کے لئے اسکالرشپ ہے۔)؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Merit_Cum_Means_scholarship_to_Minority_students_en
+  examples: |
+    - اپ لوڈ کردہ دستاویزات کا فارمیٹ اور سائز کیا ہونا چاہئے (میرٹ کم کا مطلب اقلیتی طلباء کے لئے اسکالرشپ ہے۔)؟
+- intent: what_are_the_official_charges_fee_for_the_service_Merit_Cum_Means_scholarship_to_Minority_students_en
+  examples: |
+    - خدمت کے لئے سرکاری چارجز / فیس کیا ہیں (میرٹ کم کا مطلب اقلیتی طلباء کے لئے اسکالرشپ ہے؟)؟
+- intent: How_does_one_make_the_payment_of_service_charges_Merit_Cum_Means_scholarship_to_Minority_students_en
+  examples: |
+    - کوئی خدمت کے معاوضوں کی ادائیگی کیسے کرتا ہے (میرٹ کم کا مطلب اقلیتی طلباء کو اسکالرشپ ہے۔)؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Merit_Cum_Means_scholarship_to_Minority_students_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کتنی ہے (میرٹ کم کا مطلب اقلیتی طلباء کو اسکالرشپ ہے؟)؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Merit_Cum_Means_scholarship_to_Minority_students_en
+  examples: |
+    - خدمت کی فراہمی کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے (میرٹ کم کا مطلب اقلیتی طلباء کو اسکالرشپ ہے۔)؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Merit_Cum_Means_scholarship_to_Minority_students_en
+  examples: |
+    - کون سا افسر/ عہدیدار پہلا اپیلٹ اتھارٹی ہے (میرٹ کم کا مطلب اقلیتی طلباء کے لئے اسکالرشپ ہے۔)؟
+- intent: Name_of_Services_Pre_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - خدمات کا نام (معذور طلباء کو پری میٹرک اسکالرشپ)؟
+- intent: Documents_Required_Pre_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (معذور طلباء کو پری میٹرک اسکالرشپ)؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Pre_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - اپ لوڈ کردہ دستاویزات (معذور طلباء کو پری میٹرک اسکالرشپ) کی شکل اور سائز کیا ہونا چاہئے؟
+- intent: what_are_the_official_charges_fee_for_the_service_Pre_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - سروس کے لئے سرکاری چارجز / فیس کیا ہیں (معذور طلباء کو میٹرک سے پہلے اسکالرشپ)؟
+- intent: How_does_one_make_the_payment_of_service_charges_Pre_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - کوئی کس طرح سروس چارجز کی ادائیگی (معذور طلباء کو پری میٹرک اسکالرشپ) کرتا ہے؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Pre_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کتنی ہے (معذور طلباء کو میٹرک سے پہلے اسکالرشپ)؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Pre_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - خدمت کی فراہمی کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے (معذور طلباء کو پری میٹرک اسکالرشپ)؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Pre_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - پہلا اپیلٹ اتھارٹی کون سا افسر/ عہدیدار ہے (معذور طلباء کے لئے پری میٹرک اسکالرشپ)؟
+- intent: Name_of_Services_Post_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - خدمات کا نام (معذور طلباء کو پوسٹ میٹرک اسکالرشپ۔)؟
+- intent: Documents_Required_Post_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (معذور طلباء کو میٹرک کے بعد اسکالرشپ۔)؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Post_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - اپ لوڈ کردہ دستاویزات (معذور طلباء کو پوسٹ میٹرک اسکالرشپ کے بعد) کی شکل اور سائز کیا ہونا چاہئے؟
+- intent: what_are_the_official_charges_fee_for_the_service_Post_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - سروس کے لئے سرکاری چارجز / فیس کیا ہیں (معذور طلباء کو پوسٹ میٹرک اسکالرشپ۔)؟
+- intent: How_does_one_make_the_payment_of_service_charges_Post_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - کوئی خدمت کے معاوضوں کی ادائیگی کیسے کرتا ہے (معذور طلباء کو پوسٹ میٹرک اسکالرشپ۔)؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Post_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کتنی ہے (معذور طلباء کو میٹرک کے بعد کے اسکالرشپ۔)؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Post_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - خدمت کی فراہمی کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے (معذور طلباء کو پوسٹ میٹرک اسکالرشپ۔)؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Post_Matric_Scholarship_to_Disabled_Students_en
+  examples: |
+    - پہلا اپیلٹ اتھارٹی کون سا افسر/ عہدیدار ہے (معذور طلباء کے لئے میٹرک کے بعد اسکالرشپ۔)؟
+- intent: Name_of_Services_Top_Class_scholarship_to_Disabled_Students_en
+  examples: |
+    - خدمات کا نام (معذور طلباء کو اعلی کلاس اسکالرشپ)؟
+- intent: Documents_Required_Top_Class_scholarship_to_Disabled_Students_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (معذور طلباء کو ٹاپ کلاس اسکالرشپ)؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Top_Class_scholarship_to_Disabled_Students_en
+  examples: |
+    - اپلوڈڈ دستاویز (معذور طلباء کے لئے ٹاپ کلاس اسکالرشپ) کا فارمیٹ اور سائز کیا ہونا چاہئے؟
+- intent: what_are_the_official_charges_fee_for_the_service_Top_Class_scholarship_to_Disabled_Students_en
+  examples: |
+    - سروس کے لئے سرکاری چارجز / فیس کیا ہیں (معذور طلباء کو ٹاپ کلاس اسکالرشپ)؟
+- intent: How_does_one_make_the_payment_of_service_charges_Top_Class_scholarship_to_Disabled_Students_en
+  examples: |
+    - کوئی کس طرح سروس چارجز (معذور طلباء کو ٹاپ کلاس اسکالرشپ) کی ادائیگی کرتا ہے؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Top_Class_scholarship_to_Disabled_Students_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کتنی ہے (معذور طلباء کو ٹاپ کلاس اسکالرشپ)؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Top_Class_scholarship_to_Disabled_Students_en
+  examples: |
+    - خدمت کی فراہمی کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے (معذور طلباء کو ٹاپ کلاس اسکالرشپ)؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Top_Class_scholarship_to_Disabled_Students_en
+  examples: |
+    - پہلا اپیلٹ اتھارٹی (معذور طلباء کے لئے ٹاپ کلاس اسکالرشپ) کون سا افسر/ عہدیدار ہے؟
+- intent: Name_of_Services_Post_Matric_Scholarship_for_Pahari_Speaking_en
+  examples: |
+    - خدمات کا نام (طاری بولنے کے لئے پوسٹ میٹرک اسکالرشپ)؟
+- intent: Documents_Required_Post_Matric_Scholarship_for_Pahari_Speaking_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (پہاڑری بولنے کے لئے میٹرک کے بعد اسکالرشپ)؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Post_Matric_Scholarship_for_Pahari_Speaking_en
+  examples: |
+    - اپلوڈڈ ڈوکومینسٹ (پہاڑری بولنے کے لئے پوسٹ میٹرک اسکالرشپ) کی شکل اور سائز کیا ہونا چاہئے؟
+- intent: what_are_the_official_charges_fee_for_the_service_Post_Matric_Scholarship_for_Pahari_Speaking_en
+  examples: |
+    - خدمت کے لئے سرکاری چارجز / فیس کیا ہیں (پہاڑری بولنے کے لئے پوسٹ میٹرک اسکالرشپ)؟
+- intent: How_does_one_make_the_payment_of_service_charges_Post_Matric_Scholarship_for_Pahari_Speaking_en
+  examples: |
+    - کوئی شخص خدمت کے معاوضوں کی ادائیگی کیسے کرتا ہے (پہاڑا بولنے کے لئے پوسٹ میٹرک اسکالرشپ)؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Post_Matric_Scholarship_for_Pahari_Speaking_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کتنی ہے (پہاڑہ بولنے کے لئے پوسٹ میٹرک اسکالرشپ)؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Post_Matric_Scholarship_for_Pahari_Speaking_en
+  examples: |
+    - خدمت کی فراہمی کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے (پہاڑری بولنے کے لئے پوسٹ میٹرک اسکالرشپ)؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Post_Matric_Scholarship_for_Pahari_Speaking_en
+  examples: |
+    - پہلا اپیلٹ اتھارٹی کون سا آفیسر/ آفیشل ہے (پہاڑیہ بولنے کے لئے پوسٹ میٹرک اسکالرشپ)؟
+- intent: Name_of_Services_PM_Cares_en
+  examples: |
+    - خدمات کا نام (وزیر اعظم کیئرز)؟
+- intent: Documents_Required_PM_Cares_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (وزیر اعظم کیئرز)؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_PM_Cares_en
+  examples: |
+    - اپلوڈڈ دستاویز (وزیر اعظم کیئرز) کا فارمیٹ اور سائز کیا ہونا چاہئے؟
+- intent: what_are_the_official_charges_fee_for_the_service_PM_Cares_en
+  examples: |
+    - خدمت کے لئے سرکاری چارجز / فیس کیا ہیں (وزیر اعظم کیئرز)؟
+- intent: How_does_one_make_the_payment_of_service_charges_PM_Cares_en
+  examples: |
+    - کوئی کس طرح سروس چارجز (وزیر اعظم کیئرز) کی ادائیگی کرتا ہے؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_PM_Cares_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کتنی ہے (وزیر اعظم کیئرز)؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_PM_Cares_en
+  examples: |
+    - خدمت کی فراہمی کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے (وزیر اعظم کیئرز)؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_PM_Cares_en
+  examples: |
+    - پہلا اپیلٹ اتھارٹی (وزیر اعظم کیئرز) کون سا افسر/ عہدیدار ہے؟
+- intent: Name_of_Services_Pensions_for_Victims_of_Militancy_en
+  examples: |
+    - خدمات کا نام (عسکریت پسندی کے متاثرین کے لئے پنشن)؟
+- intent: Documents_Required_Pensions_for_Victims_of_Militancy_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (عسکریت پسندی کے متاثرین کے لئے پنشن)؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Pensions_for_Victims_of_Militancy_en
+  examples: |
+    - اپلوڈڈ دستاویزی دستاویز (عسکریت پسندی کے شکار افراد کے لئے پنشن) کی شکل اور سائز کیا ہونا چاہئے؟
+- intent: what_are_the_official_charges_fee_for_the_service_Pensions_for_Victims_of_Militancy_en
+  examples: |
+    - خدمت کے لئے سرکاری چارجز / فیس کیا ہیں (عسکریت پسندی کے متاثرین کے لئے پنشن)؟
+- intent: How_does_one_make_the_payment_of_service_charges_Pensions_for_Victims_of_Militancy_en
+  examples: |
+    - کوئی شخص خدمت کے معاوضوں کی ادائیگی (عسکریت پسندی کے متاثرین کے لئے پنشن) کیسے کرتا ہے؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Pensions_for_Victims_of_Militancy_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کتنی ہے (عسکریت پسندی کے متاثرین کے لئے پنشن)؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Pensions_for_Victims_of_Militancy_en
+  examples: |
+    - خدمت کی فراہمی کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے (عسکریت پسندی کے متاثرین کے لئے پنشن)؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Pensions_for_Victims_of_Militancy_en
+  examples: |
+    - کون سا افسر/ عہدیدار پہلا اپیلٹ اتھارٹی ہے (عسکریت پسندی کے شکار افراد کے لئے پنشن)؟
+- intent: Name_of_Services_Providing_of_motorized_Tricycle_scooty_en
+  examples: |
+    - خدمات کا نام (موٹرسائیکل ٹرائی سائیکل فراہم کرنا (سکوٹی))؟
+- intent: Documents_Required_Providing_of_motorized_Tricycle_scooty_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (موٹرسائیکل ٹرائی سائیکل فراہم کرنا (اسکوٹی))؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Providing_of_motorized_Tricycle_scooty_en
+  examples: |
+    - اپلوڈڈ دستاویز (موٹرسائیکل ٹرائی سائیکل (اسکوٹی) فراہم کرنا) کی شکل اور سائز کیا ہونا چاہئے؟
+- intent: what_are_the_official_charges_fee_for_the_service_Providing_of_motorized_Tricycle_scooty_en
+  examples: |
+    - سروس کے لئے سرکاری چارجز / فیس کیا ہیں (موٹرسائیکل ٹرائی سائیکل (اسکوٹی) فراہم کرنا)؟
+- intent: How_does_one_make_the_payment_of_service_charges_Providing_of_motorized_Tricycle_scooty_en
+  examples: |
+    - کوئی کس طرح سروس چارجز (موٹرسائیکل ٹرائ سائیکل (اسکوٹی) فراہم کرنے) کی ادائیگی کرتا ہے؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Providing_of_motorized_Tricycle_scooty_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کتنی ہے (موٹرسائیکل ٹرائ سائیکل (اسکوٹی) فراہم کرنا)؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Providing_of_motorized_Tricycle_scooty_en
+  examples: |
+    - خدمت کی فراہمی (موٹرسائیکل ٹرائ سائیکل (اسکوٹی) فراہم کرنے) کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Providing_of_motorized_Tricycle_scooty_en
+  examples: |
+    - کون سا افسر/ عہدیدار پہلا اپیلٹ اتھارٹی ہے (موٹرسائیکل ٹرائی سائیکل (اسکوٹی) فراہم کرنا)؟
+- intent: Name_of_Services_Marriage_Assistance_to_young_widows_and_grown_up_daughters_of_victims_of_miltancy_en
+  examples: |
+    - خدمات کا نام (نوجوان بیوہوں کو شادی کی امداد اور بڑی عمر کی بیٹیوں کو مماثلت کا نشانہ بنایا)؟
+- intent: Documents_Required_Marriage_Assistance_to_young_widows_and_grown_up_daughters_of_victims_of_miltancy_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (نوجوان بیوہ خواتین کو شادی کی مدد اور بڑی عمر میں بیٹریوں کو نشستوں کا نشانہ بنایا)؟
+- intent: Format_and_size_of_the_uploaded_documenst_Marriage_Assistance_to_young_widows_en
+  examples: |
+    - اپ لوڈ کردہ دستاویزات (نوجوان بیوہ خواتین کو شادی کی امداد) کی شکل اور سائز؟
+- intent: what_are_the_official_charges_fee_for_the_service_Marriage_Assistance_to_young_widows_en
+  examples: |
+    - خدمت کے لئے سرکاری چارجز / فیس کیا ہیں (جوان بیوہ خواتین کو شادی کی امداد)؟
+- intent: How_does_one_make_the_payment_of_service_charges_Marriage_Assistance_to_young_widows_en
+  examples: |
+    - کوئی خدمت کے معاوضوں کی ادائیگی (جوان بیوہ خواتین کو شادی کی مدد) کیسے کرتا ہے؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Marriage_Assistance_to_young_widows_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کتنی ہے (نوجوان بیوہ خواتین کو شادی کی امداد)؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Marriage_Assistance_to_young_widows_en
+  examples: |
+    - خدمت کی فراہمی کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے (جوان بیوہ خواتین کو شادی کی امداد)؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Marriage_Assistance_to_young_widows_en
+  examples: |
+    - کون سا افسر/ عہدیدار پہلا اپیلٹ اتھارٹی ہے (جوان بیوہ خواتین کو شادی کی امداد)؟
+- intent: Name_of_Services_Soft_loans_to_eligible_beneficaries_from_SC_ST_BC_Development_Corporation_en
+  examples: |
+    - خدمات کا نام (ایس سی/ایس ٹی/بی سی ڈویلپمنٹ کارپوریشن سے اہل فائدہ اٹھانے والے افراد کو نرم قرض)؟
+- intent: Documents_Required_Soft_loans_to_eligible_beneficaries_from_SC_ST_BC_Development_Corporation_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (ایس سی/ایس ٹی/بی سی ڈویلپمنٹ کارپوریشن سے اہل فائدہ اٹھانے والے افراد کو نرم قرض)؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Soft_loans_to_eligible_beneficaries_from_SC_ST_BC_DC_en
+  examples: |
+    - اپلوڈڈ ڈوکومنسٹ (ایس سی/ایس ٹی/بی سی ڈی سی سے اہل فائدہ اٹھانے کے لئے نرم قرضوں) کا فارمیٹ اور سائز کیا ہونا چاہئے؟
+- intent: what_are_the_official_charges_fee_for_the_service_Soft_loans_to_eligible_beneficaries_from_SC_ST_BC_DC_en
+  examples: |
+    - سروس کے لئے سرکاری چارجز/فیس کیا ہیں (ایس سی/ایس ٹی/بی سی ڈی سی سے اہل فائدہ اٹھانے والے افراد کو نرم قرض)؟
+- intent: How_does_one_make_the_payment_of_service_charges_Soft_loans_to_eligible_beneficaries_from_SC_ST_BC_DC_en
+  examples: |
+    - کوئی کس طرح سروس چارجز (ایس سی/ایس ٹی/بی سی ڈی سی سے اہل فائدہ اٹھانے والے افراد کو نرم قرضوں) کی ادائیگی کرتا ہے؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Soft_loans_to_eligible_beneficaries_from_SC_ST_BC_DC_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کتنی ہے (ایس سی/ایس ٹی/بی سی ڈی سی سے اہل فائدہ اٹھانے والے افراد کو نرم قرض)؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Soft_loans_to_eligible_beneficaries_from_SC_ST_BC_DC_en
+  examples: |
+    - خدمت کی فراہمی کے لئے کون سا افسر/عہدیدار ذمہ دار ہے (ایس سی/ایس ٹی/بی سی ڈی سی سے اہل فائدہ اٹھانے والے افراد کو نرم قرض)؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Soft_loans_to_eligible_beneficaries_from_SC_ST_BC_DC_en
+  examples: |
+    - پہلا اپیلٹ اتھارٹی کون سا آفیسر/آفیشل ہے (ایس سی/ایس ٹی/بی سی ڈی سی سے اہل فائدہ اٹھانے کے لئے نرم قرض)؟
+- intent: Name_of_Services_Soft_loans_to_eligible_beneficaries_from_WDC_en
+  examples: |
+    - خدمات کا نام (ڈبلیو ڈی سی سے اہل فائدہ اٹھانے والے نرم قرضوں)؟
+- intent: Documents_Required_Soft_loans_to_eligible_beneficaries_from_WDC_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (ڈبلیو ڈی سی سے اہل فائدہ اٹھانے والے نرم قرضوں)؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Soft_loans_to_eligible_beneficaries_from_WDC_en
+  examples: |
+    - اپلوڈڈ دستاویزی دستاویز (ڈبلیو ڈی سی سے اہل فائدہ اٹھانے والے نرم قرضوں) کی شکل اور سائز کیا ہونا چاہئے؟
+- intent: what_are_the_official_charges_fee_for_the_service_Soft_loans_to_eligible_beneficaries_from_WDC_en
+  examples: |
+    - خدمت کے لئے سرکاری چارجز / فیس کیا ہیں (ڈبلیو ڈی سی سے اہل فائدہ اٹھانے والے افراد کو نرم قرض)؟
+- intent: How_does_one_make_the_payment_of_service_charges_Soft_loans_to_eligible_beneficaries_from_WDC_en
+  examples: |
+    - کوئی خدمت کے معاوضوں کی ادائیگی (ڈبلیو ڈی سی سے اہل فائدہ اٹھانے والے افراد کو نرم قرض) کیسے بناتا ہے؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Soft_loans_to_eligible_beneficaries_from_WDC_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کتنی ہے (ڈبلیو ڈی سی سے اہل فائدہ اٹھانے والے افراد کو نرم قرض)؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Soft_loans_to_eligible_beneficaries_from_WDC_en
+  examples: |
+    - خدمت کی فراہمی کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے (ڈبلیو ڈی سی سے اہل فائدہ اٹھانے والے افراد کو نرم قرض)؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Soft_loans_to_eligible_beneficaries_from_WDC_en
+  examples: |
+    - پہلا اپیلٹ اتھارٹی کون سا افسر/ عہدیدار ہے (ڈبلیو ڈی سی سے اہل فائدہ اٹھانے والے افراد کو نرم قرض)؟
+- intent: Name_of_Services_Pre_Matric_Scholarship_to_SC_Students_9th_and_10th_en
+  examples: |
+    - خدمات کا نام (ایس سی طلباء سے پہلے میٹرک اسکالرشپ (9 اور 10 ویں))؟
+- intent: Documents_Required_Pre_Matric_Scholarship_to_SC_Students_9th_and_10th_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (ایس سی طلباء کو پری میٹرک اسکالرشپ (9 اور 10 ویں))؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Pre_Matric_Scholarship_to_SC_Students_9th_and_10th_en
+  examples: |
+    - اپلوڈڈ ڈوکومنسٹ (ایس سی طلباء کو پری میٹرک اسکالرشپ (9 اور 10 ویں)) کا فارمیٹ اور سائز کیا ہونا چاہئے؟
+- intent: what_are_the_official_charges_fee_for_the_service_Pre_Matric_Scholarship_to_SC_Students_9th_and_10th_en
+  examples: |
+    - سروس کے لئے سرکاری چارجز / فیس کیا ہیں (ایس سی طلباء کو پری میٹرک اسکالرشپ (9 اور 10 ویں))؟
+- intent: How_does_one_make_the_payment_of_service_charges_Pre_Matric_Scholarship_to_SC_Students_9th_and_10th_en
+  examples: |
+    - کوئی کس طرح سروس چارجز (ایس سی طلباء کو پری میٹرک اسکالرشپ (9 اور 10 ویں)) کی ادائیگی کرتا ہے؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Pre_Matric_Scholarship_to_SC_Students_9th_and_10th_en
+  examples: |
+    - خدمت کی فراہمی کے لئے وقت کی حد کتنی ہے (ایس سی طلباء کو پری میٹرک اسکالرشپ (9 اور 10 ویں))؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Pre_Matric_Scholarship_to_SC_Students_9th_and_10th_en
+  examples: |
+    - خدمت کی فراہمی کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے (ایس سی طلباء کو پری میٹرک اسکالرشپ (9 اور 10 ویں))؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Pre_Matric_Scholarship_to_SC_Students_9th_and_10th_en
+  examples: |
+    - کون سا افسر/ عہدیدار پہلا اپیلٹ اتھارٹی ہے (ایس سی طلباء کے لئے پری میٹرک اسکالرشپ (9 اور 10 واں))؟
+- intent: Name_of_Services_Post_Matric_Scholarship_to_SC_Students_en
+  examples: |
+    - خدمات کا نام (ایس سی طلباء کو پوسٹ میٹرک اسکالرشپ)؟
+- intent: Documents_Required_Post_Matric_Scholarship_to_SC_Students_en
+  examples: |
+    - دستاویزات کی ضرورت ہے (ایس سی طلباء کو میٹرک کے بعد اسکالرشپ کے بعد)؟
+- intent: What_should_be_the_format_and_size_of_the_uploaded_documenst_Post_Matric_Scholarship_to_SC_Students_en
+  examples: |
+    - اپلوڈڈ دستاویزی دستاویز (ایس سی طلباء کو پوسٹ میٹرک اسکالرشپ کے بعد) کی شکل اور سائز کیا ہونا چاہئے؟
+- intent: what_are_the_official_charges_fee_for_the_service_Post_Matric_Scholarship_to_SC_Students_en
+  examples: |
+    - سروس کے لئے سرکاری چارجز / فیس کیا ہیں (ایس سی طلباء کو پوسٹ میٹرک اسکالرشپ)؟
+- intent: How_does_one_make_the_payment_of_service_charges_Post_Matric_Scholarship_to_SC_Students_en
+  examples: |
+    - کوئی خدمت کے معاوضوں کی ادائیگی کیسے کرتا ہے (ایس سی طلباء کو میٹرک کے بعد اسکالرشپ)؟
+- intent: What_is_the_time_limit_for_delivery_of_the_service_Post_Matric_Scholarship_to_SC_Students_en
+  examples: |
+    - سروس کی فراہمی کے لئے وقت کی حد کتنی ہے (ایس سی طلباء کو میٹرک کے بعد کے اسکالرشپ)؟
+- intent: Which_Officer_Official_is_responsible_for_service_delivery_Post_Matric_Scholarship_to_SC_Students_en
+  examples: |
+    - خدمت کی فراہمی کے لئے کون سا افسر/ عہدیدار ذمہ دار ہے (ایس سی طلباء کو پوسٹ میٹرک اسکالرشپ)؟
+- intent: Which_Officer_official_is_the_First_Appellate_Authority_Post_Matric_Scholarship_to_SC_Students_en
+  examples: |
+    - پہلا اپیلٹ اتھارٹی کون سا افسر/ عہدیدار ہے (ایس سی طلباء کو میٹرک کے بعد اسکالرشپ کے بعد)؟

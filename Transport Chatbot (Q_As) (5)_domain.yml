@@ -1,0 +1,2390 @@
+---
+version: '3.1'
+intents:
+  - Timeline-for-delivery-of-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_ur
+  - Format-and-Size-of-documents-to-be-uploaded-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_ur
+  - Procedure-for-applying-National-Permit-Authorization-registration-Certificate-in-Transport-Department_ur
+  - Online-Issuance-of-Good-Permits-Fresh-by-Transport-Department_en
+  - Timeline-for-delivery-of-Driving-License-registration-Certificate-in-Transport-Department_en
+  - Format-and-Size-of-documents-to-be-uploaded-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_en
+  - Official-responsible-for-delivery-of-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_en
+  - Format-and-Size-of-documents-to-be-uploaded-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_en
+  - Official-responsible-for-delivery-of-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_ur
+  - Timeline-for-delivery-of-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_en
+  - Official-Charges-fees-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_ur
+  - Document-to-be-uploaded-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_en
+  - Format-and-Size-of-documents-to-be-uploaded-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_en
+  - Official-responsible-for-delivery-of-Change-of-address-in-registration-Certificate-in-Transport-Department_en
+  - Official-responsible-for-delivery-of-Online-NOC-certificate-registration-Certificate-in-Transport-Department_en
+  - Payment-Procedure-options-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_en
+  - Timeline-for-delivery-of-Online-NOC-certificate-registration-Certificate-in-Transport-Department_en
+  - Format-and-Size-of-documents-to-be-uploaded-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_ur
+  - Payment-Procedure-options-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_ur
+  - Document-to-be-uploaded-for-Change-of-address-in-registration-Certificate-in-Transport-Department_en
+  - Procedure-for-applying-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_hi
+  - Official-Charges-fees-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_hi
+  - Official-responsible-for-delivery-of-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_en
+  - Payment-Procedure-options-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_ur
+  - First-appellate-authority-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_en
+  - Document-to-be-uploaded-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_hi
+  - Procedure-for-applying-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_hi
+  - First-appellate-authority-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_ur
+  - Official-responsible-for-delivery-of-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_hi
+  - Procedure-for-applying-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_ur
+  - First-appellate-authority-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_en
+  - Official-Charges-fees-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_hi
+  - First-appellate-authority-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_en
+  - Online-Hypothecation-Termination-by-Transport-Department_en
+  - Issuance-of-Duplicate-registration-Certificate-by-Transport-Department_en
+  - Procedure-for-applying-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_ur
+  - Timeline-for-delivery-of-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_ur
+  - Procedure-for-applying-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_hi
+  - First-appellate-authority-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_en
+  - First-appellate-authority-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_ur
+  - Procedure-for-applying-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_en
+  - Official-responsible-for-delivery-of-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_ur
+  - Format-and-Size-of-documents-to-be-uploaded-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_ur
+  - Document-to-be-uploaded-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_ur
+  - Timeline-for-delivery-of-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_hi
+  - Official-Charges-fees-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_hi
+  - Timeline-for-delivery-of-National-Permit-Authorization-registration-Certificate-in-Transport-Department_ur
+  - Document-to-be-uploaded-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_en
+  - Official-Charges-fees-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_hi
+  - Procedure-for-applying-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_en
+  - Services-provided-by-Transport-Department_ur
+  - Procedure-for-applying-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_en
+  - First-appellate-authority-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_hi
+  - Timeline-for-delivery-of-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_en
+  - Official-responsible-for-delivery-of-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_en
+  - Payment-Procedure-options-for-Change-of-address-in-registration-Certificate-in-Transport-Department_en
+  - Official-Charges-fees-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_hi
+  - Procedure-for-applying-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_ur
+  - Timeline-for-delivery-of-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_ur
+  - Official-responsible-for-delivery-of-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_hi
+  - Procedure-for-applying-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_ur
+  - Document-to-be-uploaded-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_ur
+  - Payment-Procedure-options-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_ur
+  - Procedure-for-applying-Driving-License-registration-Certificate-in-Transport-Department_ur
+  - Format-and-Size-of-documents-to-be-uploaded-for-Driving-License-registration-Certificate-in-Transport-Department_ur
+  - Format-and-Size-of-documents-to-be-uploaded-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_en
+  - Format-and-Size-of-documents-to-be-uploaded-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_hi
+  - Official-Charges-fees-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_en
+  - Timeline-for-delivery-of-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_en
+  - Format-and-Size-of-documents-to-be-uploaded-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_hi
+  - Timeline-for-delivery-of-National-Permit-Authorization-registration-Certificate-in-Transport-Department_en
+  - Timeline-for-delivery-of-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_en
+  - Transfer-of-Ownership-of-Vehicle-by-Transport-Department_en
+  - Official-Charges-fees-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_hi
+  - Payment-Procedure-options-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_ur
+  - Timeline-for-delivery-of-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_en
+  - Payment-Procedure-options-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_en
+  - Payment-Procedure-options-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_ur
+  - Procedure-for-applying-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_ur
+  - Payment-Procedure-options-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_ur
+  - Official-responsible-for-delivery-of-Online-NOC-certificate-registration-Certificate-in-Transport-Department_ur
+  - Official-responsible-for-delivery-of-Online-NOC-certificate-registration-Certificate-in-Transport-Department_hi
+  - Procedure-for-applying-Driving-License-registration-Certificate-in-Transport-Department_en
+  - Timeline-for-delivery-of-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_ur
+  - Online-Issuance-of-Good-Permits-Fresh-by-Transport-Department_hi
+  - Format-and-Size-of-documents-to-be-uploaded-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_en
+  - Document-to-be-uploaded-for-Driving-License-registration-Certificate-in-Transport-Department_en
+  - Timeline-for-delivery-of-Driving-License-registration-Certificate-in-Transport-Department_hi
+  - Format-and-Size-of-documents-to-be-uploaded-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_en
+  - Official-Charges-fees-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_ur
+  - Format-and-Size-of-documents-to-be-uploaded-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_hi
+  - Official-responsible-for-delivery-of-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_ur
+  - Document-to-be-uploaded-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_ur
+  - Timeline-for-delivery-of-Driving-License-registration-Certificate-in-Transport-Department_ur
+  - Payment-Procedure-options-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_en
+  - Official-responsible-for-delivery-of-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_ur
+  - Timeline-for-delivery-of-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_en
+  - Format-and-Size-of-documents-to-be-uploaded-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_ur
+  - Procedure-for-applying-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_hi
+  - First-appellate-authority-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_en
+  - Timeline-for-delivery-of-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_hi
+  - Timeline-for-delivery-of-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_ur
+  - Format-and-Size-of-documents-to-be-uploaded-for-Driving-License-registration-Certificate-in-Transport-Department_hi
+  - Payment-Procedure-options-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_en
+  - Payment-Procedure-options-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_en
+  - Procedure-for-applying-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_en
+  - First-appellate-authority-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_en
+  - First-appellate-authority-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_hi
+  - Official-responsible-for-delivery-of-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_hi
+  - Procedure-for-applying-Online-NOC-certificate-registration-Certificate-in-Transport-Department_ur
+  - Format-and-Size-of-documents-to-be-uploaded-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_hi
+  - Official-responsible-for-delivery-of-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_hi
+  - Online-Hypothecation-Endorsement-by-Transport-Department_hi
+  - First-appellate-authority-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_en
+  - Document-to-be-uploaded-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_en
+  - Payment-Procedure-options-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_hi
+  - Procedure-for-applying-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_en
+  - Official-Charges-fees-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_en
+  - Format-and-Size-of-documents-to-be-uploaded-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_hi
+  - Format-and-Size-of-documents-to-be-uploaded-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_ur
+  - Procedure-for-applying-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_en
+  - Document-to-be-uploaded-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_hi
+  - First-appellate-authority-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_ur
+  - First-appellate-authority-for-Change-of-address-in-registration-Certificate-in-Transport-Department_en
+  - Format-and-Size-of-documents-to-be-uploaded-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_ur
+  - First-appellate-authority-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_hi
+  - Official-Charges-fees-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_ur
+  - First-appellate-authority-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_en
+  - Procedure-for-applying-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_en
+  - First-appellate-authority-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_ur
+  - Format-and-Size-of-documents-to-be-uploaded-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_en
+  - Document-to-be-uploaded-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_hi
+  - Payment-Procedure-options-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_ur
+  - Timeline-for-delivery-of-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_ur
+  - Timeline-for-delivery-of-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_hi
+  - Format-and-Size-of-documents-to-be-uploaded-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_hi
+  - Format-and-Size-of-documents-to-be-uploaded-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_hi
+  - Timeline-for-delivery-of-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_ur
+  - Transfer-of-Ownership-of-Vehicle-by-Transport-Department_hi
+  - Official-responsible-for-delivery-of-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_hi
+  - Official-responsible-for-delivery-of-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_hi
+  - Format-and-Size-of-documents-to-be-uploaded-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_hi
+  - Procedure-for-applying-National-Permit-Authorization-registration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_hi
+  - Format-and-Size-of-documents-to-be-uploaded-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_ur
+  - Payment-Procedure-options-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_en
+  - Payment-Procedure-options-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_en
+  - Format-and-Size-of-documents-to-be-uploaded-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_ur
+  - Document-to-be-uploaded-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_ur
+  - First-appellate-authority-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_hi
+  - First-appellate-authority-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_hi
+  - First-appellate-authority-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_ur
+  - Format-and-Size-of-documents-to-be-uploaded-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_hi
+  - Format-and-Size-of-documents-to-be-uploaded-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_en
+  - Procedure-for-applying-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_ur
+  - Format-and-Size-of-documents-to-be-uploaded-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_en
+  - Procedure-for-applying-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_en
+  - Procedure-for-applying-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_en
+  - First-appellate-authority-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_ur
+  - Official-responsible-for-delivery-of-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_en
+  - Official-Charges-fees-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_en
+  - Official-Charges-fees-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_en
+  - Official-responsible-for-delivery-of-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_hi
+  - Procedure-for-applying-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_hi
+  - Official-responsible-for-delivery-of-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_en
+  - Format-and-Size-of-documents-to-be-uploaded-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_hi
+  - First-appellate-authority-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_hi
+  - Format-and-Size-of-documents-to-be-uploaded-for-Change-of-address-in-registration-Certificate-in-Transport-Department_ur
+  - Official-Charges-fees-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_hi
+  - Official-responsible-for-delivery-of-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_ur
+  - Format-and-Size-of-documents-to-be-uploaded-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_en
+  - Procedure-for-applying-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_hi
+  - Official-Charges-fees-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_en
+  - Timeline-for-delivery-of-Change-of-address-in-registration-Certificate-in-Transport-Department_hi
+  - Official-responsible-for-delivery-of-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_ur
+  - Timeline-for-delivery-of-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_en
+  - Payment-Procedure-options-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_hi
+  - Procedure-for-applying-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_ur
+  - Official-responsible-for-delivery-of-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_en
+  - Format-and-Size-of-documents-to-be-uploaded-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_hi
+  - First-appellate-authority-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_ur
+  - Official-responsible-for-delivery-of-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_en
+  - Renewal-of-Route-permits-by-Transport-Department_hi
+  - Change-of-address-in-registration-Certificate-by-Transport-Department_en
+  - Timeline-for-delivery-of-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_en
+  - Format-and-Size-of-documents-to-be-uploaded-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_hi
+  - Payment-Procedure-options-for-Driving-License-registration-Certificate-in-Transport-Department_hi
+  - Payment-Procedure-options-for-Driving-License-registration-Certificate-in-Transport-Department_en
+  - First-appellate-authority-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_en
+  - Payment-Procedure-options-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_hi
+  - Format-and-Size-of-documents-to-be-uploaded-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_ur
+  - Official-responsible-for-delivery-of-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_en
+  - Document-to-be-uploaded-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_hi
+  - First-appellate-authority-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_hi
+  - Official-responsible-for-delivery-of-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_en
+  - Document-to-be-uploaded-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_en
+  - First-appellate-authority-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_en
+  - Document-to-be-uploaded-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_hi
+  - First-appellate-authority-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_hi
+  - Timeline-for-delivery-of-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_hi
+  - Procedure-for-applying-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_en
+  - Change-of-address-in-registration-Certificate-by-Transport-Department_hi
+  - Official-Charges-fees-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_en
+  - Payment-Procedure-options-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_en
+  - Timeline-for-delivery-of-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_ur
+  - Procedure-for-applying-Driving-License-registration-Certificate-in-Transport-Department_hi
+  - Timeline-for-delivery-of-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_ur
+  - Official-responsible-for-delivery-of-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_ur
+  - Timeline-for-delivery-of-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_en
+  - First-appellate-authority-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_hi
+  - Official-Charges-fees-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_en
+  - Timeline-for-delivery-of-Change-of-address-in-registration-Certificate-in-Transport-Department_ur
+  - Document-to-be-uploaded-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_hi
+  - First-appellate-authority-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_en
+  - First-appellate-authority-for-Driving-License-registration-Certificate-in-Transport-Department_en
+  - Procedure-for-applying-Change-of-address-in-registration-Certificate-in-Transport-Department_ur
+  - Document-to-be-uploaded-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_ur
+  - Online-Hypothecation-Endorsement-by-Transport-Department_ur
+  - Official-Charges-fees-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_hi
+  - Payment-Procedure-options-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_hi
+  - Online-Hypothecation-Endorsement-by-Transport-Department_en
+  - Official-Charges-fees-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_ur
+  - Format-and-Size-of-documents-to-be-uploaded-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_hi
+  - Official-Charges-fees-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_hi
+  - Payment-Procedure-options-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_en
+  - Official-Charges-fees-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_ur
+  - Official-responsible-for-delivery-of-National-Permit-Authorization-registration-Certificate-in-Transport-Department_hi
+  - Payment-Procedure-options-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_en
+  - Payment-Procedure-options-for-Change-of-address-in-registration-Certificate-in-Transport-Department_hi
+  - Official-responsible-for-delivery-of-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_hi
+  - Mobile-Number-Updation-by-Transport-Department_ur
+  - First-appellate-authority-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_en
+  - First-appellate-authority-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_ur
+  - Document-to-be-uploaded-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_hi
+  - Timeline-for-delivery-of-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_en
+  - Timeline-for-delivery-of-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_en
+  - First-appellate-authority-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_ur
+  - Procedure-for-applying-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_en
+  - Official-Charges-fees-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_hi
+  - First-appellate-authority-for-Change-of-address-in-registration-Certificate-in-Transport-Department_hi
+  - Official-Charges-fees-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_en
+  - Format-and-Size-of-documents-to-be-uploaded-for-Change-of-address-in-registration-Certificate-in-Transport-Department_en
+  - First-appellate-authority-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_ur
+  - Timeline-for-delivery-of-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_en
+  - Format-and-Size-of-documents-to-be-uploaded-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_ur
+  - Timeline-for-delivery-of-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_ur
+  - Payment-Procedure-options-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_hi
+  - First-appellate-authority-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_ur
+  - Official-responsible-for-delivery-of-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_en
+  - Official-responsible-for-delivery-of-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_en
+  - Official-Charges-fees-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_hi
+  - Procedure-for-applying-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_en
+  - Official-responsible-for-delivery-of-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_hi
+  - First-appellate-authority-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_en
+  - First-appellate-authority-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_ur
+  - Official-Charges-fees-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_ur
+  - Document-to-be-uploaded-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_ur
+  - Timeline-for-delivery-of-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_en
+  - Document-to-be-uploaded-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_en
+  - Official-responsible-for-delivery-of-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_hi
+  - Official-responsible-for-delivery-of-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_ur
+  - Official-responsible-for-delivery-of-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_ur
+  - Format-and-Size-of-documents-to-be-uploaded-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_en
+  - Procedure-for-applying-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_hi
+  - Official-responsible-for-delivery-of-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_hi
+  - First-appellate-authority-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_ur
+  - Official-responsible-for-delivery-of-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_en
+  - Procedure-for-applying-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_ur
+  - Procedure-for-applying-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_ur
+  - Document-to-be-uploaded-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_en
+  - Official-Charges-fees-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_en
+  - Official-responsible-for-delivery-of-National-Permit-Authorization-registration-Certificate-in-Transport-Department_ur
+  - Payment-Procedure-options-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_ur
+  - Payment-Procedure-options-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_en
+  - Format-and-Size-of-documents-to-be-uploaded-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_en
+  - Payment-Procedure-options-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_hi
+  - Official-Charges-fees-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_ur
+  - First-appellate-authority-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_en
+  - Format-and-Size-of-documents-to-be-uploaded-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_ur
+  - Procedure-for-applying-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_en
+  - Timeline-for-delivery-of-Online-NOC-certificate-registration-Certificate-in-Transport-Department_ur
+  - Online-Issuance-of-Good-Permits-Fresh-by-Transport-Department_ur
+  - Procedure-for-applying-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_en
+  - Issuance-of-Duplicate-registration-Certificate-by-Transport-Department_ur
+  - Payment-Procedure-options-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_ur
+  - First-appellate-authority-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_en
+  - Official-responsible-for-delivery-of-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_hi
+  - Payment-Procedure-options-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_en
+  - Format-and-Size-of-documents-to-be-uploaded-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_ur
+  - Document-to-be-uploaded-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_en
+  - First-appellate-authority-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_hi
+  - Official-Charges-fees-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_en
+  - Official-Charges-fees-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_hi
+  - Timeline-for-delivery-of-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_ur
+  - Document-to-be-uploaded-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_en
+  - Renewal-of-Route-permits-by-Transport-Department_en
+  - Payment-Procedure-options-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_hi
+  - First-appellate-authority-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_ur
+  - Document-to-be-uploaded-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_en
+  - Issuance-of-Duplicate-registration-Certificate-by-Transport-Department_hi
+  - First-appellate-authority-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_ur
+  - Payment-Procedure-options-for-Change-of-address-in-registration-Certificate-in-Transport-Department_ur
+  - Official-responsible-for-delivery-of-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_ur
+  - Official-Charges-fees-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_hi
+  - Timeline-for-delivery-of-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_ur
+  - Timeline-for-delivery-of-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_en
+  - Timeline-for-delivery-of-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_ur
+  - Official-responsible-for-delivery-of-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_ur
+  - Payment-Procedure-options-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_ur
+  - Official-Charges-fees-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_hi
+  - Procedure-for-applying-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_en
+  - Official-responsible-for-delivery-of-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_en
+  - Procedure-for-applying-Online-NOC-certificate-registration-Certificate-in-Transport-Department_en
+  - Procedure-for-applying-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_en
+  - Official-Charges-fees-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_ur
+  - First-appellate-authority-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_ur
+  - Official-responsible-for-delivery-of-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_en
+  - Official-Charges-fees-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_hi
+  - Official-Charges-fees-for-Change-of-address-in-registration-Certificate-in-Transport-Department_hi
+  - Timeline-for-delivery-of-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_hi
+  - Payment-Procedure-options-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_ur
+  - First-appellate-authority-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_ur
+  - Procedure-for-applying-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_ur
+  - Procedure-for-applying-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_ur
+  - Document-to-be-uploaded-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_en
+  - Services-provided-by-Transport-Department_hi
+  - Procedure-for-applying-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_hi
+  - Procedure-for-applying-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_ur
+  - Official-responsible-for-delivery-of-Driving-License-registration-Certificate-in-Transport-Department_hi
+  - Official-Charges-fees-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_en
+  - Online-Hypothecation-Termination-by-Transport-Department_hi
+  - Official-responsible-for-delivery-of-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_ur
+  - Official-Charges-fees-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_en
+  - Timeline-for-delivery-of-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_hi
+  - Timeline-for-delivery-of-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_en
+  - Format-and-Size-of-documents-to-be-uploaded-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_en
+  - Official-responsible-for-delivery-of-Change-of-address-in-registration-Certificate-in-Transport-Department_hi
+  - First-appellate-authority-for-Driving-License-registration-Certificate-in-Transport-Department_ur
+  - Procedure-for-applying-Change-of-address-in-registration-Certificate-in-Transport-Department_en
+  - Services-provided-by-Transport-Department_en
+  - Procedure-for-applying-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_ur
+  - Official-Charges-fees-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_ur
+  - Timeline-for-delivery-of-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_ur
+  - Document-to-be-uploaded-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_ur
+  - Document-to-be-uploaded-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_en
+  - Official-Charges-fees-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_hi
+  - First-appellate-authority-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_ur
+  - Document-to-be-uploaded-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_ur
+  - Official-Charges-fees-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_hi
+  - Timeline-for-delivery-of-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_hi
+  - Format-and-Size-of-documents-to-be-uploaded-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_en
+  - Payment-Procedure-options-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_en
+  - Procedure-for-applying-Change-of-address-in-registration-Certificate-in-Transport-Department_hi
+  - Official-Charges-fees-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_en
+  - Official-responsible-for-delivery-of-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_ur
+  - Payment-Procedure-options-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_en
+  - Official-responsible-for-delivery-of-National-Permit-Authorization-registration-Certificate-in-Transport-Department_en
+  - Timeline-for-delivery-of-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_hi
+  - Payment-Procedure-options-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_en
+  - Document-to-be-uploaded-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_ur
+  - Official-Charges-fees-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_en
+  - Official-responsible-for-delivery-of-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_hi
+  - First-appellate-authority-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_en
+  - Timeline-for-delivery-of-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Change-of-address-in-registration-Certificate-in-Transport-Department_hi
+  - Procedure-for-applying-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_hi
+  - Format-and-Size-of-documents-to-be-uploaded-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_ur
+  - First-appellate-authority-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_ur
+  - First-appellate-authority-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_ur
+  - Official-responsible-for-delivery-of-Driving-License-registration-Certificate-in-Transport-Department_en
+  - Procedure-for-applying-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_en
+  - Timeline-for-delivery-of-National-Permit-Authorization-registration-Certificate-in-Transport-Department_hi
+  - Procedure-for-applying-National-Permit-Authorization-registration-Certificate-in-Transport-Department_en
+  - Payment-Procedure-options-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_hi
+  - Payment-Procedure-options-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_ur
+  - Format-and-Size-of-documents-to-be-uploaded-for-Change-of-address-in-registration-Certificate-in-Transport-Department_hi
+  - Procedure-for-applying-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_en
+  - Payment-Procedure-options-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_hi
+  - Payment-Procedure-options-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_hi
+  - Official-Charges-fees-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_ur
+  - First-appellate-authority-for-Driving-License-registration-Certificate-in-Transport-Department_hi
+  - Payment-Procedure-options-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_ur
+  - Payment-Procedure-options-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_en
+  - Timeline-for-delivery-of-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_ur
+  - Timeline-for-delivery-of-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_ur
+  - Mobile-Number-Updation-by-Transport-Department_hi
+  - Format-and-Size-of-documents-to-be-uploaded-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_hi
+  - Procedure-for-applying-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_ur
+  - Official-responsible-for-delivery-of-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_hi
+  - First-appellate-authority-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_en
+  - Timeline-for-delivery-of-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_hi
+  - Official-responsible-for-delivery-of-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_hi
+  - Format-and-Size-of-documents-to-be-uploaded-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_ur
+  - Payment-Procedure-options-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_en
+  - Official-Charges-fees-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_ur
+  - Payment-Procedure-options-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_en
+  - Renewal-of-Route-permits-by-Transport-Department_ur
+  - Official-responsible-for-delivery-of-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_hi
+  - First-appellate-authority-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_hi
+  - Official-Charges-fees-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_ur
+  - Official-Charges-fees-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_ur
+  - Change-of-address-in-registration-Certificate-by-Transport-Department_ur
+  - Official-responsible-for-delivery-of-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_en
+  - Document-to-be-uploaded-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_en
+  - Format-and-Size-of-documents-to-be-uploaded-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_ur
+  - Procedure-for-applying-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_en
+  - Timeline-for-delivery-of-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_ur
+  - Online-Hypothecation-Termination-by-Transport-Department_ur
+  - Payment-Procedure-options-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_hi
+  - Payment-Procedure-options-for-Driving-License-registration-Certificate-in-Transport-Department_ur
+  - Payment-Procedure-options-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_en
+  - Official-responsible-for-delivery-of-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_ur
+  - First-appellate-authority-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_hi
+  - Format-and-Size-of-documents-to-be-uploaded-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_hi
+  - Format-and-Size-of-documents-to-be-uploaded-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_en
+  - Timeline-for-delivery-of-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_ur
+  - Official-Charges-fees-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_hi
+  - Timeline-for-delivery-of-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_en
+  - First-appellate-authority-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_hi
+  - Procedure-for-applying-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_ur
+  - Document-to-be-uploaded-for-Change-of-address-in-registration-Certificate-in-Transport-Department_ur
+  - Payment-Procedure-options-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_ur
+  - Payment-Procedure-options-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_ur
+  - Official-Charges-fees-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_ur
+  - Payment-Procedure-options-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_hi
+  - Payment-Procedure-options-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_hi
+  - Official-responsible-for-delivery-of-Change-of-address-in-registration-Certificate-in-Transport-Department_ur
+  - First-appellate-authority-for-Change-of-address-in-registration-Certificate-in-Transport-Department_ur
+  - Official-Charges-fees-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_ur
+  - Format-and-Size-of-documents-to-be-uploaded-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_hi
+  - Format-and-Size-of-documents-to-be-uploaded-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_ur
+  - Procedure-for-applying-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_ur
+  - Official-Charges-fees-for-Change-of-address-in-registration-Certificate-in-Transport-Department_en
+  - Document-to-be-uploaded-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_hi
+  - Timeline-for-delivery-of-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_en
+  - Timeline-for-delivery-of-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_hi
+  - Timeline-for-delivery-of-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_hi
+  - Official-Charges-fees-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_ur
+  - Document-to-be-uploaded-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_ur
+  - Timeline-for-delivery-of-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_hi
+  - Payment-Procedure-options-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_hi
+  - Timeline-for-delivery-of-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_en
+  - Payment-Procedure-options-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_ur
+  - Timeline-for-delivery-of-Change-of-address-in-registration-Certificate-in-Transport-Department_en
+  - Official-Charges-fees-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_ur
+  - First-appellate-authority-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_ur
+  - Format-and-Size-of-documents-to-be-uploaded-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_en
+  - Procedure-for-applying-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_ur
+  - Format-and-Size-of-documents-to-be-uploaded-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_en
+  - Procedure-for-applying-Online-NOC-certificate-registration-Certificate-in-Transport-Department_hi
+  - Format-and-Size-of-documents-to-be-uploaded-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_hi
+  - Format-and-Size-of-documents-to-be-uploaded-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_en
+  - Payment-Procedure-options-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_hi
+  - Procedure-for-applying-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_hi
+  - Procedure-for-applying-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_ur
+  - Document-to-be-uploaded-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_hi
+  - Official-responsible-for-delivery-of-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_ur
+  - Official-responsible-for-delivery-of-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_ur
+  - Official-Charges-fees-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_hi
+  - Payment-Procedure-options-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_ur
+  - Official-responsible-for-delivery-of-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_ur
+  - Format-and-Size-of-documents-to-be-uploaded-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_ur
+  - Format-and-Size-of-documents-to-be-uploaded-for-Driving-License-registration-Certificate-in-Transport-Department_en
+  - Document-to-be-uploaded-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_hi
+  - Timeline-for-delivery-of-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_hi
+  - Timeline-for-delivery-of-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_en
+  - Procedure-for-applying-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_ur
+  - First-appellate-authority-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_en
+  - Payment-Procedure-options-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_ur
+  - Official-Charges-fees-for-Driving-License-registration-Certificate-in-Transport-Department_ur
+  - Format-and-Size-of-documents-to-be-uploaded-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_en
+  - First-appellate-authority-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_hi
+  - Official-Charges-fees-for-Driving-License-registration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_ur
+  - Official-Charges-fees-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_en
+  - Official-Charges-fees-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_en
+  - First-appellate-authority-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_hi
+  - Official-responsible-for-delivery-of-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_hi
+  - Format-and-Size-of-documents-to-be-uploaded-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_hi
+  - Payment-Procedure-options-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_ur
+  - Official-responsible-for-delivery-of-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_en
+  - Payment-Procedure-options-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_ur
+  - Format-and-Size-of-documents-to-be-uploaded-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_hi
+  - Official-responsible-for-delivery-of-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_ur
+  - Document-to-be-uploaded-for-Driving-License-registration-Certificate-in-Transport-Department_hi
+  - Official-Charges-fees-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_en
+  - Official-Charges-fees-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_ur
+  - Payment-Procedure-options-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_en
+  - Official-responsible-for-delivery-of-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_en
+  - Format-and-Size-of-documents-to-be-uploaded-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_ur
+  - Official-Charges-fees-for-Driving-License-registration-Certificate-in-Transport-Department_en
+  - Format-and-Size-of-documents-to-be-uploaded-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_en
+  - Official-responsible-for-delivery-of-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_ur
+  - Mobile-Number-Updation-by-Transport-Department_en
+  - Official-Charges-fees-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_ur
+  - Official-Charges-fees-for-Change-of-address-in-registration-Certificate-in-Transport-Department_ur
+  - Procedure-for-applying-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_hi
+  - Procedure-for-applying-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_ur
+  - Official-responsible-for-delivery-of-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_en
+  - First-appellate-authority-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_hi
+  - Procedure-for-applying-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_ur
+  - First-appellate-authority-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_hi
+  - Official-Charges-fees-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_en
+  - Payment-Procedure-options-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_ur
+  - Official-Charges-fees-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_en
+  - Payment-Procedure-options-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_hi
+  - Timeline-for-delivery-of-Online-NOC-certificate-registration-Certificate-in-Transport-Department_hi
+  - Format-and-Size-of-documents-to-be-uploaded-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_ur
+  - Format-and-Size-of-documents-to-be-uploaded-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_ur
+  - First-appellate-authority-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_en
+  - Official-Charges-fees-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_en
+  - Document-to-be-uploaded-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_hi
+  - First-appellate-authority-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_hi
+  - Document-to-be-uploaded-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_hi
+  - Official-responsible-for-delivery-of-Driving-License-registration-Certificate-in-Transport-Department_ur
+  - Procedure-for-applying-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_hi
+  - First-appellate-authority-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_en
+  - Timeline-for-delivery-of-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_en
+  - Timeline-for-delivery-of-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_en
+  - Document-to-be-uploaded-for-Driving-License-registration-Certificate-in-Transport-Department_ur
+  - First-appellate-authority-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_hi
+  - Payment-Procedure-options-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_ur
+  - Transfer-of-Ownership-of-Vehicle-by-Transport-Department_ur
+  - Payment-Procedure-options-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_ur
+  - Timeline-for-delivery-of-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_en
+  - Official-Charges-fees-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_en
+  - Format-and-Size-of-documents-to-be-uploaded-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_en
+  - Procedure-for-applying-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_en
+  - Procedure-for-applying-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_ur
+  - Official-Charges-fees-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_ur
+  - Payment-Procedure-options-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_hi
+
+responses:
+  utter_Timeline-for-delivery-of-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پی ڈی ایف ، جے پی ای جی
+  utter_Procedure-for-applying-National-Permit-Authorization-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        www.parivahan.gov.in (گاڑی سے متعلق خدمات)
+  utter_Online-Issuance-of-Good-Permits-Fresh-by-Transport-Department_en:
+    - text: |
+        Online Issuance of Good Permits (Fresh)
+  utter_Timeline-for-delivery-of-Driving-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        30 Days
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        PDF, JPEG
+  utter_Official-responsible-for-delivery-of-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        DA / ARTO/ RTO
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        PDF, JPEG
+  utter_Official-responsible-for-delivery-of-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ڈا / آرٹو / آر ٹی او
+  utter_Timeline-for-delivery-of-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Document-to-be-uploaded-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Not Required
+  utter_Official-Charges-fees-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Document-to-be-uploaded-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आवश्यक नहीं
+  utter_Document-to-be-uploaded-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Not Required
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        PDF, JPEG
+  utter_Official-responsible-for-delivery-of-Change-of-address-in-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        DA / ARTO/ RTO
+  utter_Official-responsible-for-delivery-of-Online-NOC-certificate-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        DA / ARTO/ RTO
+  utter_Payment-Procedure-options-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Timeline-for-delivery-of-Online-NOC-certificate-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پی ڈی ایف ، جے پی ای جی
+  utter_Payment-Procedure-options-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Document-to-be-uploaded-for-Change-of-address-in-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        1. Registration Certificate.
+        2. ADDRESS PROOF
+  utter_Procedure-for-applying-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        www.parivahan.gov.in (वाहन संबंधित सेवाएं)
+  utter_Official-Charges-fees-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Official-responsible-for-delivery-of-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        DA / ARTO/ RTO
+  utter_Payment-Procedure-options-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_First-appellate-authority-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        RTO IN CASE OF ARTO AND TRANSPORT COMMISSIONER IN CASE OF RTO
+  utter_Document-to-be-uploaded-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आवश्यक नहीं
+  utter_Procedure-for-applying-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        www.parivahan.gov.in (वाहन संबंधित सेवाएं)
+  utter_First-appellate-authority-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        آر ٹی او کی صورت میں آرٹو اور ٹرانسپورٹ کمشنر کی صورت میں
+  utter_Official-responsible-for-delivery-of-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        दा / आर्टो / आरटीओ
+  utter_Procedure-for-applying-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        www.parivahan.gov.in (گاڑی سے متعلق خدمات)
+  utter_First-appellate-authority-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        RTO IN CASE OF ARTO AND TRANSPORT COMMISSIONER IN CASE OF RTO
+  utter_Official-Charges-fees-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_First-appellate-authority-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Not Required
+  utter_Online-Hypothecation-Termination-by-Transport-Department_en:
+    - text: |
+        Online Hypothecation Termination
+  utter_Issuance-of-Duplicate-registration-Certificate-by-Transport-Department_en:
+    - text: |
+        Issuance of Duplicate registration Certificate
+  utter_Procedure-for-applying-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        www.parivahan.gov.in (वाहन संबंधित सेवाएं)
+  utter_Document-to-be-uploaded-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ضرورت نہیں ہے
+  utter_Timeline-for-delivery-of-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Procedure-for-applying-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        www.parivahan.gov.in (ड्राइविंग लाइसेंस संबंधित सेवाएं)
+  utter_First-appellate-authority-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_en:
+    - text: |
+        RTO IN CASE OF ARTO AND TRANSPORT COMMISSIONER IN CASE OF RTO
+  utter_First-appellate-authority-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ضرورت نہیں ہے
+  utter_Procedure-for-applying-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        www.parivahan.gov.in (Vehicle related services)
+  utter_Official-responsible-for-delivery-of-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ڈا / آرٹو / آر ٹی او
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پی ڈی ایف ، جے پی ای جی
+  utter_Document-to-be-uploaded-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ضرورت نہیں ہے
+  utter_Timeline-for-delivery-of-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक तय नहीं है
+  utter_Document-to-be-uploaded-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आवश्यक नहीं
+  utter_Official-Charges-fees-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Timeline-for-delivery-of-National-Permit-Authorization-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Document-to-be-uploaded-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        1. Form No 26
+        2. FIR
+        3. Affidavit
+  utter_Official-Charges-fees-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Procedure-for-applying-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        www.parivahan.gov.in (वाहन संबंधित सेवाएं)
+  utter_Document-to-be-uploaded-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        If age of applicant is above 40 then Medical certificate Uploaded If applicant applied Mobile Authentication Services Then Medical, Age Proof& address Proof be uploaded
+  utter_Services-provided-by-Transport-Department_ur:
+    - text: |
+        ڈپلیکیٹ رجسٹریشن سرٹیفکیٹ جاری کرنا
+        رجسٹریشن سرٹیفکیٹ میں ایڈریس کی تبدیلی
+        روٹ پرمٹ کی تجدید
+        رجسٹریشن سرٹیفکیٹ کی آن لائن تجدید (غیر تجارتی)
+        مسافر ٹیکس کی ادائیگی
+        لرنر لائسنس جاری کرنا
+        لرنر لائسنس میں پتہ کی تبدیلی
+        قومی اجازت نامہ اجازت
+        گاڑی کی ملکیت کی منتقلی۔
+        ڈرائیونگ لائسنس کی تبدیلی
+        اچھے اجازت ناموں کا آن لائن اجراء (تازہ)
+        آن لائن ہائپوتیکیشن کی توثیق
+        ڈرائیونگ لائسنس
+        آن لائن NOC سرٹیفکیٹ
+        ڈپلیکیٹ ڈرائیونگ لائسنس جاری کرنا
+        تجارتی گاڑیوں کے روڈ/ٹوکن ٹیکس کی ادائیگی
+        لرنر لائسنس کی توسیع/ تجدید
+        موبائل نمبر کی تازہ کاری
+        عارضی اجازت کا آن لائن اجراء
+        تجارتی گاڑیوں کے فٹنس سرٹیفکیٹ کی تجدید
+        درخواست کی واپسی
+  utter_Procedure-for-applying-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        www.parivahan.gov.in (Vehicle related services)
+  utter_First-appellate-authority-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आरटीओ के मामले में आर्टो और परिवहन आयुक्त के मामले में आरटीओ
+  utter_Timeline-for-delivery-of-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed
+  utter_Official-responsible-for-delivery-of-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        DA / ARTO/ RTO
+  utter_Payment-Procedure-options-for-Change-of-address-in-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Official-Charges-fees-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Procedure-for-applying-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_ur:
+    - text: |
+        www.parivahan.gov.in (گاڑی سے متعلق خدمات)
+  utter_Timeline-for-delivery-of-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی فکسڈ نہیں ہے
+  utter_Official-responsible-for-delivery-of-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        दा / आर्टो / आरटीओ
+  utter_Procedure-for-applying-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        www.parivahan.gov.in (گاڑی سے متعلق خدمات)
+  utter_Document-to-be-uploaded-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        1. ایڈریس پروف
+        2. سیکھنے کا لائسنس
+  utter_Payment-Procedure-options-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Procedure-for-applying-Driving-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        www.parivahan.gov.in (ڈرائیونگ لائسنس سے متعلق خدمات)
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Driving-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پی ڈی ایف ، جے پی ای جی
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_en:
+    - text: |
+        PDF, JPEG
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        पीडीएफ, जेपीईजी
+  utter_Official-Charges-fees-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Timeline-for-delivery-of-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        पीडीएफ, जेपीईजी
+  utter_Timeline-for-delivery-of-National-Permit-Authorization-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Timeline-for-delivery-of-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Transfer-of-Ownership-of-Vehicle-by-Transport-Department_en:
+    - text: |
+        Transfer of Ownership of Vehicle.
+        Online NOC certificate
+        Payment of Road/Token Tax of Commercial vehicles
+        Online Issuance of Temporary Permission
+        Renewal of Fitness Certificate of commercial Vehicles
+        Payment of Passenger Tax
+        Transfer of Ownership of Vehicle.
+        Withdrawal of Application
+        National Permit Authorization
+        Issuance of Learner License
+        Change of Address in Learner License
+        Extension/ Renewal of Lerner License
+        Driving License
+        Issuance of Duplicate Driving License
+        Replacement of Driving License
+  utter_Official-Charges-fees-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Payment-Procedure-options-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Timeline-for-delivery-of-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        15 Days
+  utter_Payment-Procedure-options-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Payment-Procedure-options-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Procedure-for-applying-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        www.parivahan.gov.in (گاڑی سے متعلق خدمات)
+  utter_Payment-Procedure-options-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Official-responsible-for-delivery-of-Online-NOC-certificate-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ڈا / آرٹو / آر ٹی او
+  utter_Official-responsible-for-delivery-of-Online-NOC-certificate-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        दा / आर्टो / आरटीओ
+  utter_Procedure-for-applying-Driving-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        www.parivahan.gov.in (driving license related services)
+  utter_Timeline-for-delivery-of-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Online-Issuance-of-Good-Permits-Fresh-by-Transport-Department_hi:
+    - text: |
+        अच्छे परमिट का ऑनलाइन जारी करना (ताजा)
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        PDF, JPEG
+  utter_Document-to-be-uploaded-for-Driving-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        1. Address Proof 
+        2. Learner Licence
+  utter_Timeline-for-delivery-of-Driving-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        तीस दिन
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        PDF, JPEG
+  utter_Official-Charges-fees-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        पीडीएफ, जेपीईजी
+  utter_Official-responsible-for-delivery-of-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ڈا / آرٹو / آر ٹی او
+  utter_Document-to-be-uploaded-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        1. بینک NOC
+        2. فارم نمبر 35
+        3. رجسٹریشن سرٹیفکیٹ
+        4. حلف نامہ سے
+  utter_Timeline-for-delivery-of-Driving-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        30 دن
+  utter_Payment-Procedure-options-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Official-responsible-for-delivery-of-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ڈا / آرٹو / آر ٹی او
+  utter_Timeline-for-delivery-of-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        15 Days
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پی ڈی ایف ، جے پی ای جی
+  utter_Procedure-for-applying-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        www.parivahan.gov.in (वाहन संबंधित सेवाएं)
+  utter_First-appellate-authority-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        RTO IN CASE OF ARTO AND TRANSPORT COMMISSIONER IN CASE OF RTO
+  utter_Timeline-for-delivery-of-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक तय नहीं है
+  utter_Timeline-for-delivery-of-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی فکسڈ نہیں ہے
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Driving-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        पीडीएफ, जेपीईजी
+  utter_Payment-Procedure-options-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Payment-Procedure-options-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Procedure-for-applying-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        www.parivahan.gov.in (Vehicle related services)
+  utter_First-appellate-authority-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        RTO IN CASE OF ARTO AND TRANSPORT COMMISSIONER IN CASE OF RTO
+  utter_First-appellate-authority-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आरटीओ के मामले में आर्टो और परिवहन आयुक्त के मामले में आरटीओ
+  utter_Official-responsible-for-delivery-of-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        दा / आर्टो / आरटीओ
+  utter_Document-to-be-uploaded-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आवश्यक नहीं
+  utter_Procedure-for-applying-Online-NOC-certificate-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        www.parivahan.gov.in (گاڑی سے متعلق خدمات)
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        पीडीएफ, जेपीईजी
+  utter_Official-responsible-for-delivery-of-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        दा / आर्टो / आरटीओ
+  utter_Online-Hypothecation-Endorsement-by-Transport-Department_hi:
+    - text: |
+        ऑनलाइन हाइपोथेकेशन एंडोर्समेंट
+  utter_First-appellate-authority-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        RTO IN CASE OF ARTO AND TRANSPORT COMMISSIONER IN CASE OF RTO
+  utter_Document-to-be-uploaded-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Not Required
+  utter_Payment-Procedure-options-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Procedure-for-applying-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        www.parivahan.gov.in (driving license related services)
+  utter_Official-Charges-fees-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        पीडीएफ, जेपीईजी
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پی ڈی ایف ، جے پی ای جی
+  utter_Procedure-for-applying-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        www.parivahan.gov.in (driving license related services)
+  utter_Document-to-be-uploaded-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        1. चिकित्सा प्रमाणपत्र
+        2. ड्राइविंग लाइसेंस।
+  utter_First-appellate-authority-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        آر ٹی او کی صورت میں آرٹو اور ٹرانسپورٹ کمشنر کی صورت میں
+  utter_First-appellate-authority-for-Change-of-address-in-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        RTO IN CASE OF ARTO AND TRANSPORT COMMISSIONER IN CASE OF RTO
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پی ڈی ایف ، جے پی ای جی
+  utter_First-appellate-authority-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आरटीओ के मामले में आर्टो और परिवहन आयुक्त के मामले में आरटीओ
+  utter_Official-Charges-fees-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_First-appellate-authority-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Not Required
+  utter_Procedure-for-applying-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        www.parivahan.gov.in (driving license related services)
+  utter_First-appellate-authority-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        آر ٹی او کی صورت میں آرٹو اور ٹرانسپورٹ کمشنر کی صورت میں
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        PDF, JPEG
+  utter_Document-to-be-uploaded-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        1. बैंक एनओसी
+        2. फॉर्म नंबर 35
+        3. पंजीकरण प्रमाणपत्र
+        4. से हलफनामा
+  utter_Payment-Procedure-options-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Timeline-for-delivery-of-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی فکسڈ نہیں ہے
+  utter_Timeline-for-delivery-of-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक तय नहीं है
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        पीडीएफ, जेपीईजी
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        पीडीएफ, जेपीईजी
+  utter_Timeline-for-delivery-of-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی فکسڈ نہیں ہے
+  utter_Transfer-of-Ownership-of-Vehicle-by-Transport-Department_hi:
+    - text: |
+        वाहन के स्वामित्व का स्थानांतरण।
+        ऑनलाइन एनओसी प्रमाणपत्र
+        वाणिज्यिक वाहनों के सड़क/टोकन कर का भुगतान
+        अस्थायी अनुमति का ऑनलाइन जारी करना
+        वाणिज्यिक वाहनों के फिटनेस प्रमाणपत्र का नवीकरण
+        यात्री कर का भुगतान
+        वाहन के स्वामित्व का स्थानांतरण।
+        अनुप्रयोग वापस लेना
+        राष्ट्रीय परमिट प्राधिकरण
+        शिक्षार्थी लाइसेंस जारी करना
+        शिक्षार्थी लाइसेंस में पता बदलना
+        लर्नर लाइसेंस का विस्तार/ नवीकरण
+        ड्राइविंग लाइसेंस
+        डुप्लिकेट ड्राइविंग लाइसेंस जारी करना
+        ड्राइविंग लाइसेंस का प्रतिस्थापन
+  utter_Official-responsible-for-delivery-of-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        दा / आर्टो / आरटीओ
+  utter_Official-responsible-for-delivery-of-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        दा / आर्टो / आरटीओ
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        पीडीएफ, जेपीईजी
+  utter_Procedure-for-applying-National-Permit-Authorization-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        www.parivahan.gov.in (वाहन संबंधित सेवाएं)
+  utter_Document-to-be-uploaded-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_hi:
+    - text: |
+        1. बैंक एनओसी
+        2. फॉर्म नंबर 34
+        3. पंजीकरण प्रमाणपत्र
+        4. से हलफनामा
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پی ڈی ایف ، جے پی ای جی
+  utter_Payment-Procedure-options-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Payment-Procedure-options-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پی ڈی ایف ، جے پی ای جی
+  utter_Document-to-be-uploaded-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        اگر درخواست دہندہ کی عمر 40 سے زیادہ ہے تو میڈیکل سرٹیفکیٹ اپ لوڈ کیا گیا اگر درخواست دہندہ نے موبائل توثیق کی خدمات کا اطلاق کیا تو میڈیکل ، عمر پروف اور ایڈریس پروف اپ لوڈ کیا جائے
+  utter_First-appellate-authority-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आरटीओ के मामले में आर्टो और परिवहन आयुक्त के मामले में आरटीओ
+  utter_First-appellate-authority-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आरटीओ के मामले में आर्टो और परिवहन आयुक्त के मामले में आरटीओ
+  utter_First-appellate-authority-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        آر ٹی او کی صورت میں آرٹو اور ٹرانسپورٹ کمشنر کی صورت میں
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        पीडीएफ, जेपीईजी
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        पीडीएफ, जेपीईजी
+  utter_Document-to-be-uploaded-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_en:
+    - text: |
+         NOC from bank 
+         PASSENGER TAX
+  utter_Procedure-for-applying-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        www.parivahan.gov.in (वाहन संबंधित सेवाएं)
+  utter_Document-to-be-uploaded-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        لرنر لائسنس کی کاپی
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        PDF, JPEG
+  utter_Procedure-for-applying-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        www.parivahan.gov.in (वाहन संबंधित सेवाएं)
+  utter_Document-to-be-uploaded-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Copy of Learner Licence
+  utter_Procedure-for-applying-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        www.parivahan.gov.in (Vehicle related services)
+  utter_First-appellate-authority-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        آر ٹی او کی صورت میں آرٹو اور ٹرانسپورٹ کمشنر کی صورت میں
+  utter_Official-responsible-for-delivery-of-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        DA / ARTO/ RTO
+  utter_Official-Charges-fees-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Official-Charges-fees-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Official-responsible-for-delivery-of-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        दा / आर्टो / आरटीओ
+  utter_Procedure-for-applying-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        www.parivahan.gov.in (वाहन संबंधित सेवाएं)
+  utter_Document-to-be-uploaded-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        1. फॉर्म नंबर 26
+        2. एफआईआर
+        3. शपथ पत्र
+  utter_Official-responsible-for-delivery-of-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        DA / ARTO/ RTO
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        पीडीएफ, जेपीईजी
+  utter_First-appellate-authority-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आवश्यक नहीं
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Change-of-address-in-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پی ڈی ایف ، جے پی ای جی
+  utter_Official-Charges-fees-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Official-responsible-for-delivery-of-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ڈا / آرٹو / آر ٹی او
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        PDF, JPEG
+  utter_Procedure-for-applying-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        www.parivahan.gov.in (ड्राइविंग लाइसेंस संबंधित सेवाएं)
+  utter_Official-Charges-fees-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Timeline-for-delivery-of-Change-of-address-in-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक तय नहीं है
+  utter_Official-responsible-for-delivery-of-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ڈا / آرٹو / آر ٹی او
+  utter_Timeline-for-delivery-of-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed
+  utter_Payment-Procedure-options-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Procedure-for-applying-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        www.parivahan.gov.in (ڈرائیونگ لائسنس سے متعلق خدمات)
+  utter_Official-responsible-for-delivery-of-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        DA / ARTO/ RTO
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        पीडीएफ, जेपीईजी
+  utter_First-appellate-authority-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        آر ٹی او کی صورت میں آرٹو اور ٹرانسپورٹ کمشنر کی صورت میں
+  utter_Official-responsible-for-delivery-of-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        DA / ARTO/ RTO
+  utter_Renewal-of-Route-permits-by-Transport-Department_hi:
+    - text: |
+        मार्ग परमिट का नवीकरण
+  utter_Change-of-address-in-registration-Certificate-by-Transport-Department_en:
+    - text: |
+        Change of address in Registration Certificate
+  utter_Timeline-for-delivery-of-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        15 Days
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        पीडीएफ, जेपीईजी
+  utter_Document-to-be-uploaded-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        यदि आवेदक की आयु 40 से ऊपर है, तो मेडिकल सर्टिफिकेट अपलोड किया गया है यदि आवेदक ने मोबाइल प्रमाणीकरण सेवाएं लागू कीं तो चिकित्सा, आयु प्रमाण और पता प्रमाण अपलोड किया जाए
+  utter_Payment-Procedure-options-for-Driving-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Payment-Procedure-options-for-Driving-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_First-appellate-authority-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_en:
+    - text: |
+        RTO IN CASE OF ARTO AND TRANSPORT COMMISSIONER IN CASE OF RTO
+  utter_Payment-Procedure-options-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پی ڈی ایف ، جے پی ای جی
+  utter_Official-responsible-for-delivery-of-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Not Required
+  utter_Document-to-be-uploaded-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आवश्यक नहीं
+  utter_First-appellate-authority-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आरटीओ के मामले में आर्टो और परिवहन आयुक्त के मामले में आरटीओ
+  utter_Official-responsible-for-delivery-of-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        DA / ARTO/ RTO
+  utter_Document-to-be-uploaded-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        1. Medical Certificate 
+        2. Driving License.
+  utter_First-appellate-authority-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        RTO IN CASE OF ARTO AND TRANSPORT COMMISSIONER IN CASE OF RTO
+  utter_Document-to-be-uploaded-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आवश्यक नहीं
+  utter_First-appellate-authority-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आवश्यक नहीं
+  utter_Timeline-for-delivery-of-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Procedure-for-applying-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        www.parivahan.gov.in (driving license related services)
+  utter_Change-of-address-in-registration-Certificate-by-Transport-Department_hi:
+    - text: |
+        पंजीकरण प्रमाणपत्र में पता बदलना
+  utter_Official-Charges-fees-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Payment-Procedure-options-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Timeline-for-delivery-of-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        15 دن
+  utter_Procedure-for-applying-Driving-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        www.parivahan.gov.in (ड्राइविंग लाइसेंस संबंधित सेवाएं)
+  utter_Timeline-for-delivery-of-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Official-responsible-for-delivery-of-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ڈا / آرٹو / آر ٹی او
+  utter_Timeline-for-delivery-of-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_First-appellate-authority-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आरटीओ के मामले में आर्टो और परिवहन आयुक्त के मामले में आरटीओ
+  utter_Official-Charges-fees-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Timeline-for-delivery-of-Change-of-address-in-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی فکسڈ نہیں ہے
+  utter_Document-to-be-uploaded-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_hi:
+    - text: |
+         फॉर्म नंबर 29
+         फॉर्म नं 30
+         सेंट पार्टी एड्रेस प्रूफ।
+         I IND पार्टी एड्रेस प्रूफ
+         IIND पार्टी का पैन कार्ड
+         बीमा
+         शपथ पत्र
+         बिक्री विलेख
+  utter_First-appellate-authority-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        RTO IN CASE OF ARTO AND TRANSPORT COMMISSIONER IN CASE OF RTO
+  utter_First-appellate-authority-for-Driving-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        RTO IN CASE OF ARTO AND TRANSPORT COMMISSIONER IN CASE OF RTO
+  utter_Procedure-for-applying-Change-of-address-in-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        www.parivahan.gov.in (گاڑی سے متعلق خدمات)
+  utter_Document-to-be-uploaded-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ضرورت نہیں ہے
+  utter_Online-Hypothecation-Endorsement-by-Transport-Department_ur:
+    - text: |
+        آن لائن ہائپوتیکیشن کی توثیق
+  utter_Official-Charges-fees-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Payment-Procedure-options-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Document-to-be-uploaded-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आवश्यक नहीं
+  utter_Online-Hypothecation-Endorsement-by-Transport-Department_en:
+    - text: |
+        Online Hypothecation Endorsement
+  utter_Official-Charges-fees-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        पीडीएफ, जेपीईजी
+  utter_Official-Charges-fees-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Payment-Procedure-options-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Official-Charges-fees-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Official-responsible-for-delivery-of-National-Permit-Authorization-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        दा / आर्टो / आरटीओ
+  utter_Payment-Procedure-options-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Payment-Procedure-options-for-Change-of-address-in-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Official-responsible-for-delivery-of-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_hi:
+    - text: |
+        दा / आर्टो / आरटीओ
+  utter_Mobile-Number-Updation-by-Transport-Department_ur:
+    - text: |
+        موبائل نمبر کی تازہ کاری
+  utter_First-appellate-authority-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        RTO IN CASE OF ARTO AND TRANSPORT COMMISSIONER IN CASE OF RTO
+  utter_First-appellate-authority-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ضرورت نہیں ہے
+  utter_Document-to-be-uploaded-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आवश्यक नहीं
+  utter_Timeline-for-delivery-of-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Timeline-for-delivery-of-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed
+  utter_First-appellate-authority-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        آر ٹی او کی صورت میں آرٹو اور ٹرانسپورٹ کمشنر کی صورت میں
+  utter_Procedure-for-applying-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        www.parivahan.gov.in (Vehicle related services)
+  utter_Official-Charges-fees-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_First-appellate-authority-for-Change-of-address-in-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आरटीओ के मामले में आर्टो और परिवहन आयुक्त के मामले में आरटीओ
+  utter_Official-Charges-fees-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Change-of-address-in-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        PDF, JPEG
+  utter_First-appellate-authority-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_ur:
+    - text: |
+        آر ٹی او کی صورت میں آرٹو اور ٹرانسپورٹ کمشنر کی صورت میں
+  utter_Timeline-for-delivery-of-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پی ڈی ایف ، جے پی ای جی
+  utter_Timeline-for-delivery-of-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        15 دن
+  utter_Payment-Procedure-options-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_First-appellate-authority-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        آر ٹی او کی صورت میں آرٹو اور ٹرانسپورٹ کمشنر کی صورت میں
+  utter_Official-responsible-for-delivery-of-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        DA / ARTO/ RTO
+  utter_Official-responsible-for-delivery-of-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_en:
+    - text: |
+        DA / ARTO/ RTO
+  utter_Official-Charges-fees-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Procedure-for-applying-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        www.parivahan.gov.in (Vehicle related services)
+  utter_Official-responsible-for-delivery-of-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        दा / आर्टो / आरटीओ
+  utter_First-appellate-authority-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        RTO IN CASE OF ARTO AND TRANSPORT COMMISSIONER IN CASE OF RTO
+  utter_First-appellate-authority-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        آر ٹی او کی صورت میں آرٹو اور ٹرانسپورٹ کمشنر کی صورت میں
+  utter_Official-Charges-fees-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Document-to-be-uploaded-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        1. فارم نمبر 26
+        2. ایف آئی آر
+        3. حلف نامہ
+  utter_Timeline-for-delivery-of-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed
+  utter_Document-to-be-uploaded-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Not Required
+  utter_Official-responsible-for-delivery-of-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        दा / आर्टो / आरटीओ
+  utter_Official-responsible-for-delivery-of-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ڈا / آرٹو / آر ٹی او
+  utter_Official-responsible-for-delivery-of-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ڈا / آرٹو / آر ٹی او
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        PDF, JPEG
+  utter_Procedure-for-applying-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_hi:
+    - text: |
+        www.parivahan.gov.in (वाहन संबंधित सेवाएं)
+  utter_Official-responsible-for-delivery-of-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आवश्यक नहीं
+  utter_First-appellate-authority-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        آر ٹی او کی صورت میں آرٹو اور ٹرانسپورٹ کمشنر کی صورت میں
+  utter_Official-responsible-for-delivery-of-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_en:
+    - text: |
+        DA / ARTO/ RTO
+  utter_Procedure-for-applying-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        www.parivahan.gov.in (گاڑی سے متعلق خدمات)
+  utter_Procedure-for-applying-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        www.parivahan.gov.in (ڈرائیونگ لائسنس سے متعلق خدمات)
+  utter_Document-to-be-uploaded-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Not Required
+  utter_Official-Charges-fees-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Official-responsible-for-delivery-of-National-Permit-Authorization-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ڈا / آرٹو / آر ٹی او
+  utter_Payment-Procedure-options-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Document-to-be-uploaded-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ضرورت نہیں ہے
+  utter_Payment-Procedure-options-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        PDF, JPEG
+  utter_Payment-Procedure-options-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Official-Charges-fees-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_First-appellate-authority-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        RTO IN CASE OF ARTO AND TRANSPORT COMMISSIONER IN CASE OF RTO
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پی ڈی ایف ، جے پی ای جی
+  utter_Procedure-for-applying-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        www.parivahan.gov.in (Vehicle related services)
+  utter_Timeline-for-delivery-of-Online-NOC-certificate-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی فکسڈ نہیں ہے
+  utter_Online-Issuance-of-Good-Permits-Fresh-by-Transport-Department_ur:
+    - text: |
+        اچھے اجازت ناموں کا آن لائن اجراء (تازہ)
+  utter_Procedure-for-applying-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        www.parivahan.gov.in (Vehicle related services)
+  utter_Issuance-of-Duplicate-registration-Certificate-by-Transport-Department_ur:
+    - text: |
+        ڈپلیکیٹ رجسٹریشن سرٹیفکیٹ جاری کرنا
+  utter_Payment-Procedure-options-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_First-appellate-authority-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        RTO IN CASE OF ARTO AND TRANSPORT COMMISSIONER IN CASE OF RTO
+  utter_Official-responsible-for-delivery-of-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        दा / आर्टो / आरटीओ
+  utter_Payment-Procedure-options-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پی ڈی ایف ، جے پی ای جی
+  utter_Document-to-be-uploaded-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Not Required
+  utter_First-appellate-authority-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आरटीओ के मामले में आर्टो और परिवहन आयुक्त के मामले में आरटीओ
+  utter_Official-Charges-fees-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Official-Charges-fees-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Timeline-for-delivery-of-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی فکسڈ نہیں ہے
+  utter_Document-to-be-uploaded-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_en:
+    - text: |
+        1. Form No 29 
+        2. Form No 30 
+        3. St Party address Proof. 
+        4. IInd Party address Proof 
+        5. Pan Card of IInd Party 
+        6. Insurance 
+        7. Affidavit 
+        8. Sale deed
+  utter_Renewal-of-Route-permits-by-Transport-Department_en:
+    - text: |
+        Renewal of Route permits
+  utter_Payment-Procedure-options-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_First-appellate-authority-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        آر ٹی او کی صورت میں آرٹو اور ٹرانسپورٹ کمشنر کی صورت میں
+  utter_Document-to-be-uploaded-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        1. FIR 
+        2. Affidavit
+  utter_Issuance-of-Duplicate-registration-Certificate-by-Transport-Department_hi:
+    - text: |
+        डुप्लिकेट पंजीकरण प्रमाणपत्र जारी करना
+  utter_First-appellate-authority-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_ur:
+    - text: |
+        آر ٹی او کی صورت میں آرٹو اور ٹرانسپورٹ کمشنر کی صورت میں
+  utter_Payment-Procedure-options-for-Change-of-address-in-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Official-responsible-for-delivery-of-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ڈا / آرٹو / آر ٹی او
+  utter_Official-Charges-fees-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Timeline-for-delivery-of-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Timeline-for-delivery-of-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Timeline-for-delivery-of-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی فکسڈ نہیں ہے
+  utter_Official-responsible-for-delivery-of-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ڈا / آرٹو / آر ٹی او
+  utter_Payment-Procedure-options-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Official-Charges-fees-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Procedure-for-applying-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        www.parivahan.gov.in (Vehicle related services)
+  utter_Official-responsible-for-delivery-of-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        DA / ARTO/ RTO
+  utter_Procedure-for-applying-Online-NOC-certificate-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        www.parivahan.gov.in (Vehicle related services)
+  utter_Procedure-for-applying-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        www.parivahan.gov.in (driving license related services)
+  utter_Official-Charges-fees-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_First-appellate-authority-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        آر ٹی او کی صورت میں آرٹو اور ٹرانسپورٹ کمشنر کی صورت میں
+  utter_Official-responsible-for-delivery-of-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        DA / ARTO/ RTO
+  utter_Official-Charges-fees-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Official-Charges-fees-for-Change-of-address-in-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Timeline-for-delivery-of-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक तय नहीं है
+  utter_Payment-Procedure-options-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_First-appellate-authority-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आरटीओ के मामले में आर्टो और परिवहन आयुक्त के मामले में आरटीओ
+  utter_Document-to-be-uploaded-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ضرورت نہیں ہے
+  utter_Procedure-for-applying-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_ur:
+    - text: |
+        www.parivahan.gov.in (گاڑی سے متعلق خدمات)
+  utter_Procedure-for-applying-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        www.parivahan.gov.in (گاڑی سے متعلق خدمات)
+  utter_Document-to-be-uploaded-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Not Required
+  utter_Services-provided-by-Transport-Department_hi:
+    - text: |
+        डुप्लिकेट पंजीकरण प्रमाणपत्र जारी करना
+        पंजीकरण प्रमाणपत्र में पता बदलना
+        मार्ग परमिट का नवीकरण
+        पंजीकरण प्रमाणपत्र का ऑनलाइन नवीकरण (गैर वाणिज्यिक)
+        यात्री कर का भुगतान
+        शिक्षार्थी लाइसेंस जारी करना
+        शिक्षार्थी लाइसेंस में पता बदलना
+        राष्ट्रीय परमिट प्राधिकरण
+        वाहन के स्वामित्व का स्थानांतरण।
+        ड्राइविंग लाइसेंस का प्रतिस्थापन
+        अच्छे परमिट का ऑनलाइन जारी करना (ताजा)
+        ऑनलाइन हाइपोथेकेशन एंडोर्समेंट
+        ड्राइविंग लाइसेंस
+        ऑनलाइन एनओसी प्रमाणपत्र
+        डुप्लिकेट ड्राइविंग लाइसेंस जारी करना
+        वाणिज्यिक वाहनों के सड़क/टोकन कर का भुगतान
+        लर्नर लाइसेंस का विस्तार/ नवीकरण
+        मोबाइल नंबर अपडेट
+        अस्थायी अनुमति का ऑनलाइन जारी करना
+        वाणिज्यिक वाहनों के फिटनेस प्रमाणपत्र का नवीकरण
+        अनुप्रयोग वापस लेना
+  utter_Procedure-for-applying-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_hi:
+    - text: |
+        www.parivahan.gov.in (वाहन संबंधित सेवाएं)
+  utter_Procedure-for-applying-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        www.parivahan.gov.in (ड्राइविंग लाइसेंस संबंधित सेवाएं)
+  utter_Document-to-be-uploaded-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ضرورت نہیں ہے
+  utter_Official-responsible-for-delivery-of-Driving-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        दा / आर्टो / आरटीओ
+  utter_Official-Charges-fees-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Online-Hypothecation-Termination-by-Transport-Department_hi:
+    - text: |
+        ऑनलाइन हाइपोथेकेशन टर्मिनेशन
+  utter_Official-responsible-for-delivery-of-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        दा / आर्टो / आरटीओ
+  utter_Document-to-be-uploaded-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        1. ایف آئی آر
+        2. حلف نامہ
+  utter_Official-Charges-fees-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Timeline-for-delivery-of-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        15 दिन
+  utter_Timeline-for-delivery-of-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        PDF, JPEG
+  utter_Official-responsible-for-delivery-of-Change-of-address-in-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        दा / आर्टो / आरटीओ
+  utter_First-appellate-authority-for-Driving-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        آر ٹی او کی صورت میں آرٹو اور ٹرانسپورٹ کمشنر کی صورت میں
+  utter_Procedure-for-applying-Change-of-address-in-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        www.parivahan.gov.in (Vehicle related services)
+  utter_Services-provided-by-Transport-Department_en:
+    - text: |
+        Issuance of Duplicate registration Certificate
+        Change of address in Registration Certificate
+        Renewal of Route permits
+        Online Renewal of Registration Certificate (Non Commercial)
+        Payment of Passenger Tax
+        Issuance of Learner License
+        Change of Address in Learner License
+        National Permit Authorization
+        Transfer of Ownership of Vehicle.
+        Replacement of Driving License
+        Online Issuance of Good Permits (Fresh)
+        Online Hypothecation Endorsement
+        Driving License
+        Online NOC certificate
+        Issuance of Duplicate Driving License
+        Payment of Road/Token Tax of Commercial vehicles
+        Extension/ Renewal of Lerner License
+        Mobile Number Updation
+        Online Issuance of Temporary Permission
+        Renewal of Fitness Certificate of commercial Vehicles
+        Withdrawal of Application
+  utter_Procedure-for-applying-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        www.parivahan.gov.in (ڈرائیونگ لائسنس سے متعلق خدمات)
+  utter_Official-Charges-fees-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Timeline-for-delivery-of-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی فکسڈ نہیں ہے
+  utter_Document-to-be-uploaded-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        1. بینک سے NOC
+        2. مسافر ٹیکس
+  utter_Document-to-be-uploaded-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        1. Address Proof 
+        2. Learner Licence
+  utter_Official-Charges-fees-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_First-appellate-authority-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        آر ٹی او کی صورت میں آرٹو اور ٹرانسپورٹ کمشنر کی صورت میں
+  utter_Document-to-be-uploaded-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ضرورت نہیں ہے
+  utter_Official-Charges-fees-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Timeline-for-delivery-of-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक तय नहीं है
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        PDF, JPEG
+  utter_Payment-Procedure-options-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Procedure-for-applying-Change-of-address-in-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        www.parivahan.gov.in (वाहन संबंधित सेवाएं)
+  utter_Official-Charges-fees-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Official-responsible-for-delivery-of-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ڈا / آرٹو / آر ٹی او
+  utter_Payment-Procedure-options-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Official-responsible-for-delivery-of-National-Permit-Authorization-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        DA / ARTO/ RTO
+  utter_Timeline-for-delivery-of-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        15 दिन
+  utter_Payment-Procedure-options-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Document-to-be-uploaded-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ضرورت نہیں ہے
+  utter_Official-Charges-fees-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Official-responsible-for-delivery-of-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_hi:
+    - text: |
+        दा / आर्टो / आरटीओ
+  utter_First-appellate-authority-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        RTO IN CASE OF ARTO AND TRANSPORT COMMISSIONER IN CASE OF RTO
+  utter_Timeline-for-delivery-of-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Document-to-be-uploaded-for-Change-of-address-in-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        पंजीकरण प्रमाण पत्र।
+         पता प्रमाण
+  utter_Procedure-for-applying-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        www.parivahan.gov.in (वाहन संबंधित सेवाएं)
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پی ڈی ایف ، جے پی ای جی
+  utter_First-appellate-authority-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        آر ٹی او کی صورت میں آرٹو اور ٹرانسپورٹ کمشنر کی صورت میں
+  utter_First-appellate-authority-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        آر ٹی او کی صورت میں آرٹو اور ٹرانسپورٹ کمشنر کی صورت میں
+  utter_Official-responsible-for-delivery-of-Driving-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        DA / ARTO/ RTO
+  utter_Procedure-for-applying-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        www.parivahan.gov.in (Vehicle related services)
+  utter_Timeline-for-delivery-of-National-Permit-Authorization-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Procedure-for-applying-National-Permit-Authorization-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        www.parivahan.gov.in (Vehicle related services)
+  utter_Payment-Procedure-options-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Payment-Procedure-options-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Change-of-address-in-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        पीडीएफ, जेपीईजी
+  utter_Procedure-for-applying-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_en:
+    - text: |
+        www.parivahan.gov.in (Vehicle related services)
+  utter_Payment-Procedure-options-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Payment-Procedure-options-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Official-Charges-fees-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_First-appellate-authority-for-Driving-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आरटीओ के मामले में आर्टो और परिवहन आयुक्त के मामले में आरटीओ
+  utter_Payment-Procedure-options-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Payment-Procedure-options-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Timeline-for-delivery-of-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی فکسڈ نہیں ہے
+  utter_Timeline-for-delivery-of-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی فکسڈ نہیں ہے
+  utter_Mobile-Number-Updation-by-Transport-Department_hi:
+    - text: |
+        मोबाइल नंबर अपडेट
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        पीडीएफ, जेपीईजी
+  utter_Procedure-for-applying-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        www.parivahan.gov.in (گاڑی سے متعلق خدمات)
+  utter_Official-responsible-for-delivery-of-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        दा / आर्टो / आरटीओ
+  utter_First-appellate-authority-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        RTO IN CASE OF ARTO AND TRANSPORT COMMISSIONER IN CASE OF RTO
+  utter_Timeline-for-delivery-of-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक तय नहीं है
+  utter_Official-responsible-for-delivery-of-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        दा / आर्टो / आरटीओ
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پی ڈی ایف ، جے پی ای جی
+  utter_Payment-Procedure-options-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Official-Charges-fees-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Payment-Procedure-options-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Renewal-of-Route-permits-by-Transport-Department_ur:
+    - text: |
+        روٹ پرمٹ کی تجدید
+  utter_Official-responsible-for-delivery-of-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आवश्यक नहीं
+  utter_First-appellate-authority-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आरटीओ के मामले में आर्टो और परिवहन आयुक्त के मामले में आरटीओ
+  utter_Official-Charges-fees-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Official-Charges-fees-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Change-of-address-in-registration-Certificate-by-Transport-Department_ur:
+    - text: |
+        رجسٹریشن سرٹیفکیٹ میں ایڈریس کی تبدیلی
+  utter_Official-responsible-for-delivery-of-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        DA / ARTO/ RTO
+  utter_Document-to-be-uploaded-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        1. BANK NOC 
+        2. Form Number 35 
+        3. Registration certificate 
+        4. Affidavit from
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پی ڈی ایف ، جے پی ای جی
+  utter_Procedure-for-applying-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        www.parivahan.gov.in (Vehicle related services)
+  utter_Timeline-for-delivery-of-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        15 دن
+  utter_Online-Hypothecation-Termination-by-Transport-Department_ur:
+    - text: |
+        آن لائن ہائپوتیکیشن ختم
+  utter_Payment-Procedure-options-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Payment-Procedure-options-for-Driving-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Payment-Procedure-options-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Official-responsible-for-delivery-of-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ضرورت نہیں ہے
+  utter_First-appellate-authority-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आरटीओ के मामले में आर्टो और परिवहन आयुक्त के मामले में आरटीओ
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        पीडीएफ, जेपीईजी
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        PDF, JPEG
+  utter_Timeline-for-delivery-of-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Official-Charges-fees-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Timeline-for-delivery-of-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed
+  utter_First-appellate-authority-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आरटीओ के मामले में आर्टो और परिवहन आयुक्त के मामले में आरटीओ
+  utter_Procedure-for-applying-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        www.parivahan.gov.in (वाहन संबंधित सेवाएं)
+  utter_Document-to-be-uploaded-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_ur:
+    - text: |
+        . بینک NOC
+        . فارم نمبر 34
+        . رجسٹریشن سرٹیفکیٹ
+        . حلف نامہ سے
+  utter_Document-to-be-uploaded-for-Change-of-address-in-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        1. رجسٹریشن سرٹیفکیٹ۔
+        2. ایڈریس پروف
+  utter_Payment-Procedure-options-for-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Payment-Procedure-options-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Official-Charges-fees-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Payment-Procedure-options-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Payment-Procedure-options-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Official-responsible-for-delivery-of-Change-of-address-in-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ڈا / آرٹو / آر ٹی او
+  utter_First-appellate-authority-for-Change-of-address-in-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        آر ٹی او کی صورت میں آرٹو اور ٹرانسپورٹ کمشنر کی صورت میں
+  utter_Official-Charges-fees-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        पीडीएफ, जेपीईजी
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پی ڈی ایف ، جے پی ای جی
+  utter_Procedure-for-applying-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        www.parivahan.gov.in (گاڑی سے متعلق خدمات)
+  utter_Official-Charges-fees-for-Change-of-address-in-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Document-to-be-uploaded-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        शिक्षार्थी लाइसेंस की प्रति
+  utter_Timeline-for-delivery-of-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक तय नहीं है
+  utter_Document-to-be-uploaded-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Not Required
+  utter_Timeline-for-delivery-of-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Timeline-for-delivery-of-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Official-Charges-fees-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Document-to-be-uploaded-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        1. میڈیکل سرٹیفکیٹ
+        2. ڈرائیونگ لائسنس.
+  utter_Timeline-for-delivery-of-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        15 दिन
+  utter_Document-to-be-uploaded-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आवश्यक नहीं
+  utter_Payment-Procedure-options-for-National-Permit-Authorization-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Timeline-for-delivery-of-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक तय नहीं है
+  utter_Document-to-be-uploaded-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Not Required
+  utter_Payment-Procedure-options-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Timeline-for-delivery-of-Change-of-address-in-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed
+  utter_Official-Charges-fees-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_First-appellate-authority-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        آر ٹی او کی صورت میں آرٹو اور ٹرانسپورٹ کمشنر کی صورت میں
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        PDF, JPEG
+  utter_Procedure-for-applying-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        www.parivahan.gov.in (گاڑی سے متعلق خدمات)
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        PDF, JPEG
+  utter_Procedure-for-applying-Online-NOC-certificate-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        www.parivahan.gov.in (वाहन संबंधित सेवाएं)
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_hi:
+    - text: |
+        पीडीएफ, जेपीईजी
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        PDF, JPEG
+  utter_Payment-Procedure-options-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Procedure-for-applying-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        www.parivahan.gov.in (ड्राइविंग लाइसेंस संबंधित सेवाएं)
+  utter_Procedure-for-applying-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        www.parivahan.gov.in (گاڑی سے متعلق خدمات)
+  utter_Document-to-be-uploaded-for-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        1. एफआईआर
+        2. शपथ पत्र
+  utter_Official-responsible-for-delivery-of-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ڈا / آرٹو / آر ٹی او
+  utter_Official-responsible-for-delivery-of-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ڈا / آرٹو / آر ٹی او
+  utter_Official-Charges-fees-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Payment-Procedure-options-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Official-responsible-for-delivery-of-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ڈا / آرٹو / آر ٹی او
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پی ڈی ایف ، جے پی ای جی
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Driving-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        PDF, JPEG
+  utter_Document-to-be-uploaded-for-Renewal-of-Route-permits-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        बैंक से एनओसी
+         यात्री कर
+  utter_Timeline-for-delivery-of-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक तय नहीं है
+  utter_Timeline-for-delivery-of-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Document-to-be-uploaded-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Not Required
+  utter_Procedure-for-applying-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        www.parivahan.gov.in (گاڑی سے متعلق خدمات)
+  utter_First-appellate-authority-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        RTO IN CASE OF ARTO AND TRANSPORT COMMISSIONER IN CASE OF RTO
+  utter_Payment-Procedure-options-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Official-Charges-fees-for-Driving-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_en:
+    - text: |
+        PDF, JPEG
+  utter_First-appellate-authority-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आरटीओ के मामले में आर्टो और परिवहन आयुक्त के मामले में आरटीओ
+  utter_Official-Charges-fees-for-Driving-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Document-to-be-uploaded-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ضرورت نہیں ہے
+  utter_Official-Charges-fees-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Official-Charges-fees-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_First-appellate-authority-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आरटीओ के मामले में आर्टो और परिवहन आयुक्त के मामले में आरटीओ
+  utter_Official-responsible-for-delivery-of-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        दा / आर्टो / आरटीओ
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_hi:
+    - text: |
+        पीडीएफ, जेपीईजी
+  utter_Payment-Procedure-options-for-Payment-of-Passenger-Tax-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Official-responsible-for-delivery-of-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Not Required
+  utter_Payment-Procedure-options-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Document-to-be-uploaded-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ضرورت نہیں ہے
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        पीडीएफ, जेपीईजी
+  utter_Official-responsible-for-delivery-of-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ڈا / آرٹو / آر ٹی او
+  utter_Document-to-be-uploaded-for-Driving-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        1. पता प्रमाण
+        2. शिक्षार्थी लाइसेंस
+  utter_Official-Charges-fees-for-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Official-Charges-fees-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Payment-Procedure-options-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Official-responsible-for-delivery-of-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        DA / ARTO/ RTO
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پی ڈی ایف ، جے پی ای جی
+  utter_Official-Charges-fees-for-Driving-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        PDF, JPEG
+  utter_Official-responsible-for-delivery-of-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ضرورت نہیں ہے
+  utter_Mobile-Number-Updation-by-Transport-Department_en:
+    - text: |
+        Mobile Number Updation
+  utter_Official-Charges-fees-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Official-Charges-fees-for-Change-of-address-in-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Procedure-for-applying-Replacement-of-Driving-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        www.parivahan.gov.in (ड्राइविंग लाइसेंस संबंधित सेवाएं)
+  utter_Procedure-for-applying-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        www.parivahan.gov.in (ڈرائیونگ لائسنس سے متعلق خدمات)
+  utter_Official-responsible-for-delivery-of-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        DA / ARTO/ RTO
+  utter_First-appellate-authority-for-Online-Issuance-of-Good-Permits-Fresh-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आरटीओ के मामले में आर्टो और परिवहन आयुक्त के मामले में आरटीओ
+  utter_Procedure-for-applying-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        www.parivahan.gov.in (گاڑی سے متعلق خدمات)
+  utter_First-appellate-authority-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आरटीओ के मामले में आर्टो और परिवहन आयुक्त के मामले में आरटीओ
+  utter_Official-Charges-fees-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Payment-Procedure-options-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Document-to-be-uploaded-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_ur:
+    - text: |
+        . فارم نمبر 29
+        . فارم نمبر 30
+        . سینٹ پارٹی ایڈریس پروف
+        . IIND پارٹی ایڈریس پروف
+        . IInd پارٹی کا پین کارڈ
+        . انشورنس
+        . حلف نامہ
+        . فروخت کا عمل
+  utter_Official-Charges-fees-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Payment-Procedure-options-for-Issuance-of-Learner-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Timeline-for-delivery-of-Online-NOC-certificate-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक तय नहीं है
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Online-Renewal-of-Registration-Certificate-Non-Commercial-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پی ڈی ایف ، جے پی ای جی
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پی ڈی ایف ، جے پی ای جی
+  utter_First-appellate-authority-for-Extension-Renewal-of-Lerner-License-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        RTO IN CASE OF ARTO AND TRANSPORT COMMISSIONER IN CASE OF RTO
+  utter_Official-Charges-fees-for-Online-NOC-certificate-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है
+  utter_Document-to-be-uploaded-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_en:
+    - text: |
+        1. BANK NOC 
+        2. Form Number 34 
+        3. Registration certificate 
+        4. Affidavit from
+  utter_Document-to-be-uploaded-for-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        1. पता प्रमाण
+        2. शिक्षार्थी लाइसेंस
+  utter_First-appellate-authority-for-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आरटीओ के मामले में आर्टो और परिवहन आयुक्त के मामले में आरटीओ
+  utter_Document-to-be-uploaded-for-Renewal-of-Fitness-Certificate-of-commercial-Vehicles-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आवश्यक नहीं
+  utter_Official-responsible-for-delivery-of-Driving-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        ڈا / آرٹو / آر ٹی او
+  utter_Procedure-for-applying-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        www.parivahan.gov.in (वाहन संबंधित सेवाएं)
+  utter_First-appellate-authority-for-Online-Issuance-of-Temporary-Permission-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        RTO IN CASE OF ARTO AND TRANSPORT COMMISSIONER IN CASE OF RTO
+  utter_Timeline-for-delivery-of-Online-Hypothecation-Termination-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed
+  utter_Timeline-for-delivery-of-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed
+  utter_Document-to-be-uploaded-for-Driving-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        1. ایڈریس پروف
+        2. سیکھنے کا لائسنس
+  utter_First-appellate-authority-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_hi:
+    - text: |
+        आरटीओ के मामले में आर्टो और परिवहन आयुक्त के मामले में आरटीओ
+  utter_Payment-Procedure-options-for-Online-Hypothecation-Endorsementregistration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Transfer-of-Ownership-of-Vehicle-by-Transport-Department_ur:
+    - text: |
+        گاڑی کی ملکیت کی منتقلی۔
+        آن لائن NOC سرٹیفکیٹ
+        تجارتی گاڑیوں کے روڈ/ٹوکن ٹیکس کی ادائیگی
+        عارضی اجازت کا آن لائن اجراء
+        تجارتی گاڑیوں کے فٹنس سرٹیفکیٹ کی تجدید
+        مسافر ٹیکس کی ادائیگی
+        گاڑی کی ملکیت کی منتقلی۔
+        درخواست کی واپسی
+        قومی اجازت نامہ اجازت
+        لرنر لائسنس جاری کرنا
+        لرنر لائسنس میں پتہ کی تبدیلی
+        لرنر لائسنس کی توسیع/ تجدید
+        ڈرائیونگ لائسنس
+        ڈپلیکیٹ ڈرائیونگ لائسنس جاری کرنا
+        ڈرائیونگ لائسنس کی تبدیلی
+  utter_Payment-Procedure-options-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Timeline-for-delivery-of-Payment-of-RoadToken-Tax-of-Commercial-vehicles-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed
+  utter_Official-Charges-fees-for-Mobile-Number-Updation-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        Yet not fixed by the Department
+  utter_Format-and-Size-of-documents-to-be-uploaded-for-Issuance-of-Duplicate-registration-Certificate-in-Transport-Department_en:
+    - text: |
+        PDF, JPEG
+  utter_Procedure-for-applying-Transfer-of-Ownership-of-Vehicleregistration-Certificate-in-Transport-Department_en:
+    - text: |
+        www.parivahan.gov.in (Vehicle related services)
+  utter_Procedure-for-applying-Change-of-Address-in-Learner-License-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        www.parivahan.gov.in (ڈرائیونگ لائسنس سے متعلق خدمات)
+  utter_Official-Charges-fees-for-Withdrawal-of-Application-registration-Certificate-in-Transport-Department_ur:
+    - text: |
+        پھر بھی محکمہ کے ذریعہ طے نہیں ہوا
+  utter_Payment-Procedure-options-for-Issuance-of-Duplicate-Driving-License-registration-Certificate-in-Transport-Department_hi:
+    - text: |
+        अभी तक विभाग द्वारा तय नहीं है

@@ -1,0 +1,21 @@
+version: "3.1"
+
+nlu:
+
+- intent: intent heading
+  examples:
+    - intent eg 1
+    - intent eg 2
+    - intent eg 3
+
+- intent: intent heading 2
+  examples:
+    - intent eg 4
+    - intent eg 5
+    - intent eg 3
+
+- intent: intent heading 3
+  examples:
+    - intent eg 6
+    - intent eg 7
+    - intent eg 8

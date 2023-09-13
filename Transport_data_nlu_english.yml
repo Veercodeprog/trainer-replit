@@ -1,0 +1,131 @@
+nlu:
+- intent: Services_provided_by_Transport_Department_hi
+  examples: |
+    - Services provided by Transport Department:
+    - What are the main services offered by the Transport Department?
+    - Can you provide a comprehensive list of all the services provided by the Transport Department in the transport sector?
+    - How does the Transport Department ensure the safety and efficiency of transportation services?
+    - Are there any specialized services unique to the Transport Department that are not offered by other organizations?
+    - Can you provide information about any recent initiatives or projects undertaken by the Transport Department to improve services?
+    - Are there any upcoming events or campaigns organized by the Transport Department to raise awareness about road safety?
+    - How can individuals or businesses benefit from the services offered by the Transport Department?
+    - Is there a helpline or customer support available for inquiries about the Transport Department's services?
+    - Can I find detailed information about each service on the Transport Department's official website?
+    - Are there any community-driven or environmentally friendly transportation initiatives supported by the Transport Department?
+- intent: Issuance_of_Duplicate_Registration_Certificate_by_Transport_Department_hi
+  examples: |
+    - Issuance of Duplicate Registration Certificate by Transport Department:
+    - What is the purpose of the Issuance of Duplicate Registration Certificate process by the Transport Department?
+    - Can you explain the circumstances under which individuals may need to apply for a duplicate registration certificate?
+    - Are there any online portals or offline forms available for the application of a duplicate registration certificate?
+    - What are the essential steps applicants need to follow during the application process?
+    - Can applicants expect a smooth and efficient process for obtaining a duplicate registration certificate?
+    - Are there any specific guidelines or procedures that applicants must adhere to while applying for a duplicate certificate?
+    - Can applicants apply for a duplicate registration certificate in person, or is it possible to submit applications through a representative?
+    - How long does it typically take for the Transport Department to process and issue a duplicate registration certificate?
+    - Can applicants track the status of their application during the processing period?
+    - Is there any provision for expedited processing of duplicate registration certificate applications for urgent cases?
+- intent: Procedure_for_applying_Issuance_of_Duplicate_Registration_Certificate_in_Transport_Department_hi
+  examples: |
+    - Procedure for applying Issuance of Duplicate Registration Certificate in Transport Department:
+    - What is the step-by-step process for applying for the Issuance of Duplicate Registration Certificate?
+    - Can applicants access the application guidelines and requirements on the Transport Department's official website?
+    - Is there a checklist of documents or information needed for the application process?
+    - Are there any fees or charges associated with applying for a duplicate registration certificate?
+    - Can applicants seek assistance from the Transport Department in case they encounter any difficulties during the application?
+    - Is there a provision for online submission of the application, or is it an offline process?
+    - Can applicants apply for a duplicate registration certificate in person, or is it possible to submit applications through a representative?
+    - How long does it typically take for the Transport Department to process and issue a duplicate registration certificate?
+    - Can applicants track the status of their application during the processing period?
+    - Is there any provision for expedited processing of duplicate registration certificate applications for urgent cases?
+- intent: Document_to_be_uploaded_for_Issuance_of_Duplicate_Registration_Certificate_in_Transport_Department_hi
+  examples: |
+    - Document to be uploaded for Issuance of Duplicate Registration Certificate in Transport Department:
+    - Can you provide a detailed list of all the documents required for the application of a duplicate registration certificate?
+    - Are there any specific formats or templates for the required documents?
+    - How can applicants ensure that the documents meet the necessary format and size criteria?
+    - Are there any guidelines on how to prepare and organize the documents for submission?
+    - Can electronic copies or scanned documents be submitted for the application?
+    - Are there any technical specifications or standards that the documents must adhere to?
+    - Can applicants seek assistance from the Transport Department in case of any confusion regarding the required documents?
+    - Are there any common mistakes to avoid while preparing the documents for submission?
+    - Is there a provision for resubmitting corrected or updated documents if needed?
+    - What happens if applicants are unable to provide certain required documents during the application?
+- intent: Format_and_Size_of_documents_to_be_uploaded_for_Issuance_of_Duplicate_Registration_Certificate_in_Transport_Department_hi
+  examples: |
+    - Format and Size of documents to be uploaded for Issuance of Duplicate Registration Certificate in Transport Department:
+    - Is there a specific format or resolution required for scanned documents?
+    - How can applicants ensure that the documents meet the size requirements for the application?
+    - Are there any restrictions on the colors or background of the uploaded documents?
+    - Do I need to convert physical documents to digital format before uploading?
+    - Is there a limit to the number of documents that can be uploaded for the application?
+    - Can I compress the files to reduce the size of the uploaded documents?
+    - Can applicants receive a confirmation or preview of the uploaded documents before submission?
+    - Are there any guidelines for formatting text-based documents for uploading?
+    - Can I upload documents from my mobile device, or is a computer required?
+    - Are there any sample templates or examples available for the required documents?
+- intent: Official_Charges_/_fees_for_Issuance_of_Duplicate_Registration_Certificate_in_Transport_Department_hi
+  examples: |
+    - Official Charges / fees for Issuance of Duplicate Registration Certificate in Transport Department:
+    - What are the official charges or fees associated with applying for a duplicate registration certificate?
+    - Can you provide a breakdown of the charges or fees for the duplicate registration certificate application?
+    - Is there any financial assistance available to cover the fees for eligible applicants?
+    - How can applicants make payments for the duplicate registration certificate application?
+    - Are there any online payment facilities or platforms accepted for the fees?
+    - Are the charges different for different categories of applicants, such as individuals and commercial entities?
+    - Are there any exemptions or waivers available for certain individuals or categories?
+    - Can applicants receive a receipt or confirmation of payment after submitting the fees?
+    - What are the consequences of non-payment or delayed payment of the application fees?
+    - Can applicants request a refund in case their application is withdrawn or rejected?
+- intent: Payment_Procedure_/_options_for_Issuance_of_Duplicate_Registration_Certificate_in_Transport_Department_hi
+  examples: |
+    - Payment Procedure / options for Issuance of Duplicate Registration Certificate in Transport Department:
+    - What are the different payment options available for paying the duplicate registration certificate application fees?
+    - Can applicants pay the fees in installments, or is it a lump sum payment?
+    - How can applicants securely and conveniently make payments for the application fees?
+    - Are there any online payment gateways or digital wallets accepted for payment?
+    - Is there a provision for offline payment options, such as payment through a bank or post office?
+    - Are there any transaction fees or additional charges for online payments?
+    - Is there a payment receipt or acknowledgment provided after successful payment?
+    - Can applicants request a receipt or proof of payment if needed for future references?
+    - Are there any specific dates or deadlines for payment of the application fees?
+    - What happens if applicants face technical issues or errors while making the payment?
+- intent: Timeline_for_delivery_of_Issuance_of_Duplicate_Registration_Certificate_in_Transport_Department_hi
+  examples: |
+    - Timeline for delivery of Issuance of Duplicate Registration Certificate in Transport Department:
+    - How long does it typically take for the Transport Department to process and issue a duplicate registration certificate?
+    - Is there a specific time frame or service level agreement (SLA) for processing applications?
+    - Can applicants track the status of their application during the processing period?
+    - What factors may influence the timeline for the processing of Issuance of Duplicate Registration Certificate?
+    - Is there any provision for expedited or fast-track processing for urgent cases?
+    - Can applicants request updates or notifications regarding the status of their application?
+    - Is there a specified time limit within which applicants must receive the duplicate registration certificate?
+    - Are there any peak seasons or busy periods that may affect the processing time?
+    - Is there a provision for time-bound delivery of the duplicate registration certificate?
+    - What measures are in place to ensure efficiency and transparency in the processing timeline?
+- intent: Official_responsible_for_delivery_of_Issuance_of_Duplicate_Registration_Certificate_in_Transport_Department_hi
+  examples: |
+    - Official responsible for delivery of Issuance of Duplicate Registration Certificate in Transport Department:
+    - Who is the designated officer or official responsible for overseeing the processing of duplicate registration certificate applications?
+    - How can applicants or service recipients contact the officer in charge of duplicate registration certificate delivery?
+    - Are there any specific roles and responsibilities assigned to the designated officer regarding the certificate delivery?
+    - Is there a dedicated office or department where the officer responsible for certificate delivery can be reached?
+    - Are there any support channels available for applicants to seek assistance from the designated officer?
+    - Can applicants inquire about the status of their application or certificate delivery with the designated officer?
+    - What are the working hours or availability of the designated officer for inquiries and assistance?
+    - Is there any provision for applicant feedback or complaints related to the officer's performance?
+    - Are there any performance metrics or indicators used to assess the efficiency of the designated officer's role in processing?
+    - Can applicants expect courteous and prompt service from the officer responsible for certificate delivery?
+- intent: First_appellate_authority_for_Issuance_of_Duplicate_Registration_Certificate_in_Transport_Department_hi
+  examples: |
+    - First appellate authority for Issuance of Duplicate Registration Certificate in Transport Department:
+    - Who serves as the first appellate authority for matters related to the issuance of duplicate registration certificates?
+    - How can applicants file an appeal to the first appellate authority regarding their certificate application decision?
+    - What is the procedure for appealing to the first appellate authority for the certificate application?
+    - Can applicants expect a fair and unbiased review of their appeals by the first appellate authority?
+    - What are the grounds on which applicants can appeal to the first appellate authority for registration?
+    - Is there a specific time frame within which applicants must file an appeal after the decision?
+    - Can applicants seek legal representation or assistance while appealing to the first appellate authority?
+    - How can applicants track the status or progress of their appeal with the first appellate authority?
+    - What are the possible outcomes or decisions that the first appellate authority can make regarding the application?
+    - Are there any guidelines or procedures for implementing the decisions of the first appellate authority?

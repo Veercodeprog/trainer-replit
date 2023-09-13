@@ -1,0 +1,461 @@
+version: '3.1'
+stories:
+- story: What are the activities covered under Rise Together scheme en
+  steps:
+  - intent: What_are_the_activities_covered_under_Rise_Together_scheme_en
+  - action: utter_What_are_the_activities_covered_under_Rise_Together_scheme_en
+- story: SAHATYA Scheme hi
+  steps:
+  - intent: SAHATYA_Scheme_hi
+  - action: utter_SAHATYA_Scheme_hi
+- story: What is the objective of Rise Together Scheme ur
+  steps:
+  - intent: What_is_the_objective_of_Rise_Together_Scheme_ur
+  - action: utter_What_is_the_objective_of_Rise_Together_Scheme_ur
+- story: What is the Eligibility for Young Innovators scheme ur
+  steps:
+  - intent: What_is_the_Eligibility_for_Young_Innovators_scheme_ur
+  - action: utter_What_is_the_Eligibility_for_Young_Innovators_scheme_ur
+- story: What Is the financial assistance given under Young Innovators scheme ur
+  steps:
+  - intent: What_Is_the_financial_assistance_given_under_Young_Innovators_scheme_ur
+  - action: utter_What_Is_the_financial_assistance_given_under_Young_Innovators_scheme_ur
+- story: What is the financial assistance given under Dental Professional Scheme en
+  steps:
+  - intent: What_is_the_financial_assistance_given_under_Dental_Professional_Scheme_en
+  - action: utter_What_is_the_financial_assistance_given_under_Dental_Professional_Scheme_en
+- story: Does Mission Youth help in creating volunteers ur
+  steps:
+  - intent: Does_Mission_Youth_help_in_creating_volunteers_ur
+  - action: utter_Does_Mission_Youth_help_in_creating_volunteers_ur
+- story: What is the duration of the Endeavor To EmpowerSkill Development Programme
+    hi
+  steps:
+  - intent: What_is_the_duration_of_the_Endeavor_To_EmpowerSkill_Development_Programme_hi
+  - action: utter_What_is_the_duration_of_the_Endeavor_To_EmpowerSkill_Development_Programme_hi
+- story: Does Mission Youth run Counselling and rehabilitation awareness campaigns
+    hi
+  steps:
+  - intent: Does_Mission_Youth_run_Counselling_and_rehabilitation_awareness_campaigns_hi
+  - action: utter_Does_Mission_Youth_run_Counselling_and_rehabilitation_awareness_campaigns_hi
+- story: SAHATYA Scheme ur
+  steps:
+  - intent: SAHATYA_Scheme_ur
+  - action: utter_SAHATYA_Scheme_ur
+- story: Who is eligible for Endeavor To EmpowerSkill Development Programme en
+  steps:
+  - intent: Who_is_eligible_for_Endeavor_To_EmpowerSkill_Development_Programme_en
+  - action: utter_Who_is_eligible_for_Endeavor_To_EmpowerSkill_Development_Programme_en
+- story: Are there trainings on Entrepreneurship Development en
+  steps:
+  - intent: Are_there_trainings_on_Entrepreneurship_Development_en
+  - action: utter_Are_there_trainings_on_Entrepreneurship_Development_en
+- story: What is the Funding Pattern of Rise Together scheme en
+  steps:
+  - intent: What_is_the_Funding_Pattern_of_Rise_Together_scheme_en
+  - action: utter_What_is_the_Funding_Pattern_of_Rise_Together_scheme_en
+- story: What are the incentives under MUMKIN scheme en
+  steps:
+  - intent: What_are_the_incentives_under_MUMKIN_scheme_en
+  - action: utter_What_are_the_incentives_under_MUMKIN_scheme_en
+- story: What is the duration of the Endeavor To EmpowerSkill Development Programme
+    en
+  steps:
+  - intent: What_is_the_duration_of_the_Endeavor_To_EmpowerSkill_Development_Programme_en
+  - action: utter_What_is_the_duration_of_the_Endeavor_To_EmpowerSkill_Development_Programme_en
+- story: What is the Financial Assistance Provided under SEI Scheme hi
+  steps:
+  - intent: What_is_the_Financial_Assistance_Provided_under_SEI_Scheme_hi
+  - action: utter_What_is_the_Financial_Assistance_Provided_under_SEI_Scheme_hi
+- story: Are there trainings on Entrepreneurship Development ur
+  steps:
+  - intent: Are_there_trainings_on_Entrepreneurship_Development_ur
+  - action: utter_Are_there_trainings_on_Entrepreneurship_Development_ur
+- story: What are the objectives of Young Innovators programme hi
+  steps:
+  - intent: What_are_the_objectives_of_Young_Innovators_programme_hi
+  - action: utter_What_are_the_objectives_of_Young_Innovators_programme_hi
+- story: What are the other big initiatives of Mission Youth en
+  steps:
+  - intent: What_are_the_other_big_initiatives_of_Mission_Youth_en
+  - action: utter_What_are_the_other_big_initiatives_of_Mission_Youth_en
+- story: What is MUMKIN Scheme ur
+  steps:
+  - intent: What_is_MUMKIN_Scheme_ur
+  - action: utter_What_is_MUMKIN_Scheme_ur
+- story: What is the Eligibility for Young Innovators scheme hi
+  steps:
+  - intent: What_is_the_Eligibility_for_Young_Innovators_scheme_hi
+  - action: utter_What_is_the_Eligibility_for_Young_Innovators_scheme_hi
+- story: What kind of Trainings are provided en
+  steps:
+  - intent: What_kind_of_Trainings_are_provided_en
+  - action: utter_What_kind_of_Trainings_are_provided_en
+- story: What vehicle options are available under MUMKIN scheme hi
+  steps:
+  - intent: What_vehicle_options_are_available_under_MUMKIN_scheme_hi
+  - action: utter_What_vehicle_options_are_available_under_MUMKIN_scheme_hi
+- story: What are the objectives of Young Innovators programme ur
+  steps:
+  - intent: What_are_the_objectives_of_Young_Innovators_programme_ur
+  - action: utter_What_are_the_objectives_of_Young_Innovators_programme_ur
+- story: What are the other big initiatives of Mission Youth hi
+  steps:
+  - intent: What_are_the_other_big_initiatives_of_Mission_Youth_hi
+  - action: utter_What_are_the_other_big_initiatives_of_Mission_Youth_hi
+- story: Does Mission Youth assist in departmental convergence on eradicating drug
+    addiction en
+  steps:
+  - intent: Does_Mission_Youth_assist_in_departmental_convergence_on_eradicating_drug_addiction_en
+  - action: utter_Does_Mission_Youth_assist_in_departmental_convergence_on_eradicating_drug_addiction_en
+- story: What are the Objectives of Tejaswani Scheme hi
+  steps:
+  - intent: What_are_the_Objectives_of_Tejaswani_Scheme_hi
+  - action: utter_What_are_the_Objectives_of_Tejaswani_Scheme_hi
+- story: What is the eligibility to apply in SEI Scheme en
+  steps:
+  - intent: What_is_the_eligibility_to_apply_in_SEI_Scheme_en
+  - action: utter_What_is_the_eligibility_to_apply_in_SEI_Scheme_en
+- story: What is the objective of Rise Together Scheme en
+  steps:
+  - intent: What_is_the_objective_of_Rise_Together_Scheme_en
+  - action: utter_What_is_the_objective_of_Rise_Together_Scheme_en
+- story: What are the activities covered under Tejaswani Scheme en
+  steps:
+  - intent: What_are_the_activities_covered_under_Tejaswani_Scheme_en
+  - action: utter_What_are_the_activities_covered_under_Tejaswani_Scheme_en
+- story: What is the Procedure for selection of applicants hi
+  steps:
+  - intent: What_is_the_Procedure_for_selection_of_applicants_hi
+  - action: utter_What_is_the_Procedure_for_selection_of_applicants_hi
+- story: Are there trainings on Entrepreneurship Development hi
+  steps:
+  - intent: Are_there_trainings_on_Entrepreneurship_Development_hi
+  - action: utter_Are_there_trainings_on_Entrepreneurship_Development_hi
+- story: What is the Eligibility for applying in Tejaswani Scheme ur
+  steps:
+  - intent: What_is_the_Eligibility_for_applying_in_Tejaswani_Scheme_ur
+  - action: utter_What_is_the_Eligibility_for_applying_in_Tejaswani_Scheme_ur
+- story: What is the procedure to apply for Dental Professional Scheme ur
+  steps:
+  - intent: What_is_the_procedure_to_apply_for_Dental_Professional_Scheme_ur
+  - action: utter_What_is_the_procedure_to_apply_for_Dental_Professional_Scheme_ur
+- story: Who is eligible for Rise Together scheme ur
+  steps:
+  - intent: Who_is_eligible_for_Rise_Together_scheme_ur
+  - action: utter_Who_is_eligible_for_Rise_Together_scheme_ur
+- story: Does Mission Youth assist in departmental convergence on eradicating drug
+    addiction ur
+  steps:
+  - intent: Does_Mission_Youth_assist_in_departmental_convergence_on_eradicating_drug_addiction_ur
+  - action: utter_Does_Mission_Youth_assist_in_departmental_convergence_on_eradicating_drug_addiction_ur
+- story: Does Mission Youth run Counselling and rehabilitation awareness campaigns
+    en
+  steps:
+  - intent: Does_Mission_Youth_run_Counselling_and_rehabilitation_awareness_campaigns_en
+  - action: utter_Does_Mission_Youth_run_Counselling_and_rehabilitation_awareness_campaigns_en
+- story: What are the Objectives of Tejaswani Scheme ur
+  steps:
+  - intent: What_are_the_Objectives_of_Tejaswani_Scheme_ur
+  - action: utter_What_are_the_Objectives_of_Tejaswani_Scheme_ur
+- story: What are the objectives of Young Innovators programme en
+  steps:
+  - intent: What_are_the_objectives_of_Young_Innovators_programme_en
+  - action: utter_What_are_the_objectives_of_Young_Innovators_programme_en
+- story: What Is the financial assistance given under Young Innovators scheme en
+  steps:
+  - intent: What_Is_the_financial_assistance_given_under_Young_Innovators_scheme_en
+  - action: utter_What_Is_the_financial_assistance_given_under_Young_Innovators_scheme_en
+- story: What is the Eligibility for applying for Rise Together scheme hi
+  steps:
+  - intent: What_is_the_Eligibility_for_applying_for_Rise_Together_scheme_hi
+  - action: utter_What_is_the_Eligibility_for_applying_for_Rise_Together_scheme_hi
+- story: What is the funding pattern of Tejaswani Scheme hi
+  steps:
+  - intent: What_is_the_funding_pattern_of_Tejaswani_Scheme_hi
+  - action: utter_What_is_the_funding_pattern_of_Tejaswani_Scheme_hi
+- story: Does Mission Youth run Counselling and rehabilitation awareness campaigns
+    ur
+  steps:
+  - intent: Does_Mission_Youth_run_Counselling_and_rehabilitation_awareness_campaigns_ur
+  - action: utter_Does_Mission_Youth_run_Counselling_and_rehabilitation_awareness_campaigns_ur
+- story: Who is eligible for Endeavor To EmpowerSkill Development Programme ur
+  steps:
+  - intent: Who_is_eligible_for_Endeavor_To_EmpowerSkill_Development_Programme_ur
+  - action: utter_Who_is_eligible_for_Endeavor_To_EmpowerSkill_Development_Programme_ur
+- story: What is the objective of SEI Scheme en
+  steps:
+  - intent: What_is_the_objective_of_SEI_Scheme_en
+  - action: utter_What_is_the_objective_of_SEI_Scheme_en
+- story: What is the Eligibility for applying in Tejaswani Scheme en
+  steps:
+  - intent: What_is_the_Eligibility_for_applying_in_Tejaswani_Scheme_en
+  - action: utter_What_is_the_Eligibility_for_applying_in_Tejaswani_Scheme_en
+- story: What is the Eligibility for Young Innovators scheme en
+  steps:
+  - intent: What_is_the_Eligibility_for_Young_Innovators_scheme_en
+  - action: utter_What_is_the_Eligibility_for_Young_Innovators_scheme_en
+- story: What is MUMKIN Scheme hi
+  steps:
+  - intent: What_is_MUMKIN_Scheme_hi
+  - action: utter_What_is_MUMKIN_Scheme_hi
+- story: What is the purpose of Rise Together scheme en
+  steps:
+  - intent: What_is_the_purpose_of_Rise_Together_scheme_en
+  - action: utter_What_is_the_purpose_of_Rise_Together_scheme_en
+- story: What is the procedure for applying in Tejaswani Scheme ur
+  steps:
+  - intent: What_is_the_procedure_for_applying_in_Tejaswani_Scheme_ur
+  - action: utter_What_is_the_procedure_for_applying_in_Tejaswani_Scheme_ur
+- story: What is the Eligibility for applying in Tejaswani Scheme hi
+  steps:
+  - intent: What_is_the_Eligibility_for_applying_in_Tejaswani_Scheme_hi
+  - action: utter_What_is_the_Eligibility_for_applying_in_Tejaswani_Scheme_hi
+- story: What is the eligibility to apply in SEI Scheme ur
+  steps:
+  - intent: What_is_the_eligibility_to_apply_in_SEI_Scheme_ur
+  - action: utter_What_is_the_eligibility_to_apply_in_SEI_Scheme_ur
+- story: What is the Objective of Endeavor To EmpowerSkill Development Scheme hi
+  steps:
+  - intent: What_is_the_Objective_of_Endeavor_To_EmpowerSkill_Development_Scheme_hi
+  - action: utter_What_is_the_Objective_of_Endeavor_To_EmpowerSkill_Development_Scheme_hi
+- story: What is the duration of the Endeavor To EmpowerSkill Development Programme
+    ur
+  steps:
+  - intent: What_is_the_duration_of_the_Endeavor_To_EmpowerSkill_Development_Programme_ur
+  - action: utter_What_is_the_duration_of_the_Endeavor_To_EmpowerSkill_Development_Programme_ur
+- story: What is the Financial Assistance Provided under SEI Scheme ur
+  steps:
+  - intent: What_is_the_Financial_Assistance_Provided_under_SEI_Scheme_ur
+  - action: utter_What_is_the_Financial_Assistance_Provided_under_SEI_Scheme_ur
+- story: What is the objective of Rise Together Scheme hi
+  steps:
+  - intent: What_is_the_objective_of_Rise_Together_Scheme_hi
+  - action: utter_What_is_the_objective_of_Rise_Together_Scheme_hi
+- story: What is the Objective of Endeavor To EmpowerSkill Development Scheme en
+  steps:
+  - intent: What_is_the_Objective_of_Endeavor_To_EmpowerSkill_Development_Scheme_en
+  - action: utter_What_is_the_Objective_of_Endeavor_To_EmpowerSkill_Development_Scheme_en
+- story: Who is eligible for Rise Together scheme hi
+  steps:
+  - intent: Who_is_eligible_for_Rise_Together_scheme_hi
+  - action: utter_Who_is_eligible_for_Rise_Together_scheme_hi
+- story: Who is eligible for Endeavor To EmpowerSkill Development Programme hi
+  steps:
+  - intent: Who_is_eligible_for_Endeavor_To_EmpowerSkill_Development_Programme_hi
+  - action: utter_Who_is_eligible_for_Endeavor_To_EmpowerSkill_Development_Programme_hi
+- story: What vehicle options are available under MUMKIN scheme ur
+  steps:
+  - intent: What_vehicle_options_are_available_under_MUMKIN_scheme_ur
+  - action: utter_What_vehicle_options_are_available_under_MUMKIN_scheme_ur
+- story: What is the Financial Assistance Provided under SEI Scheme en
+  steps:
+  - intent: What_is_the_Financial_Assistance_Provided_under_SEI_Scheme_en
+  - action: utter_What_is_the_Financial_Assistance_Provided_under_SEI_Scheme_en
+- story: What is the purpose of Rise Together scheme hi
+  steps:
+  - intent: What_is_the_purpose_of_Rise_Together_scheme_hi
+  - action: utter_What_is_the_purpose_of_Rise_Together_scheme_hi
+- story: What is the objective of SEI Scheme ur
+  steps:
+  - intent: What_is_the_objective_of_SEI_Scheme_ur
+  - action: utter_What_is_the_objective_of_SEI_Scheme_ur
+- story: What is the Funding Pattern of Rise Together scheme ur
+  steps:
+  - intent: What_is_the_Funding_Pattern_of_Rise_Together_scheme_ur
+  - action: utter_What_is_the_Funding_Pattern_of_Rise_Together_scheme_ur
+- story: What is the Eligibility for applying for Rise Together scheme ur
+  steps:
+  - intent: What_is_the_Eligibility_for_applying_for_Rise_Together_scheme_ur
+  - action: utter_What_is_the_Eligibility_for_applying_for_Rise_Together_scheme_ur
+- story: What is the funding pattern of Tejaswani Scheme ur
+  steps:
+  - intent: What_is_the_funding_pattern_of_Tejaswani_Scheme_ur
+  - action: utter_What_is_the_funding_pattern_of_Tejaswani_Scheme_ur
+- story: SAHATYA Scheme en
+  steps:
+  - intent: SAHATYA_Scheme_en
+  - action: utter_SAHATYA_Scheme_en
+- story: Does Mission Youth help the candidates that are coming out of rehabilitation
+    centers ur
+  steps:
+  - intent: Does_Mission_Youth_help_the_candidates_that_are_coming_out_of_rehabilitation_centers_ur
+  - action: utter_Does_Mission_Youth_help_the_candidates_that_are_coming_out_of_rehabilitation_centers_ur
+- story: What are the documents needed to be submitted by the applicant along with
+    the application form ur
+  steps:
+  - intent: What_are_the_documents_needed_to_be_submitted_by_the_applicant_along_with_the_application_form_ur
+  - action: utter_What_are_the_documents_needed_to_be_submitted_by_the_applicant_along_with_the_application_form_ur
+- story: What are the Objectives of Tejaswani Scheme en
+  steps:
+  - intent: What_are_the_Objectives_of_Tejaswani_Scheme_en
+  - action: utter_What_are_the_Objectives_of_Tejaswani_Scheme_en
+- story: What is the Eligibility to apply for Dental Professional Scheme en
+  steps:
+  - intent: What_is_the_Eligibility_to_apply_for_Dental_Professional_Scheme_en
+  - action: utter_What_is_the_Eligibility_to_apply_for_Dental_Professional_Scheme_en
+- story: What is the objective of Dental Professional Scheme ur
+  steps:
+  - intent: What_is_the_objective_of_Dental_Professional_Scheme_ur
+  - action: utter_What_is_the_objective_of_Dental_Professional_Scheme_ur
+- story: What is the financial assistance given under Dental Professional Scheme ur
+  steps:
+  - intent: What_is_the_financial_assistance_given_under_Dental_Professional_Scheme_ur
+  - action: utter_What_is_the_financial_assistance_given_under_Dental_Professional_Scheme_ur
+- story: What is the Procedure for selection of applicants en
+  steps:
+  - intent: What_is_the_Procedure_for_selection_of_applicants_en
+  - action: utter_What_is_the_Procedure_for_selection_of_applicants_en
+- story: What is the Eligibility to apply for Dental Professional Scheme hi
+  steps:
+  - intent: What_is_the_Eligibility_to_apply_for_Dental_Professional_Scheme_hi
+  - action: utter_What_is_the_Eligibility_to_apply_for_Dental_Professional_Scheme_hi
+- story: What is MUMKIN Scheme en
+  steps:
+  - intent: What_is_MUMKIN_Scheme_en
+  - action: utter_What_is_MUMKIN_Scheme_en
+- story: What kind of Trainings are provided ur
+  steps:
+  - intent: What_kind_of_Trainings_are_provided_ur
+  - action: utter_What_kind_of_Trainings_are_provided_ur
+- story: Does Mission Youth help the candidates that are coming out of rehabilitation
+    centers hi
+  steps:
+  - intent: Does_Mission_Youth_help_the_candidates_that_are_coming_out_of_rehabilitation_centers_hi
+  - action: utter_Does_Mission_Youth_help_the_candidates_that_are_coming_out_of_rehabilitation_centers_hi
+- story: What is the objective of Dental Professional Scheme en
+  steps:
+  - intent: What_is_the_objective_of_Dental_Professional_Scheme_en
+  - action: utter_What_is_the_objective_of_Dental_Professional_Scheme_en
+- story: What is the funding pattern of Tejaswani Scheme en
+  steps:
+  - intent: What_is_the_funding_pattern_of_Tejaswani_Scheme_en
+  - action: utter_What_is_the_funding_pattern_of_Tejaswani_Scheme_en
+- story: What is the objective of SEI Scheme hi
+  steps:
+  - intent: What_is_the_objective_of_SEI_Scheme_hi
+  - action: utter_What_is_the_objective_of_SEI_Scheme_hi
+- story: What is the purpose of Rise Together scheme ur
+  steps:
+  - intent: What_is_the_purpose_of_Rise_Together_scheme_ur
+  - action: utter_What_is_the_purpose_of_Rise_Together_scheme_ur
+- story: What kind of Trainings are provided hi
+  steps:
+  - intent: What_kind_of_Trainings_are_provided_hi
+  - action: utter_What_kind_of_Trainings_are_provided_hi
+- story: What are the documents needed to be submitted by the applicant along with
+    the application form en
+  steps:
+  - intent: What_are_the_documents_needed_to_be_submitted_by_the_applicant_along_with_the_application_form_en
+  - action: utter_What_are_the_documents_needed_to_be_submitted_by_the_applicant_along_with_the_application_form_en
+- story: What vehicle options are available under MUMKIN scheme en
+  steps:
+  - intent: What_vehicle_options_are_available_under_MUMKIN_scheme_en
+  - action: utter_What_vehicle_options_are_available_under_MUMKIN_scheme_en
+- story: What are the activities covered under Tejaswani Scheme hi
+  steps:
+  - intent: What_are_the_activities_covered_under_Tejaswani_Scheme_hi
+  - action: utter_What_are_the_activities_covered_under_Tejaswani_Scheme_hi
+- story: What are the activities covered under Tejaswani Scheme ur
+  steps:
+  - intent: What_are_the_activities_covered_under_Tejaswani_Scheme_ur
+  - action: utter_What_are_the_activities_covered_under_Tejaswani_Scheme_ur
+- story: Who is eligible for Rise Together scheme en
+  steps:
+  - intent: Who_is_eligible_for_Rise_Together_scheme_en
+  - action: utter_Who_is_eligible_for_Rise_Together_scheme_en
+- story: What is the Funding Pattern of Rise Together scheme hi
+  steps:
+  - intent: What_is_the_Funding_Pattern_of_Rise_Together_scheme_hi
+  - action: utter_What_is_the_Funding_Pattern_of_Rise_Together_scheme_hi
+- story: What is the Procedure for selection of applicants ur
+  steps:
+  - intent: What_is_the_Procedure_for_selection_of_applicants_ur
+  - action: utter_What_is_the_Procedure_for_selection_of_applicants_ur
+- story: What is the procedure to apply for Dental Professional Scheme hi
+  steps:
+  - intent: What_is_the_procedure_to_apply_for_Dental_Professional_Scheme_hi
+  - action: utter_What_is_the_procedure_to_apply_for_Dental_Professional_Scheme_hi
+- story: What is the Eligibility to apply for Dental Professional Scheme ur
+  steps:
+  - intent: What_is_the_Eligibility_to_apply_for_Dental_Professional_Scheme_ur
+  - action: utter_What_is_the_Eligibility_to_apply_for_Dental_Professional_Scheme_ur
+- story: What are the activities covered under Rise Together scheme hi
+  steps:
+  - intent: What_are_the_activities_covered_under_Rise_Together_scheme_hi
+  - action: utter_What_are_the_activities_covered_under_Rise_Together_scheme_hi
+- story: Does Mission Youth help in creating volunteers hi
+  steps:
+  - intent: Does_Mission_Youth_help_in_creating_volunteers_hi
+  - action: utter_Does_Mission_Youth_help_in_creating_volunteers_hi
+- story: What are the activities covered under Rise Together scheme ur
+  steps:
+  - intent: What_are_the_activities_covered_under_Rise_Together_scheme_ur
+  - action: utter_What_are_the_activities_covered_under_Rise_Together_scheme_ur
+- story: What is the financial assistance given under Dental Professional Scheme hi
+  steps:
+  - intent: What_is_the_financial_assistance_given_under_Dental_Professional_Scheme_hi
+  - action: utter_What_is_the_financial_assistance_given_under_Dental_Professional_Scheme_hi
+- story: Does Mission Youth assist in departmental convergence on eradicating drug
+    addiction hi
+  steps:
+  - intent: Does_Mission_Youth_assist_in_departmental_convergence_on_eradicating_drug_addiction_hi
+  - action: utter_Does_Mission_Youth_assist_in_departmental_convergence_on_eradicating_drug_addiction_hi
+- story: What are the documents needed to be submitted by the applicant along with
+    the application form hi
+  steps:
+  - intent: What_are_the_documents_needed_to_be_submitted_by_the_applicant_along_with_the_application_form_hi
+  - action: utter_What_are_the_documents_needed_to_be_submitted_by_the_applicant_along_with_the_application_form_hi
+- story: What is the procedure to apply for Dental Professional Scheme en
+  steps:
+  - intent: What_is_the_procedure_to_apply_for_Dental_Professional_Scheme_en
+  - action: utter_What_is_the_procedure_to_apply_for_Dental_Professional_Scheme_en
+- story: Does Mission Youth help in creating volunteers en
+  steps:
+  - intent: Does_Mission_Youth_help_in_creating_volunteers_en
+  - action: utter_Does_Mission_Youth_help_in_creating_volunteers_en
+- story: What Is the financial assistance given under Young Innovators scheme hi
+  steps:
+  - intent: What_Is_the_financial_assistance_given_under_Young_Innovators_scheme_hi
+  - action: utter_What_Is_the_financial_assistance_given_under_Young_Innovators_scheme_hi
+- story: What is the procedure for applying in Tejaswani Scheme hi
+  steps:
+  - intent: What_is_the_procedure_for_applying_in_Tejaswani_Scheme_hi
+  - action: utter_What_is_the_procedure_for_applying_in_Tejaswani_Scheme_hi
+- story: What is the eligibility to apply in SEI Scheme hi
+  steps:
+  - intent: What_is_the_eligibility_to_apply_in_SEI_Scheme_hi
+  - action: utter_What_is_the_eligibility_to_apply_in_SEI_Scheme_hi
+- story: What are the other big initiatives of Mission Youth ur
+  steps:
+  - intent: What_are_the_other_big_initiatives_of_Mission_Youth_ur
+  - action: utter_What_are_the_other_big_initiatives_of_Mission_Youth_ur
+- story: Does Mission Youth help the candidates that are coming out of rehabilitation
+    centers en
+  steps:
+  - intent: Does_Mission_Youth_help_the_candidates_that_are_coming_out_of_rehabilitation_centers_en
+  - action: utter_Does_Mission_Youth_help_the_candidates_that_are_coming_out_of_rehabilitation_centers_en
+- story: What are the incentives under MUMKIN scheme hi
+  steps:
+  - intent: What_are_the_incentives_under_MUMKIN_scheme_hi
+  - action: utter_What_are_the_incentives_under_MUMKIN_scheme_hi
+- story: What is the Eligibility for applying for Rise Together scheme en
+  steps:
+  - intent: What_is_the_Eligibility_for_applying_for_Rise_Together_scheme_en
+  - action: utter_What_is_the_Eligibility_for_applying_for_Rise_Together_scheme_en
+- story: What are the incentives under MUMKIN scheme ur
+  steps:
+  - intent: What_are_the_incentives_under_MUMKIN_scheme_ur
+  - action: utter_What_are_the_incentives_under_MUMKIN_scheme_ur
+- story: What is the procedure for applying in Tejaswani Scheme en
+  steps:
+  - intent: What_is_the_procedure_for_applying_in_Tejaswani_Scheme_en
+  - action: utter_What_is_the_procedure_for_applying_in_Tejaswani_Scheme_en
+- story: What is the objective of Dental Professional Scheme hi
+  steps:
+  - intent: What_is_the_objective_of_Dental_Professional_Scheme_hi
+  - action: utter_What_is_the_objective_of_Dental_Professional_Scheme_hi
+- story: What is the Objective of Endeavor To EmpowerSkill Development Scheme ur
+  steps:
+  - intent: What_is_the_Objective_of_Endeavor_To_EmpowerSkill_Development_Scheme_ur
+  - action: utter_What_is_the_Objective_of_Endeavor_To_EmpowerSkill_Development_Scheme_ur

@@ -1,0 +1,449 @@
+---
+version: '3.1'
+intents:
+  - What_is_the_Procedure_for_selection_of_applicants_en
+  - What_is_MUMKIN_Scheme_en
+  - What_is_MUMKIN_Scheme_hi
+  - What_are_the_other_big_initiatives_of_Mission_Youth_hi
+  - What_vehicle_options_are_available_under_MUMKIN_scheme_en
+  - Does_Mission_Youth_run_Counselling_and_rehabilitation_awareness_campaigns_en
+  - What_is_the_Eligibility_for_Young_Innovators_scheme_hi
+  - What_is_the_objective_of_Rise_Together_Scheme_ur
+  - What_is_the_purpose_of_Rise_Together_scheme_en
+  - What_is_the_eligibility_to_apply_in_SEI_Scheme_ur
+  - What_is_the_funding_pattern_of_Tejaswani_Scheme_ur
+  - Who_is_eligible_for_Rise_Together_scheme_en
+  - What_is_the_Funding_Pattern_of_Rise_Together_scheme_en
+  - What_are_the_documents_needed_to_be_submitted_by_the_applicant_along_with_the_application_form_en
+  - Who_is_eligible_for_Rise_Together_scheme_hi
+  - Are_there_trainings_on_Entrepreneurship_Development_hi
+  - SAHATYA_Scheme_ur
+  - What_is_the_Objective_of_Endeavor_To_EmpowerSkill_Development_Scheme_hi
+  - What_are_the_objectives_of_Young_Innovators_programme_ur
+  - Does_Mission_Youth_assist_in_departmental_convergence_on_eradicating_drug_addiction_ur
+  - What_kind_of_Trainings_are_provided_hi
+  - Does_Mission_Youth_assist_in_departmental_convergence_on_eradicating_drug_addiction_en
+  - What_Is_the_financial_assistance_given_under_Young_Innovators_scheme_en
+  - What_is_the_procedure_for_applying_in_Tejaswani_Scheme_ur
+  - What_is_the_Eligibility_for_applying_for_Rise_Together_scheme_hi
+  - What_kind_of_Trainings_are_provided_en
+  - What_are_the_other_big_initiatives_of_Mission_Youth_en
+  - What_is_the_procedure_to_apply_for_Dental_Professional_Scheme_hi
+  - Are_there_trainings_on_Entrepreneurship_Development_ur
+  - What_are_the_objectives_of_Young_Innovators_programme_en
+  - What_is_the_eligibility_to_apply_in_SEI_Scheme_en
+  - What_is_the_objective_of_Dental_Professional_Scheme_hi
+  - What_is_the_Objective_of_Endeavor_To_EmpowerSkill_Development_Scheme_en
+  - What_is_the_procedure_to_apply_for_Dental_Professional_Scheme_en
+  - What_is_the_duration_of_the_Endeavor_To_EmpowerSkill_Development_Programme_hi
+  - What_is_the_objective_of_Dental_Professional_Scheme_ur
+  - What_are_the_documents_needed_to_be_submitted_by_the_applicant_along_with_the_application_form_ur
+  - SAHATYA_Scheme_en
+  - What_is_the_funding_pattern_of_Tejaswani_Scheme_en
+  - Does_Mission_Youth_help_in_creating_volunteers_en
+  - What_kind_of_Trainings_are_provided_ur
+  - What_is_the_Financial_Assistance_Provided_under_SEI_Scheme_en
+  - What_is_the_objective_of_Rise_Together_Scheme_hi
+  - What_is_the_Procedure_for_selection_of_applicants_ur
+  - Does_Mission_Youth_help_in_creating_volunteers_ur
+  - What_are_the_incentives_under_MUMKIN_scheme_en
+  - What_are_the_Objectives_of_Tejaswani_Scheme_ur
+  - What_are_the_incentives_under_MUMKIN_scheme_ur
+  - What_are_the_activities_covered_under_Tejaswani_Scheme_en
+  - What_is_the_objective_of_SEI_Scheme_hi
+  - What_is_the_procedure_for_applying_in_Tejaswani_Scheme_hi
+  - What_is_the_Eligibility_for_applying_in_Tejaswani_Scheme_hi
+  - Does_Mission_Youth_help_the_candidates_that_are_coming_out_of_rehabilitation_centers_en
+  - What_vehicle_options_are_available_under_MUMKIN_scheme_ur
+  - What_is_the_Eligibility_for_applying_in_Tejaswani_Scheme_en
+  - What_is_the_duration_of_the_Endeavor_To_EmpowerSkill_Development_Programme_en
+  - What_is_the_objective_of_Rise_Together_Scheme_en
+  - What_are_the_Objectives_of_Tejaswani_Scheme_en
+  - What_is_the_Financial_Assistance_Provided_under_SEI_Scheme_hi
+  - What_is_the_Eligibility_for_Young_Innovators_scheme_ur
+  - Who_is_eligible_for_Endeavor_To_EmpowerSkill_Development_Programme_hi
+  - Who_is_eligible_for_Endeavor_To_EmpowerSkill_Development_Programme_ur
+  - What_is_the_financial_assistance_given_under_Dental_Professional_Scheme_en
+  - What_is_the_duration_of_the_Endeavor_To_EmpowerSkill_Development_Programme_ur
+  - What_is_the_funding_pattern_of_Tejaswani_Scheme_hi
+  - What_are_the_objectives_of_Young_Innovators_programme_hi
+  - What_are_the_activities_covered_under_Tejaswani_Scheme_ur
+  - Does_Mission_Youth_help_the_candidates_that_are_coming_out_of_rehabilitation_centers_ur
+  - Does_Mission_Youth_run_Counselling_and_rehabilitation_awareness_campaigns_hi
+  - What_is_the_procedure_to_apply_for_Dental_Professional_Scheme_ur
+  - What_is_the_purpose_of_Rise_Together_scheme_hi
+  - Does_Mission_Youth_help_in_creating_volunteers_hi
+  - What_are_the_activities_covered_under_Rise_Together_scheme_en
+  - What_are_the_activities_covered_under_Rise_Together_scheme_hi
+  - What_is_the_objective_of_SEI_Scheme_en
+  - What_is_the_Eligibility_to_apply_for_Dental_Professional_Scheme_en
+  - SAHATYA_Scheme_hi
+  - What_Is_the_financial_assistance_given_under_Young_Innovators_scheme_ur
+  - Who_is_eligible_for_Endeavor_To_EmpowerSkill_Development_Programme_en
+  - What_is_the_Funding_Pattern_of_Rise_Together_scheme_hi
+  - What_is_the_Funding_Pattern_of_Rise_Together_scheme_ur
+  - What_is_the_Financial_Assistance_Provided_under_SEI_Scheme_ur
+  - What_is_the_financial_assistance_given_under_Dental_Professional_Scheme_ur
+  - What_is_the_Eligibility_for_Young_Innovators_scheme_en
+  - What_Is_the_financial_assistance_given_under_Young_Innovators_scheme_hi
+  - Who_is_eligible_for_Rise_Together_scheme_ur
+  - What_is_the_objective_of_SEI_Scheme_ur
+  - What_are_the_activities_covered_under_Tejaswani_Scheme_hi
+  - What_are_the_incentives_under_MUMKIN_scheme_hi
+  - What_are_the_documents_needed_to_be_submitted_by_the_applicant_along_with_the_application_form_hi
+  - What_is_the_procedure_for_applying_in_Tejaswani_Scheme_en
+  - What_is_the_Eligibility_for_applying_for_Rise_Together_scheme_en
+  - What_is_the_objective_of_Dental_Professional_Scheme_en
+  - Does_Mission_Youth_run_Counselling_and_rehabilitation_awareness_campaigns_ur
+  - What_is_the_Eligibility_to_apply_for_Dental_Professional_Scheme_hi
+  - Does_Mission_Youth_help_the_candidates_that_are_coming_out_of_rehabilitation_centers_hi
+  - What_is_the_Procedure_for_selection_of_applicants_hi
+  - What_are_the_activities_covered_under_Rise_Together_scheme_ur
+  - What_is_the_Eligibility_for_applying_in_Tejaswani_Scheme_ur
+  - What_is_MUMKIN_Scheme_ur
+  - What_is_the_Eligibility_to_apply_for_Dental_Professional_Scheme_ur
+  - Does_Mission_Youth_assist_in_departmental_convergence_on_eradicating_drug_addiction_hi
+  - What_is_the_Objective_of_Endeavor_To_EmpowerSkill_Development_Scheme_ur
+  - Are_there_trainings_on_Entrepreneurship_Development_en
+  - What_is_the_eligibility_to_apply_in_SEI_Scheme_hi
+  - What_is_the_financial_assistance_given_under_Dental_Professional_Scheme_hi
+  - What_is_the_purpose_of_Rise_Together_scheme_ur
+  - What_are_the_Objectives_of_Tejaswani_Scheme_hi
+  - What_are_the_other_big_initiatives_of_Mission_Youth_ur
+  - What_is_the_Eligibility_for_applying_for_Rise_Together_scheme_ur
+  - What_vehicle_options_are_available_under_MUMKIN_scheme_hi
+
+responses:
+  utter_What_is_the_Procedure_for_selection_of_applicants_en:
+    - text: |
+        The applications shall be submitted by the applicants digitally through specific digital module developed for the purpose by Mission Youth.
+  utter_What_is_MUMKIN_Scheme_en:
+    - text: |
+        Under the Mumkin scheme, unemployed youth are facilitated to procure small commercial vehicles, on subsidized basis, to establish a sustainable livelihood line in the transport sector
+  utter_What_is_MUMKIN_Scheme_hi:
+    - text: |
+        ममकिन योजना के तहत, बेरोजगार युवाओं को परिवहन क्षेत्र में एक स्थायी आजीविका रेखा स्थापित करने के लिए, सब्सिडी के आधार पर छोटे वाणिज्यिक वाहनों की खरीद करने की सुविधा होती है।
+  utter_What_are_the_other_big_initiatives_of_Mission_Youth_hi:
+    - text: |
+        मिशन यूथ बैंकिंग, बीमा और वित्त क्षेत्र से संबंधित नौकरी की भूमिकाओं में बीएसई लिमिटेड के सहयोग से एक व्यापक प्रशिक्षण कार्यक्रम चलाता है।
+  utter_What_vehicle_options_are_available_under_MUMKIN_scheme_en:
+    - text: |
+        Mission Youth has tied up with reputed vehicle manufacturers as scheme partners for providing the best-in-class options of vehicles to the youth. Pertinently, discretion to choose type of vehicle is left to the youth under MUMKIN scheme guidelines
+  utter_Does_Mission_Youth_run_Counselling_and_rehabilitation_awareness_campaigns_en:
+    - text: |
+        Yes, Mission Youth runs Counselling and rehabilitation awareness camps actively in education institutions and cover both urban and rural areas of the UT
+  utter_What_is_the_Eligibility_for_Young_Innovators_scheme_hi:
+    - text: |
+        वित्तीय सहायता केवल 18 से 35 वर्ष की आयु के बीच युवाओं को दी जाएगी, जिसमें 10 वें मानक या उससे अधिक की योग्यता होगी।
+  utter_What_is_the_objective_of_Rise_Together_Scheme_ur:
+    - text: |
+        J & K.to میں کمیونٹی پر مبنی انٹرپرینیورشپ کو تیار کرنے کے لئے مربوط اور پروجیکٹوائزڈ گروتھ ماڈل کی بنیاد پر 'ایک ساتھ اٹھو' کے نئے تصور کو متعارف کروائیں۔
+  utter_What_is_the_purpose_of_Rise_Together_scheme_en:
+    - text: |
+        The programme focuses on introducing and developing community-oriented entrepreneurship in J&K.
+  utter_What_is_the_eligibility_to_apply_in_SEI_Scheme_ur:
+    - text: |
+        مالی مدد صرف 18 سے 40 سال کی عمر کے نوجوانوں کو دی جائے گی جس میں کم سے کم 12 ویں معیار یا اس سے زیادہ کی قابلیت ہوگی۔
+  utter_What_is_the_funding_pattern_of_Tejaswani_Scheme_ur:
+    - text: |
+        تیجسوانی اسکیم کے تحت ، اہل ممکنہ خاتون کاروباری شخص کو J&K بینک سے 5.00 لاکھ روپے کی حد تک مدرا قرض کے تحت مالی اعانت حاصل کرنے میں مدد فراہم کی جائے گی۔
+  utter_Who_is_eligible_for_Rise_Together_scheme_en:
+    - text: |
+        Any domicile of J&K, essentially registered with Mission Youth, J&K.Only the Youth Groups with minimum 3 youth members shall be eligible for Financial Assistance under Rise Together  scheme.
+  utter_What_is_the_Funding_Pattern_of_Rise_Together_scheme_en:
+    - text: |
+        Under Rise Together scheme, the eligible Youth Groups shall be facilitated to avail a financial assistance to the extent of ₹ 20.00 lakh including upfront subsidy component provided by Mission Youth under the programme.The financial assistance under the programme shall be given to the extent of 80% of the project cost based on the project plan and estimates submitted subject to maximum of ₹20.0 lakh.
+  utter_What_are_the_documents_needed_to_be_submitted_by_the_applicant_along_with_the_application_form_en:
+    - text: |
+        Domicile Certificate/ Ration Card/ Aadhaar Card.Date of Birth Certificate issued by the competent authority.Project repot of the activity intended to be financed.
+  utter_Who_is_eligible_for_Rise_Together_scheme_hi:
+    - text: |
+        J & K का कोई भी अधिवास, अनिवार्य रूप से मिशन युवाओं के साथ पंजीकृत, J & K.ONLY न्यूनतम 3 युवा सदस्यों वाले युवा समूहों को एक साथ वृद्धि के तहत वित्तीय सहायता के लिए पात्र होगा।
+  utter_Are_there_trainings_on_Entrepreneurship_Development_hi:
+    - text: |
+        मिशन यूथ जेकेडी के सहयोग से नवोदित उद्यमियों के लिए प्रशिक्षण चलाता है, जिसमें व्यवसाय से संबंधित प्रशिक्षण उम्मीदवारों को दिए जाते हैं।
+  utter_SAHATYA_Scheme_ur:
+    - text: |
+        اس اسکیم کا مقصد پریشانیوں میں نوجوانوں کو مالی مدد فراہم کرنا ہے۔ شورش سے متعلقہ کارروائی میں اپنے رشتہ دار/کنبہ کے ممبر کو کھو گیا۔
+  utter_What_is_the_Objective_of_Endeavor_To_EmpowerSkill_Development_Scheme_hi:
+    - text: |
+        जम्मू और कश्मीर के युवाओं के लिए बाजार संचालित कौशल विकास कार्यक्रम प्रदान करने के लिए
+  utter_What_are_the_objectives_of_Young_Innovators_programme_ur:
+    - text: |
+        ینگ انوویٹرز اسکیم کا وسیع مقصد جے اینڈ کے کے نوجوانوں کو ان کی دلچسپی کے کسی بھی شعبے جیسے آرٹ ، کرافٹ ، ادب ، سائنس ، وغیرہ کے کسی بھی شعبے میں نئی ​​مصنوعات ، خدمات ، یا ماڈلز کو جدت طرازی کرنے کے لئے بااختیار بنانا ہے۔
+  utter_Does_Mission_Youth_assist_in_departmental_convergence_on_eradicating_drug_addiction_ur:
+    - text: |
+        ہاں ، مشن یوتھ نے موبائل ایپ بنانے کا تصور کیا ہے جو محکمہ جاتی ہم آہنگی کو قابل بنائے گا۔
+  utter_What_kind_of_Trainings_are_provided_hi:
+    - text: |
+        प्रशिक्षण पर्यटन, आईटी, हस्तशिल्प, खुदरा, कृषि, निर्माण और जम्मू और कश्मीर के अन्य फोकस क्षेत्रों में फोकस क्षेत्रों में दिया जाता है।
+  utter_Does_Mission_Youth_assist_in_departmental_convergence_on_eradicating_drug_addiction_en:
+    - text: |
+        Yes, Mission youth envisages to create Mobile app that would enable departmental convergence.
+  utter_What_Is_the_financial_assistance_given_under_Young_Innovators_scheme_en:
+    - text: |
+        The total amount of assistance provided under Young Innovators scheme shall be subject to a maximum limit of Rs 5 lakh.
+  utter_What_is_the_procedure_for_applying_in_Tejaswani_Scheme_ur:
+    - text: |
+        مشن یوتھ ، جے اینڈ کے تیجسوانی اسکیم کے تحت مدد کے ل J J&K کی دلچسپی رکھنے والی خواتین نوجوانوں سے آن لائن درخواستوں کی دعوت دیتا ہے۔ درخواستیں درخواست دہندگان کے ذریعہ جے کے ای گورننس پلیٹ فارم پر مقصد کے لئے تیار کردہ مخصوص ڈیجیٹل ماڈیول کے ذریعے ڈیجیٹل طور پر پیش کی جائیں گی۔
+  utter_What_is_the_Eligibility_for_applying_for_Rise_Together_scheme_hi:
+    - text: |
+        J & K का कोई भी अधिवास, अनिवार्य रूप से मिशन युवाओं के साथ पंजीकृत, J & k.only न्यूनतम 3 युवा सदस्यों के साथ युवा समूहों को एक साथ बढ़ने के तहत वित्तीय सहायता के लिए पात्र होगा, 18 से 35 वर्ष के पृष्ठ 5 में 12 वीं मानक की न्यूनतम योग्यता होगी।
+  utter_What_kind_of_Trainings_are_provided_en:
+    - text: |
+        The trainings are given in focus sectors at Tourism, IT, handicrafts, Retail, Agriculture, construction, and other focus sectors of the Jammu & Kashmir.
+  utter_What_are_the_other_big_initiatives_of_Mission_Youth_en:
+    - text: |
+        Mission Youth runs a comprehensive training programme in collaboration with BSE limited in the Job roles related to banking, insurance, and Finance sector.
+  utter_What_is_the_procedure_to_apply_for_Dental_Professional_Scheme_hi:
+    - text: |
+        मिशन यूथ, जम्मू -कश्मीर दंत पेशेवर योजना के तहत सहायता मांगने के लिए जम्मू -कश्मीर के इच्छुक दंत चिकित्सकों से ऑनलाइन आवेदन आमंत्रित करता है।
+  utter_Are_there_trainings_on_Entrepreneurship_Development_ur:
+    - text: |
+        مشن یوتھ جکیڈی کے اشتراک سے ابھرتے ہوئے کاروباری افراد کی تربیت چلاتا ہے جس میں کاروبار سے متعلق تربیت امیدواروں کو دی جاتی ہے۔
+  utter_What_are_the_objectives_of_Young_Innovators_programme_en:
+    - text: |
+        The broad aim of Young Innovators Scheme is to empower youth of J&K to innovate new products, services, or models in any area of their interest like art, craft, literature, science, etc.
+  utter_What_is_the_eligibility_to_apply_in_SEI_Scheme_en:
+    - text: |
+        The financial assistance would be given only to youth between the age of 18 to 40 years having a minimum qualification of 12th standard or above.
+  utter_What_is_the_objective_of_Dental_Professional_Scheme_hi:
+    - text: |
+        डेंटल प्रोफेशनल स्कीम का उद्देश्य डेंटल क्लीनिक की स्थापना के लिए पेशेवरों को अनुकूलित वित्तीय सहायता प्रदान करके दंत क्षेत्र में बेरोजगारी को संबोधित करना है
+  utter_What_is_the_Objective_of_Endeavor_To_EmpowerSkill_Development_Scheme_en:
+    - text: |
+        To impart Market Driven Skill Development programmes for youth of Jammu and Kashmir
+  utter_What_is_the_procedure_to_apply_for_Dental_Professional_Scheme_en:
+    - text: |
+        Mission Youth, J&K invites online applications from interested dentists of J&K for seeking assistance under Dental Professional scheme.
+  utter_What_is_the_duration_of_the_Endeavor_To_EmpowerSkill_Development_Programme_hi:
+    - text: |
+        सशक्त-कौशल विकास कार्यक्रम का प्रयास 3 सप्ताह से 5 महीने के बीच की अवधि का है।
+  utter_What_is_the_objective_of_Dental_Professional_Scheme_ur:
+    - text: |
+        دانتوں کے کلینکس کے قیام کے لئے پیشہ ور افراد کو اپنی مرضی کے مطابق مالی اعانت فراہم کرکے دانتوں کے شعبے میں بے روزگاری سے نمٹنے کے لئے ڈینٹل پروفیشنل اسکیم کا مقصد ہے۔
+  utter_What_are_the_documents_needed_to_be_submitted_by_the_applicant_along_with_the_application_form_ur:
+    - text: |
+        ڈومیسائل سرٹیفکیٹ/ راشن کارڈ/ آدھار کارڈ۔ ڈسٹیٹ آف برتھ سرٹیفکیٹ کے ذریعہ جاری کیا گیا ہے۔
+  utter_SAHATYA_Scheme_en:
+    - text: |
+        The aim of this scheme is to provide financial assistance to the youth in distress.Assistance under this scheme: the total amount of self-employment assistance under this scheme shall be 2.00 lacs.Eligibility: Any person between the age of 18-35 who has lost his next of his Kin/family member in insurgency related action.Permeant incapacitation:  Means disability of 50% or above suffered by the victim or his/her family.Application: Candidate can apply online at the Mission Youth Website www.missionyouthjk.in
+  utter_What_is_the_funding_pattern_of_Tejaswani_Scheme_en:
+    - text: |
+        Under Tejaswani scheme, the eligible potential female entrepreneur shall be facilitated to avail financial assistance under Mudra loan from J&K Bank to the extent of Rs 5.00 lakh
+  utter_Does_Mission_Youth_help_in_creating_volunteers_en:
+    - text: |
+        Yes, Mission youth through Its youth clubs is creating pool of volunteers that will act at the grassroot level in villages.
+  utter_What_kind_of_Trainings_are_provided_ur:
+    - text: |
+        یہ تربیت سیاحت ، آئی ٹی ، دستکاری ، خوردہ ، زراعت ، تعمیر ، اور جموں و کشمیر کے دیگر فوکس شعبوں میں مرکوز شعبوں میں دی گئی ہے۔
+  utter_What_is_the_Financial_Assistance_Provided_under_SEI_Scheme_en:
+    - text: |
+        Assistance under SEI scheme shall be minimum Rs.2.00 Lakh Maximum Rs.20.00 Lakh including the interest capitalized during implementation period shall be provided as assistance.
+  utter_What_is_the_objective_of_Rise_Together_Scheme_hi:
+    - text: |
+        J & K.TO में सामुदायिक उन्मुख उद्यमिता विकसित करने के लिए एकीकृत और प्रोजेक्टिवाइज्ड ग्रोथ मॉडल के आधार पर 'राइज टुगेदर' की नई अवधारणा का परिचय दें।
+  utter_What_is_the_Procedure_for_selection_of_applicants_ur:
+    - text: |
+        درخواستیں درخواست دہندگان کے ذریعہ مشن یوتھ کے ذریعہ مقصد کے لئے تیار کردہ مخصوص ڈیجیٹل ماڈیول کے ذریعے ڈیجیٹل طور پر پیش کی جائیں گی۔
+  utter_Does_Mission_Youth_help_in_creating_volunteers_ur:
+    - text: |
+        ہاں ، مشن یوتھ اپنے یوتھ کلبوں کے ذریعہ رضاکاروں کا تالاب تیار کررہا ہے جو دیہاتوں میں نچلی سطح پر کام کریں گے۔
+  utter_What_are_the_incentives_under_MUMKIN_scheme_en:
+    - text: |
+         As a special incentive under MUMKIN scheme, Mission Youth is contributing 0.80 lakh or 10% of On-Road Price of Vehicle (whichever is Minimum) per beneficiary and an equivalent amount is also contributed by the vehicle manufacturers
+  utter_What_are_the_Objectives_of_Tejaswani_Scheme_ur:
+    - text: |
+        مینوفیکچرنگ/ سروس/ ٹریڈنگ/ چھوٹے کاروبار وغیرہ میں سرگرمیوں کے لئے آمدنی پیدا کرنے کے لئے خواتین کو بااختیار اور حوصلہ افزائی کرنا۔
+  utter_What_are_the_incentives_under_MUMKIN_scheme_ur:
+    - text: |
+        ممکن اسکیم کے تحت ایک خصوصی ترغیب کے طور پر ، مشن یوتھ 0.80 لاکھ یا 10 ٪ گاڑی کی قیمت کا 10 ٪ (جو کم سے کم ہے) فی فائدہ اٹھانے والا ہے اور گاڑیوں کے مینوفیکچررز کے ذریعہ مساوی رقم بھی تعاون کرتی ہے۔
+  utter_What_are_the_activities_covered_under_Tejaswani_Scheme_en:
+    - text: |
+        Any profitable activity/ Micro Start-up/ Small business unit of similar nature
+  utter_What_is_the_objective_of_SEI_Scheme_hi:
+    - text: |
+        एसईआई योजना युवा उद्यमियों के विशेष रूप से युवा महिलाओं को विभिन्न उद्यमों में नवाचारों के लिए प्रोत्साहित करने के लिए इनोवेशन कार्यक्रम के लिए नवाचार कार्यक्रम के साथ थीम यूथ एंटरप्राइज के साथ थीम यूथ एंटरप्राइज पर केंद्रित होगी।
+  utter_What_is_the_procedure_for_applying_in_Tejaswani_Scheme_hi:
+    - text: |
+        मिशन यूथ, J & K तेजसवानी योजना के तहत सहायता मांगने के लिए J & K की इच्छुक महिला युवाओं से ऑनलाइन आवेदन आमंत्रित करता है। आवेदन JK ई-गवर्नेंस प्लेटफॉर्म पर उद्देश्य के लिए विकसित विशिष्ट डिजिटल मॉड्यूल के माध्यम से आवेदकों द्वारा डिजिटल रूप से प्रस्तुत किए जाएंगे।
+  utter_What_is_the_Eligibility_for_applying_in_Tejaswani_Scheme_hi:
+    - text: |
+        J & K की कोई भी महिला अधिवास, अनिवार्य रूप से मिशन युवाओं के साथ पंजीकृत, J & K.ANY व्यक्तिगत महिला/ महिला उद्यमी/ उद्यम जहां महिला उद्यमी वित्तीय होल्डिंग का 50% से कम नहीं रखते हैं। अधिक जानकारी मिशन यूथ www की वेबसाइट पर क्लिक करें। minyyouth.gov.in
+  utter_Does_Mission_Youth_help_the_candidates_that_are_coming_out_of_rehabilitation_centers_en:
+    - text: |
+        Yes, Mission youth through its livelihood schemes connect the youth to various livelihood opportunities thus enabling youth to come out of the stress and trauma.
+  utter_What_vehicle_options_are_available_under_MUMKIN_scheme_ur:
+    - text: |
+        مشن یوتھ نے نوجوانوں کو گاڑیوں کے بہترین معیار کے اختیارات فراہم کرنے کے لئے اسکیم شراکت داروں کی حیثیت سے معروف گاڑیوں کے مینوفیکچررز کے ساتھ معاہدہ کیا ہے۔ واضح طور پر ، ممکن اسکیم کے رہنما خطوط کے تحت نوجوانوں کے لئے قسم کی گاڑی کا انتخاب کرنے کی صوابدید رہ گئی ہے
+  utter_What_is_the_Eligibility_for_applying_in_Tejaswani_Scheme_en:
+    - text: |
+        Any female domicile of J&K, essentially registered with Mission Youth, J&K.Any individual women/ women entrepreneur (s)/Enterprise where women entrepreneurs hold not less than 50% of financial holding.For more information click on the website of Mission Youth www.missionyouth.gov.in
+  utter_What_is_the_duration_of_the_Endeavor_To_EmpowerSkill_Development_Programme_en:
+    - text: |
+        Endeavor To Empower-Skill development programme is of the duration between 3 weeks to 5 months.
+  utter_What_is_the_objective_of_Rise_Together_Scheme_en:
+    - text: |
+        To develop Community Oriented Entrepreneurship in J&K.To introduce new concept of ‘Rise Together’ based on integrated & projectivized growth model.
+  utter_What_are_the_Objectives_of_Tejaswani_Scheme_en:
+    - text: |
+        To empower and encourage women for income generation for activities either in manufacturing/ service/ trading/ small business etc.
+  utter_What_is_the_Financial_Assistance_Provided_under_SEI_Scheme_hi:
+    - text: |
+        एसईआई योजना के तहत सहायता न्यूनतम रुपये की होगी।
+  utter_What_is_the_Eligibility_for_Young_Innovators_scheme_ur:
+    - text: |
+        مالی مدد صرف 18 سے 35 سال کی عمر کے نوجوانوں کو دی جائے گی جس میں 10 ویں معیار یا اس سے اوپر کی اہلیت ہے۔
+  utter_Who_is_eligible_for_Endeavor_To_EmpowerSkill_Development_Programme_hi:
+    - text: |
+        18-35 वर्ष की आयु के बीच कोई भी उम्मीदवार-कौशल विकास कार्यक्रम को सशक्त बनाने के प्रयास के लिए पात्र है।
+  utter_Who_is_eligible_for_Endeavor_To_EmpowerSkill_Development_Programme_ur:
+    - text: |
+        18-35 سال کی عمر کے درمیان کوئی بھی امیدوار ترقیاتی پروگرام کو بااختیار بنانے کی کوشش کے اہل ہے۔
+  utter_What_is_the_financial_assistance_given_under_Dental_Professional_Scheme_en:
+    - text: |
+        Maximum amount of 8 lakh shall be provided as financial assistance under Dental Professional  scheme for setting up a dental clinic.
+  utter_What_is_the_duration_of_the_Endeavor_To_EmpowerSkill_Development_Programme_ur:
+    - text: |
+        بااختیار مہارت کے ترقیاتی پروگرام کی کوشش 3 ہفتوں سے 5 ماہ کے درمیان ہے۔
+  utter_What_is_the_funding_pattern_of_Tejaswani_Scheme_hi:
+    - text: |
+        तेजसवानी योजना के तहत, पात्र संभावित महिला उद्यमी को J & K बैंक से MUDRA ऋण के तहत वित्तीय सहायता का लाभ उठाने की सुविधा होगी।
+  utter_What_are_the_objectives_of_Young_Innovators_programme_hi:
+    - text: |
+        यंग इनोवेटर्स स्कीम का व्यापक उद्देश्य J & K के युवाओं को कला, शिल्प, साहित्य, विज्ञान, आदि जैसे उनकी रुचि के किसी भी क्षेत्र में नए उत्पादों, सेवाओं या मॉडल को नया करने के लिए सशक्त बनाना है।
+  utter_What_are_the_activities_covered_under_Tejaswani_Scheme_ur:
+    - text: |
+        کسی بھی منافع بخش سرگرمی/ مائیکرو اسٹارٹ اپ/ اسی طرح کی نوعیت کا چھوٹا بزنس یونٹ
+  utter_Does_Mission_Youth_help_the_candidates_that_are_coming_out_of_rehabilitation_centers_ur:
+    - text: |
+        ہاں ، مشن یوتھ اپنی معاش کی اسکیموں کے ذریعہ نوجوانوں کو معاش کے مختلف مواقع سے مربوط کرتا ہے اس طرح نوجوانوں کو تناؤ اور صدمے سے باہر آنے کا اہل بناتا ہے۔
+  utter_Does_Mission_Youth_run_Counselling_and_rehabilitation_awareness_campaigns_hi:
+    - text: |
+        हां, मिशन यूथ शिक्षा संस्थानों में सक्रिय रूप से परामर्श और पुनर्वास जागरूकता शिविर चलाता है और यूटी के शहरी और ग्रामीण दोनों क्षेत्रों को कवर करता है
+  utter_What_is_the_procedure_to_apply_for_Dental_Professional_Scheme_ur:
+    - text: |
+        مشن یوتھ ، جے اینڈ کے دانتوں کی پیشہ ورانہ اسکیم کے تحت امداد کے ل J J&K کے دلچسپی رکھنے والے دانتوں سے آن لائن درخواستوں کی دعوت دیتا ہے۔
+  utter_What_is_the_purpose_of_Rise_Together_scheme_hi:
+    - text: |
+        कार्यक्रम J & K में समुदाय-उन्मुख उद्यमशीलता को शुरू करने और विकसित करने पर केंद्रित है।
+  utter_Does_Mission_Youth_help_in_creating_volunteers_hi:
+    - text: |
+        हां, अपने युवा क्लबों के माध्यम से मिशन यूथ स्वयंसेवकों का पूल बना रहा है जो गांवों में जमीनी स्तर पर काम करेगा।
+  utter_What_are_the_activities_covered_under_Rise_Together_scheme_en:
+    - text: |
+        Any activity necessarily/ reassuring promotion of self-reliance & inclusive social development.
+  utter_What_are_the_activities_covered_under_Rise_Together_scheme_hi:
+    - text: |
+        किसी भी गतिविधि को आवश्यक रूप से/ आत्मनिर्भरता और समावेशी सामाजिक विकास को बढ़ावा देना।
+  utter_What_is_the_objective_of_SEI_Scheme_en:
+    - text: |
+        SEI  scheme will be centered on the theme Youth Enterprise with Innovation (YouWiN)/ Champion for Innovation program for encouraging young entrepreneurs’ especially young women towards innovations in various enterprises.
+  utter_What_is_the_Eligibility_to_apply_for_Dental_Professional_Scheme_en:
+    - text: |
+        The financial assistance would be given only to registered dentists between the ages of 18 to 40 years.
+  utter_SAHATYA_Scheme_hi:
+    - text: |
+        इस योजना का उद्देश्य युवाओं को संकट में वित्तीय सहायता प्रदान करना है। इस योजना के तहत अससतता: इस योजना के तहत स्व-रोजगार सहायता की कुल राशि 2.00 लाख होगी। योग्यता: 18-35 वर्ष की आयु के बीच का कोई भी व्यक्ति जो है। विद्रोह से संबंधित एक्शन में अपने परिजनों/परिवार के सदस्य के अपने अगले हिस्से को खो दिया।
+  utter_What_Is_the_financial_assistance_given_under_Young_Innovators_scheme_ur:
+    - text: |
+        ینگ انوویٹرز اسکیم کے تحت فراہم کردہ امداد کی کل رقم 5 لاکھ روپے کی زیادہ سے زیادہ حد سے مشروط ہوگی۔
+  utter_Who_is_eligible_for_Endeavor_To_EmpowerSkill_Development_Programme_en:
+    - text: |
+        Any candidate between the age of 18-35 is eligible for Endeavor To Empower-Skill development programme.
+  utter_What_is_the_Funding_Pattern_of_Rise_Together_scheme_hi:
+    - text: |
+        राइज टुगेदर स्कीम के तहत, पात्र युवा समूहों को प्रोग्राम के तहत मिशन यूथ द्वारा प्रदान किए गए अग्रिम सब्सिडी घटक सहित of 20.00 लाख की सीमा तक वित्तीय सहायता प्राप्त करने की सुविधा होगी। कार्यक्रम के तहत वित्तीय सहायता 80 की सीमा तक दी जाएगी। परियोजना योजना के आधार पर परियोजना की लागत का % और अनुमानों को अधिकतम ₹ 20.0 लाख के अधीन प्रस्तुत किया गया।
+  utter_What_is_the_Funding_Pattern_of_Rise_Together_scheme_ur:
+    - text: |
+        رائز ایک ساتھ مل کر اسکیم کے تحت ، اہل نوجوان گروپوں کو پروگرام کے تحت مشن یوتھ کے ذریعہ فراہم کردہ 20.00 لاکھ کی حد تک مالی مدد حاصل کرنے میں مدد فراہم کی جائے گی۔ پروگرام کے تحت مالی امداد 80 کی حد تک دی جائے گی۔ پروجیکٹ پلان اور پیش کردہ تخمینے کی بنیاد پر پروجیکٹ کی لاگت کا ٪ زیادہ سے زیادہ 20.0 لاکھ سے مشروط ہے۔
+  utter_What_is_the_Financial_Assistance_Provided_under_SEI_Scheme_ur:
+    - text: |
+        SEI اسکیم کے تحت امداد کم سے کم 2.00 لاکھ روپے زیادہ سے زیادہ 20.00 لاکھ روپے ہو گی جس میں عمل درآمد کے دوران سود کی سود بھی مدد کے طور پر فراہم کی جائے گی۔
+  utter_What_is_the_financial_assistance_given_under_Dental_Professional_Scheme_ur:
+    - text: |
+        دانتوں کا کلینک قائم کرنے کے لئے ڈینٹل پروفیشنل اسکیم کے تحت زیادہ سے زیادہ 8 لاکھ کو مالی مدد کے طور پر فراہم کیا جائے گا۔
+  utter_What_is_the_Eligibility_for_Young_Innovators_scheme_en:
+    - text: |
+        The financial assistance would be given only to youth between the age of 18 to 35 years having a qualification of 10th standard or above.
+  utter_What_Is_the_financial_assistance_given_under_Young_Innovators_scheme_hi:
+    - text: |
+        यंग इनोवेटर्स स्कीम के तहत प्रदान की गई सहायता की कुल राशि 5 लाख रुपये की अधिकतम सीमा के अधीन होगी।
+  utter_Who_is_eligible_for_Rise_Together_scheme_ur:
+    - text: |
+        جے اینڈ کے کا کوئی بھی ڈومیسائل ، جو لازمی طور پر مشن یوتھ کے ساتھ رجسٹرڈ ہے ، جے اینڈ کے صرف کم از کم 3 نوجوانوں کے ممبروں کے ساتھ نوجوان گروپس رائز ایک ساتھ مل کر اسکیم کے تحت مالی مدد کے اہل ہوں گے۔
+  utter_What_is_the_objective_of_SEI_Scheme_ur:
+    - text: |
+        SEI اسکیم نوجوان تاجروں کی خاص طور پر نوجوان خواتین کو مختلف کاروباری اداروں میں جدتوں کی طرف راغب کرنے کے لئے انوویشن پروگرام کے لئے انوویشن (YouWin)/ چیمپیئن کے ساتھ تھیم یوتھ انٹرپرائز پر مرکوز ہوگی۔
+  utter_What_are_the_activities_covered_under_Tejaswani_Scheme_hi:
+    - text: |
+        किसी भी लाभदायक गतिविधि/ माइक्रो स्टार्ट-अप/ समान प्रकृति की छोटी व्यवसाय इकाई
+  utter_What_are_the_incentives_under_MUMKIN_scheme_hi:
+    - text: |
+        मुमकिन योजना के तहत एक विशेष प्रोत्साहन के रूप में, मिशन यूथ 0.80 लाख या 10% ऑन-रोड मूल्य का वाहन (जो भी न्यूनतम हो) प्रति लाभार्थी का योगदान दे रहा है और वाहन निर्माताओं द्वारा एक समान राशि का भी योगदान दिया जाता है
+  utter_What_are_the_documents_needed_to_be_submitted_by_the_applicant_along_with_the_application_form_hi:
+    - text: |
+        अधिवास प्रमाणपत्र/ राशन कार्ड/ आधार कार्ड।
+  utter_What_is_the_procedure_for_applying_in_Tejaswani_Scheme_en:
+    - text: |
+        Mission Youth, J&K invites online applications from interested female youth of J&K for seeking assistance under Tejaswani scheme.The applications shall be submitted by the applicants digitally through specific digital module developed for the purpose on JK e-Governance platform.
+  utter_What_is_the_Eligibility_for_applying_for_Rise_Together_scheme_en:
+    - text: |
+        Any domicile of J&K, essentially registered with Mission Youth, J&K.Only the Youth Groups with minimum 3 youth members shall be eligible for Financial Assistance under Rise Together scheme, 18 to 35 years Page 5 of 12 having a minimum qualification of 12th standard
+  utter_What_is_the_objective_of_Dental_Professional_Scheme_en:
+    - text: |
+        Dental Professional scheme aims to address unemployment in dental sector by providing customized financial support to professionals for setting up dental clinics
+  utter_Does_Mission_Youth_run_Counselling_and_rehabilitation_awareness_campaigns_ur:
+    - text: |
+        ہاں ، مشن یوتھ تعلیمی اداروں میں فعال طور پر مشاورت اور بحالی سے متعلق آگاہی کیمپ چلاتا ہے اور UT کے شہری اور دیہی علاقوں دونوں کا احاطہ کرتا ہے۔
+  utter_What_is_the_Eligibility_to_apply_for_Dental_Professional_Scheme_hi:
+    - text: |
+        वित्तीय सहायता केवल 18 से 40 वर्ष की आयु के बीच पंजीकृत दंत चिकित्सकों को दी जाएगी।
+  utter_Does_Mission_Youth_help_the_candidates_that_are_coming_out_of_rehabilitation_centers_hi:
+    - text: |
+        हां, अपनी आजीविका योजनाओं के माध्यम से मिशन युवा युवाओं को विभिन्न आजीविका के अवसरों से जोड़ते हैं, जिससे युवाओं को तनाव और आघात से बाहर आने में सक्षम बनाया जाता है।
+  utter_What_is_the_Procedure_for_selection_of_applicants_hi:
+    - text: |
+        आवेदनों को मिशन युवाओं द्वारा उद्देश्य के लिए विकसित विशिष्ट डिजिटल मॉड्यूल के माध्यम से डिजिटल रूप से आवेदकों द्वारा प्रस्तुत किया जाएगा।
+  utter_What_are_the_activities_covered_under_Rise_Together_scheme_ur:
+    - text: |
+        کسی بھی سرگرمی کو لازمی طور پر/ خود انحصاری اور جامع معاشرتی ترقی کو فروغ دینے کی یقین دہانی کرانا۔
+  utter_What_is_the_Eligibility_for_applying_in_Tejaswani_Scheme_ur:
+    - text: |
+        جے اینڈ کے کی کوئی بھی خاتون ڈومیسائل ، جو بنیادی طور پر مشن یوتھ کے ساتھ رجسٹرڈ ہے ، جے اینڈ کے۔ کوئی بھی انفرادی خواتین/ خواتین کاروباری شخصیات/ انٹرپرائز جہاں خواتین کاروباری افراد مالی ہولڈنگ کا 50 ٪ سے کم نہیں رکھتے ہیں۔ مزید معلومات کے لئے مشن یوتھ کی ویب سائٹ پر کلک کریں۔ مشنئیوتھ. gov.in
+  utter_What_is_MUMKIN_Scheme_ur:
+    - text: |
+        ممکن اسکیم کے تحت ، بے روزگار نوجوانوں کو نقل و حمل کے شعبے میں پائیدار معاش کی لائن قائم کرنے کے لئے ، سبسڈی کی بنیاد پر چھوٹی تجارتی گاڑیاں خریدنے میں مدد فراہم کی جاتی ہے۔
+  utter_What_is_the_Eligibility_to_apply_for_Dental_Professional_Scheme_ur:
+    - text: |
+        مالی مدد صرف 18 سے 40 سال کی عمر کے رجسٹرڈ دانتوں کو دی جائے گی۔
+  utter_Does_Mission_Youth_assist_in_departmental_convergence_on_eradicating_drug_addiction_hi:
+    - text: |
+        हां, मिशन यूथ मोबाइल ऐप बनाने की परिकल्पना करता है जो विभागीय अभिसरण को सक्षम करेगा।
+  utter_What_is_the_Objective_of_Endeavor_To_EmpowerSkill_Development_Scheme_ur:
+    - text: |
+        جموں و کشمیر کے نوجوانوں کے لئے مارکیٹ سے چلنے والی مہارت کے ترقیاتی پروگراموں کو تقسیم کرنا
+  utter_Are_there_trainings_on_Entrepreneurship_Development_en:
+    - text: |
+        Mission youth runs trainings for budding entrepreneurs in collaboration with JKEDI wherein the trainings related to business are given to candidates.
+  utter_What_is_the_eligibility_to_apply_in_SEI_Scheme_hi:
+    - text: |
+        वित्तीय सहायता केवल 18 से 40 वर्ष की आयु के बीच युवाओं को दी जाएगी, जिसमें 12 वीं मानक या उससे अधिक की न्यूनतम योग्यता होगी।
+  utter_What_is_the_financial_assistance_given_under_Dental_Professional_Scheme_hi:
+    - text: |
+        डेंटल क्लिनिक की स्थापना के लिए दंत पेशेवर योजना के तहत वित्तीय सहायता के रूप में 8 लाख की अधिकतम राशि प्रदान की जाएगी।
+  utter_What_is_the_purpose_of_Rise_Together_scheme_ur:
+    - text: |
+        اس پروگرام میں جے اینڈ کے میں کمیونٹی پر مبنی انٹرپرینیورشپ کو متعارف کرانے اور ترقی دینے پر توجہ دی گئی ہے۔
+  utter_What_are_the_Objectives_of_Tejaswani_Scheme_hi:
+    - text: |
+        विनिर्माण/ सेवा/ व्यापार/ छोटे व्यवसाय आदि में गतिविधियों के लिए आय सृजन के लिए महिलाओं को सशक्त बनाने और प्रोत्साहित करने के लिए।
+  utter_What_are_the_other_big_initiatives_of_Mission_Youth_ur:
+    - text: |
+        مشن یوتھ بینکنگ ، انشورنس ، اور فنانس سیکٹر سے متعلق ملازمت کے کرداروں میں بی ایس ای لمیٹڈ کے اشتراک سے ایک جامع تربیتی پروگرام چلاتا ہے۔
+  utter_What_is_the_Eligibility_for_applying_for_Rise_Together_scheme_ur:
+    - text: |
+        جے اینڈ کے کا کوئی بھی ڈومیسائل ، جو مشن یوتھ کے ساتھ بنیادی طور پر رجسٹرڈ ہے ، جے اینڈ کے میں کم از کم 3 نوجوانوں کے ممبروں کے ساتھ نوجوان گروپ رائز ایک ساتھ مل کر اسکیم کے تحت مالی اعانت کے اہل ہوں گے ، 18 سے 35 سال صفحہ 5 میں سے 12 میں 12 ویں معیار کی کم سے کم قابلیت ہوگی۔
+  utter_What_vehicle_options_are_available_under_MUMKIN_scheme_hi:
+    - text: |
+        मिशन यूथ ने युवाओं को वाहनों के सर्वश्रेष्ठ-इन-क्लास विकल्प प्रदान करने के लिए स्कीम पार्टनर्स के रूप में प्रतिष्ठित वाहन निर्माताओं के साथ बंधे हैं। प्रासंगिक रूप से, वाहन के प्रकार का चयन करने के लिए विवेक मुमकिन योजना दिशानिर्देशों के तहत युवाओं को छोड़ दिया जाता है

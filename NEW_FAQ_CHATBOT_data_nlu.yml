@@ -1,0 +1,1444 @@
+nlu:
+- intent: What_are_the_Objectives_of_Tejaswani_Scheme_en
+  examples: |
+    - What are the Objectives of Tejaswani Scheme?
+    - What are the primary goals and objectives that the Tejaswani Scheme aims to achieve?
+    - How does the Tejaswani Scheme contribute to broader social and economic objectives?
+    - Can you provide details on the specific outcomes and impacts expected from the scheme?
+    - What inspired the creation of the Tejaswani Scheme and its mission?
+    - How does the scheme align with government policies and priorities?
+    - Are there any long-term or strategic objectives associated with the Tejaswani Scheme?
+    - What is the overarching purpose of implementing the Tejaswani Scheme?
+    - How does the scheme address the unique needs and challenges of its target beneficiaries?
+    - What are the societal issues or problems that the Tejaswani Scheme seeks to address?
+    - Can you explain how the Tejaswani Scheme contributes to women's empowerment and well-being?
+- intent: What_are_the_Objectives_of_Tejaswani_Scheme_hi
+  examples: |
+    - तेजसवानी योजना के उद्देश्य क्या हैं?
+    - तेजसवानी योजना को प्राप्त करने के लिए प्राथमिक लक्ष्य और उद्देश्य क्या हैं?
+    - तेजसवानी योजना व्यापक सामाजिक और आर्थिक उद्देश्यों में कैसे योगदान करती है?
+    - क्या आप योजना से अपेक्षित विशिष्ट परिणामों और प्रभावों पर विवरण प्रदान कर सकते हैं?
+    - तेजसवानी योजना और उसके मिशन के निर्माण से क्या प्रेरित हुआ?
+    - यह योजना सरकारी नीतियों और प्राथमिकताओं के साथ कैसे संरेखित करती है?
+    - क्या कोई दीर्घकालिक या रणनीतिक उद्देश्य तेजसवानी योजना से जुड़े हैं?
+    - तेजसवानी योजना को लागू करने का ओवररचिंग उद्देश्य क्या है?
+    - यह योजना अपने लक्षित लाभार्थियों की अनूठी जरूरतों और चुनौतियों को कैसे संबोधित करती है?
+    - सामाजिक मुद्दे या समस्याएं क्या हैं जिन्हें तेजसवानी योजना संबोधित करना चाहती है?
+    - क्या आप बता सकते हैं कि तेजसवानी योजना महिला सशक्तिकरण और कल्याण में कैसे योगदान देती है?
+- intent: What_are_the_Objectives_of_Tejaswani_Scheme_ur
+  examples: |
+    - تیجاسوانی اسکیم کے کیا مقاصد ہیں؟
+    - بنیادی اہداف اور مقاصد کیا ہیں جو تیجسوانی اسکیم کا مقصد حاصل کرنا ہے؟
+    - تیجاسوانی اسکیم وسیع تر معاشرتی اور معاشی مقاصد میں کس طرح حصہ ڈالتی ہے؟
+    - کیا آپ اسکیم سے متوقع مخصوص نتائج اور اثرات کے بارے میں تفصیلات فراہم کرسکتے ہیں؟
+    - تیجسوانی اسکیم اور اس کے مشن کی تخلیق کو کس چیز نے متاثر کیا؟
+    - یہ اسکیم حکومتی پالیسیوں اور ترجیحات کے مطابق کیسے ہے؟
+    - کیا تیجاسوانی اسکیم کے ساتھ کوئی طویل مدتی یا اسٹریٹجک مقاصد وابستہ ہیں؟
+    - تیجاسوانی اسکیم کو نافذ کرنے کا اہم مقصد کیا ہے؟
+    - اسکیم اپنے ہدف سے فائدہ اٹھانے والوں کی انوکھی ضروریات اور چیلنجوں کو کس طرح حل کرتی ہے؟
+    - تیجسوانی اسکیم نے کیا معاشرتی مسائل یا مسائل ہیں جن کی توجہ دلانا ہے؟
+    - کیا آپ وضاحت کر سکتے ہیں کہ تیجاسوانی اسکیم خواتین کو بااختیار بنانے اور فلاح و بہبود میں کس طرح حصہ ڈالتی ہے؟
+- intent: What_is_the_Eligibility_for_applying_in_Tejaswani_Scheme_en
+  examples: |
+    - What is the Eligibility for applying in Tejaswani Scheme?
+    - Who qualifies as eligible to apply for participation in the Tejaswani Scheme?
+    - Are there specific criteria and prerequisites that individuals must meet to be eligible applicants?
+    - Does the scheme impose any age, gender, or marital status requirements for applicants?
+    - How are eligibility determinations made, and what factors are considered during the assessment?
+    - Are both married and single women eligible for the Tejaswani Scheme, or are there distinctions?
+    - Are there income-related eligibility criteria that applicants need to satisfy?
+    - What measures are in place to ensure equitable access and inclusivity in eligibility?
+    - Can you explain the process of verifying and confirming the eligibility of applicants?
+    - Are there any exceptions or considerations for applicants facing unique circumstances?
+    - How does the Tejaswani Scheme accommodate changes in eligibility over time?
+- intent: What_is_the_Eligibility_for_applying_in_Tejaswani_Scheme_hi
+  examples: |
+    - तेजसवानी योजना में आवेदन करने की पात्रता क्या है?
+    - तेजसवानी योजना में भागीदारी के लिए आवेदन करने के लिए कौन योग्य है?
+    - क्या विशिष्ट मानदंड और आवश्यक शर्तें हैं जो व्यक्तियों को पात्र आवेदक होने के लिए मिलनी चाहिए?
+    - क्या यह योजना आवेदकों के लिए किसी भी उम्र, लिंग या वैवाहिक स्थिति की आवश्यकताओं को लागू करती है?
+    - पात्रता निर्धारण कैसे किए जाते हैं, और मूल्यांकन के दौरान किन कारकों पर विचार किया जाता है?
+    - क्या दोनों विवाहित और एकल महिलाएं तेजसवानी योजना के लिए पात्र हैं, या क्या भेद हैं?
+    - क्या आय से संबंधित पात्रता मानदंड हैं जिन्हें आवेदकों को संतुष्ट करने की आवश्यकता है?
+    - पात्रता में न्यायसंगत पहुंच और समावेशिता सुनिश्चित करने के लिए क्या उपाय हैं?
+    - क्या आप आवेदकों की पात्रता की पुष्टि और पुष्टि करने की प्रक्रिया को समझा सकते हैं?
+    - क्या अद्वितीय परिस्थितियों का सामना करने वाले आवेदकों के लिए कोई अपवाद या विचार हैं?
+    - तेजसवानी योजना समय के साथ पात्रता में परिवर्तन को कैसे समायोजित करती है?
+- intent: What_is_the_Eligibility_for_applying_in_Tejaswani_Scheme_ur
+  examples: |
+    - تیجاسوانی اسکیم میں درخواست دینے کی کیا اہلیت ہے؟
+    - کون تیجاسوانی اسکیم میں شرکت کے لئے درخواست دینے کے اہل کے طور پر اہل ہے؟
+    - کیا ایسے مخصوص معیارات اور شرائط ہیں جن سے افراد کو اہل درخواست دہندگان ہونے کے لئے ملنا چاہئے؟
+    - کیا اس اسکیم سے درخواست دہندگان کے لئے کوئی عمر ، صنف ، یا ازدواجی حیثیت کی ضروریات عائد ہوتی ہیں؟
+    - اہلیت کا تعین کس طرح کیا جاتا ہے ، اور تشخیص کے دوران کون سے عوامل پر غور کیا جاتا ہے؟
+    - کیا دونوں شادی شدہ اور سنگل خواتین تیجاسوانی اسکیم کے اہل ہیں ، یا کوئی امتیازات ہیں؟
+    - کیا آمدنی سے متعلق اہلیت کے معیارات ہیں جن کو درخواست دہندگان کو مطمئن کرنے کی ضرورت ہے؟
+    - اہلیت میں مساوی رسائی اور شمولیت کو یقینی بنانے کے لئے کون سے اقدامات ہیں؟
+    - کیا آپ درخواست دہندگان کی اہلیت کی تصدیق اور تصدیق کے عمل کی وضاحت کرسکتے ہیں؟
+    - کیا درخواست دہندگان کے لئے کوئی مستثنیات یا تحفظات ہیں جو انوکھے حالات کا سامنا کر رہے ہیں؟
+    - تیجسوانی اسکیم وقت کے ساتھ اہلیت میں تبدیلیوں کو کس طرح ایڈجسٹ کرتی ہے؟
+- intent: What_are_the_activities_covered_under_Tejaswani_Scheme_en
+  examples: |
+    - What are the activities covered under Tejaswani Scheme?
+    - Could you provide an overview of the various activities encompassed by the Tejaswani Scheme?
+    - Can you offer specific examples of the types of activities that fall under the scheme's coverage?
+    - How do these covered activities support women's participation and empowerment?
+    - Are there skill development or vocational training components within the scheme?
+    - In what ways do the covered activities contribute to improving women's socio-economic status?
+    - How does the Tejaswani Scheme ensure that the covered activities remain relevant and impactful?
+    - Are participants given a say in the selection of covered activities?
+    - Are there mechanisms for proposing and incorporating new activities into the scheme?
+    - What indicators or metrics are used to assess the effectiveness of the covered activities?
+    - How does the scheme adapt to emerging needs and opportunities within the covered activities?
+- intent: What_are_the_activities_covered_under_Tejaswani_Scheme_hi
+  examples: |
+    - तेजसवानी योजना के तहत क्या गतिविधियाँ शामिल हैं?
+    - क्या आप तेजसवानी योजना द्वारा शामिल विभिन्न गतिविधियों का अवलोकन प्रदान कर सकते हैं?
+    - क्या आप योजना के कवरेज के तहत आने वाली गतिविधियों के प्रकारों के विशिष्ट उदाहरण प्रदान कर सकते हैं?
+    - ये कवर की गई गतिविधियाँ महिलाओं की भागीदारी और सशक्तिकरण का समर्थन कैसे करती हैं?
+    - क्या योजना के भीतर कौशल विकास या व्यावसायिक प्रशिक्षण घटक हैं?
+    - कवर की गई गतिविधियों में महिलाओं की सामाजिक-आर्थिक स्थिति में सुधार करने में किन तरीकों से योगदान होता है?
+    - तेजसवानी योजना यह कैसे सुनिश्चित करती है कि कवर की गई गतिविधियाँ प्रासंगिक और प्रभावशाली रहें?
+    - क्या प्रतिभागियों को कवर की गई गतिविधियों के चयन में कहा गया है?
+    - क्या योजना में नई गतिविधियों को प्रस्तावित करने और शामिल करने के लिए तंत्र हैं?
+    - कवर की गई गतिविधियों की प्रभावशीलता का आकलन करने के लिए क्या संकेतक या मैट्रिक्स का उपयोग किया जाता है?
+    - यह योजना कवर की गई गतिविधियों के भीतर उभरती जरूरतों और अवसरों के लिए कैसे अनुकूल है?
+- intent: What_are_the_activities_covered_under_Tejaswani_Scheme_ur
+  examples: |
+    - تیجسوانی اسکیم کے تحت کیا سرگرمیاں شامل ہیں؟
+    - کیا آپ تیجاسوانی اسکیم کے ذریعہ شامل مختلف سرگرمیوں کا جائزہ فراہم کرسکتے ہیں؟
+    - کیا آپ اسکیم کی کوریج کے تحت آنے والی سرگرمیوں کی مخصوص مثالیں پیش کرسکتے ہیں؟
+    - یہ احاطہ شدہ سرگرمیاں خواتین کی شرکت اور بااختیار بنانے کی کس طرح مدد کرتی ہیں؟
+    - کیا اسکیم کے اندر مہارت کی ترقی یا پیشہ ورانہ تربیت کے اجزاء موجود ہیں؟
+    - خواتین کی سماجی و معاشی حیثیت کو بہتر بنانے میں کوریجڈ سرگرمیاں کن طریقوں سے معاون ہیں؟
+    - تیجاسوانی اسکیم کیسے اس بات کو یقینی بناتی ہے کہ احاطہ کی سرگرمیاں متعلقہ اور موثر رہیں؟
+    - کیا شرکاء کو احاطہ شدہ سرگرمیوں کے انتخاب میں کہا جاتا ہے؟
+    - کیا اس اسکیم میں نئی ​​سرگرمیوں کی تجویز اور ان کو شامل کرنے کے طریقہ کار موجود ہیں؟
+    - احاطہ شدہ سرگرمیوں کی تاثیر کا اندازہ کرنے کے لئے کون سے اشارے یا میٹرکس استعمال کیے جاتے ہیں؟
+    - یہ اسکیم ابھرتی ہوئی ضروریات اور مواقع کے مطابق مواقع کے مطابق کیسے موافق ہے؟
+- intent: What_is_the_funding_pattern_of_Tejaswani_Scheme_en
+  examples: |
+    - What is the funding pattern of Tejaswani Scheme?
+    - How is the Tejaswani Scheme funded, and what sources contribute to its financial resources?
+    - Does the scheme rely solely on government funding, or are there other partners involved?
+    - How is the scheme's long-term financial sustainability ensured?
+    - Are there regular reviews of the funding pattern to adapt to evolving requirements?
+    - What mechanisms are in place to ensure transparency and accountability in fund allocation?
+    - Do stakeholders or the public have input into funding decisions?
+    - How does the scheme handle unexpected financial challenges or fluctuations?
+    - Can you explain the budget allocation process for different components of the Tejaswani Scheme?
+    - Are there provisions for auditing and reporting on the use of funds within the scheme?
+    - What measures are taken to minimize administrative costs and maximize the impact of funds?
+- intent: What_is_the_funding_pattern_of_Tejaswani_Scheme_hi
+  examples: |
+    - तेजसवानी योजना का फंडिंग पैटर्न क्या है?
+    - तेजसवानी योजना को कैसे वित्त पोषित किया जाता है, और इसके वित्तीय संसाधनों में कौन से स्रोत योगदान करते हैं?
+    - क्या यह योजना केवल सरकारी धन पर निर्भर करती है, या अन्य भागीदार शामिल हैं?
+    - योजना की दीर्घकालिक वित्तीय स्थिरता कैसे सुनिश्चित की जाती है?
+    - क्या विकसित आवश्यकताओं के अनुकूल होने के लिए फंडिंग पैटर्न की नियमित समीक्षाएं हैं?
+    - फंड आवंटन में पारदर्शिता और जवाबदेही सुनिश्चित करने के लिए कौन से तंत्र हैं?
+    - क्या हितधारकों या जनता के पास फंडिंग निर्णयों में इनपुट है?
+    - यह योजना अप्रत्याशित वित्तीय चुनौतियों या उतार -चढ़ाव को कैसे संभालती है?
+    - क्या आप तेजसवानी योजना के विभिन्न घटकों के लिए बजट आवंटन प्रक्रिया की व्याख्या कर सकते हैं?
+    - क्या योजना के भीतर धन के उपयोग पर ऑडिटिंग और रिपोर्टिंग के प्रावधान हैं?
+    - प्रशासनिक लागतों को कम करने और धन के प्रभाव को अधिकतम करने के लिए क्या उपाय किए जाते हैं?
+- intent: What_is_the_funding_pattern_of_Tejaswani_Scheme_ur
+  examples: |
+    - تیجاسوانی اسکیم کا فنڈنگ ​​کا نمونہ کیا ہے؟
+    - تیجسوانی اسکیم کو کس طرح مالی اعانت فراہم کی جاتی ہے ، اور کون سے ذرائع اس کے مالی وسائل میں حصہ ڈالتے ہیں؟
+    - کیا یہ اسکیم مکمل طور پر سرکاری فنڈز پر انحصار کرتی ہے ، یا اس میں دوسرے شراکت دار شامل ہیں؟
+    - اسکیم کی طویل مدتی مالی استحکام کو کس طرح یقینی بنایا جاتا ہے؟
+    - کیا تقاضوں کو تیار کرنے کے ل funding فنڈنگ ​​پیٹرن کے باقاعدہ جائزے ہیں؟
+    - فنڈ مختص کرنے میں شفافیت اور احتساب کو یقینی بنانے کے لئے کون سے میکانزم موجود ہیں؟
+    - کیا اسٹیک ہولڈرز یا عوام کے پاس فنڈنگ ​​کے فیصلوں میں ان پٹ ہے؟
+    - یہ اسکیم غیر متوقع مالی چیلنجوں یا اتار چڑھاو کو کس طرح سنبھالتی ہے؟
+    - کیا آپ تیجسوانی اسکیم کے مختلف اجزاء کے لئے بجٹ مختص کرنے کے عمل کی وضاحت کرسکتے ہیں؟
+    - کیا اسکیم کے اندر فنڈز کے استعمال کے بارے میں آڈٹ اور رپورٹنگ کے لئے کوئی دفعات ہیں؟
+    - انتظامی اخراجات کو کم سے کم کرنے اور فنڈز کے اثرات کو زیادہ سے زیادہ کرنے کے لئے کیا اقدامات اٹھائے جاتے ہیں؟
+- intent: What_is_the_procedure_for_applying_in_Tejaswani_Scheme_en
+  examples: |
+    - What is the procedure for applying in Tejaswani Scheme?
+    - Can you provide a detailed step-by-step guide to the application process for the Tejaswani Scheme?
+    - What options or channels are available for applicants to submit their requests to the scheme?
+    - Are there specific application deadlines or timeframes applicants should be aware of?
+    - How are applicants informed about the status of their applications after submission?
+    - Does the Tejaswani Scheme offer both online and offline application methods, and how do they differ?
+    - What support mechanisms are available for individuals needing assistance with the application process?
+    - Are there any fees or costs associated with applying for the Tejaswani Scheme?
+    - Can applicants track the progress of their applications online, and if so, how?
+    - How is the privacy and security of applicant data ensured during the application process?
+    - Is there an appeals process for applicants who believe their applications were unfairly rejected?
+- intent: What_is_the_procedure_for_applying_in_Tejaswani_Scheme_hi
+  examples: |
+    - तेजसवानी योजना में आवेदन करने की प्रक्रिया क्या है?
+    - क्या आप तेजसवानी योजना के लिए आवेदन प्रक्रिया के लिए एक विस्तृत चरण-दर-चरण मार्गदर्शिका प्रदान कर सकते हैं?
+    - आवेदकों के लिए योजना के लिए अपने अनुरोध प्रस्तुत करने के लिए क्या विकल्प या चैनल उपलब्ध हैं?
+    - क्या विशिष्ट एप्लिकेशन डेडलाइन या टाइमफ्रेम आवेदकों के बारे में पता होना चाहिए?
+    - आवेदकों को प्रस्तुत करने के बाद उनके आवेदनों की स्थिति के बारे में कैसे सूचित किया जाता है?
+    - क्या तेजसवानी योजना ऑनलाइन और ऑफ़लाइन आवेदन विधियों दोनों की पेशकश करती है, और वे कैसे अलग हैं?
+    - आवेदन प्रक्रिया के साथ सहायता की आवश्यकता वाले व्यक्तियों के लिए कौन से समर्थन तंत्र उपलब्ध हैं?
+    - क्या कोई फीस या लागत तेजसवानी योजना के लिए आवेदन करने से जुड़ी है?
+    - क्या आवेदक अपने अनुप्रयोगों की प्रगति को ऑनलाइन ट्रैक कर सकते हैं, और यदि हां, तो कैसे?
+    - आवेदन प्रक्रिया के दौरान आवेदक डेटा की गोपनीयता और सुरक्षा कैसे सुनिश्चित की जाती है?
+    - क्या आवेदकों के लिए एक अपील प्रक्रिया है जो मानते हैं कि उनके आवेदनों को गलत तरीके से खारिज कर दिया गया था?
+- intent: What_is_the_procedure_for_applying_in_Tejaswani_Scheme_ur
+  examples: |
+    - تیجسوانی اسکیم میں درخواست دینے کا طریقہ کیا ہے؟
+    - کیا آپ تیجاسوانی اسکیم کے لئے درخواست کے عمل کے لئے ایک تفصیلی مرحلہ وار گائیڈ فراہم کرسکتے ہیں؟
+    - درخواست دہندگان کو اپنی درخواستیں اسکیم میں پیش کرنے کے لئے کون سے اختیارات یا چینلز دستیاب ہیں؟
+    - کیا کسی مخصوص درخواست کی آخری تاریخ یا ٹائم فریم درخواست دہندگان کو آگاہ ہونا چاہئے؟
+    - درخواست دہندگان کو جمع کرانے کے بعد ان کی درخواستوں کی حیثیت کے بارے میں کس طرح آگاہ کیا جاتا ہے؟
+    - کیا تیجاسوانی اسکیم آن لائن اور آف لائن درخواست کے دونوں طریقوں کی پیش کش کرتی ہے ، اور وہ کیسے مختلف ہیں؟
+    - درخواست کے عمل میں مدد کی ضرورت والے افراد کے لئے کون سے معاون میکانزم دستیاب ہیں؟
+    - کیا تیجاسوانی اسکیم کے لئے درخواست دینے سے کوئی فیس یا اخراجات وابستہ ہیں؟
+    - کیا درخواست دہندگان آن لائن اپنی درخواستوں کی پیشرفت کو ٹریک کرسکتے ہیں ، اور اگر ایسا ہے تو ، کیسے؟
+    - درخواست کے عمل کے دوران درخواست دہندگان کے اعداد و شمار کی رازداری اور حفاظت کو کس طرح یقینی بنایا جاتا ہے؟
+    - کیا درخواست دہندگان کے لئے اپیلوں کا عمل ہے جو یقین رکھتے ہیں کہ ان کی درخواستوں کو غیر منصفانہ طور پر مسترد کردیا گیا ہے؟
+- intent: What_are_the_documents_needed_to_be_submitted_by_the_applicant_along_with_the_application_form_en
+  examples: |
+    - What are the documents needed to be submitted by the applicant along with the application form?
+    - Could you provide a comprehensive list of all the required documents that applicants must submit with their Tejaswani Scheme applications?
+    - Are there specific formats or guidelines applicants should follow when submitting these documents?
+    - How do these documents play a role in verifying an applicant's eligibility for the scheme?
+    - What safeguards are in place to protect the confidentiality and security of the submitted documents?
+    - Are there alternative options or provisions for applicants facing challenges in obtaining certain documents?
+    - Are certified copies or original documents required, and how are they to be submitted?
+    - Is there a checklist provided to applicants to ensure they submit all necessary documents?
+    - How does the Tejaswani Scheme handle situations where applicants have unique or unconventional document requirements?
+    - Are there any validation or verification processes for the submitted documents?
+    - Can applicants request feedback on the completeness and acceptability of their submitted documents?
+- intent: What_are_the_documents_needed_to_be_submitted_by_the_applicant_along_with_the_application_form_hi
+  examples: |
+    - आवेदन पत्र के साथ आवेदक द्वारा प्रस्तुत किए जाने वाले दस्तावेजों को क्या आवश्यक है?
+    - क्या आप उन सभी आवश्यक दस्तावेजों की एक व्यापक सूची प्रदान कर सकते हैं जिन्हें आवेदकों को अपने तेजसवानी योजना के आवेदन के साथ प्रस्तुत करना होगा?
+    - क्या इन दस्तावेजों को जमा करते समय विशिष्ट प्रारूप या दिशानिर्देश आवेदकों का पालन करना चाहिए?
+    - ये दस्तावेज योजना के लिए एक आवेदक की पात्रता को सत्यापित करने में कैसे भूमिका निभाते हैं?
+    - प्रस्तुत दस्तावेजों की गोपनीयता और सुरक्षा की रक्षा के लिए क्या सुरक्षा उपाय हैं?
+    - क्या कुछ दस्तावेजों को प्राप्त करने में चुनौतियों का सामना करने वाले आवेदकों के लिए वैकल्पिक विकल्प या प्रावधान हैं?
+    - क्या प्रमाणित प्रतियां या मूल दस्तावेज आवश्यक हैं, और उन्हें कैसे प्रस्तुत किया जाना है?
+    - क्या आवेदकों को यह सुनिश्चित करने के लिए कि वे सभी आवश्यक दस्तावेज प्रस्तुत करते हैं, को एक चेकलिस्ट प्रदान की जाती है?
+    - तेजसवानी योजना उन स्थितियों को कैसे संभालती है जहां आवेदकों की अद्वितीय या अपरंपरागत दस्तावेज़ आवश्यकताएं हैं?
+    - क्या प्रस्तुत दस्तावेजों के लिए कोई सत्यापन या सत्यापन प्रक्रियाएं हैं?
+    - क्या आवेदक अपने प्रस्तुत दस्तावेजों की पूर्णता और स्वीकार्यता पर प्रतिक्रिया का अनुरोध कर सकते हैं?
+- intent: What_are_the_documents_needed_to_be_submitted_by_the_applicant_along_with_the_application_form_ur
+  examples: |
+    - درخواست کے فارم کے ساتھ درخواست دہندہ کے ذریعہ دستاویزات کو کیا جمع کروانے کی ضرورت ہے؟
+    - کیا آپ ان تمام مطلوبہ دستاویزات کی ایک جامع فہرست فراہم کرسکتے ہیں جو درخواست دہندگان کو اپنی تیجاسوانی اسکیم ایپلی کیشنز کے ساتھ پیش کرنا چاہئے؟
+    - کیا ان دستاویزات کو پیش کرتے وقت درخواست دہندگان کو مخصوص فارمیٹس یا رہنما خطوط پر عمل کرنا چاہئے؟
+    - یہ دستاویزات اسکیم کے لئے درخواست دہندہ کی اہلیت کی تصدیق میں کس طرح کردار ادا کرتی ہیں؟
+    - پیش کردہ دستاویزات کی رازداری اور سلامتی کے تحفظ کے لئے کون سے حفاظتی انتظامات موجود ہیں؟
+    - کیا کچھ دستاویزات کے حصول میں چیلنجوں کا سامنا کرنے والے درخواست دہندگان کے لئے متبادل اختیارات یا دفعات ہیں؟
+    - کیا مصدقہ کاپیاں یا اصل دستاویزات درکار ہیں ، اور انہیں کس طرح پیش کیا جائے گا؟
+    - کیا درخواست دہندگان کو کوئی چیک لسٹ فراہم کی گئی ہے تاکہ وہ یقینی بنائیں کہ وہ تمام ضروری دستاویزات پیش کریں؟
+    - تیجاسوانی اسکیم ایسے حالات کو کس طرح سنبھالتی ہے جہاں درخواست دہندگان کی منفرد یا غیر روایتی دستاویز کی ضروریات ہیں؟
+    - کیا پیش کردہ دستاویزات کے لئے کوئی توثیق یا توثیق کے عمل ہیں؟
+    - کیا درخواست دہندگان اپنے پیش کردہ دستاویزات کی مکمل اور قابل قبولیت کے بارے میں رائے کی درخواست کرسکتے ہیں؟
+- intent: What_is_the_purpose_of_Rise_Together_scheme_en
+  examples: |
+    - What is the purpose of Rise Together scheme?
+    - What overarching goals and purposes does the Rise Together scheme aim to fulfill?
+    - Can you provide insight into the specific societal or economic challenges that the scheme addresses?
+    - What inspired the establishment of the Rise Together scheme, and what gap in services does it fill?
+    - How does the scheme intend to bring about positive change and impact for its intended beneficiaries?
+    - Are there any long-term visions or strategic objectives associated with the Rise Together scheme?
+    - What role does the scheme play in contributing to broader social and economic development initiatives?
+    - Can you elaborate on the anticipated outcomes and benefits for participants of the Rise Together scheme?
+    - Are there key performance indicators used to measure the scheme's success in fulfilling its purpose?
+    - How does the Rise Together scheme adapt to changing needs and emerging challenges over time?
+    - Are there mechanisms for regular review and adjustment of the scheme's purpose and goals?
+- intent: What_is_the_purpose_of_Rise_Together_scheme_hi
+  examples: |
+    - राइज टुगेदर स्कीम का उद्देश्य क्या है?
+    - क्या ओवररचिंग लक्ष्यों और उद्देश्यों को एक साथ बढ़ाने की योजना को पूरा करने का लक्ष्य है?
+    - क्या आप विशिष्ट सामाजिक या आर्थिक चुनौतियों में अंतर्दृष्टि प्रदान कर सकते हैं जो योजना संबोधित करती है?
+    - राइज टुगेदर स्कीम की स्थापना को क्या प्रेरित किया, और सेवाओं में क्या अंतर भरता है?
+    - यह योजना अपने इच्छित लाभार्थियों के लिए सकारात्मक परिवर्तन और प्रभाव लाने का इरादा कैसे रखती है?
+    - क्या कोई दीर्घकालिक दर्शन या रणनीतिक उद्देश्य वृद्धि के साथ जुड़े हैं?
+    - व्यापक सामाजिक और आर्थिक विकास पहलों में योगदान देने में योजना क्या भूमिका निभाती है?
+    - क्या आप वृद्धि के प्रतिभागियों के लिए प्रत्याशित परिणामों और लाभों के बारे में विस्तार से बता सकते हैं?
+    - क्या प्रमुख प्रदर्शन संकेतक अपने उद्देश्य को पूरा करने में योजना की सफलता को मापने के लिए उपयोग किए जाते हैं?
+    - राइज़ टुगेदर स्कीम समय के साथ बदलती जरूरतों और उभरती चुनौतियों के अनुकूल कैसे होती है?
+    - क्या योजना के उद्देश्य और लक्ष्यों के नियमित समीक्षा और समायोजन के लिए तंत्र हैं?
+- intent: What_is_the_purpose_of_Rise_Together_scheme_ur
+  examples: |
+    - ایک ساتھ مل کر اسکیم رائز کا مقصد کیا ہے؟
+    - کون سے اہم اہداف اور مقاصد کو ایک ساتھ مل کر اسکیم کو پورا کرنا ہے؟
+    - کیا آپ اس اسکیم سے خطاب کرنے والے مخصوص معاشرتی یا معاشی چیلنجوں کے بارے میں بصیرت فراہم کرسکتے ہیں؟
+    - کس چیز نے ایک ساتھ مل کر اسکیم کے قیام کو متاثر کیا ، اور یہ خدمات میں کس فرق کو بھرتا ہے؟
+    - اسکیم اپنے مطلوبہ فائدہ اٹھانے والوں کے لئے مثبت تبدیلی اور اثر لانے کا ارادہ کیسے رکھتی ہے؟
+    - کیا کوئی طویل مدتی نظارے یا اسٹریٹجک مقاصد ہیں جو رائز ایک ساتھ اسکیم سے وابستہ ہیں؟
+    - وسیع تر معاشرتی اور معاشی ترقی کے اقدامات میں حصہ ڈالنے میں اسکیم کیا کردار ادا کرتی ہے؟
+    - کیا آپ رائز کے ساتھ مل کر اسکیم کے شرکاء کے لئے متوقع نتائج اور فوائد کے بارے میں تفصیل سے بیان کرسکتے ہیں؟
+    - کیا اس مقصد کو پورا کرنے میں اسکیم کی کامیابی کی پیمائش کے لئے کارکردگی کے اہم اشارے استعمال کیے گئے ہیں؟
+    - عروج کے ساتھ ساتھ اسکیم کس طرح بدلتی ضروریات اور ابھرتے ہوئے چیلنجوں کے مطابق بنتی ہے؟
+    - کیا اس اسکیم کے مقصد اور اہداف کے باقاعدگی سے جائزہ لینے اور ایڈجسٹمنٹ کے لئے میکانزم موجود ہیں؟
+- intent: Who_is_eligible_for_Rise_Together_scheme_en
+  examples: |
+    - Who is eligible for Rise Together scheme?
+    - What are the specific criteria that individuals must meet to qualify for participation in the Rise Together scheme?
+    - Are there any age, gender, or demographic restrictions for individuals seeking to benefit from the scheme?
+    - How are eligibility determinations made, and what factors are considered during the assessment?
+    - Is there a distinction in eligibility criteria based on marital status, income, or other factors?
+    - Are there geographic or regional considerations that impact eligibility for the scheme?
+    - Can you explain the process of verifying and confirming the eligibility of applicants?
+    - Are there any exceptions or considerations for applicants facing unique circumstances?
+    - How does the Rise Together scheme ensure fairness and inclusivity in eligibility assessment?
+    - Are there any documentation requirements or proofs that applicants must provide to establish eligibility?
+    - Can eligibility change over time for individuals already enrolled in the Rise Together scheme?
+- intent: Who_is_eligible_for_Rise_Together_scheme_hi
+  examples: |
+    - राइज टुगेदर स्कीम के लिए कौन पात्र है?
+    - उन विशिष्ट मानदंडों को क्या करना चाहिए जो व्यक्तियों को एक साथ वृद्धि के लिए भागीदारी के लिए अर्हता प्राप्त करने के लिए मिलना चाहिए?
+    - क्या योजना से लाभान्वित होने के इच्छुक व्यक्तियों के लिए कोई उम्र, लिंग या जनसांख्यिकीय प्रतिबंध हैं?
+    - पात्रता निर्धारण कैसे किए जाते हैं, और मूल्यांकन के दौरान किन कारकों पर विचार किया जाता है?
+    - क्या वैवाहिक स्थिति, आय या अन्य कारकों के आधार पर पात्रता मानदंडों में कोई अंतर है?
+    - क्या भौगोलिक या क्षेत्रीय विचार हैं जो योजना के लिए पात्रता को प्रभावित करते हैं?
+    - क्या आप आवेदकों की पात्रता की पुष्टि और पुष्टि करने की प्रक्रिया को समझा सकते हैं?
+    - क्या अद्वितीय परिस्थितियों का सामना करने वाले आवेदकों के लिए कोई अपवाद या विचार हैं?
+    - कैसे बढ़ोतरी एक साथ योजना पात्रता मूल्यांकन में निष्पक्षता और समावेशिता सुनिश्चित करती है?
+    - क्या कोई प्रलेखन आवश्यकताएं या प्रमाण हैं जो आवेदकों को पात्रता स्थापित करने के लिए प्रदान करनी चाहिए?
+    - क्या पहले से ही एक साथ वृद्धि में नामांकित व्यक्तियों के लिए समय के साथ पात्रता बदल सकती है?
+- intent: Who_is_eligible_for_Rise_Together_scheme_ur
+  examples: |
+    - کون رائز ایک ساتھ اسکیم کے لئے اہل ہے؟
+    - کون سے مخصوص معیارات ہیں جن سے افراد کو رائز مل کر اسکیم میں شرکت کے لئے کوالیفائی کرنے کے لئے ملنا چاہئے؟
+    - کیا اسکیم سے فائدہ اٹھانے کے خواہاں افراد کے لئے کوئی عمر ، صنف ، یا آبادیاتی پابندیاں ہیں؟
+    - اہلیت کا تعین کس طرح کیا جاتا ہے ، اور تشخیص کے دوران کون سے عوامل پر غور کیا جاتا ہے؟
+    - کیا ازدواجی حیثیت ، آمدنی ، یا دیگر عوامل پر مبنی اہلیت کے معیار میں کوئی فرق ہے؟
+    - کیا جغرافیائی یا علاقائی تحفظات ہیں جو اسکیم کے لئے اہلیت کو متاثر کرتے ہیں؟
+    - کیا آپ درخواست دہندگان کی اہلیت کی تصدیق اور تصدیق کے عمل کی وضاحت کرسکتے ہیں؟
+    - کیا درخواست دہندگان کے لئے کوئی مستثنیات یا تحفظات ہیں جو انوکھے حالات کا سامنا کر رہے ہیں؟
+    - کس طرح ایک ساتھ مل کر اسکیم اہلیت کی تشخیص میں منصفانہ اور شمولیت کو یقینی بناتی ہے؟
+    - کیا دستاویزات کی کوئی تقاضے یا ثبوت ہیں جو درخواست دہندگان کو اہلیت کے قیام کے لئے فراہم کرنا ہوں گے؟
+    - کیا پہلے سے ہی رائز ایک ساتھ مل کر اسکیم میں داخلہ لینے والے افراد کے لئے اہلیت وقت کے ساتھ بدل سکتی ہے؟
+- intent: What_is_the_objective_of_Rise_Together_Scheme_en
+  examples: |
+    - What is the objective of Rise Together Scheme?
+    - What are the primary objectives and intended outcomes of the Rise Together Scheme?
+    - How do the scheme's objectives align with broader social and economic goals?
+    - Can you describe the specific societal or economic issues that the scheme aims to address?
+    - What motivated the creation of the Rise Together Scheme, and what challenges does it aim to overcome?
+    - How does the scheme contribute to improving the well-being and opportunities of its target beneficiaries?
+    - Are there any strategic priorities or long-term goals associated with the Rise Together Scheme?
+    - How does the scheme measure progress towards achieving its objectives?
+    - Can you explain how the Rise Together Scheme adapts to evolving needs and circumstances?
+    - Are there any partnerships or collaborations that support the achievement of its objectives?
+    - What is the role of participant feedback in shaping and refining the scheme's objectives?
+- intent: What_is_the_objective_of_Rise_Together_Scheme_hi
+  examples: |
+    - राइज टुगेदर स्कीम का उद्देश्य क्या है?
+    - एक साथ वृद्धि के प्राथमिक उद्देश्य और इच्छित परिणाम क्या हैं?
+    - योजना के उद्देश्य व्यापक सामाजिक और आर्थिक लक्ष्यों के साथ कैसे संरेखित करते हैं?
+    - क्या आप उन विशिष्ट सामाजिक या आर्थिक मुद्दों का वर्णन कर सकते हैं जिन्हें योजना का संबोधित करना है?
+    - राइज के साथ एक साथ योजना बनाने के लिए क्या प्रेरित किया, और इसे दूर करने के लिए किन चुनौतियों का उद्देश्य है?
+    - यह योजना अपने लक्षित लाभार्थियों की भलाई और अवसरों में सुधार करने में कैसे योगदान देती है?
+    - क्या कोई रणनीतिक प्राथमिकताएं या दीर्घकालिक लक्ष्य हैं जो एक साथ वृद्धि के साथ जुड़े हैं?
+    - योजना अपने उद्देश्यों को प्राप्त करने की दिशा में प्रगति कैसे करती है?
+    - क्या आप समझा सकते हैं कि कैसे वृद्धि एक साथ योजना को विकसित करने की जरूरतों और परिस्थितियों के लिए अनुकूल होती है?
+    - क्या कोई साझेदारी या सहयोग है जो इसके उद्देश्यों की उपलब्धि का समर्थन करता है?
+    - योजना के उद्देश्यों को आकार देने और परिष्कृत करने में प्रतिभागी प्रतिक्रिया की क्या भूमिका है?
+- intent: What_is_the_objective_of_Rise_Together_Scheme_ur
+  examples: |
+    - ایک ساتھ مل کر اسکیم کا مقصد کیا ہے؟
+    - رائز ایک ساتھ اسکیم کے بنیادی مقاصد اور مطلوبہ نتائج کیا ہیں؟
+    - اسکیم کے مقاصد وسیع تر معاشرتی اور معاشی اہداف کے مطابق کیسے ہیں؟
+    - کیا آپ ان مخصوص معاشرتی یا معاشی امور کی وضاحت کرسکتے ہیں جن کا مقصد اسکیم کا مقصد ہے؟
+    - کس چیز نے رائز کی تخلیق کو ایک ساتھ مل کر اسکیم کی حوصلہ افزائی کی ، اور اس کا مقصد کس چیلنجوں پر قابو پانا ہے؟
+    - اسکیم اپنے ہدف سے فائدہ اٹھانے والوں کی فلاح و بہبود اور مواقع کو بہتر بنانے میں کس طرح معاون ہے؟
+    - کیا کوئی اسٹریٹجک ترجیحات یا طویل مدتی اہداف رائز ایک ساتھ اسکیم سے وابستہ ہیں؟
+    - اسکیم اپنے مقاصد کے حصول کی طرف کس طرح ترقی کی پیمائش کرتی ہے؟
+    - کیا آپ وضاحت کر سکتے ہیں کہ کس طرح عروج کی اسکیم تیار ہوتی ہے ضروریات اور حالات کے مطابق؟
+    - کیا ایسی کوئی شراکت یا تعاون ہے جو اس کے مقاصد کے حصول کی حمایت کرتے ہیں؟
+    - اسکیم کے مقاصد کی تشکیل اور ان کو بہتر بنانے میں شریک رائے کا کیا کردار ہے؟
+- intent: What_are_the_activities_covered_under_Rise_Together_scheme_en
+  examples: |
+    - What are the activities covered under Rise Together scheme?
+    - Could you provide an overview of the various activities that fall under the umbrella of the Rise Together scheme?
+    - Can you offer specific examples of the types of activities and services included in the scheme?
+    - How do these covered activities support the scheme's participants and its overall goals?
+    - Are there any skill development, vocational training, or educational components within the scheme?
+    - In what ways do the covered activities contribute to empowering and enhancing the lives of beneficiaries?
+    - How does the Rise Together scheme ensure that the covered activities remain relevant and impactful?
+    - Are participants given a say in the selection and design of covered activities?
+    - Are there opportunities for proposing and incorporating new activities into the scheme?
+    - What indicators or metrics are used to assess the effectiveness of the covered activities?
+    - How does the scheme adapt to emerging needs and opportunities within the activities it covers?
+- intent: What_are_the_activities_covered_under_Rise_Together_scheme_hi
+  examples: |
+    - राइज टुगेदर स्कीम के तहत क्या गतिविधियाँ शामिल हैं?
+    - क्या आप उन विभिन्न गतिविधियों का अवलोकन प्रदान कर सकते हैं जो उदय एक साथ की छतरी के नीचे आते हैं?
+    - क्या आप योजना में शामिल गतिविधियों और सेवाओं के प्रकारों के विशिष्ट उदाहरण प्रदान कर सकते हैं?
+    - ये कवर की गई गतिविधियाँ योजना के प्रतिभागियों और इसके समग्र लक्ष्यों का समर्थन कैसे करती हैं?
+    - क्या योजना के भीतर कोई कौशल विकास, व्यावसायिक प्रशिक्षण या शैक्षिक घटक हैं?
+    - कवर की गई गतिविधियों में लाभार्थियों के जीवन को सशक्त बनाने और बढ़ाने में किन तरीकों से योगदान होता है?
+    - कैसे वृद्धि एक साथ योजना सुनिश्चित करती है कि कवर की गई गतिविधियाँ प्रासंगिक और प्रभावशाली रहें?
+    - क्या प्रतिभागियों को कवर की गई गतिविधियों के चयन और डिजाइन में कहा जाता है?
+    - क्या योजना में नई गतिविधियों का प्रस्ताव और शामिल करने के अवसर हैं?
+    - कवर की गई गतिविधियों की प्रभावशीलता का आकलन करने के लिए क्या संकेतक या मैट्रिक्स का उपयोग किया जाता है?
+    - यह योजना उभरती हुई जरूरतों और अवसरों के लिए कैसे अनुकूलित करती है, जो इसे कवर करती है?
+- intent: What_are_the_activities_covered_under_Rise_Together_scheme_ur
+  examples: |
+    - رائز ایک ساتھ اسکیم کے تحت کیا سرگرمیاں شامل ہیں؟
+    - کیا آپ مختلف سرگرمیوں کا ایک جائزہ فراہم کرسکتے ہیں جو ایک ساتھ مل کر اسکیم کی چھتری میں پڑتی ہیں؟
+    - کیا آپ اسکیم میں شامل سرگرمیوں اور خدمات کی اقسام کی مخصوص مثالیں پیش کرسکتے ہیں؟
+    - یہ احاطہ شدہ سرگرمیاں اسکیم کے شرکاء اور اس کے مجموعی اہداف کی کس طرح حمایت کرتی ہیں؟
+    - کیا اسکیم کے اندر کوئی مہارت کی ترقی ، پیشہ ورانہ تربیت ، یا تعلیمی اجزاء ہیں؟
+    - کون سے طریقوں سے مستفید سرگرمیاں فائدہ اٹھانے والوں کی زندگیوں کو بااختیار بنانے اور بڑھانے میں معاون ہیں؟
+    - کس طرح رائز ایک ساتھ اسکیم اس بات کو یقینی بناتی ہے کہ احاطہ کی سرگرمیاں متعلقہ اور موثر رہیں؟
+    - کیا شرکاء کو احاطہ شدہ سرگرمیوں کے انتخاب اور ڈیزائن کے بارے میں کہا جاتا ہے؟
+    - کیا اس اسکیم میں نئی ​​سرگرمیوں کی تجویز اور ان کو شامل کرنے کے مواقع موجود ہیں؟
+    - احاطہ شدہ سرگرمیوں کی تاثیر کا اندازہ کرنے کے لئے کون سے اشارے یا میٹرکس استعمال کیے جاتے ہیں؟
+    - اسکیم ابھرتی ہوئی ضروریات اور مواقع کے مطابق کس طرح موافقت پذیر ہے جس میں اس کی سرگرمیاں ہیں؟
+- intent: What_is_the_Eligibility_for_applying_for_Rise_Together_scheme_en
+  examples: |
+    - What is the Eligibility for applying for Rise Together scheme?
+    - Who qualifies as eligible to apply for participation in the Rise Together scheme?
+    - Are there specific eligibility criteria, prerequisites, or requirements that applicants must meet?
+    - Does the scheme impose any restrictions based on age, gender, or marital status for applicants?
+    - How are eligibility determinations made, and what factors are taken into account during the assessment?
+    - Are there income-related eligibility criteria that applicants need to satisfy?
+    - What measures are in place to ensure equitable access and inclusivity in eligibility?
+    - Can you explain the process of verifying and confirming the eligibility of applicants?
+    - Are there any exceptions or considerations for applicants facing unique or exceptional circumstances?
+    - How does the Rise Together scheme address changes in eligibility over time?
+    - Is there a formal appeals process for applicants who believe their eligibility has been unfairly determined?
+- intent: What_is_the_Eligibility_for_applying_for_Rise_Together_scheme_hi
+  examples: |
+    - राइज टुगेदर स्कीम के लिए आवेदन करने की पात्रता क्या है?
+    - एक साथ वृद्धि में भागीदारी के लिए आवेदन करने के लिए पात्र के रूप में कौन योग्य है?
+    - क्या विशिष्ट पात्रता मानदंड, आवश्यक शर्तें या आवश्यकताएं हैं जो आवेदकों को मिलनी चाहिए?
+    - क्या यह योजना आवेदकों के लिए उम्र, लिंग या वैवाहिक स्थिति के आधार पर कोई प्रतिबंध लगाती है?
+    - पात्रता निर्धारण कैसे किए जाते हैं, और मूल्यांकन के दौरान किन कारकों को ध्यान में रखा जाता है?
+    - क्या आय से संबंधित पात्रता मानदंड हैं जिन्हें आवेदकों को संतुष्ट करने की आवश्यकता है?
+    - पात्रता में न्यायसंगत पहुंच और समावेशिता सुनिश्चित करने के लिए क्या उपाय हैं?
+    - क्या आप आवेदकों की पात्रता की पुष्टि और पुष्टि करने की प्रक्रिया को समझा सकते हैं?
+    - क्या अद्वितीय या असाधारण परिस्थितियों का सामना करने वाले आवेदकों के लिए कोई अपवाद या विचार हैं?
+    - समय के साथ पात्रता में वृद्धि कैसे होती है?
+    - क्या आवेदकों के लिए एक औपचारिक अपील प्रक्रिया है जो मानते हैं कि उनकी पात्रता को गलत तरीके से निर्धारित किया गया है?
+- intent: What_is_the_Eligibility_for_applying_for_Rise_Together_scheme_ur
+  examples: |
+    - رائز ایک ساتھ اسکیم کے لئے درخواست دینے کی کیا اہلیت ہے؟
+    - کون رائز ایک ساتھ اسکیم میں شرکت کے لئے درخواست دینے کے اہل کے طور پر اہل ہے؟
+    - کیا اہلیت کے مخصوص معیارات ، شرائط ، یا تقاضے ہیں جن سے درخواست دہندگان کو ملنا چاہئے؟
+    - کیا اسکیم درخواست دہندگان کے لئے عمر ، صنف یا ازدواجی حیثیت کی بنیاد پر کوئی پابندیاں عائد کرتی ہے؟
+    - اہلیت کا تعین کیسے کیا جاتا ہے ، اور تشخیص کے دوران کون سے عوامل کو مدنظر رکھا جاتا ہے؟
+    - کیا آمدنی سے متعلق اہلیت کے معیارات ہیں جن کو درخواست دہندگان کو مطمئن کرنے کی ضرورت ہے؟
+    - اہلیت میں مساوی رسائی اور شمولیت کو یقینی بنانے کے لئے کون سے اقدامات ہیں؟
+    - کیا آپ درخواست دہندگان کی اہلیت کی تصدیق اور تصدیق کے عمل کی وضاحت کرسکتے ہیں؟
+    - کیا درخواست دہندگان کے لئے کوئی مستثنیات یا تحفظات ہیں جو انوکھے یا غیر معمولی حالات کا سامنا کرتے ہیں؟
+    - رائز ایک ساتھ اسکیم کو وقت کے ساتھ اہلیت میں تبدیلیوں کا پتہ کیسے ہوتا ہے؟
+    - کیا درخواست دہندگان کے لئے باضابطہ اپیلوں کا عمل ہے جو یقین رکھتے ہیں کہ ان کی اہلیت کا غیر منصفانہ تعین کیا گیا ہے؟
+- intent: What_is_the_Funding_Pattern_of_Rise_Together_scheme_en
+  examples: |
+    - What is the Funding Pattern of Rise Together scheme?
+    - How is the Rise Together scheme funded, and what sources contribute to its financial resources?
+    - Does the scheme rely solely on government funding, or are there other partners or donors involved?
+    - How is the long-term financial sustainability of the scheme ensured?
+    - Are there regular reviews of the funding pattern to adapt to evolving financial requirements?
+    - What mechanisms are in place to ensure transparency and accountability in fund allocation?
+    - Do stakeholders or the public have input into funding decisions?
+    - How does the scheme handle unexpected financial challenges or fluctuations?
+    - Can you explain the budget allocation process for different components of the Rise Together scheme?
+    - Are there provisions for auditing and reporting on the utilization of funds within the scheme?
+    - What measures are taken to minimize administrative costs and maximize the impact of funds?
+- intent: What_is_the_Funding_Pattern_of_Rise_Together_scheme_hi
+  examples: |
+    - राइज टुगेदर स्कीम का फंडिंग पैटर्न क्या है?
+    - राइज़ टुगेदर स्कीम को कैसे वित्त पोषित किया जाता है, और इसके वित्तीय संसाधनों में कौन से स्रोत योगदान करते हैं?
+    - क्या यह योजना केवल सरकारी धन पर निर्भर करती है, या अन्य भागीदार या दाता शामिल हैं?
+    - योजना की दीर्घकालिक वित्तीय स्थिरता कैसे सुनिश्चित की जाती है?
+    - क्या वित्तीय आवश्यकताओं को विकसित करने के लिए फंडिंग पैटर्न की नियमित समीक्षाएं हैं?
+    - फंड आवंटन में पारदर्शिता और जवाबदेही सुनिश्चित करने के लिए कौन से तंत्र हैं?
+    - क्या हितधारकों या जनता के पास फंडिंग निर्णयों में इनपुट है?
+    - यह योजना अप्रत्याशित वित्तीय चुनौतियों या उतार -चढ़ाव को कैसे संभालती है?
+    - क्या आप एक साथ वृद्धि के विभिन्न घटकों के लिए बजट आवंटन प्रक्रिया की व्याख्या कर सकते हैं?
+    - क्या योजना के भीतर धन के उपयोग पर ऑडिटिंग और रिपोर्टिंग के प्रावधान हैं?
+    - प्रशासनिक लागतों को कम करने और धन के प्रभाव को अधिकतम करने के लिए क्या उपाय किए जाते हैं?
+- intent: What_is_the_Funding_Pattern_of_Rise_Together_scheme_ur
+  examples: |
+    - رائز ایک ساتھ اسکیم کا فنڈنگ ​​کا نمونہ کیا ہے؟
+    - کس طرح ایک ساتھ مل کر اسکیم کی مالی اعانت ہے ، اور کون سے ذرائع اس کے مالی وسائل میں حصہ ڈالتے ہیں؟
+    - کیا یہ اسکیم مکمل طور پر سرکاری فنڈز پر انحصار کرتی ہے ، یا دوسرے شراکت دار یا عطیہ دہندگان شامل ہیں؟
+    - اس اسکیم کی طویل مدتی مالی استحکام کو کس طرح یقینی بنایا جاتا ہے؟
+    - کیا مالی تقاضوں کو تیار کرنے کے ل funding فنڈنگ ​​پیٹرن کے باقاعدہ جائزے ہیں؟
+    - فنڈ مختص کرنے میں شفافیت اور احتساب کو یقینی بنانے کے لئے کون سے میکانزم موجود ہیں؟
+    - کیا اسٹیک ہولڈرز یا عوام کے پاس فنڈنگ ​​کے فیصلوں میں ان پٹ ہے؟
+    - یہ اسکیم غیر متوقع مالی چیلنجوں یا اتار چڑھاو کو کس طرح سنبھالتی ہے؟
+    - کیا آپ رائز ایک ساتھ اسکیم کے مختلف اجزاء کے لئے بجٹ مختص کرنے کے عمل کی وضاحت کرسکتے ہیں؟
+    - کیا اسکیم کے اندر فنڈز کے استعمال کے بارے میں آڈٹ اور رپورٹنگ کے لئے کوئی دفعات ہیں؟
+    - انتظامی اخراجات کو کم سے کم کرنے اور فنڈز کے اثرات کو زیادہ سے زیادہ کرنے کے لئے کیا اقدامات اٹھائے جاتے ہیں؟
+- intent: What_is_MUMKIN_Scheme_en
+  examples: |
+    - What is MUMKIN Scheme?
+    - Can you provide a detailed explanation of the MUMKIN Scheme and its core objectives?
+    - How does the MUMKIN Scheme distinguish itself from other similar initiatives or programs?
+    - Are there specific societal or economic challenges that the MUMKIN Scheme seeks to address?
+    - What inspired the creation of the MUMKIN Scheme and its mission?
+    - What types of incentives and benefits are offered to participants through the MUMKIN Scheme?
+    - How does the MUMKIN Scheme contribute to improving the well-being and opportunities of its beneficiaries?
+    - Are there multiple vehicle options available under the MUMKIN Scheme, and if so, what are they?
+    - How does the scheme facilitate access to vehicles for its participants?
+    - What is the process for individuals to participate in the MUMKIN Scheme?
+    - Can you explain how the MUMKIN Scheme adapts to changing needs and circumstances?
+- intent: What_is_MUMKIN_Scheme_hi
+  examples: |
+    - मुमकिन योजना क्या है?
+    - क्या आप मुमकिन योजना और इसके मुख्य उद्देश्यों की विस्तृत व्याख्या प्रदान कर सकते हैं?
+    - ममकिन योजना खुद को अन्य समान पहलों या कार्यक्रमों से कैसे अलग करती है?
+    - क्या विशिष्ट सामाजिक या आर्थिक चुनौतियां हैं जिन्हें मुमकिन योजना संबोधित करना चाहती है?
+    - ममकिन योजना और उसके मिशन के निर्माण से क्या प्रेरित हुआ?
+    - ममकिन योजना के माध्यम से प्रतिभागियों को किस प्रकार के प्रोत्साहन और लाभ प्रदान किए जाते हैं?
+    - ममकिन योजना अपने लाभार्थियों की भलाई और अवसरों में सुधार करने में कैसे योगदान करती है?
+    - क्या ममकिन योजना के तहत कई वाहन विकल्प उपलब्ध हैं, और यदि हां, तो वे क्या हैं?
+    - योजना अपने प्रतिभागियों के लिए वाहनों तक पहुंच की सुविधा कैसे देती है?
+    - ममकिन योजना में भाग लेने के लिए व्यक्तियों के लिए क्या प्रक्रिया है?
+    - क्या आप बता सकते हैं कि ममकिन योजना बदलती जरूरतों और परिस्थितियों के लिए कैसे अनुकूलित होती है?
+- intent: What_is_MUMKIN_Scheme_ur
+  examples: |
+    - ممکن اسکیم کیا ہے؟
+    - کیا آپ ممکن اسکیم اور اس کے بنیادی مقاصد کی تفصیلی وضاحت فراہم کرسکتے ہیں؟
+    - ممکن اسکیم اپنے آپ کو اسی طرح کے دوسرے اقدامات یا پروگراموں سے کس طرح ممتاز کرتی ہے؟
+    - کیا کوئی خاص معاشرتی یا معاشی چیلنجز ہیں جن کا ممکن اسکیم حل کرنے کی کوشش کرتا ہے؟
+    - ممکن اسکیم اور اس کے مشن کی تخلیق کو کس چیز نے متاثر کیا؟
+    - ممکن اسکیم کے ذریعہ شرکا کو کس قسم کے مراعات اور فوائد کی پیش کش کی جاتی ہے؟
+    - ممکن اسکیم اپنے مستفید افراد کی فلاح و بہبود اور مواقع کو بہتر بنانے میں کس طرح معاون ہے؟
+    - کیا ممکن اسکیم کے تحت گاڑیوں کے متعدد اختیارات دستیاب ہیں ، اور اگر ایسا ہے تو ، وہ کیا ہیں؟
+    - اسکیم اپنے شرکاء کے لئے گاڑیوں تک رسائی کو کس طرح سہولت فراہم کرتی ہے؟
+    - ممکن اسکیم میں افراد کے لئے حصہ لینے کے لئے کیا عمل ہے؟
+    - کیا آپ وضاحت کرسکتے ہیں کہ ممکن اسکیم کس طرح بدلتی ضروریات اور حالات کے مطابق ہے؟
+- intent: What_are_the_incentives_under_MUMKIN_scheme_en
+  examples: |
+    - What are the incentives under MUMKIN scheme?
+    - Can you provide a comprehensive list of the incentives and benefits offered to participants through the MUMKIN scheme?
+    - Are these incentives designed to address specific socio-economic challenges or needs?
+    - How do the incentives contribute to improving the lives and opportunities of scheme beneficiaries?
+    - Are there different tiers or levels of incentives within the MUMKIN scheme?
+    - Can participants choose the incentives that best align with their individual goals and needs?
+    - Are there any income or eligibility requirements associated with receiving these incentives?
+    - How does the MUMKIN scheme ensure that participants receive the promised incentives?
+    - Are there opportunities for feedback and adjustments to the incentives based on participant input?
+    - Can participants access these incentives immediately upon enrollment in the scheme, or are there specific timelines?
+    - Are there any restrictions or limitations on the use of the incentives provided by the MUMKIN scheme?
+- intent: What_are_the_incentives_under_MUMKIN_scheme_hi
+  examples: |
+    - मुमकिन योजना के तहत प्रोत्साहन क्या हैं?
+    - क्या आप ममकिन योजना के माध्यम से प्रतिभागियों को दिए गए प्रोत्साहन और लाभों की एक व्यापक सूची प्रदान कर सकते हैं?
+    - क्या ये प्रोत्साहन विशिष्ट सामाजिक-आर्थिक चुनौतियों या जरूरतों को पूरा करने के लिए डिज़ाइन किए गए हैं?
+    - योजना लाभार्थियों के जीवन और अवसरों में सुधार करने में प्रोत्साहन कैसे योगदान देते हैं?
+    - क्या ममकिन योजना के भीतर अलग -अलग स्तरों या प्रोत्साहन के स्तर हैं?
+    - क्या प्रतिभागी उन प्रोत्साहन का चयन कर सकते हैं जो अपने व्यक्तिगत लक्ष्यों और जरूरतों के साथ सबसे अच्छा संरेखित करते हैं?
+    - क्या इन प्रोत्साहनों को प्राप्त करने से जुड़ी कोई आय या पात्रता आवश्यकताएं हैं?
+    - मुमकिन योजना यह कैसे सुनिश्चित करती है कि प्रतिभागियों को वादा किए गए प्रोत्साहन प्राप्त होते हैं?
+    - क्या प्रतिभागी इनपुट के आधार पर प्रोत्साहन के लिए प्रतिक्रिया और समायोजन के अवसर हैं?
+    - क्या प्रतिभागी योजना में नामांकन पर तुरंत इन प्रोत्साहन का उपयोग कर सकते हैं, या विशिष्ट समयरेखा हैं?
+    - क्या मुमकिन योजना द्वारा प्रदान किए गए प्रोत्साहन के उपयोग पर कोई प्रतिबंध या सीमाएं हैं?
+- intent: What_are_the_incentives_under_MUMKIN_scheme_ur
+  examples: |
+    - ممکن اسکیم کے تحت مراعات کیا ہیں؟
+    - کیا آپ ممکن اسکیم کے ذریعہ شرکاء کو پیش کردہ مراعات اور فوائد کی ایک جامع فہرست فراہم کرسکتے ہیں؟
+    - کیا یہ مراعات مخصوص سماجی و معاشی چیلنجوں یا ضروریات کو حل کرنے کے لئے بنائی گئی ہیں؟
+    - اسکیم سے فائدہ اٹھانے والوں کی زندگیوں اور مواقع کو بہتر بنانے میں مراعات کس طرح کردار ادا کرتی ہیں؟
+    - کیا ممکن اسکیم کے اندر مختلف درجے یا مراعات کی سطحیں ہیں؟
+    - کیا شرکاء ان مراعات کا انتخاب کرسکتے ہیں جو اپنے انفرادی اہداف اور ضروریات کے ساتھ بہترین صف بندی کرتے ہیں؟
+    - کیا ان مراعات کو حاصل کرنے کے ساتھ کوئی آمدنی یا اہلیت کی ضروریات وابستہ ہیں؟
+    - ممکن اسکیم کیسے اس بات کو یقینی بناتی ہے کہ شرکاء کو وعدہ کیا گیا مراعات ملیں؟
+    - کیا شرکاء کے ان پٹ کی بنیاد پر مراعات میں تاثرات اور ایڈجسٹمنٹ کے مواقع موجود ہیں؟
+    - کیا شرکاء اسکیم میں اندراج کے بعد فوری طور پر ان مراعات تک رسائی حاصل کرسکتے ہیں ، یا مخصوص ٹائم لائنز ہیں؟
+    - کیا ممکن اسکیم کے ذریعہ فراہم کردہ مراعات کے استعمال پر کوئی پابندیاں یا حدود ہیں؟
+- intent: What_vehicle_options_are_available_under_MUMKIN_scheme_en
+  examples: |
+    - What vehicle options are available under MUMKIN scheme?
+    - What types of vehicles are included as options under the MUMKIN scheme?
+    - Can you provide a detailed list of the vehicle options participants can choose from?
+    - How do these vehicle options cater to the diverse needs and preferences of participants?
+    - Are there specific eligibility criteria or conditions for selecting particular vehicle options?
+    - Can participants customize or upgrade their chosen vehicles within the scheme?
+    - How does the MUMKIN scheme ensure that the available vehicle options are suitable and safe?
+    - Are there any financial considerations or costs associated with accessing these vehicle options?
+    - Can participants access maintenance and servicing support for the vehicles provided by the scheme?
+    - How does the scheme handle issues related to vehicle ownership and registration?
+    - Can you explain the process for participants to select and obtain their chosen vehicles through the MUMKIN scheme?
+- intent: What_vehicle_options_are_available_under_MUMKIN_scheme_hi
+  examples: |
+    - मुमकिन योजना के तहत कौन से वाहन विकल्प उपलब्ध हैं?
+    - ममकिन योजना के तहत विकल्पों के रूप में किस प्रकार के वाहनों को शामिल किया गया है?
+    - क्या आप वाहन विकल्पों की एक विस्तृत सूची प्रदान कर सकते हैं प्रतिभागियों को चुन सकते हैं?
+    - ये वाहन विकल्प प्रतिभागियों की विविध आवश्यकताओं और वरीयताओं को कैसे पूरा करते हैं?
+    - क्या विशेष वाहन विकल्पों का चयन करने के लिए विशिष्ट पात्रता मानदंड या शर्तें हैं?
+    - क्या प्रतिभागी योजना के भीतर अपने चुने हुए वाहनों को अनुकूलित या अपग्रेड कर सकते हैं?
+    - ममकिन योजना यह कैसे सुनिश्चित करती है कि उपलब्ध वाहन विकल्प उपयुक्त और सुरक्षित हैं?
+    - क्या इन वाहन विकल्पों तक पहुंचने से जुड़े कोई वित्तीय विचार या लागतें हैं?
+    - क्या प्रतिभागी योजना द्वारा प्रदान किए गए वाहनों के लिए रखरखाव और सर्विसिंग समर्थन का उपयोग कर सकते हैं?
+    - यह योजना वाहन के स्वामित्व और पंजीकरण से संबंधित मुद्दों को कैसे संभालती है?
+    - क्या आप प्रतिभागियों को ममकिन योजना के माध्यम से अपने चुने हुए वाहनों का चयन करने और प्राप्त करने के लिए प्रक्रिया की व्याख्या कर सकते हैं?
+- intent: What_vehicle_options_are_available_under_MUMKIN_scheme_ur
+  examples: |
+    - ممکن اسکیم کے تحت گاڑیوں کے کون سے اختیارات دستیاب ہیں؟
+    - ممکن اسکیم کے تحت اختیارات کے طور پر کس قسم کی گاڑیاں شامل ہیں؟
+    - کیا آپ گاڑیوں کے آپشنز کی تفصیلی فہرست فراہم کرسکتے ہیں جن میں سے شرکاء منتخب کرسکتے ہیں؟
+    - یہ گاڑیوں کے اختیارات شرکاء کی متنوع ضروریات اور ترجیحات کو کس طرح پورا کرتے ہیں؟
+    - کیا مخصوص گاڑیوں کے اختیارات کو منتخب کرنے کے لئے اہلیت کے مخصوص معیارات یا شرائط ہیں؟
+    - کیا شرکا اسکیم کے اندر اپنی منتخب کردہ گاڑیوں کو اپنی مرضی کے مطابق یا اپ گریڈ کرسکتے ہیں؟
+    - ممکن اسکیم کیسے اس بات کو یقینی بناتی ہے کہ دستیاب گاڑیوں کے اختیارات مناسب اور محفوظ ہیں؟
+    - کیا ان گاڑیوں کے ان اختیارات تک رسائی سے وابستہ کوئی مالی تحفظات یا اخراجات ہیں؟
+    - کیا شرکاء اسکیم کے ذریعہ فراہم کردہ گاڑیوں کے لئے بحالی اور خدمات انجام دینے تک رسائی حاصل کرسکتے ہیں؟
+    - یہ اسکیم گاڑیوں کی ملکیت اور رجسٹریشن سے متعلق امور کو کس طرح سنبھالتی ہے؟
+    - کیا آپ شرکاء کو ممکن اسکیم کے ذریعے اپنی منتخب کردہ گاڑیاں منتخب کرنے اور حاصل کرنے کے عمل کی وضاحت کرسکتے ہیں؟
+- intent: What_is_the_objective_of_SEI_Scheme_en
+  examples: |
+    - What is the objective of SEI Scheme?
+    - What are the primary objectives and intended outcomes of the SEI (Social Entrepreneurship and Innovation) Scheme?
+    - How do the scheme's objectives align with broader social and economic development goals?
+    - Can you describe the specific societal or economic issues that the SEI Scheme aims to address?
+    - What motivated the creation of the SEI Scheme, and what challenges does it aim to overcome?
+    - How does the scheme contribute to fostering social entrepreneurship and innovation among its participants?
+    - Are there any strategic priorities or long-term goals associated with the SEI Scheme?
+    - How does the scheme measure progress towards achieving its objectives?
+    - Can you explain how the SEI Scheme adapts to evolving needs and circumstances in the field of social entrepreneurship?
+    - Are there any partnerships or collaborations that support the achievement of its objectives?
+    - What is the role of participant feedback in shaping and refining the scheme's objectives?
+- intent: What_is_the_objective_of_SEI_Scheme_hi
+  examples: |
+    - एसईआई योजना का उद्देश्य क्या है?
+    - एसईआई (सामाजिक उद्यमिता और नवाचार) योजना के प्राथमिक उद्देश्य और इच्छित परिणाम क्या हैं?
+    - योजना के उद्देश्य व्यापक सामाजिक और आर्थिक विकास लक्ष्यों के साथ कैसे संरेखित करते हैं?
+    - क्या आप उन विशिष्ट सामाजिक या आर्थिक मुद्दों का वर्णन कर सकते हैं जिन्हें एसईआई योजना का उद्देश्य संबोधित करना है?
+    - एसईआई योजना के निर्माण को क्या प्रेरित किया, और इसे दूर करने के लिए किन चुनौतियों का उद्देश्य है?
+    - यह योजना अपने प्रतिभागियों के बीच सामाजिक उद्यमिता और नवाचार को बढ़ावा देने में कैसे योगदान देती है?
+    - क्या एसईआई योजना से जुड़े कोई रणनीतिक प्राथमिकताएं या दीर्घकालिक लक्ष्य हैं?
+    - योजना अपने उद्देश्यों को प्राप्त करने की दिशा में प्रगति कैसे करती है?
+    - क्या आप बता सकते हैं कि एसईआई योजना सामाजिक उद्यमिता के क्षेत्र में जरूरतों और परिस्थितियों को विकसित करने के लिए कैसे अनुकूलित करती है?
+    - क्या कोई साझेदारी या सहयोग है जो इसके उद्देश्यों की उपलब्धि का समर्थन करता है?
+    - योजना के उद्देश्यों को आकार देने और परिष्कृत करने में प्रतिभागी प्रतिक्रिया की क्या भूमिका है?
+- intent: What_is_the_objective_of_SEI_Scheme_ur
+  examples: |
+    - SEI اسکیم کا مقصد کیا ہے؟
+    - SEI (سماجی کاروباری اور جدت طرازی) اسکیم کے بنیادی مقاصد اور مطلوبہ نتائج کیا ہیں؟
+    - اسکیم کے مقاصد وسیع تر معاشرتی اور معاشی ترقی کے اہداف کے ساتھ کس طرح ہم آہنگ ہیں؟
+    - کیا آپ ان مخصوص معاشرتی یا معاشی امور کی وضاحت کرسکتے ہیں جن کا مقصد SEI اسکیم کا مقصد ہے؟
+    - SEI اسکیم کی تخلیق کو کس چیز کی حوصلہ افزائی ہوئی ، اور اس کا مقصد کس چیلنجوں پر قابو پانا ہے؟
+    - یہ اسکیم اپنے شرکاء میں معاشرتی کاروبار اور جدت کو فروغ دینے میں کس طرح معاون ہے؟
+    - کیا SEI اسکیم سے وابستہ کوئی اسٹریٹجک ترجیحات یا طویل مدتی اہداف ہیں؟
+    - اسکیم اپنے مقاصد کے حصول کی طرف کس طرح ترقی کی پیمائش کرتی ہے؟
+    - کیا آپ وضاحت کرسکتے ہیں کہ SEI اسکیم کس طرح معاشرتی کاروباری صلاحیتوں کے میدان میں تیار ہونے والی ضروریات اور حالات کے مطابق ہے؟
+    - کیا ایسی کوئی شراکت یا تعاون ہے جو اس کے مقاصد کے حصول کی حمایت کرتے ہیں؟
+    - اسکیم کے مقاصد کی تشکیل اور ان کو بہتر بنانے میں شریک رائے کا کیا کردار ہے؟
+- intent: What_is_the_eligibility_to_apply_in_SEI_Scheme_en
+  examples: |
+    - What is the eligibility to apply in SEI Scheme?
+    - Who qualifies as eligible to apply for participation in the SEI (Social Entrepreneurship and Innovation) Scheme?
+    - Are there specific eligibility criteria, prerequisites, or requirements that applicants must meet?
+    - Does the scheme impose any restrictions based on age, gender, or other demographic factors?
+    - How are eligibility determinations made, and what factors are taken into account during the assessment?
+    - Are there educational or experiential qualifications that applicants need to satisfy?
+    - What measures are in place to ensure equitable access and inclusivity in eligibility?
+    - Can you explain the process of verifying and confirming the eligibility of applicants?
+    - Are there any exceptions or considerations for applicants facing unique or exceptional circumstances?
+    - How does the SEI Scheme address changes in eligibility over time?
+    - Is there a formal appeals process for applicants who believe their eligibility has been unfairly determined?
+- intent: What_is_the_eligibility_to_apply_in_SEI_Scheme_hi
+  examples: |
+    - एसईआई योजना में आवेदन करने के लिए पात्रता क्या है?
+    - एसईआई (सामाजिक उद्यमिता और नवाचार) योजना में भागीदारी के लिए आवेदन करने के लिए कौन योग्य है?
+    - क्या विशिष्ट पात्रता मानदंड, आवश्यक शर्तें या आवश्यकताएं हैं जो आवेदकों को मिलनी चाहिए?
+    - क्या यह योजना उम्र, लिंग या अन्य जनसांख्यिकीय कारकों के आधार पर कोई प्रतिबंध लगाती है?
+    - पात्रता निर्धारण कैसे किए जाते हैं, और मूल्यांकन के दौरान किन कारकों को ध्यान में रखा जाता है?
+    - क्या शैक्षिक या अनुभवात्मक योग्यताएं हैं जिन्हें आवेदकों को संतुष्ट करने की आवश्यकता है?
+    - पात्रता में न्यायसंगत पहुंच और समावेशिता सुनिश्चित करने के लिए क्या उपाय हैं?
+    - क्या आप आवेदकों की पात्रता की पुष्टि और पुष्टि करने की प्रक्रिया को समझा सकते हैं?
+    - क्या अद्वितीय या असाधारण परिस्थितियों का सामना करने वाले आवेदकों के लिए कोई अपवाद या विचार हैं?
+    - समय के साथ एसईआई योजना का पता पात्रता में कैसे परिवर्तन होता है?
+    - क्या आवेदकों के लिए एक औपचारिक अपील प्रक्रिया है जो मानते हैं कि उनकी पात्रता को गलत तरीके से निर्धारित किया गया है?
+- intent: What_is_the_eligibility_to_apply_in_SEI_Scheme_ur
+  examples: |
+    - SEI اسکیم میں درخواست دینے کی کیا اہلیت ہے؟
+    - کون SEI (سماجی کاروباری اور جدت طرازی) اسکیم میں شرکت کے لئے درخواست دینے کے اہل کے طور پر اہل ہے؟
+    - کیا اہلیت کے مخصوص معیارات ، شرائط ، یا تقاضے ہیں جن سے درخواست دہندگان کو ملنا چاہئے؟
+    - کیا اسکیم عمر ، صنف یا دیگر آبادیاتی عوامل پر مبنی کوئی پابندیاں عائد کرتی ہے؟
+    - اہلیت کا تعین کیسے کیا جاتا ہے ، اور تشخیص کے دوران کون سے عوامل کو مدنظر رکھا جاتا ہے؟
+    - کیا ایسی تعلیمی یا تجرباتی قابلیت ہے جس کو درخواست دہندگان کو مطمئن کرنے کی ضرورت ہے؟
+    - اہلیت میں مساوی رسائی اور شمولیت کو یقینی بنانے کے لئے کون سے اقدامات ہیں؟
+    - کیا آپ درخواست دہندگان کی اہلیت کی تصدیق اور تصدیق کے عمل کی وضاحت کرسکتے ہیں؟
+    - کیا درخواست دہندگان کے لئے کوئی مستثنیات یا تحفظات ہیں جو انوکھے یا غیر معمولی حالات کا سامنا کرتے ہیں؟
+    - وقت کے ساتھ ساتھ SEI اسکیم اہلیت میں تبدیلیوں کو کیسے حل کرتی ہے؟
+    - کیا درخواست دہندگان کے لئے باضابطہ اپیلوں کا عمل ہے جو یقین رکھتے ہیں کہ ان کی اہلیت کا غیر منصفانہ تعین کیا گیا ہے؟
+- intent: What_is_the_Financial_Assistance_Provided_under_SEI_Scheme_en
+  examples: |
+    - What is the Financial Assistance Provided under SEI Scheme?
+    - Can you provide details on the financial assistance or support that participants receive through the SEI Scheme?
+    - Are there different types or tiers of financial assistance available within the scheme?
+    - How do the financial provisions of the SEI Scheme contribute to the growth of social entrepreneurship and innovation?
+    - Are there specific areas or projects that the financial assistance is intended to fund?
+    - Can participants use the financial assistance to cover various aspects of their social enterprises or innovations?
+    - What accountability measures are in place to ensure that the financial assistance is used for its intended purpose?
+    - Are there reporting or auditing requirements associated with the utilization of funds from the SEI Scheme?
+    - How does the scheme handle issues related to the disbursement and management of financial assistance?
+    - Can participants access ongoing or recurring financial support, or is it a one-time grant?
+    - Are there opportunities for participants to request adjustments or modifications to their financial assistance under the scheme?
+- intent: What_is_the_Financial_Assistance_Provided_under_SEI_Scheme_hi
+  examples: |
+    - एसईआई योजना के तहत वित्तीय सहायता क्या है?
+    - क्या आप वित्तीय सहायता या सहायता के बारे में विवरण प्रदान कर सकते हैं जो प्रतिभागियों को एसईआई योजना के माध्यम से प्राप्त होता है?
+    - क्या योजना के भीतर विभिन्न प्रकार या वित्तीय सहायता के स्तर उपलब्ध हैं?
+    - एसईआई योजना के वित्तीय प्रावधान सामाजिक उद्यमिता और नवाचार के विकास में कैसे योगदान करते हैं?
+    - क्या विशिष्ट क्षेत्र या परियोजनाएं हैं जो वित्तीय सहायता को निधि देने के लिए हैं?
+    - क्या प्रतिभागी अपने सामाजिक उद्यमों या नवाचारों के विभिन्न पहलुओं को कवर करने के लिए वित्तीय सहायता का उपयोग कर सकते हैं?
+    - यह सुनिश्चित करने के लिए कि वित्तीय सहायता का उपयोग इसके इच्छित उद्देश्य के लिए किया जाता है?
+    - क्या एसईआई योजना से धन के उपयोग से जुड़ी रिपोर्टिंग या ऑडिटिंग आवश्यकताएं हैं?
+    - यह योजना वित्तीय सहायता के संवितरण और प्रबंधन से संबंधित मुद्दों को कैसे संभालती है?
+    - क्या प्रतिभागी वित्तीय सहायता को चालू या आवर्ती कर सकते हैं, या यह एक बार का अनुदान है?
+    - क्या प्रतिभागियों को योजना के तहत उनकी वित्तीय सहायता के लिए समायोजन या संशोधनों का अनुरोध करने के अवसर हैं?
+- intent: What_is_the_Financial_Assistance_Provided_under_SEI_Scheme_ur
+  examples: |
+    - SEI اسکیم کے تحت فراہم کردہ مالی مدد کیا ہے؟
+    - کیا آپ مالی مدد یا مدد کے بارے میں تفصیلات فراہم کرسکتے ہیں جو شرکاء کو SEI اسکیم کے ذریعے موصول ہوتا ہے؟
+    - کیا اسکیم کے اندر مختلف اقسام یا مالی مدد کے درجے دستیاب ہیں؟
+    - SEI اسکیم کی مالی دفعات معاشرتی کاروباری صلاحیتوں اور جدت طرازی کی ترقی میں کس طرح معاون ہیں؟
+    - کیا ایسے مخصوص شعبے یا منصوبے ہیں جن کا مالی تعاون فنڈ کرنا ہے؟
+    - کیا شرکاء اپنے سماجی کاروباری اداروں یا بدعات کے مختلف پہلوؤں کو پورا کرنے کے لئے مالی مدد کا استعمال کرسکتے ہیں؟
+    - اس بات کو یقینی بنانے کے لئے کیا احتساب کے اقدامات موجود ہیں جو اس کے مطلوبہ مقصد کے لئے مالی اعانت کا استعمال کیا جاتا ہے؟
+    - کیا SEI اسکیم سے فنڈز کے استعمال سے وابستہ رپورٹنگ یا آڈیٹنگ کی ضروریات ہیں؟
+    - یہ اسکیم مالی امداد کی فراہمی اور انتظام سے متعلق امور کو کس طرح سنبھالتی ہے؟
+    - کیا شرکا جاری یا بار بار چلنے والی مالی مدد تک رسائی حاصل کرسکتے ہیں ، یا یہ ایک وقتی گرانٹ ہے؟
+    - کیا شرکاء کو اسکیم کے تحت ان کی مالی مدد میں ایڈجسٹمنٹ یا ترمیم کی درخواست کرنے کے مواقع موجود ہیں؟
+- intent: What_is_the_Procedure_for_selection_of_applicants_en
+  examples: |
+    - What is the Procedure for selection of applicants?
+    - Can you describe the step-by-step procedure for selecting applicants to participate in the SEI (Social Entrepreneurship and Innovation) Scheme?
+    - Are there specific criteria or evaluation parameters used during the applicant selection process?
+    - How are applications reviewed and assessed to determine suitability for the scheme?
+    - Is there a panel or committee responsible for making selection decisions, and how is it constituted?
+    - Can you explain the timeline for notifying applicants about their selection status?
+    - Are there any interview or evaluation phases as part of the selection process?
+    - How does the scheme handle situations where there are more applicants than available slots?
+    - Is there an appeals process in place for applicants who are not initially selected?
+    - Can participants be removed from the scheme after selection, and if so, under what circumstances?
+    - Are there provisions for ongoing monitoring and evaluation of participants' performance and contributions within the SEI Scheme?
+- intent: What_is_the_Procedure_for_selection_of_applicants_hi
+  examples: |
+    - आवेदकों के चयन के लिए प्रक्रिया क्या है?
+    - क्या आप एसईआई (सामाजिक उद्यमिता और नवाचार) योजना में भाग लेने के लिए आवेदकों को चुनने के लिए चरण-दर-चरण प्रक्रिया का वर्णन कर सकते हैं?
+    - क्या आवेदक चयन प्रक्रिया के दौरान उपयोग किए जाने वाले विशिष्ट मानदंड या मूल्यांकन पैरामीटर हैं?
+    - योजना के लिए उपयुक्तता निर्धारित करने के लिए आवेदन की समीक्षा और मूल्यांकन कैसे की जाती है?
+    - क्या चयन निर्णय लेने के लिए कोई पैनल या समिति जिम्मेदार है, और इसका गठन कैसे किया जाता है?
+    - क्या आप आवेदकों को उनके चयन की स्थिति के बारे में सूचित करने के लिए समयरेखा की व्याख्या कर सकते हैं?
+    - क्या चयन प्रक्रिया के हिस्से के रूप में कोई साक्षात्कार या मूल्यांकन चरण हैं?
+    - यह योजना उन स्थितियों को कैसे संभालती है जहां उपलब्ध स्लॉट की तुलना में अधिक आवेदक हैं?
+    - क्या उन आवेदकों के लिए कोई अपील प्रक्रिया है जो शुरू में चुने गए नहीं हैं?
+    - क्या प्रतिभागियों को चयन के बाद योजना से हटाया जा सकता है, और यदि हां, तो किन परिस्थितियों में?
+    - क्या एसईआई योजना के भीतर प्रतिभागियों के प्रदर्शन और योगदान के चल रहे निगरानी और मूल्यांकन के लिए प्रावधान हैं?
+- intent: What_is_the_Procedure_for_selection_of_applicants_ur
+  examples: |
+    - درخواست دہندگان کے انتخاب کا طریقہ کار کیا ہے؟
+    - کیا آپ SEI (سماجی کاروباری اور جدت طرازی) اسکیم میں حصہ لینے کے لئے درخواست دہندگان کے انتخاب کے لئے مرحلہ وار طریقہ کار کی وضاحت کرسکتے ہیں؟
+    - کیا درخواست دہندگان کے انتخاب کے عمل کے دوران مخصوص معیارات یا تشخیصی پیرامیٹرز استعمال کیے جاتے ہیں؟
+    - اسکیم کے لئے مناسبیت کا تعین کرنے کے لئے درخواستوں کا جائزہ لینے اور اس کا اندازہ کس طرح کیا جاتا ہے؟
+    - کیا انتخاب کے فیصلے کرنے کے لئے کوئی پینل یا کمیٹی ذمہ دار ہے ، اور یہ کیسے تشکیل دیا گیا ہے؟
+    - کیا آپ درخواست دہندگان کو ان کے انتخاب کی حیثیت کے بارے میں مطلع کرنے کے لئے ٹائم لائن کی وضاحت کرسکتے ہیں؟
+    - کیا انتخاب کے عمل کے حصے کے طور پر کوئی انٹرویو یا تشخیصی مراحل ہیں؟
+    - اسکیم ان حالات کو کس طرح سنبھالتی ہے جہاں دستیاب سلاٹ سے زیادہ درخواست دہندگان موجود ہیں؟
+    - کیا درخواست دہندگان کے لئے اپیلوں کا عمل موجود ہے جو ابتدائی طور پر منتخب نہیں ہوئے ہیں؟
+    - کیا شرکاء کو انتخاب کے بعد اسکیم سے ہٹا دیا جاسکتا ہے ، اور اگر ایسا ہے تو ، کن حالات میں؟
+    - کیا SEI اسکیم میں شرکاء کی کارکردگی اور شراکت کی جاری نگرانی اور تشخیص کے لئے کوئی دفعات ہیں؟
+- intent: What_is_the_Objective_of_Endeavor_To_EmpowerSkill_Development_Scheme_en
+  examples: |
+    - What is the Objective of Endeavor To Empower-Skill Development Scheme?
+    - Could you provide an overview of the primary objectives and goals of the Endeavor To Empower-Skill Development Scheme?
+    - How do the objectives of the scheme align with broader initiatives and missions?
+    - Can you describe the specific societal or economic challenges that this scheme aims to address?
+    - What inspired the creation of the Endeavor To Empower-Skill Development Scheme and its mission?
+    - How does the scheme contribute to empowering individuals through skill development?
+    - Are there any strategic priorities or long-term objectives associated with the scheme?
+    - How is the success of the scheme in achieving its objectives measured?
+    - Can you explain how the scheme adapts to evolving needs and circumstances in skill development?
+    - Are there any partnerships or collaborations that support the achievement of its objectives?
+    - What role does participant feedback play in shaping and refining the scheme's objectives?
+- intent: What_is_the_Objective_of_Endeavor_To_EmpowerSkill_Development_Scheme_hi
+  examples: |
+    - सशक्त-कौशल विकास योजना के प्रयास का उद्देश्य क्या है?
+    - क्या आप सशक्त-कौशल विकास योजना को सशक्त बनाने के प्रयास के प्राथमिक उद्देश्यों और लक्ष्यों का अवलोकन प्रदान कर सकते हैं?
+    - योजना के उद्देश्य व्यापक पहल और मिशनों के साथ कैसे संरेखित करते हैं?
+    - क्या आप उन विशिष्ट सामाजिक या आर्थिक चुनौतियों का वर्णन कर सकते हैं जिन्हें इस योजना का संबोधित करना है?
+    - सशक्त-कौशल विकास योजना और उसके मिशन के प्रयास के निर्माण को क्या प्रेरित किया?
+    - कौशल विकास के माध्यम से व्यक्तियों को सशक्त बनाने में योजना कैसे योगदान देती है?
+    - क्या योजना से जुड़े कोई रणनीतिक प्राथमिकताएं या दीर्घकालिक उद्देश्य हैं?
+    - अपने उद्देश्यों को प्राप्त करने में योजना की सफलता कैसे होती है?
+    - क्या आप बता सकते हैं कि यह योजना कौशल विकास में जरूरतों और परिस्थितियों को विकसित करने के लिए कैसे अनुकूलित करती है?
+    - क्या कोई साझेदारी या सहयोग है जो इसके उद्देश्यों की उपलब्धि का समर्थन करता है?
+    - योजना के उद्देश्यों को आकार देने और परिष्कृत करने में प्रतिभागी प्रतिक्रिया क्या भूमिका निभाती है?
+- intent: What_is_the_Objective_of_Endeavor_To_EmpowerSkill_Development_Scheme_ur
+  examples: |
+    - بااختیار مہارت کی ترقیاتی اسکیم کی کوشش کا کیا مقصد ہے؟
+    - کیا آپ بااختیار مہارت کی ترقیاتی اسکیم کی کوشش کے بنیادی مقاصد اور اہداف کا جائزہ لے سکتے ہیں؟
+    - اسکیم کے مقاصد وسیع تر اقدامات اور مشنوں کے ساتھ کس طرح ہم آہنگ ہوں گے؟
+    - کیا آپ ان مخصوص معاشرتی یا معاشی چیلنجوں کی وضاحت کرسکتے ہیں جن کا اس اسکیم کا مقصد حل کرنا ہے؟
+    - بااختیار مہارت کی ترقیاتی اسکیم اور اس کے مشن کے لئے کوشش کی تخلیق کو کس چیز نے متاثر کیا؟
+    - مہارت کی نشوونما کے ذریعہ افراد کو بااختیار بنانے میں یہ اسکیم کس طرح معاون ہے؟
+    - کیا اس اسکیم کے ساتھ کوئی اسٹریٹجک ترجیحات یا طویل مدتی مقاصد وابستہ ہیں؟
+    - اس کے مقاصد کے حصول میں اسکیم کی کامیابی کی پیمائش کیسے کی جاتی ہے؟
+    - کیا آپ وضاحت کرسکتے ہیں کہ یہ اسکیم کس طرح مہارت کی نشوونما میں تیار ضروریات اور حالات کے مطابق ہے؟
+    - کیا ایسی کوئی شراکت یا تعاون ہے جو اس کے مقاصد کے حصول کی حمایت کرتے ہیں؟
+    - اس اسکیم کے مقاصد کی تشکیل اور ان کو بہتر بنانے میں شریک رائے کا کیا کردار ہے؟
+- intent: Who_is_eligible_for_Endeavor_To_EmpowerSkill_Development_Programme_en
+  examples: |
+    - Who is eligible for Endeavor To Empower-Skill Development Programme?
+    - What criteria determine eligibility for individuals to participate in the Endeavor To Empower-Skill Development Programme?
+    - Are there any age, gender, or demographic restrictions for participants in the programme?
+    - How are eligibility assessments conducted, and what factors are considered during the evaluation?
+    - Is there a distinction in eligibility criteria based on educational background or prior experience?
+    - Are there income-related prerequisites that individuals must meet to qualify for the programme?
+    - What measures are in place to ensure equitable access and inclusivity in eligibility assessment?
+    - Can you explain how the programme addresses changes in eligibility over time?
+    - Are there any exceptions or considerations for applicants with unique or exceptional circumstances?
+    - How does the programme handle appeals or challenges to eligibility determinations?
+    - Is eligibility reevaluated for participants who wish to continue their involvement in the programme?
+- intent: Who_is_eligible_for_Endeavor_To_EmpowerSkill_Development_Programme_hi
+  examples: |
+    - स्किल विकास कार्यक्रम को सशक्त बनाने के प्रयास के लिए कौन पात्र है?
+    - क्या मानदंड व्यक्तियों के लिए योग्यता निर्धारित करते हैं कि वे सशक्त-कौशल विकास कार्यक्रम को सशक्त बनाने के प्रयास में भाग लें?
+    - क्या कार्यक्रम में प्रतिभागियों के लिए कोई उम्र, लिंग या जनसांख्यिकीय प्रतिबंध हैं?
+    - पात्रता आकलन कैसे किए जाते हैं, और मूल्यांकन के दौरान किन कारकों पर विचार किया जाता है?
+    - क्या शैक्षिक पृष्ठभूमि या पूर्व अनुभव के आधार पर पात्रता मानदंडों में कोई अंतर है?
+    - क्या आय से संबंधित पूर्वापेक्षाएँ हैं जो व्यक्तियों को कार्यक्रम के लिए अर्हता प्राप्त करने के लिए मिलना चाहिए?
+    - पात्रता मूल्यांकन में न्यायसंगत पहुंच और समावेशिता सुनिश्चित करने के लिए क्या उपाय हैं?
+    - क्या आप बता सकते हैं कि कार्यक्रम समय के साथ पात्रता में कैसे परिवर्तन करता है?
+    - क्या अद्वितीय या असाधारण परिस्थितियों वाले आवेदकों के लिए कोई अपवाद या विचार हैं?
+    - कार्यक्रम पात्रता निर्धारण के लिए अपील या चुनौतियों को कैसे संभालता है?
+    - क्या उन प्रतिभागियों के लिए पात्रता का पुनर्मूल्यांकन किया गया है जो कार्यक्रम में अपनी भागीदारी जारी रखना चाहते हैं?
+- intent: Who_is_eligible_for_Endeavor_To_EmpowerSkill_Development_Programme_ur
+  examples: |
+    - بااختیار مہارت کے ترقیاتی پروگرام کی کوشش کرنے کے لئے کون اہل ہے؟
+    - بااختیار مہارت کے ترقیاتی پروگرام کی کوشش میں افراد کے لئے کون سے معیارات اہلیت کا تعین کرتے ہیں؟
+    - کیا پروگرام میں شریک افراد کے لئے کوئی عمر ، صنف ، یا آبادیاتی پابندیاں ہیں؟
+    - اہلیت کے جائزے کیسے کیے جاتے ہیں ، اور تشخیص کے دوران کون سے عوامل پر غور کیا جاتا ہے؟
+    - کیا تعلیمی پس منظر یا اس سے پہلے کے تجربے پر مبنی اہلیت کے معیار میں کوئی فرق ہے؟
+    - کیا انکم سے متعلق شرائط ہیں جن کو پروگرام کے لئے کوالیفائی کرنے کے لئے افراد کو ملنا چاہئے؟
+    - اہلیت کی تشخیص میں مساوی رسائی اور شمولیت کو یقینی بنانے کے لئے کیا اقدامات ہیں؟
+    - کیا آپ وضاحت کرسکتے ہیں کہ وقت کے ساتھ ساتھ پروگرام اہلیت میں تبدیلیوں کو کس طرح حل کرتا ہے؟
+    - کیا انوکھے یا غیر معمولی حالات کے حامل درخواست دہندگان کے لئے کوئی مستثنیات یا تحفظات ہیں؟
+    - اہلیت کے تعین کے لئے پروگرام اپیلوں یا چیلنجوں کو کس طرح سنبھالتا ہے؟
+    - کیا ان شرکاء کے لئے اہلیت کا دوبارہ جائزہ لیا گیا ہے جو پروگرام میں اپنی شمولیت جاری رکھنا چاہتے ہیں؟
+- intent: What_is_the_duration_of_the_Endeavor_To_EmpowerSkill_Development_Programme_en
+  examples: |
+    - What is the duration of the Endeavor To Empower-Skill Development Programme?
+    - Can you specify the typical duration or time commitment expected from participants in the Endeavor To Empower-Skill Development Programme?
+    - Are there variations in the duration based on the specific skills or training provided?
+    - How does the programme ensure that participants receive adequate training within the allocated time frame?
+    - Are there options for participants to extend or customize the duration of their involvement?
+    - Can participants choose between short-term and long-term training options within the programme?
+    - What measures are in place to accommodate participants who may have time constraints or scheduling conflicts?
+    - Does the duration of the programme vary for different skill development tracks or courses?
+    - Can you explain how the programme adapts to changes in the overall duration based on participant needs?
+    - Are there any specific milestones or checkpoints during the programme to assess progress and completion?
+    - How does the programme handle situations where participants need additional time to meet their skill development goals?
+- intent: What_is_the_duration_of_the_Endeavor_To_EmpowerSkill_Development_Programme_hi
+  examples: |
+    - सशक्त-कौशल विकास कार्यक्रम के प्रयास की अवधि क्या है?
+    - क्या आप प्रयास में प्रतिभागियों से अपेक्षित अवधि या समय की प्रतिबद्धता को सशक्त-कौशल विकास कार्यक्रम के लिए अपेक्षित निर्दिष्ट कर सकते हैं?
+    - क्या विशिष्ट कौशल या प्रशिक्षण के आधार पर अवधि में भिन्नताएं हैं?
+    - कार्यक्रम कैसे सुनिश्चित करता है कि प्रतिभागियों को आवंटित समय सीमा के भीतर पर्याप्त प्रशिक्षण प्राप्त होता है?
+    - क्या प्रतिभागियों के लिए उनकी भागीदारी की अवधि का विस्तार या अनुकूलित करने के लिए विकल्प हैं?
+    - क्या प्रतिभागी कार्यक्रम के भीतर अल्पकालिक और दीर्घकालिक प्रशिक्षण विकल्पों के बीच चयन कर सकते हैं?
+    - उन प्रतिभागियों को समायोजित करने के लिए क्या उपाय हैं जिनके पास समय की कमी या शेड्यूलिंग संघर्ष हो सकते हैं?
+    - क्या कार्यक्रम की अवधि अलग -अलग कौशल विकास पटरियों या पाठ्यक्रमों के लिए भिन्न होती है?
+    - क्या आप बता सकते हैं कि कार्यक्रम प्रतिभागी की जरूरतों के आधार पर समग्र अवधि में परिवर्तन के लिए कैसे अनुकूलित करता है?
+    - क्या प्रगति और पूरा होने का आकलन करने के लिए कार्यक्रम के दौरान कोई विशिष्ट मील के पत्थर या चौकियों हैं?
+    - कार्यक्रम उन स्थितियों को कैसे संभालता है जहां प्रतिभागियों को अपने कौशल विकास लक्ष्यों को पूरा करने के लिए अतिरिक्त समय की आवश्यकता होती है?
+- intent: What_is_the_duration_of_the_Endeavor_To_EmpowerSkill_Development_Programme_ur
+  examples: |
+    - بااختیار مہارت کے ترقیاتی پروگرام کی کوشش کی مدت کتنی ہے؟
+    - کیا آپ بااختیار مہارت کے ترقیاتی پروگرام کی کوششوں میں شریک افراد سے متوقع عام مدت یا وقت کی وابستگی کی وضاحت کرسکتے ہیں؟
+    - کیا فراہم کردہ مخصوص مہارت یا تربیت کی بنیاد پر اس مدت میں مختلف حالتیں ہیں؟
+    - پروگرام کیسے یقینی بناتا ہے کہ شرکاء مختص ٹائم فریم میں مناسب تربیت حاصل کریں؟
+    - کیا شرکاء کو ان کی شمولیت کی مدت کو بڑھانے یا اپنی مرضی کے مطابق بنانے کے لئے اختیارات موجود ہیں؟
+    - کیا شرکاء پروگرام کے اندر قلیل مدتی اور طویل مدتی تربیت کے اختیارات کے درمیان انتخاب کرسکتے ہیں؟
+    - شرکاء کو ایڈجسٹ کرنے کے لئے کون سے اقدامات ہیں جن کے پاس وقت کی رکاوٹیں یا شیڈولنگ تنازعات ہوسکتی ہیں؟
+    - کیا پروگرام کی مدت مختلف مہارت کی ترقیاتی پٹریوں یا کورسز کے لئے مختلف ہوتی ہے؟
+    - کیا آپ وضاحت کرسکتے ہیں کہ کس طرح شریک شریک کی ضروریات پر مبنی مجموعی مدت میں تبدیلیوں کے مطابق ہے؟
+    - کیا ترقی اور تکمیل کا اندازہ کرنے کے لئے پروگرام کے دوران کوئی خاص سنگ میل یا چوکیاں ہیں؟
+    - پروگرام ایسے حالات کو کس طرح سنبھالتا ہے جہاں شرکا کو اپنی مہارت کے ترقیاتی اہداف کو پورا کرنے کے لئے اضافی وقت کی ضرورت ہوتی ہے؟
+- intent: What_kind_of_Trainings_are_provided_en
+  examples: |
+    - What kind of Trainings are provided?
+    - Could you provide an overview of the types of training and skill development programs offered within the Endeavor To Empower-Skill Development Scheme?
+    - Can you offer specific examples of the skills or areas of expertise that participants can acquire through the programme?
+    - How do these training programs cater to the diverse needs and interests of participants?
+    - Are there different levels or tiers of training available within the scheme?
+    - Can participants select and customize their training based on their individual goals and aspirations?
+    - What role does participant feedback play in shaping the range of training offerings?
+    - Are there prerequisites or requirements for participants to access specific training programs?
+    - How does the programme ensure that the training provided is of high quality and relevance?
+    - Can participants access additional resources or support to enhance their training experience?
+    - Is there ongoing assessment and improvement of the training programs based on participant outcomes and feedback?
+- intent: What_kind_of_Trainings_are_provided_hi
+  examples: |
+    - किस तरह के प्रशिक्षण प्रदान किए जाते हैं?
+    - क्या आप प्रयास-कौशल विकास योजना के प्रयास के भीतर पेश किए गए प्रशिक्षण और कौशल विकास कार्यक्रमों के प्रकारों का अवलोकन प्रदान कर सकते हैं?
+    - क्या आप कौशल या विशेषज्ञता के क्षेत्रों के विशिष्ट उदाहरण पेश कर सकते हैं जो प्रतिभागी कार्यक्रम के माध्यम से प्राप्त कर सकते हैं?
+    - ये प्रशिक्षण कार्यक्रम प्रतिभागियों की विविध आवश्यकताओं और हितों को कैसे पूरा करते हैं?
+    - क्या योजना के भीतर विभिन्न स्तर या प्रशिक्षण के स्तर उपलब्ध हैं?
+    - क्या प्रतिभागी अपने व्यक्तिगत लक्ष्यों और आकांक्षाओं के आधार पर अपने प्रशिक्षण का चयन और अनुकूलित कर सकते हैं?
+    - प्रशिक्षण प्रसाद की सीमा को आकार देने में प्रतिभागी प्रतिक्रिया क्या भूमिका निभाती है?
+    - क्या विशिष्ट प्रशिक्षण कार्यक्रमों तक पहुंचने के लिए प्रतिभागियों के लिए आवश्यक शर्तें या आवश्यकताएं हैं?
+    - कार्यक्रम यह कैसे सुनिश्चित करता है कि प्रदान किया गया प्रशिक्षण उच्च गुणवत्ता और प्रासंगिकता का है?
+    - क्या प्रतिभागी अपने प्रशिक्षण अनुभव को बढ़ाने के लिए अतिरिक्त संसाधनों या समर्थन का उपयोग कर सकते हैं?
+    - क्या प्रतिभागी परिणामों और प्रतिक्रिया के आधार पर प्रशिक्षण कार्यक्रमों का मूल्यांकन और सुधार चल रहा है?
+- intent: What_kind_of_Trainings_are_provided_ur
+  examples: |
+    - کس قسم کی تربیت فراہم کی جاتی ہے؟
+    - کیا آپ بااختیار مہارت کی ترقیاتی اسکیم کی کوشش کے اندر پیش کردہ تربیت اور مہارت کے ترقیاتی پروگراموں کی اقسام کا ایک جائزہ فراہم کرسکتے ہیں؟
+    - کیا آپ مہارت یا مہارت کے شعبوں کی مخصوص مثالیں پیش کرسکتے ہیں جو شرکاء پروگرام کے ذریعے حاصل کرسکتے ہیں؟
+    - یہ تربیتی پروگرام شرکاء کی متنوع ضروریات اور مفادات کو کس طرح پورا کرتے ہیں؟
+    - کیا اسکیم کے اندر مختلف سطحوں یا تربیت کے درجے دستیاب ہیں؟
+    - کیا شرکاء اپنے انفرادی اہداف اور امنگوں کی بنیاد پر اپنی تربیت کا انتخاب اور اپنی مرضی کے مطابق بناسکتے ہیں؟
+    - تربیت کی پیش کشوں کی حد کو تشکیل دینے میں شریک رائے کے تاثرات کیا کردار ادا کرتے ہیں؟
+    - کیا شرکاء کے لئے مخصوص تربیتی پروگراموں تک رسائی حاصل کرنے کی شرائط یا تقاضے ہیں؟
+    - پروگرام کیسے یقینی بناتا ہے کہ فراہم کردہ تربیت اعلی معیار اور مطابقت کی ہے؟
+    - کیا شرکاء اپنے تربیت کے تجربے کو بڑھانے کے لئے اضافی وسائل یا مدد تک رسائی حاصل کرسکتے ہیں؟
+    - کیا شرکاء کے نتائج اور آراء کی بنیاد پر تربیتی پروگراموں کی تشخیص اور بہتری جاری ہے؟
+- intent: Are_there_trainings_on_Entrepreneurship_Development_en
+  examples: |
+    - Are there trainings on Entrepreneurship Development?
+    - Do the skill development programs within the Endeavor To Empower-Skill Development Scheme include training on entrepreneurship development?
+    - Can you describe the specific content and focus of entrepreneurship development training?
+    - How do these training sessions contribute to fostering entrepreneurship skills among participants?
+    - Are there resources or mentorship opportunities provided to participants interested in entrepreneurship?
+    - Are the entrepreneurship development trainings tailored to different business sectors or industries?
+    - How does the programme measure the effectiveness of entrepreneurship training in participant outcomes?
+    - Can participants access ongoing support and guidance as they pursue entrepreneurial ventures?
+    - Are there success stories or examples of participants who have benefited from the entrepreneurship training?
+    - Is there a separate track or module dedicated to entrepreneurship within the programme?
+    - How does the programme ensure that entrepreneurship training remains up-to-date and relevant to changing business environments?
+- intent: Are_there_trainings_on_Entrepreneurship_Development_hi
+  examples: |
+    - क्या उद्यमिता विकास पर प्रशिक्षण हैं?
+    - क्या प्रयास-कौशल विकास योजना के प्रयास के भीतर कौशल विकास कार्यक्रमों में उद्यमिता विकास पर प्रशिक्षण शामिल है?
+    - क्या आप उद्यमिता विकास प्रशिक्षण की विशिष्ट सामग्री और फोकस का वर्णन कर सकते हैं?
+    - ये प्रशिक्षण सत्र प्रतिभागियों के बीच उद्यमिता कौशल को बढ़ावा देने में कैसे योगदान करते हैं?
+    - क्या उद्यमिता में रुचि रखने वाले प्रतिभागियों को संसाधन या मेंटरशिप के अवसर प्रदान किए गए हैं?
+    - क्या उद्यमिता विकास प्रशिक्षण विभिन्न व्यावसायिक क्षेत्रों या उद्योगों के अनुरूप हैं?
+    - कार्यक्रम प्रतिभागी परिणामों में उद्यमिता प्रशिक्षण की प्रभावशीलता को कैसे मापता है?
+    - क्या प्रतिभागियों को चल रहे समर्थन और मार्गदर्शन तक पहुंच सकते हैं क्योंकि वे उद्यमी उपक्रमों का पीछा करते हैं?
+    - क्या सफलता की कहानियां या प्रतिभागियों की उदाहरण हैं जो उद्यमिता प्रशिक्षण से लाभान्वित हुए हैं?
+    - क्या कार्यक्रम के भीतर उद्यमशीलता के लिए एक अलग ट्रैक या मॉड्यूल समर्पित है?
+    - कार्यक्रम यह कैसे सुनिश्चित करता है कि उद्यमिता प्रशिक्षण व्यावसायिक वातावरण को बदलने के लिए अप-टू-डेट और प्रासंगिक बना रहे?
+- intent: Are_there_trainings_on_Entrepreneurship_Development_ur
+  examples: |
+    - کیا انٹرپرینیورشپ ڈویلپمنٹ کی تربیت ہے؟
+    - کیا بااختیار مہارت کی ترقیاتی اسکیم کی کوشش کے اندر مہارت کے ترقیاتی پروگراموں میں انٹرپرینیورشپ ڈویلپمنٹ کی تربیت شامل ہے؟
+    - کیا آپ انٹرپرینیورشپ ڈویلپمنٹ ٹریننگ کے مخصوص مواد اور توجہ کی وضاحت کرسکتے ہیں؟
+    - یہ تربیتی سیشن شرکاء میں کاروباری صلاحیتوں کو فروغ دینے میں کس طرح معاون ہیں؟
+    - کیا شرکاء کو انٹرپرینیورشپ میں دلچسپی رکھنے والے وسائل یا رہنمائی کے مواقع فراہم کیے جاتے ہیں؟
+    - کیا انٹرپرینیورشپ ڈویلپمنٹ ٹریننگ مختلف کاروباری شعبوں یا صنعتوں کے مطابق ہے؟
+    - پروگرام شریک کے نتائج میں انٹرپرینیورشپ ٹریننگ کی تاثیر کی پیمائش کیسے کرتا ہے؟
+    - کیا شرکاء کاروباری منصوبوں کا تعاقب کرتے ہوئے جاری مدد اور رہنمائی تک رسائی حاصل کرسکتے ہیں؟
+    - کیا ان شرکاء کی کامیابی کی کہانیاں یا مثالیں ہیں جنہوں نے انٹرپرینیورشپ ٹریننگ سے فائدہ اٹھایا ہے؟
+    - کیا پروگرام کے اندر انٹرپرینیورشپ کے لئے کوئی علیحدہ ٹریک یا ماڈیول وقف ہے؟
+    - یہ پروگرام کس طرح اس بات کو یقینی بناتا ہے کہ کاروبار کی تربیت جدید ترین اور کاروباری ماحول کو تبدیل کرنے سے متعلق رہتی ہے؟
+- intent: What_are_the_other_big_initiatives_of_Mission_Youth_en
+  examples: |
+    - What are the other big initiatives of Mission Youth?
+    - In addition to the Endeavor To Empower-Skill Development Scheme, what other significant initiatives does Mission Youth undertake?
+    - Can you provide an overview of these major initiatives and their respective objectives?
+    - How do these initiatives collectively contribute to Mission Youth's overarching mission and goals?
+    - Are there common themes or focus areas that connect these initiatives?
+    - Can you describe any notable achievements or impacts of these initiatives on youth empowerment?
+    - Are there specific target groups or demographics that these initiatives aim to serve?
+    - How does Mission Youth coordinate and integrate the various initiatives to maximize their collective impact?
+    - Are there opportunities for cross-collaboration and synergy between different Mission Youth initiatives?
+    - Can you explain how these initiatives adapt to evolving needs and challenges in youth empowerment?
+    - What role does stakeholder engagement play in the planning and implementation of these major initiatives?
+- intent: What_are_the_other_big_initiatives_of_Mission_Youth_hi
+  examples: |
+    - मिशन युवाओं की अन्य बड़ी पहल क्या हैं?
+    - सशक्त-स्किल विकास योजना के प्रयास के अलावा, मिशन के युवा क्या अन्य महत्वपूर्ण पहल करते हैं?
+    - क्या आप इन प्रमुख पहलों और उनके संबंधित उद्देश्यों का अवलोकन प्रदान कर सकते हैं?
+    - ये पहल मिशन यूथ के ओवररचिंग मिशन और लक्ष्यों में सामूहिक रूप से योगदान कैसे देती हैं?
+    - क्या इन पहलों को जोड़ने वाले सामान्य विषय या फोकस क्षेत्र हैं?
+    - क्या आप युवा सशक्तिकरण पर इन पहलों की किसी भी उल्लेखनीय उपलब्धियों या प्रभावों का वर्णन कर सकते हैं?
+    - क्या विशिष्ट लक्षित समूह या जनसांख्यिकी हैं जो इन पहलों की सेवा करने का लक्ष्य रखते हैं?
+    - मिशन युवा अपने सामूहिक प्रभाव को अधिकतम करने के लिए विभिन्न पहलों का समन्वय और एकीकृत करता है?
+    - क्या विभिन्न मिशन युवा पहल के बीच क्रॉस-को-संप्रदाय और तालमेल के अवसर हैं?
+    - क्या आप बता सकते हैं कि ये पहल युवा सशक्तिकरण में जरूरतों और चुनौतियों को विकसित करने के लिए कैसे अनुकूलित हैं?
+    - इन प्रमुख पहलों की योजना और कार्यान्वयन में हितधारक सगाई क्या भूमिका निभाती है?
+- intent: What_are_the_other_big_initiatives_of_Mission_Youth_ur
+  examples: |
+    - مشن یوتھ کے دوسرے بڑے اقدامات کیا ہیں؟
+    - بااختیار مہارت کی ترقیاتی اسکیم کی کوشش کے علاوہ ، مشن کے نوجوانوں نے کون سے دوسرے اہم اقدامات کیے ہیں؟
+    - کیا آپ ان بڑے اقدامات اور ان کے متعلقہ مقاصد کا جائزہ پیش کرسکتے ہیں؟
+    - یہ اقدامات اجتماعی طور پر مشن یوتھ کے اہم مشن اور اہداف میں کس طرح حصہ ڈالتے ہیں؟
+    - کیا وہاں عام موضوعات یا فوکس والے شعبے ہیں جو ان اقدامات کو جوڑتے ہیں؟
+    - کیا آپ نوجوانوں کو بااختیار بنانے پر ان اقدامات کی کوئی قابل ذکر کامیابیوں یا اثرات کو بیان کرسکتے ہیں؟
+    - کیا کوئی مخصوص ہدف گروپ یا آبادیات ہیں جن کا مقصد ان اقدامات کی خدمت کرنا ہے؟
+    - مشن کے نوجوان اپنے اجتماعی اثرات کو زیادہ سے زیادہ کرنے کے مختلف اقدامات کو کس طرح ہم آہنگ اور مربوط کرتے ہیں؟
+    - کیا مشن یوتھ کے مختلف اقدامات کے مابین کراس کولیٹریشن اور ہم آہنگی کے مواقع موجود ہیں؟
+    - کیا آپ یہ بتا سکتے ہیں کہ یہ اقدامات نوجوانوں کو بااختیار بنانے میں تقاضوں اور چیلنجوں کے مطابق کس طرح اپناتے ہیں؟
+    - ان بڑے اقدامات کی منصوبہ بندی اور ان کے نفاذ میں اسٹیک ہولڈر کی مصروفیت کیا کردار ادا کرتی ہے؟
+- intent: What_is_the_objective_of_Dental_Professional_Scheme_en
+  examples: |
+    - What is the objective of Dental Professional Scheme?
+    - What are the primary objectives and intended outcomes of the Dental Professional Scheme?
+    - How do the objectives of this scheme align with broader healthcare or dental health goals?
+    - Can you describe the specific challenges or needs in the field of dental health that the scheme aims to address?
+    - What motivated the creation of the Dental Professional Scheme and its mission?
+    - How does the scheme contribute to the development and support of dental professionals?
+    - Are there any strategic priorities or long-term objectives associated with the scheme?
+    - How is the success of the scheme in achieving its objectives measured?
+    - Can you explain how the scheme adapts to evolving needs and circumstances in dental health?
+    - Are there any partnerships or collaborations that support the achievement of its objectives?
+    - What role does participant feedback play in shaping and refining the scheme's objectives?
+- intent: What_is_the_objective_of_Dental_Professional_Scheme_hi
+  examples: |
+    - दंत पेशेवर योजना का उद्देश्य क्या है?
+    - डेंटल प्रोफेशनल स्कीम के प्राथमिक उद्देश्य और इच्छित परिणाम क्या हैं?
+    - इस योजना के उद्देश्य व्यापक स्वास्थ्य सेवा या दंत स्वास्थ्य लक्ष्यों के साथ कैसे संरेखित करते हैं?
+    - क्या आप दंत स्वास्थ्य के क्षेत्र में विशिष्ट चुनौतियों या जरूरतों का वर्णन कर सकते हैं जिसे योजना का उद्देश्य संबोधित करना है?
+    - डेंटल प्रोफेशनल स्कीम और उसके मिशन के निर्माण को क्या प्रेरित किया?
+    - दंत पेशेवरों के विकास और समर्थन में योजना कैसे योगदान देती है?
+    - क्या योजना से जुड़े कोई रणनीतिक प्राथमिकताएं या दीर्घकालिक उद्देश्य हैं?
+    - अपने उद्देश्यों को प्राप्त करने में योजना की सफलता कैसे होती है?
+    - क्या आप समझा सकते हैं कि यह योजना दंत स्वास्थ्य में जरूरतों और परिस्थितियों को विकसित करने के लिए कैसे अनुकूल है?
+    - क्या कोई साझेदारी या सहयोग है जो इसके उद्देश्यों की उपलब्धि का समर्थन करता है?
+    - योजना के उद्देश्यों को आकार देने और परिष्कृत करने में प्रतिभागी प्रतिक्रिया क्या भूमिका निभाती है?
+- intent: What_is_the_objective_of_Dental_Professional_Scheme_ur
+  examples: |
+    - دانتوں کی پیشہ ورانہ اسکیم کا مقصد کیا ہے؟
+    - دانتوں کی پیشہ ورانہ اسکیم کے بنیادی مقاصد اور مطلوبہ نتائج کیا ہیں؟
+    - اس اسکیم کے مقاصد وسیع تر صحت کی دیکھ بھال یا دانتوں کے صحت کے اہداف کے ساتھ کس طرح ہم آہنگ ہوں گے؟
+    - کیا آپ دانتوں کی صحت کے شعبے میں مخصوص چیلنجوں یا ضروریات کو بیان کرسکتے ہیں جس کا مقصد اسکیم کا مقصد ہے؟
+    - دانتوں کی پیشہ ورانہ اسکیم اور اس کے مشن کی تخلیق کو کس چیز نے متاثر کیا؟
+    - دانتوں کے پیشہ ور افراد کی ترقی اور مدد میں یہ اسکیم کس طرح حصہ ڈالتی ہے؟
+    - کیا اس اسکیم کے ساتھ کوئی اسٹریٹجک ترجیحات یا طویل مدتی مقاصد وابستہ ہیں؟
+    - اس کے مقاصد کے حصول میں اسکیم کی کامیابی کی پیمائش کیسے کی جاتی ہے؟
+    - کیا آپ وضاحت کر سکتے ہیں کہ یہ اسکیم کس طرح دانتوں کی صحت میں ترقی کی ضروریات اور حالات کے مطابق ہے؟
+    - کیا ایسی کوئی شراکت یا تعاون ہے جو اس کے مقاصد کے حصول کی حمایت کرتے ہیں؟
+    - اس اسکیم کے مقاصد کی تشکیل اور ان کو بہتر بنانے میں شریک رائے کا کیا کردار ہے؟
+- intent: What_is_the_financial_assistance_given_under_Dental_Professional_Scheme_en
+  examples: |
+    - What is the financial assistance given under Dental Professional Scheme?
+    - Can you provide details on the financial assistance or support that participants receive through the Dental Professional Scheme?
+    - Are there different types or categories of financial assistance available within the scheme?
+    - How does the financial assistance provided by the scheme contribute to the advancement of dental professionals?
+    - Are there specific areas or expenses that the financial assistance is intended to cover?
+    - Can participants use the financial assistance for educational purposes, equipment, or other needs?
+    - What accountability measures are in place to ensure that the financial assistance is used for its intended purpose?
+    - Are there reporting or auditing requirements associated with the utilization of funds from the Dental Professional Scheme?
+    - How does the scheme handle issues related to the disbursement and management of financial assistance?
+    - Can participants access ongoing or recurring financial support, or is it a one-time grant?
+    - Are there opportunities for participants to request adjustments or modifications to their financial assistance under the scheme?
+- intent: What_is_the_financial_assistance_given_under_Dental_Professional_Scheme_hi
+  examples: |
+    - डेंटल प्रोफेशनल स्कीम के तहत वित्तीय सहायता क्या है?
+    - क्या आप वित्तीय सहायता या सहायता के बारे में विवरण प्रदान कर सकते हैं जो प्रतिभागियों को दंत पेशेवर योजना के माध्यम से प्राप्त होता है?
+    - क्या योजना के भीतर वित्तीय सहायता के विभिन्न प्रकार या श्रेणियां उपलब्ध हैं?
+    - योजना द्वारा प्रदान की गई वित्तीय सहायता दंत पेशेवरों की उन्नति में कैसे योगदान करती है?
+    - क्या ऐसे विशिष्ट क्षेत्र या खर्च हैं जिन्हें वित्तीय सहायता कवर करने के लिए है?
+    - क्या प्रतिभागी शैक्षिक उद्देश्यों, उपकरणों या अन्य आवश्यकताओं के लिए वित्तीय सहायता का उपयोग कर सकते हैं?
+    - यह सुनिश्चित करने के लिए कि वित्तीय सहायता का उपयोग इसके इच्छित उद्देश्य के लिए किया जाता है?
+    - क्या डेंटल प्रोफेशनल स्कीम से फंड के उपयोग से जुड़ी रिपोर्टिंग या ऑडिटिंग आवश्यकताएं हैं?
+    - यह योजना वित्तीय सहायता के संवितरण और प्रबंधन से संबंधित मुद्दों को कैसे संभालती है?
+    - क्या प्रतिभागी वित्तीय सहायता को चालू या आवर्ती कर सकते हैं, या यह एक बार का अनुदान है?
+    - क्या प्रतिभागियों को योजना के तहत उनकी वित्तीय सहायता के लिए समायोजन या संशोधनों का अनुरोध करने के अवसर हैं?
+- intent: What_is_the_financial_assistance_given_under_Dental_Professional_Scheme_ur
+  examples: |
+    - ڈینٹل پروفیشنل اسکیم کے تحت مالی مدد کیا ہے؟
+    - کیا آپ مالی مدد یا مدد کے بارے میں تفصیلات فراہم کرسکتے ہیں جو شرکاء کو دانتوں کی پیشہ ورانہ اسکیم کے ذریعے موصول ہوتا ہے؟
+    - کیا اسکیم کے اندر مختلف اقسام یا مالی امداد کی اقسام دستیاب ہیں؟
+    - اسکیم کے ذریعہ فراہم کردہ مالی مدد دانتوں کے پیشہ ور افراد کی ترقی میں کس طرح معاون ہے؟
+    - کیا کچھ مخصوص علاقے یا اخراجات ہیں جن کا مالی تعاون کا مقصد ہے؟
+    - کیا شرکاء تعلیمی مقاصد ، سازوسامان یا دیگر ضروریات کے لئے مالی مدد کا استعمال کرسکتے ہیں؟
+    - اس بات کو یقینی بنانے کے لئے کیا احتساب کے اقدامات موجود ہیں جو اس کے مطلوبہ مقصد کے لئے مالی اعانت کا استعمال کیا جاتا ہے؟
+    - کیا دانتوں کی پیشہ ورانہ اسکیم سے فنڈز کے استعمال سے وابستہ رپورٹنگ یا آڈیٹنگ کی ضروریات ہیں؟
+    - یہ اسکیم مالی امداد کی فراہمی اور انتظام سے متعلق امور کو کس طرح سنبھالتی ہے؟
+    - کیا شرکا جاری یا بار بار چلنے والی مالی مدد تک رسائی حاصل کرسکتے ہیں ، یا یہ ایک وقتی گرانٹ ہے؟
+    - کیا شرکاء کو اسکیم کے تحت ان کی مالی مدد میں ایڈجسٹمنٹ یا ترمیم کی درخواست کرنے کے مواقع موجود ہیں؟
+- intent: What_is_the_Eligibility_to_apply_for_Dental_Professional_Scheme_en
+  examples: |
+    - What is the Eligibility to apply for Dental Professional Scheme?
+    - Who qualifies as eligible to apply for participation in the Dental Professional Scheme?
+    - Are there specific eligibility criteria, prerequisites, or requirements that applicants must meet?
+    - Does the scheme impose any restrictions based on educational background, experience, or other factors?
+    - How are eligibility assessments conducted, and what factors are considered during the evaluation?
+    - Are there geographic or regional considerations that impact eligibility for the scheme?
+    - What measures are in place to ensure equitable access and inclusivity in eligibility assessment?
+    - Can you explain how the scheme addresses changes in eligibility criteria over time?
+    - Are there any exceptions or considerations for applicants with unique or exceptional circumstances?
+    - How does the Dental Professional Scheme handle appeals or challenges to eligibility determinations?
+    - Is eligibility reevaluated for participants who wish to continue their involvement in the scheme?
+- intent: What_is_the_Eligibility_to_apply_for_Dental_Professional_Scheme_hi
+  examples: |
+    - डेंटल प्रोफेशनल स्कीम के लिए आवेदन करने की पात्रता क्या है?
+    - डेंटल प्रोफेशनल स्कीम में भागीदारी के लिए आवेदन करने के लिए कौन योग्य है?
+    - क्या विशिष्ट पात्रता मानदंड, आवश्यक शर्तें या आवश्यकताएं हैं जो आवेदकों को मिलनी चाहिए?
+    - क्या यह योजना शैक्षिक पृष्ठभूमि, अनुभव या अन्य कारकों के आधार पर कोई प्रतिबंध लगाती है?
+    - पात्रता आकलन कैसे किए जाते हैं, और मूल्यांकन के दौरान किन कारकों पर विचार किया जाता है?
+    - क्या भौगोलिक या क्षेत्रीय विचार हैं जो योजना के लिए पात्रता को प्रभावित करते हैं?
+    - पात्रता मूल्यांकन में न्यायसंगत पहुंच और समावेशिता सुनिश्चित करने के लिए क्या उपाय हैं?
+    - क्या आप बता सकते हैं कि योजना समय के साथ पात्रता मानदंडों में परिवर्तन को कैसे संबोधित करती है?
+    - क्या अद्वितीय या असाधारण परिस्थितियों वाले आवेदकों के लिए कोई अपवाद या विचार हैं?
+    - डेंटल प्रोफेशनल स्कीम पात्रता निर्धारण के लिए अपील या चुनौतियों को कैसे संभालती है?
+    - क्या उन प्रतिभागियों के लिए पात्रता का पुनर्मूल्यांकन किया गया है जो योजना में अपनी भागीदारी जारी रखना चाहते हैं?
+- intent: What_is_the_Eligibility_to_apply_for_Dental_Professional_Scheme_ur
+  examples: |
+    - دانتوں کی پیشہ ورانہ اسکیم کے لئے درخواست دینے کی کیا اہلیت ہے؟
+    - کون ڈینٹل پروفیشنل اسکیم میں شرکت کے لئے درخواست دینے کے اہل کے طور پر اہل ہے؟
+    - کیا اہلیت کے مخصوص معیارات ، شرائط ، یا تقاضے ہیں جن سے درخواست دہندگان کو ملنا چاہئے؟
+    - کیا اسکیم تعلیمی پس منظر ، تجربے یا دیگر عوامل پر مبنی کوئی پابندیاں عائد کرتی ہے؟
+    - اہلیت کے جائزے کیسے کیے جاتے ہیں ، اور تشخیص کے دوران کون سے عوامل پر غور کیا جاتا ہے؟
+    - کیا جغرافیائی یا علاقائی تحفظات ہیں جو اسکیم کے لئے اہلیت کو متاثر کرتے ہیں؟
+    - اہلیت کی تشخیص میں مساوی رسائی اور شمولیت کو یقینی بنانے کے لئے کیا اقدامات ہیں؟
+    - کیا آپ وضاحت کرسکتے ہیں کہ اسکیم وقت کے ساتھ اہلیت کے معیار میں تبدیلیوں کو کس طرح حل کرتی ہے؟
+    - کیا انوکھے یا غیر معمولی حالات کے حامل درخواست دہندگان کے لئے کوئی مستثنیات یا تحفظات ہیں؟
+    - ڈینٹل پروفیشنل اسکیم اہلیت کے تعین کے ل app اپیلوں یا چیلنجوں کو کس طرح سنبھالتی ہے؟
+    - کیا ان شرکاء کے لئے اہلیت کا دوبارہ جائزہ لیا گیا ہے جو اسکیم میں اپنی شمولیت جاری رکھنا چاہتے ہیں؟
+- intent: What_is_the_procedure_to_apply_for_Dental_Professional_Scheme_en
+  examples: |
+    - What is the procedure to apply for Dental Professional Scheme?
+    - Can you describe the step-by-step procedure for individuals to apply for the Dental Professional Scheme?
+    - Are there specific application deadlines or timeframes that applicants should be aware of?
+    - How are applications reviewed and assessed to determine eligibility and suitability for the scheme?
+    - Is there a panel or committee responsible for evaluating and selecting participants, and how is it constituted?
+    - Can you explain the timeline for notifying applicants about the status of their applications?
+    - Are there any interview or evaluation phases as part of the application process?
+    - How does the scheme handle situations where there are more applicants than available slots?
+    - Is there an appeals process in place for applicants who are not initially selected?
+    - Can participants be removed from the scheme after selection, and if so, under what circumstances?
+    - Are there provisions for ongoing monitoring and evaluation of participants' performance and contributions within the Dental Professional Scheme?
+- intent: What_is_the_procedure_to_apply_for_Dental_Professional_Scheme_hi
+  examples: |
+    - दंत पेशेवर योजना के लिए आवेदन करने की प्रक्रिया क्या है?
+    - क्या आप व्यक्तियों के लिए दंत पेशेवर योजना के लिए आवेदन करने के लिए चरण-दर-चरण प्रक्रिया का वर्णन कर सकते हैं?
+    - क्या विशिष्ट एप्लिकेशन डेडलाइन या टाइमफ्रेम हैं जिनके बारे में आवेदकों को पता होना चाहिए?
+    - योजना के लिए पात्रता और उपयुक्तता निर्धारित करने के लिए अनुप्रयोगों की समीक्षा और मूल्यांकन कैसे की जाती है?
+    - क्या प्रतिभागियों का मूल्यांकन और चयन करने के लिए कोई पैनल या समिति जिम्मेदार है, और इसका गठन कैसे किया जाता है?
+    - क्या आप आवेदकों को उनके अनुप्रयोगों की स्थिति के बारे में सूचित करने के लिए समयरेखा की व्याख्या कर सकते हैं?
+    - क्या आवेदन प्रक्रिया के हिस्से के रूप में कोई साक्षात्कार या मूल्यांकन चरण हैं?
+    - यह योजना उन स्थितियों को कैसे संभालती है जहां उपलब्ध स्लॉट की तुलना में अधिक आवेदक हैं?
+    - क्या उन आवेदकों के लिए कोई अपील प्रक्रिया है जो शुरू में चुने गए नहीं हैं?
+    - क्या प्रतिभागियों को चयन के बाद योजना से हटाया जा सकता है, और यदि हां, तो किन परिस्थितियों में?
+    - क्या दंत पेशेवर योजना के भीतर प्रतिभागियों के प्रदर्शन और योगदान के चल रहे निगरानी और मूल्यांकन के लिए प्रावधान हैं?
+- intent: What_is_the_procedure_to_apply_for_Dental_Professional_Scheme_ur
+  examples: |
+    - دانتوں کی پیشہ ورانہ اسکیم کے لئے درخواست دینے کا طریقہ کار کیا ہے؟
+    - کیا آپ دانتوں کی پیشہ ورانہ اسکیم کے لئے درخواست دینے کے لئے افراد کے لئے مرحلہ وار طریقہ کار کی وضاحت کرسکتے ہیں؟
+    - کیا درخواست دہندگان کو معلوم ہونا چاہئے کہ درخواست دہندگان کو آگاہ ہونا چاہئے؟
+    - اسکیم کے لئے اہلیت اور مناسبیت کا تعین کرنے کے لئے درخواستوں کا جائزہ لیا اور اس کا اندازہ کس طرح کیا جاتا ہے؟
+    - کیا شرکاء کی جانچ اور انتخاب کے لئے کوئی پینل یا کمیٹی ذمہ دار ہے ، اور یہ کیسے تشکیل دیا گیا ہے؟
+    - کیا آپ درخواست دہندگان کو ان کی درخواستوں کی حیثیت کے بارے میں مطلع کرنے کے لئے ٹائم لائن کی وضاحت کرسکتے ہیں؟
+    - کیا درخواست کے عمل کے حصے کے طور پر کوئی انٹرویو یا تشخیصی مراحل ہیں؟
+    - اسکیم ان حالات کو کس طرح سنبھالتی ہے جہاں دستیاب سلاٹ سے زیادہ درخواست دہندگان موجود ہیں؟
+    - کیا درخواست دہندگان کے لئے اپیلوں کا عمل موجود ہے جو ابتدائی طور پر منتخب نہیں ہوئے ہیں؟
+    - کیا شرکاء کو انتخاب کے بعد اسکیم سے ہٹا دیا جاسکتا ہے ، اور اگر ایسا ہے تو ، کن حالات میں؟
+    - کیا دانتوں کی پیشہ ورانہ اسکیم میں شرکاء کی کارکردگی اور شراکت کی جاری نگرانی اور تشخیص کے لئے کوئی دفعات ہیں؟
+- intent: What_are_the_objectives_of_Young_Innovators_programme_en
+  examples: |
+    - What are the objectives of Young Innovators programme?
+    - What are the primary objectives and intended outcomes of the Young Innovators programme?
+    - How do the objectives of the programme align with fostering innovation and creativity among youth?
+    - Can you describe the specific challenges or needs in the field of innovation that the programme aims to address?
+    - What motivated the creation of the Young Innovators programme and its mission?
+    - How does the programme contribute to the development and support of young innovators?
+    - Are there any strategic priorities or long-term objectives associated with the programme?
+    - How is the success of the programme in achieving its objectives measured?
+    - Can you explain how the programme adapts to evolving needs and circumstances in innovation?
+    - Are there any partnerships or collaborations that support the achievement of its objectives?
+    - What role does participant feedback play in shaping and refining the programme's objectives?
+- intent: What_are_the_objectives_of_Young_Innovators_programme_hi
+  examples: |
+    - यंग इनोवेटर्स प्रोग्राम के उद्देश्य क्या हैं?
+    - यंग इनोवेटर्स प्रोग्राम के प्राथमिक उद्देश्य और इच्छित परिणाम क्या हैं?
+    - युवाओं के बीच नवाचार और रचनात्मकता को बढ़ावा देने के साथ कार्यक्रम के उद्देश्य कैसे संरेखित करते हैं?
+    - क्या आप उन नवाचार के क्षेत्र में विशिष्ट चुनौतियों या आवश्यकताओं का वर्णन कर सकते हैं जिन्हें कार्यक्रम का उद्देश्य है?
+    - यंग इनोवेटर्स प्रोग्राम और उसके मिशन के निर्माण को क्या प्रेरित किया?
+    - युवा नवोन्मेषकों के विकास और समर्थन में कार्यक्रम कैसे योगदान देता है?
+    - क्या कार्यक्रम से जुड़े कोई रणनीतिक प्राथमिकताएं या दीर्घकालिक उद्देश्य हैं?
+    - अपने उद्देश्यों को मापने में कार्यक्रम की सफलता कैसे होती है?
+    - क्या आप बता सकते हैं कि कार्यक्रम नवाचार में जरूरतों और परिस्थितियों को विकसित करने के लिए कैसे अनुकूलित करता है?
+    - क्या कोई साझेदारी या सहयोग है जो इसके उद्देश्यों की उपलब्धि का समर्थन करता है?
+    - कार्यक्रम के उद्देश्यों को आकार देने और परिष्कृत करने में प्रतिभागी प्रतिक्रिया क्या भूमिका निभाती है?
+- intent: What_are_the_objectives_of_Young_Innovators_programme_ur
+  examples: |
+    - ینگ انوویٹرز پروگرام کے مقاصد کیا ہیں؟
+    - ینگ انوویٹرز پروگرام کے بنیادی مقاصد اور مطلوبہ نتائج کیا ہیں؟
+    - پروگرام کے مقاصد نوجوانوں میں جدت اور تخلیقی صلاحیتوں کو فروغ دینے کے ساتھ کس طرح ہم آہنگ ہیں؟
+    - کیا آپ جدت طرازی کے شعبے میں مخصوص چیلنجوں یا ضروریات کو بیان کرسکتے ہیں جس کا مقصد پروگرام کا مقصد ہے؟
+    - ینگ انوویٹرز پروگرام اور اس کے مشن کی تخلیق کو کس چیز نے حوصلہ افزائی کی؟
+    - یہ پروگرام نوجوان جدت پسندوں کی ترقی اور مدد میں کس طرح حصہ ڈالتا ہے؟
+    - کیا اس پروگرام کے ساتھ کوئی اسٹریٹجک ترجیحات یا طویل مدتی مقاصد وابستہ ہیں؟
+    - اپنے مقاصد کے حصول میں پروگرام کی کامیابی کی پیمائش کیسے کی جاتی ہے؟
+    - کیا آپ وضاحت کر سکتے ہیں کہ پروگرام جدت طرازی میں ترقی کی ضروریات اور حالات کے مطابق کس طرح موافقت پذیر ہے؟
+    - کیا ایسی کوئی شراکت یا تعاون ہے جو اس کے مقاصد کے حصول کی حمایت کرتے ہیں؟
+    - پروگرام کے مقاصد کی تشکیل اور ان کی تطہیر میں شریک رائے کا کیا کردار ہے؟
+- intent: What_is_the_Eligibility_for_Young_Innovators_scheme_en
+  examples: |
+    - What is the Eligibility for Young Innovators scheme?
+    - What specific criteria determine eligibility for individuals to participate in the Young Innovators scheme?
+    - Are there any age, educational, or demographic prerequisites for applicants seeking to join the scheme?
+    - How are eligibility assessments conducted, and what factors are considered during the evaluation?
+    - Is there a distinction in eligibility criteria based on prior innovation experience or skills?
+    - Are there geographic or regional considerations that impact eligibility for the scheme?
+    - What measures are in place to ensure equitable access and inclusivity in eligibility assessment?
+    - Can you explain how the scheme addresses changes in eligibility criteria over time?
+    - Are there any exceptions or considerations for applicants with unique or exceptional circumstances?
+    - How does the Young Innovators scheme handle appeals or challenges to eligibility determinations?
+    - Is eligibility reevaluated for participants who wish to continue their involvement in the scheme?
+- intent: What_is_the_Eligibility_for_Young_Innovators_scheme_hi
+  examples: |
+    - यंग इनोवेटर्स स्कीम के लिए पात्रता क्या है?
+    - यंग इनोवेटर्स स्कीम में भाग लेने के लिए व्यक्तियों के लिए कौन से विशिष्ट मानदंड पात्रता निर्धारित करते हैं?
+    - क्या योजना में शामिल होने के लिए आवेदकों के लिए कोई उम्र, शैक्षिक या जनसांख्यिकीय आवश्यक शर्तें हैं?
+    - पात्रता आकलन कैसे किए जाते हैं, और मूल्यांकन के दौरान किन कारकों पर विचार किया जाता है?
+    - क्या पूर्व नवाचार अनुभव या कौशल के आधार पर पात्रता मानदंडों में कोई अंतर है?
+    - क्या भौगोलिक या क्षेत्रीय विचार हैं जो योजना के लिए पात्रता को प्रभावित करते हैं?
+    - पात्रता मूल्यांकन में न्यायसंगत पहुंच और समावेशिता सुनिश्चित करने के लिए क्या उपाय हैं?
+    - क्या आप बता सकते हैं कि योजना समय के साथ पात्रता मानदंडों में परिवर्तन को कैसे संबोधित करती है?
+    - क्या अद्वितीय या असाधारण परिस्थितियों वाले आवेदकों के लिए कोई अपवाद या विचार हैं?
+    - युवा इनोवेटर्स स्कीम पात्रता निर्धारण के लिए अपील या चुनौतियों को कैसे संभालते हैं?
+    - क्या उन प्रतिभागियों के लिए पात्रता का पुनर्मूल्यांकन किया गया है जो योजना में अपनी भागीदारी जारी रखना चाहते हैं?
+- intent: What_is_the_Eligibility_for_Young_Innovators_scheme_ur
+  examples: |
+    - نوجوان انوویٹرز اسکیم کے لئے کیا اہلیت ہے؟
+    - نوجوانوں کو نوجوان انوویٹرز اسکیم میں حصہ لینے کے لئے کون سے مخصوص معیارات اہلیت کا تعین کرتے ہیں؟
+    - کیا اس اسکیم میں شامل ہونے کے خواہاں درخواست دہندگان کے لئے کوئی عمر ، تعلیمی ، یا آبادیاتی شرائط ہیں؟
+    - اہلیت کے جائزے کیسے کیے جاتے ہیں ، اور تشخیص کے دوران کون سے عوامل پر غور کیا جاتا ہے؟
+    - کیا پہلے جدت کے تجربے یا مہارتوں پر مبنی اہلیت کے معیار میں کوئی فرق ہے؟
+    - کیا جغرافیائی یا علاقائی تحفظات ہیں جو اسکیم کے لئے اہلیت کو متاثر کرتے ہیں؟
+    - اہلیت کی تشخیص میں مساوی رسائی اور شمولیت کو یقینی بنانے کے لئے کیا اقدامات ہیں؟
+    - کیا آپ وضاحت کرسکتے ہیں کہ اسکیم وقت کے ساتھ اہلیت کے معیار میں تبدیلیوں کو کس طرح حل کرتی ہے؟
+    - کیا انوکھے یا غیر معمولی حالات کے حامل درخواست دہندگان کے لئے کوئی مستثنیات یا تحفظات ہیں؟
+    - نوجوان انوویٹرز اسکیم اہلیت کے تعین کے ل app اپیلوں یا چیلنجوں کو کس طرح سنبھالتی ہے؟
+    - کیا ان شرکاء کے لئے اہلیت کا دوبارہ جائزہ لیا گیا ہے جو اسکیم میں اپنی شمولیت جاری رکھنا چاہتے ہیں؟
+- intent: What_Is_the_financial_assistance_given_under_Young_Innovators_scheme_en
+  examples: |
+    - What Is the financial assistance given under Young Innovators scheme?
+    - Can you provide details on the financial assistance or support that participants receive through the Young Innovators scheme?
+    - Are there different types or categories of financial assistance available within the scheme?
+    - How does the financial assistance provided by the scheme contribute to fostering innovation among young individuals?
+    - Are there specific areas or expenses that the financial assistance is intended to cover?
+    - Can participants use the financial assistance for research, development, or other innovation-related needs?
+    - What accountability measures are in place to ensure that the financial assistance is used for its intended purpose?
+    - Are there reporting or auditing requirements associated with the utilization of funds from the Young Innovators scheme?
+    - How does the scheme handle issues related to the disbursement and management of financial assistance?
+    - Can participants access ongoing or recurring financial support, or is it a one-time grant?
+    - Are there opportunities for participants to request adjustments or modifications to their financial assistance under the scheme?
+- intent: What_Is_the_financial_assistance_given_under_Young_Innovators_scheme_hi
+  examples: |
+    - यंग इनोवेटर्स स्कीम के तहत वित्तीय सहायता क्या है?
+    - क्या आप वित्तीय सहायता या सहायता के बारे में विवरण प्रदान कर सकते हैं जो प्रतिभागियों को यंग इनोवेटर्स स्कीम के माध्यम से प्राप्त होता है?
+    - क्या योजना के भीतर वित्तीय सहायता के विभिन्न प्रकार या श्रेणियां उपलब्ध हैं?
+    - योजना द्वारा प्रदान की गई वित्तीय सहायता युवा व्यक्तियों के बीच नवाचार को बढ़ावा देने में कैसे योगदान करती है?
+    - क्या ऐसे विशिष्ट क्षेत्र या खर्च हैं जिन्हें वित्तीय सहायता कवर करने के लिए है?
+    - क्या प्रतिभागी अनुसंधान, विकास, या अन्य नवाचार से संबंधित जरूरतों के लिए वित्तीय सहायता का उपयोग कर सकते हैं?
+    - यह सुनिश्चित करने के लिए कि वित्तीय सहायता का उपयोग इसके इच्छित उद्देश्य के लिए किया जाता है?
+    - क्या यंग इनोवेटर्स स्कीम से फंड के उपयोग से जुड़ी रिपोर्टिंग या ऑडिटिंग आवश्यकताएं हैं?
+    - यह योजना वित्तीय सहायता के संवितरण और प्रबंधन से संबंधित मुद्दों को कैसे संभालती है?
+    - क्या प्रतिभागी वित्तीय सहायता को चालू या आवर्ती कर सकते हैं, या यह एक बार का अनुदान है?
+    - क्या प्रतिभागियों को योजना के तहत उनकी वित्तीय सहायता के लिए समायोजन या संशोधनों का अनुरोध करने के अवसर हैं?
+- intent: What_Is_the_financial_assistance_given_under_Young_Innovators_scheme_ur
+  examples: |
+    - ینگ انوویٹرز اسکیم کے تحت کیا مالی مدد دی جاتی ہے؟
+    - کیا آپ مالی مدد یا معاونت کے بارے میں تفصیلات فراہم کرسکتے ہیں جو شرکاء کو ینگ انوویٹرز اسکیم کے ذریعے موصول ہوتا ہے؟
+    - کیا اسکیم کے اندر مختلف اقسام یا مالی امداد کی اقسام دستیاب ہیں؟
+    - اسکیم کے ذریعہ فراہم کردہ مالی مدد نوجوان افراد میں جدت طرازی کو فروغ دینے میں کس طرح معاون ہے؟
+    - کیا کچھ مخصوص علاقے یا اخراجات ہیں جن کا مالی تعاون کا مقصد ہے؟
+    - کیا شرکا تحقیق ، ترقی ، یا جدت سے متعلق دیگر ضروریات کے لئے مالی مدد کا استعمال کرسکتے ہیں؟
+    - اس بات کو یقینی بنانے کے لئے کیا احتساب کے اقدامات موجود ہیں جو اس کے مطلوبہ مقصد کے لئے مالی اعانت کا استعمال کیا جاتا ہے؟
+    - کیا نوجوان انوویٹرز اسکیم سے فنڈز کے استعمال سے وابستہ رپورٹنگ یا آڈیٹنگ کی ضروریات ہیں؟
+    - یہ اسکیم مالی امداد کی فراہمی اور انتظام سے متعلق امور کو کس طرح سنبھالتی ہے؟
+    - کیا شرکا جاری یا بار بار چلنے والی مالی مدد تک رسائی حاصل کرسکتے ہیں ، یا یہ ایک وقتی گرانٹ ہے؟
+    - کیا شرکاء کو اسکیم کے تحت ان کی مالی مدد میں ایڈجسٹمنٹ یا ترمیم کی درخواست کرنے کے مواقع موجود ہیں؟
+- intent: SAHATYA_Scheme_en
+  examples: |
+    - SAHATYA Scheme
+    - Could you provide an overview of the SAHATYA Scheme and its core objectives?
+    - How does the SAHATYA Scheme distinguish itself from other similar initiatives or programs?
+    - Are there specific societal or healthcare challenges that the SAHATYA Scheme seeks to address?
+    - What inspired the creation of the SAHATYA Scheme and its mission?
+    - What types of services or support are provided to beneficiaries through the SAHATYA Scheme?
+    - How does the scheme contribute to improving the well-being and health of its beneficiaries?
+    - Are there multiple components or initiatives within the SAHATYA Scheme?
+    - Can you explain how the SAHATYA Scheme adapts to changing healthcare needs and circumstances?
+    - Are there partnerships or collaborations that support the achievement of its objectives?
+    - What role does participant feedback play in shaping and refining the SAHATYA Scheme's initiatives?
+- intent: SAHATYA_Scheme_hi
+  examples: |
+    - सहत्र योजना
+    - क्या आप सहात्य योजना और इसके मुख्य उद्देश्यों का अवलोकन प्रदान कर सकते हैं?
+    - सहात्य योजना खुद को अन्य समान पहलों या कार्यक्रमों से कैसे अलग करती है?
+    - क्या विशिष्ट सामाजिक या स्वास्थ्य सेवा चुनौतियां हैं जिन्हें सहताय योजना संबोधित करना चाहती है?
+    - सहताय योजना और उसके मिशन के निर्माण से क्या प्रेरित हुआ?
+    - सहात्य योजना के माध्यम से लाभार्थियों को किस प्रकार की सेवाएं या सहायता प्रदान की जाती हैं?
+    - यह योजना अपने लाभार्थियों की भलाई और स्वास्थ्य में सुधार करने में कैसे योगदान देती है?
+    - क्या सहात्य योजना के भीतर कई घटक या पहल हैं?
+    - क्या आप समझा सकते हैं कि साहत योजना स्वास्थ्य देखभाल की जरूरतों और परिस्थितियों को कैसे बदलती है?
+    - क्या साझेदारी या सहयोग हैं जो इसके उद्देश्यों की उपलब्धि का समर्थन करते हैं?
+    - सहात्य योजना की पहल को आकार देने और परिष्कृत करने में प्रतिभागी प्रतिक्रिया क्या भूमिका निभाती है?
+- intent: SAHATYA_Scheme_ur
+  examples: |
+    - سہاتیہ اسکیم
+    - کیا آپ سہاتیا اسکیم اور اس کے بنیادی مقاصد کا جائزہ پیش کرسکتے ہیں؟
+    - سہاتیا اسکیم اپنے آپ کو اسی طرح کے دوسرے اقدامات یا پروگراموں سے کس طرح ممتاز کرتی ہے؟
+    - کیا کوئی خاص معاشرتی یا صحت کی دیکھ بھال کے چیلنجز ہیں جن کا سہاتیہ اسکیم حل کرنے کی کوشش کرتا ہے؟
+    - ساہتیا اسکیم اور اس کے مشن کی تخلیق کو کس چیز نے متاثر کیا؟
+    - سہطیہ اسکیم کے ذریعہ مستفید افراد کو کس قسم کی خدمات یا مدد فراہم کی جاتی ہے؟
+    - اسکیم اپنے فائدہ اٹھانے والوں کی فلاح و بہبود اور صحت کو بہتر بنانے میں کس طرح معاون ہے؟
+    - کیا سہاتیہ اسکیم کے اندر متعدد اجزاء یا اقدامات ہیں؟
+    - کیا آپ وضاحت کرسکتے ہیں کہ سہاتیا اسکیم صحت کی دیکھ بھال کی ضروریات اور حالات کو تبدیل کرنے کے لئے کس طرح ڈھال لیتی ہے؟
+    - کیا ایسی شراکتیں یا تعاون ہیں جو اس کے مقاصد کے حصول کی حمایت کرتے ہیں؟
+    - شریکیہ اسکیم کے اقدامات کی تشکیل اور ان کی تطہیر میں شریک رائے کے تاثرات کیا کردار ادا کرتے ہیں؟
+- intent: Does_Mission_Youth_run_Counselling_and_rehabilitation_awareness_campaigns_en
+  examples: |
+    - Does Mission Youth run Counselling and rehabilitation awareness campaigns?
+    - Does Mission Youth actively engage in running counseling and rehabilitation awareness campaigns?
+    - Can you provide information about the scope and reach of these campaigns?
+    - What are the primary objectives and goals of these counseling and awareness initiatives?
+    - How does Mission Youth raise awareness about counseling and rehabilitation options?
+    - Are there specific topics or issues addressed in these campaigns?
+    - What strategies and channels are utilized to disseminate information about counseling and rehabilitation services?
+    - Can you share examples of successful counseling and rehabilitation awareness campaigns conducted by Mission Youth?
+    - How does Mission Youth measure the effectiveness and impact of these campaigns?
+    - Are there partnerships or collaborations with other organizations or agencies in these efforts?
+    - What plans or innovations does Mission Youth have for future counseling and rehabilitation awareness campaigns?
+- intent: Does_Mission_Youth_run_Counselling_and_rehabilitation_awareness_campaigns_hi
+  examples: |
+    - क्या मिशन युवा परामर्श और पुनर्वास जागरूकता अभियान चलाता है?
+    - क्या मिशन युवा सक्रिय रूप से परामर्श और पुनर्वास जागरूकता अभियान चलाने में संलग्न हैं?
+    - क्या आप इन अभियानों के दायरे और पहुंच के बारे में जानकारी प्रदान कर सकते हैं?
+    - इन परामर्श और जागरूकता पहल के प्राथमिक उद्देश्य और लक्ष्य क्या हैं?
+    - मिशन युवा परामर्श और पुनर्वास विकल्पों के बारे में जागरूकता कैसे बढ़ाता है?
+    - क्या इन अभियानों में संबोधित विशिष्ट विषय या मुद्दे हैं?
+    - परामर्श और पुनर्वास सेवाओं के बारे में जानकारी प्रसारित करने के लिए किन रणनीतियों और चैनलों का उपयोग किया जाता है?
+    - क्या आप मिशन यूथ द्वारा किए गए सफल परामर्श और पुनर्वास जागरूकता अभियानों के उदाहरण साझा कर सकते हैं?
+    - मिशन युवा इन अभियानों की प्रभावशीलता और प्रभाव को कैसे मापता है?
+    - क्या इन प्रयासों में अन्य संगठनों या एजेंसियों के साथ साझेदारी या सहयोग हैं?
+    - मिशन युवाओं के पास भविष्य की परामर्श और पुनर्वास जागरूकता अभियानों के लिए क्या योजनाएं या नवाचार हैं?
+- intent: Does_Mission_Youth_run_Counselling_and_rehabilitation_awareness_campaigns_ur
+  examples: |
+    - کیا مشن یوتھ مشاورت اور بحالی سے آگاہی کی مہم چلاتا ہے؟
+    - کیا مشن کے نوجوان مشاورت اور بحالی سے متعلق آگاہی مہم چلانے میں فعال طور پر مشغول ہیں؟
+    - کیا آپ ان مہمات کے دائرہ کار اور پہنچ کے بارے میں معلومات فراہم کرسکتے ہیں؟
+    - ان مشاورت اور آگاہی کے اقدامات کے بنیادی مقاصد اور اہداف کیا ہیں؟
+    - مشن کے نوجوان مشاورت اور بحالی کے اختیارات کے بارے میں کس طرح شعور اجاگر کرتے ہیں؟
+    - کیا ان مہمات میں مخصوص عنوانات یا مسائل حل کیے گئے ہیں؟
+    - مشاورت اور بحالی خدمات کے بارے میں معلومات پھیلانے کے لئے کون سے حکمت عملی اور چینلز کا استعمال کیا جاتا ہے؟
+    - کیا آپ مشن یوتھ کے ذریعہ کی جانے والی کامیاب مشاورت اور بحالی بیداری مہموں کی مثالیں بانٹ سکتے ہیں؟
+    - مشن کے نوجوان ان مہمات کی تاثیر اور اثرات کی پیمائش کیسے کرتے ہیں؟
+    - کیا ان کوششوں میں دوسری تنظیموں یا ایجنسیوں کے ساتھ شراکت یا تعاون ہے؟
+    - مستقبل کے مشاورت اور بحالی سے متعلق آگاہی مہموں کے لئے مشن کے نوجوانوں کے کیا منصوبے یا بدعات ہیں؟
+- intent: Does_Mission_Youth_help_the_candidates_that_are_coming_out_of_rehabilitation_centers_en
+  examples: |
+    - Does Mission Youth help the candidates that are coming out of rehabilitation centers?
+    - Does Mission Youth provide support and assistance to individuals who are transitioning out of rehabilitation centers?
+    - Can you describe the types of services or programs available to these candidates?
+    - What specific challenges or needs do individuals leaving rehabilitation centers often face?
+    - How does Mission Youth help these candidates reintegrate into society and lead productive lives?
+    - Are there mentorship or guidance programs in place for post-rehabilitation support?
+    - Can you share examples of success stories or outcomes for candidates assisted by Mission Youth?
+    - How does Mission Youth ensure the privacy and confidentiality of candidates seeking assistance?
+    - Are there opportunities for candidates to access ongoing support and resources?
+    - Does Mission Youth collaborate with rehabilitation centers or organizations to facilitate this assistance?
+    - What measures are in place to monitor the progress and well-being of candidates after their rehabilitation?
+- intent: Does_Mission_Youth_help_the_candidates_that_are_coming_out_of_rehabilitation_centers_hi
+  examples: |
+    - क्या मिशन युवा उन उम्मीदवारों की मदद करता है जो पुनर्वास केंद्रों से बाहर आ रहे हैं?
+    - क्या मिशन युवा उन व्यक्तियों को सहायता और सहायता प्रदान करता है जो पुनर्वास केंद्रों से बाहर संक्रमण कर रहे हैं?
+    - क्या आप इन उम्मीदवारों के लिए उपलब्ध सेवाओं या कार्यक्रमों के प्रकारों का वर्णन कर सकते हैं?
+    - पुनर्वास केंद्रों को छोड़ने वाले व्यक्तियों को अक्सर किन विशिष्ट चुनौतियों या आवश्यकताओं की आवश्यकता होती है?
+    - मिशन युवा इन उम्मीदवारों को समाज में पुन: स्थापित करने और उत्पादक जीवन का नेतृत्व करने में कैसे मदद करता है?
+    - क्या पुनर्वास के बाद के समर्थन के लिए मेंटरशिप या मार्गदर्शन कार्यक्रम हैं?
+    - क्या आप मिशन यूथ द्वारा सहायता प्राप्त उम्मीदवारों के लिए सफलता की कहानियों या परिणामों के उदाहरण साझा कर सकते हैं?
+    - मिशन युवा सहायता मांगने वाले उम्मीदवारों की गोपनीयता और गोपनीयता कैसे सुनिश्चित करता है?
+    - क्या उम्मीदवारों को चल रहे समर्थन और संसाधनों तक पहुंचने के अवसर हैं?
+    - क्या मिशन युवा इस सहायता को सुविधाजनक बनाने के लिए पुनर्वास केंद्रों या संगठनों के साथ सहयोग करता है?
+    - उनके पुनर्वास के बाद उम्मीदवारों की प्रगति और कल्याण की निगरानी के लिए क्या उपाय हैं?
+- intent: Does_Mission_Youth_help_the_candidates_that_are_coming_out_of_rehabilitation_centers_ur
+  examples: |
+    - کیا مشن یوتھ ان امیدواروں کی مدد کرتا ہے جو بحالی مراکز سے نکل رہے ہیں؟
+    - کیا مشن یوتھ ان افراد کو مدد اور مدد فراہم کرتا ہے جو بحالی مراکز سے باہر منتقلی کر رہے ہیں؟
+    - کیا آپ ان امیدواروں کے لئے دستیاب خدمات یا پروگراموں کی اقسام کی وضاحت کرسکتے ہیں؟
+    - بحالی مراکز چھوڑنے والے افراد کو اکثر کون سے مخصوص چیلنجز یا ضروریات کا سامنا کرنا پڑتا ہے؟
+    - مشن کے نوجوان ان امیدواروں کو معاشرے میں دوبارہ شامل ہونے اور نتیجہ خیز زندگی گزارنے میں کس طرح مدد کرتا ہے؟
+    - کیا بحالی کے بعد کی حمایت کے لئے رہنمائی یا رہنمائی کے پروگرام موجود ہیں؟
+    - کیا آپ مشن یوتھ کی مدد سے امیدواروں کے لئے کامیابی کی کہانیوں یا نتائج کی مثالیں بانٹ سکتے ہیں؟
+    - مشن کے نوجوان مدد کے خواہاں امیدواروں کی رازداری اور رازداری کو کیسے یقینی بناتے ہیں؟
+    - کیا امیدواروں کے لئے جاری مدد اور وسائل تک رسائی کے مواقع موجود ہیں؟
+    - کیا مشن یوتھ اس امداد کو آسان بنانے کے لئے بحالی مراکز یا تنظیموں کے ساتھ تعاون کرتا ہے؟
+    - ان کی بحالی کے بعد امیدواروں کی پیشرفت اور فلاح و بہبود کی نگرانی کے لئے کیا اقدامات ہیں؟
+- intent: Does_Mission_Youth_help_in_creating_volunteers_en
+  examples: |
+    - Does Mission Youth help in creating volunteers?
+    - Does Mission Youth actively engage in the creation and development of volunteers?
+    - Can you describe the processes or programs through which Mission Youth fosters volunteerism?
+    - What are the primary objectives and goals of volunteer creation efforts?
+    - How does Mission Youth inspire individuals to become volunteers?
+    - Are there specific areas or causes where volunteers are needed most?
+    - What types of training or preparation are provided to individuals interested in volunteering?
+    - Can you share success stories of volunteers created by Mission Youth and their contributions?
+    - How does Mission Youth measure the impact and effectiveness of its volunteer creation initiatives?
+    - Are there partnerships or collaborations with other volunteer organizations or agencies?
+    - What plans or strategies does Mission Youth have for expanding its volunteer creation efforts?
+- intent: Does_Mission_Youth_help_in_creating_volunteers_hi
+  examples: |
+    - क्या मिशन युवा स्वयंसेवकों को बनाने में मदद करता है?
+    - क्या मिशन युवा सक्रिय रूप से स्वयंसेवकों के निर्माण और विकास में संलग्न हैं?
+    - क्या आप उन प्रक्रियाओं या कार्यक्रमों का वर्णन कर सकते हैं जिनके माध्यम से युवा युवाओं को बढ़ावा देता है?
+    - स्वयंसेवक सृजन प्रयासों के प्राथमिक उद्देश्य और लक्ष्य क्या हैं?
+    - मिशन युवा व्यक्तियों को स्वयंसेवक बनने के लिए कैसे प्रेरित करता है?
+    - क्या ऐसे विशिष्ट क्षेत्र या कारण हैं जहां स्वयंसेवकों की सबसे अधिक आवश्यकता है?
+    - स्वेच्छा से रुचि रखने वाले व्यक्तियों को किस प्रकार का प्रशिक्षण या तैयारी प्रदान की जाती है?
+    - क्या आप मिशन यूथ और उनके योगदान द्वारा बनाई गई स्वयंसेवकों की सफलता की कहानियों को साझा कर सकते हैं?
+    - मिशन युवा अपने स्वयंसेवक निर्माण पहल के प्रभाव और प्रभावशीलता को कैसे मापता है?
+    - क्या अन्य स्वयंसेवी संगठनों या एजेंसियों के साथ साझेदारी या सहयोग हैं?
+    - मिशन युवाओं के पास अपने स्वयंसेवक निर्माण प्रयासों का विस्तार करने के लिए क्या योजनाएं या रणनीतियाँ हैं?
+- intent: Does_Mission_Youth_help_in_creating_volunteers_ur
+  examples: |
+    - کیا مشن یوتھ رضاکاروں کو بنانے میں مدد کرتا ہے؟
+    - کیا مشن کے نوجوان رضاکاروں کی تخلیق اور ترقی میں سرگرم عمل ہیں؟
+    - کیا آپ ان عمل یا پروگراموں کی وضاحت کرسکتے ہیں جس کے ذریعے مشن نوجوان رضاکارانہ خدمات کو فروغ دیتا ہے؟
+    - رضاکارانہ تخلیق کی کوششوں کے بنیادی مقاصد اور اہداف کیا ہیں؟
+    - مشن یوتھ افراد افراد کو رضاکار بننے کی ترغیب کیسے دیتا ہے؟
+    - کیا ایسے مخصوص علاقے یا اسباب ہیں جہاں رضاکاروں کی سب سے زیادہ ضرورت ہے؟
+    - رضاکارانہ خدمات میں دلچسپی رکھنے والے افراد کو کس قسم کی تربیت یا تیاری فراہم کی جاتی ہے؟
+    - کیا آپ مشن یوتھ اور ان کی شراکت کے ذریعہ تخلیق کردہ رضاکاروں کی کامیابی کی کہانیاں بانٹ سکتے ہیں؟
+    - مشن کے نوجوان اپنے رضاکارانہ تخلیق کے اقدامات کے اثرات اور تاثیر کی پیمائش کیسے کرتے ہیں؟
+    - کیا دیگر رضاکار تنظیموں یا ایجنسیوں کے ساتھ شراکت یا تعاون ہے؟
+    - مشن نوجوانوں کے پاس اپنی رضاکارانہ تخلیق کی کوششوں کو بڑھانے کے لئے کیا منصوبے یا حکمت عملی ہیں؟
+- intent: Does_Mission_Youth_assist_in_departmental_convergence_on_eradicating_drug_addiction_en
+  examples: |
+    - Does Mission Youth assist in departmental convergence on eradicating drug addiction?
+    - Does Mission Youth actively participate in efforts to achieve departmental convergence in eradicating drug addiction?
+    - Can you provide insights into the specific strategies or initiatives that promote departmental convergence?
+    - What are the primary objectives and goals of these convergence efforts?
+    - How does Mission Youth facilitate collaboration and coordination among relevant departments and agencies?
+    - Are there specific challenges or issues addressed through departmental convergence on drug addiction?
+    - Can you share examples of successful departmental convergence initiatives led by Mission Youth?
+    - How does Mission Youth measure the impact and effectiveness of its efforts in this area?
+    - Are there partnerships or collaborations with government departments or organizations involved in drug addiction eradication?
+    - What plans or innovations does Mission Youth have for further promoting departmental convergence on this issue?
+    - How does Mission Youth ensure that its initiatives align with broader government policies and priorities related to drug addiction eradication?
+- intent: Does_Mission_Youth_assist_in_departmental_convergence_on_eradicating_drug_addiction_hi
+  examples: |
+    - क्या मिशन यूथ ड्रग की लत को मिटाने पर विभागीय अभिसरण में सहायता करता है?
+    - क्या मिशन युवा सक्रिय रूप से नशीली दवाओं की लत को मिटाने में विभागीय अभिसरण प्राप्त करने के प्रयासों में भाग लेते हैं?
+    - क्या आप विभागीय अभिसरण को बढ़ावा देने वाली विशिष्ट रणनीतियों या पहलों में अंतर्दृष्टि प्रदान कर सकते हैं?
+    - इन अभिसरण प्रयासों के प्राथमिक उद्देश्य और लक्ष्य क्या हैं?
+    - मिशन युवा संबंधित विभागों और एजेंसियों के बीच सहयोग और समन्वय की सुविधा कैसे देता है?
+    - क्या नशीली दवाओं की लत पर विभागीय अभिसरण के माध्यम से संबोधित विशिष्ट चुनौतियां या मुद्दे हैं?
+    - क्या आप मिशन यूथ के नेतृत्व में सफल विभागीय अभिसरण पहल के उदाहरण साझा कर सकते हैं?
+    - मिशन युवा इस क्षेत्र में अपने प्रयासों के प्रभाव और प्रभावशीलता को कैसे मापता है?
+    - क्या ड्रग की लत के उन्मूलन में शामिल सरकारी विभागों या संगठनों के साथ साझेदारी या सहयोग हैं?
+    - इस मुद्दे पर विभागीय अभिसरण को और बढ़ावा देने के लिए मिशन युवाओं के पास क्या योजना या नवाचार हैं?
+    - मिशन युवा कैसे सुनिश्चित करता है कि इसकी पहल व्यापक सरकारी नीतियों और नशीली दवाओं की लत के उन्मूलन से संबंधित प्राथमिकताओं के साथ संरेखित है?
+- intent: Does_Mission_Youth_assist_in_departmental_convergence_on_eradicating_drug_addiction_ur
+  examples: |
+    - کیا مشن یوتھ منشیات کی لت کے خاتمے سے متعلق محکمانہ ہم آہنگی میں مدد کرتا ہے؟
+    - کیا مشن کے نوجوان منشیات کی لت کے خاتمے میں محکمانہ ہم آہنگی کے حصول کی کوششوں میں فعال طور پر حصہ لیتے ہیں؟
+    - کیا آپ ان مخصوص حکمت عملیوں یا اقدامات کے بارے میں بصیرت فراہم کرسکتے ہیں جو محکمانہ ہم آہنگی کو فروغ دیتے ہیں؟
+    - ان ہم آہنگی کی کوششوں کے بنیادی مقاصد اور اہداف کیا ہیں؟
+    - مشن کے نوجوان متعلقہ محکموں اور ایجنسیوں کے مابین باہمی تعاون اور ہم آہنگی کو کس طرح مدد فراہم کرتے ہیں؟
+    - کیا منشیات کی لت سے متعلق محکمانہ کنورجنسی کے ذریعہ مخصوص چیلنجوں یا مسائل کو حل کیا گیا ہے؟
+    - کیا آپ مشن یوتھ کی سربراہی میں کامیاب محکمانہ کنورجنسی اقدامات کی مثالیں بانٹ سکتے ہیں؟
+    - مشن کے نوجوان اس علاقے میں اس کی کوششوں کے اثرات اور تاثیر کی پیمائش کیسے کرتے ہیں؟
+    - کیا سرکاری محکموں یا تنظیموں کے ساتھ شراکت یا تعاون سے منشیات کی لت کے خاتمے میں ملوث ہیں؟
+    - اس مسئلے پر محکمہ جاتی ہم آہنگی کو مزید فروغ دینے کے لئے مشن نوجوانوں کے کیا منصوبے یا بدعات ہیں؟
+    - مشن کے نوجوان کس طرح اس بات کو یقینی بناتے ہیں کہ اس کے اقدامات منشیات کی لت کے خاتمے سے متعلق وسیع تر سرکاری پالیسیوں اور ترجیحات کے ساتھ ہم آہنگ ہوں؟

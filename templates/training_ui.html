@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chatbot Training UI</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        form {
+            width: 50%;
+            margin: 0 auto;
+            border: 1px solid #ccc;
+            padding: 20px;
+        }
+
+        label, input {
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        .example-input {
+            margin-left: 20px;
+            display: block;
+        }
+
+        input[type="submit"] {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+
+        .lower-section{
+margin-left: 20px;
+
+        }
+    </style>
+</head>
+<body>
+    <h1>Chatbot Training UI</h1>
+<form action="/add_training_latest" method="post">
+    <label for="intent">Intent Heading:</label>
+    <input type="text" name="intent" required><br><br>
+
+    <label for="example">Intent Examples:</label>
+    <input type="text" name="example[]" class="example-input" required>
+    <input type="text" name="example[]" class="example-input">
+    <input type="text" name="example[]" class="example-input">
+    <!-- Add more input fields as needed for additional examples -->
+    <button type="button" id="add-example">Add Example</button><br><br> <br>
+
+    <label for="response_heading">Response Heading:</label>
+    <input type="text" name="response_heading" required><br>
+
+    <label for="response_text">Response Text:</label>
+    <input type="text" name="response_text" required><br><br>
+
+    <input type="submit" value="Add Training Data">
+</form>
+
+
+    <script>
+        document.getElementById('add-example').addEventListener('click', function() {
+            var exampleInput = document.createElement('input');
+            exampleInput.type = 'text';
+            exampleInput.name = 'example';
+            exampleInput.className = 'example-input';
+            exampleInput.placeholder = 'Intent Example';
+
+            var addButton = document.getElementById('add-example');
+            addButton.before(exampleInput);
+        });
+    </script>
+</body>
+</html>
